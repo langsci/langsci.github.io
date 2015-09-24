@@ -111,7 +111,7 @@ $(function() {
   
 // lsp data 
 $(function() {
-  filters.forEach(function(lspdata, index){
+  lspdata.forEach(function(obj, index){
     console.log(index);
     for (var key in obj){
 	console.log(key, obj[key]);
