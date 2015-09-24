@@ -114,13 +114,15 @@ $(function() {
   for (i in lspdata){
       console.log(i);
       console.log(lspdata[i]); 
-      $('#datalist').append('<li>'+i+'<div class="lspd" /></li>')      
+      $('#datalist').append('<li>'+i+'<span id="amount'+i+'">'+lspdata[i]+'</span><div class="lspd" /></li>')      
         $( ".lspd" ).slider({
     orientation: "horizontal",
     range: "min",
     max: lspdata[i]*2,
-    value: lspdata[i],
-    slide: refreshSwatch,
+    value: lspdata[i], 
+    slide: function( event, ui ) {
+      $( "#amount-"+i ).val( "$" + ui.value );
+    }
     change: refreshSwatch
   });
   }
