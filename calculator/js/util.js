@@ -67,6 +67,13 @@
   {
    return i * horizontalBarDistance + textXOffset;
   }).attr("y", textYPosition);
+  
+  
+// $( "#amount-seriesstart" ).val(123);
+// $( "#amount-seriesstart" ).text(123);
+// 
+// $( ".lspd" ).on( "slide", function( event, ui ) {console.log(1)} ); 
+// $( ".lspd" ).on( "click", function( event, ui ) {console.log(2)} ); 
  }
  
  
@@ -113,26 +120,31 @@ $(function() {
 $(function() {
   for (i in lspdata){
 /*      console.log(i);
-      console.log(lspdata[i]);*/ 
-      $('#datalist').append('<li>'+i+' <span class="budgetitem" id="amount-'+i+'" value="'+lspdata[i]+'">'+lspdata[i]+'</span><div class="lspd" /></li>')      
-        $( ".lspd" ).slider({
-    orientation: "horizontal",
-    range: "min",
-    max: lspdata[i]*2,
-    value: lspdata[i],
-    slide: function( event, ui, i ) {
-      $( "#amount" ).val( "$" + $( "amount-"+i ).slider( "value" ) );
-    },
-    change: function( event, ui, i ) {
-      $( "#amount" ).val( "$" + $( "amount-"+i ).slider( "value" ) );
-    } 
-  });
+    console.log(lspdata[i]);*/ 
+//     var ID = "amount-"+i
+    $('#datalist').append('<li><span>'+i+' :<span id="spanamount-'+i+'">'+lspdata[i]+'</span> <div class="budgetitem" id="amount-'+i+'" value="'+lspdata[i]+'">'+1+'</div><div class="lspd" /></li>')      
+    $( "#amount-"+i ).slider({
+      orientation: "horizontal",
+      range: "min",
+      max: lspdata[i]*2,
+      value: lspdata[i], 
+      change: function(){	
+	$( this ).siblings( "span" ).html($( this).slider( "value" ));
+// 	$( this ).siblings( "span" ).get(1).append(3)
+      }, 
+//       slide: function(){$( "#"+ID ).text(54);}, 
+    });
   }    
 });
-
-function update(event, ui, i) {
-  
+/*
+function updateCh() {
+$( "#amount-seriesstart" ).text(12);
 }
 
-$( ".lspd" ).on( "slide", function( event, ui ) {console.log(1)} );
-$( ".lspd" ).on( "click", function( event, ui ) {console.log(2)} );
+function updateSl() {
+$( "#amount-seriesstart" ).text(23);
+}*/
+
+
+// $( "#amount-seriesstart" ).click(alert(123))
+
