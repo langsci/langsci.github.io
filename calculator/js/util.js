@@ -120,7 +120,7 @@ $(function() {
     range: "min",
     max: lspdata[i]*2,
     value: lspdata[i], 
-    slide: function( event, ui ) {
+    slide: function( event, ui, i ) {
       $( "#amount-"+i ).val( "$" + ui.value );
     },
     change: function( event, ui ) {
