@@ -111,10 +111,10 @@ $(function() {
   
 // lsp data 
 $(function() {
-  lspdata.forEach(function(obj, index){
-    console.log(index);
-    for (var key in obj){
-	console.log(key, obj[key]);
-    }
-  }); 
+  for (i in lspdata){
+      console.log(i);
+      for (key in lspdata[i]){
+	  console.log( key + ": " + lspdata[i][key]);
+      }
+  }
 });
