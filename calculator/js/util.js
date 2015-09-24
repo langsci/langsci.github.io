@@ -114,6 +114,14 @@ $(function() {
   for (i in lspdata){
       console.log(i);
       console.log(lspdata[i]); 
-      $('#datalist').append('<li>'+i+' '+lspdata[i]+'</li>')      
+      $('#datalist').append('<li>'+i+'<div class="lspd">'+i+' '+lspdata[i]+'</div></li>')      
+        $( ".lspd" ).slider({
+    orientation: "horizontal",
+    range: "min",
+    max: 255,
+    value: 127,
+    slide: refreshSwatch,
+    change: refreshSwatch
+  });
   }
 });
