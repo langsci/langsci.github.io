@@ -133,3 +133,4 @@ $(function() {
 });
 
 $( ".lspd" ).on( "slide", function( event, ui ) {console.log(1)} );
+$( ".lspd" ).on( "click", function( event, ui ) {console.log(2)} );
