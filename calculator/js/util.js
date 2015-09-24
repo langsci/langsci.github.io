@@ -2,7 +2,7 @@
  window.onload = function()
  {
   //Create the SVG graph.
-  var svg = d3.select("#d3svg").append("svg").attr("width", "100%").attr("height", "100%");
+  var svg = d3.select("#d3svg").append("svg").attr("width", "40%").attr("height", "100%");
    
    
    
@@ -122,7 +122,7 @@ $(function() {
     value: lspdata[i], 
     slide: function( event, ui ) {
       $( "#amount-"+i ).val( "$" + ui.value );
-    }
+    },
     change: refreshSwatch
   });
   }
