@@ -114,5 +114,6 @@ $(function() {
   for (i in lspdata){
       console.log(i);
       console.log(lspdata[i]); 
+      $('#datalist').append('<li>'+i+' '+lspdata[i]+'</li>')      
   }
 });
