@@ -112,9 +112,9 @@ $(function() {
 // lsp data 
 $(function() {
   for (i in lspdata){
-      console.log(i);
-      console.log(lspdata[i]); 
-      $('#datalist').append('<li>'+i+'<span id="amount-'+i+'">'+lspdata[i]+'</span><div class="lspd" /></li>')      
+/*      console.log(i);
+      console.log(lspdata[i]);*/ 
+      $('#datalist').append('<li>'+i+' <span class="budgetitem" id="amount-'+i+'" value="'+i+'">'+lspdata[i]+'</span><div class="lspd" /></li>')      
         $( ".lspd" ).slider({
     orientation: "horizontal",
     range: "min",
