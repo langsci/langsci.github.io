@@ -113,8 +113,6 @@ $(function() {
 $(function() {
   for (i in lspdata){
       console.log(i);
-      for (key in lspdata[i]){
-	  console.log( key + ": " + lspdata[i][key]);
-      }
+      console.log(lspdata[i]); 
   }
 });
