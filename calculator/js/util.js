@@ -114,12 +114,12 @@ $(function() {
   for (i in lspdata){
       console.log(i);
       console.log(lspdata[i]); 
-      $('#datalist').append('<li>'+i+'<div class="lspd">'+i+' '+lspdata[i]+'</div></li>')      
+      $('#datalist').append('<li>'+i+'<div class="lspd" /></li>')      
         $( ".lspd" ).slider({
     orientation: "horizontal",
     range: "min",
-    max: 255,
-    value: 127,
+    max: lspdata[i]*2,
+    value: lspdata[i],
     slide: refreshSwatch,
     change: refreshSwatch
   });
