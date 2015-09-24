@@ -122,7 +122,7 @@ $(function() {
 /*      console.log(i);
     console.log(lspdata[i]);*/ 
 //     var ID = "amount-"+i
-    $('#datalist').append('<li><span>'+i+' :<span id="spanamount-'+i+'">'+lspdata[i]+'</span> <div class="budgetitem" id="amount-'+i+'" value="'+lspdata[i]+'">'+1+'</div><div class="lspd" /></li>')      
+    $('#datalist').append('<li><span>'+i+' :<span class="amount" id="spanamount-'+i+'">'+lspdata[i]+'</span> <div class="budgetitem" id="amount-'+i+'" value="'+lspdata[i]+'">'+1+'</div><div class="lspd" /></li>')      
     $( "#amount-"+i ).slider({
       orientation: "horizontal",
       range: "min",
@@ -130,6 +130,11 @@ $(function() {
       value: lspdata[i], 
       change: function(){	
 	$( this ).siblings( "span" ).html($( this).slider( "value" ));
+	var total = 0;
+	$( ".amount").each(function() {
+	  total += Number($(this).html());
+	});	
+	$( "#amount" ).html(total)
 // 	$( this ).siblings( "span" ).get(1).append(3)
       }, 
 //       slide: function(){$( "#"+ID ).text(54);}, 
