@@ -119,15 +119,17 @@ $(function() {
     orientation: "horizontal",
     range: "min",
     max: lspdata[i]*2,
-    value: lspdata[i], 
-    slide: function( event, ui, i ) {
+    value: lspdata[i] 
+/*    slide: function( event, ui, i ) {
       $( "#amount-"+i ).val( "$" + ui.value );
       $( "#amount-"+i ).text( "$" + ui.value ); 
     },
     change: function( event, ui, i ) {
       $( "#amount-"+i ).val( "$" + ui.value );
       $( "#amount-"+i ).text( "$" + ui.value ); 
-    } 
+    }*/ 
   });
-  }
+  }    
 });
+
+$( ".lspd" ).on( "slide", function( event, ui ) {console.log(1)} );
