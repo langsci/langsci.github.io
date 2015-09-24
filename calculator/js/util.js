@@ -120,17 +120,19 @@ $(function() {
     range: "min",
     max: lspdata[i]*2,
     value: lspdata[i] 
-/*    slide: function( event, ui, i ) {
-      $( "#amount-"+i ).val( "$" + ui.value );
-      $( "#amount-"+i ).text( "$" + ui.value ); 
+    slide: function( event, ui, i ) {
+      $( "#amount" ).val( "$" + $( "amount-"+i ).slider( "value" ) );
     },
     change: function( event, ui, i ) {
-      $( "#amount-"+i ).val( "$" + ui.value );
-      $( "#amount-"+i ).text( "$" + ui.value ); 
-    }*/ 
+      $( "#amount" ).val( "$" + $( "amount-"+i ).slider( "value" ) );
+    } 
   });
   }    
 });
+
+function update(event, ui, i) {
+  
+}
 
 $( ".lspd" ).on( "slide", function( event, ui ) {console.log(1)} );
 $( ".lspd" ).on( "click", function( event, ui ) {console.log(2)} );
