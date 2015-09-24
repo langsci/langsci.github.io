@@ -86,3 +86,4 @@ depreciationfurniture = 13, //years
 depreciationIT = 3;
 
 
+// add arbeitszeit
