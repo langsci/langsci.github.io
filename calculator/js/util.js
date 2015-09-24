@@ -119,7 +119,7 @@ $(function() {
     orientation: "horizontal",
     range: "min",
     max: lspdata[i]*2,
-    value: lspdata[i] 
+    value: lspdata[i],
     slide: function( event, ui, i ) {
       $( "#amount" ).val( "$" + $( "amount-"+i ).slider( "value" ) );
     },
