@@ -2,9 +2,7 @@
  window.onload = function()
  {
   //Create the SVG graph.
-  var svgdiv = d3.select("body").append("div");
-  svgdiv.attr("id","svgdiv");
-  var svg = svgdiv.append("svg").attr("width", "50%").attr("height", "50%");
+  var svg = d3.select("#svgdiv").append("svg").attr("width", "100%").attr("height", "100%");
    
    
    
