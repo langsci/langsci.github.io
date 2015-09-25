@@ -1,8 +1,7 @@
 var lspdata = {	
   'seriesstart':10,
   'seriesincrement':2,
-  'booksperseries':3
-}
+  'booksperseries':3,
   // salaries
   'grosssalaryE13':65920,
   'grosssalaryE09':56920,  	
