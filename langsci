@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Catalog</title>
+  <meta name="description" content="High quality, peer reviewed linguistics books" />
+  <meta name="keywords" content="linguistics, open access" />
+  <meta name="generator" content="##common.openMonographPress## 1.1.1.1" />
+  
+  
+  <!-- Base Jquery -->
+      <script src="http://www.google.com/jsapi"></script>
+    <script>
+      // Provide a local fallback if the CDN cannot be reached
+      if (typeof google == 'undefined') {
+        document.write(unescape("%3Cscript src='http://langsci-press.org/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+        document.write(unescape("%3Cscript src='http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+      } else {
+        google.load("jquery", "1.4.4");
+        google.load("jqueryui", "1.8.6");
+      }
+    </script>
+  
+  <!-- UI elements (menus, forms, etc) -->
+  <script src="http://langsci-press.org/lib/pkp/js/lib/superfish/hoverIntent.js"></script>
+  <script src="http://langsci-press.org/lib/pkp/js/lib/superfish/superfish.js"></script>
+
+    <script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.min.js"></script>
+
+      <script src="http://langsci-press.org/lib/pkp/js/lib/plupload/plupload.full.js"></script>
+  <script src="http://langsci-press.org/lib/pkp/js/lib/plupload/jquery.ui.plupload/jquery.ui.plupload.js"></script>
+
+  
+            <link rel="stylesheet" href="http://langsci-press.org/styles/lib.css" type="text/css" />
+          <link rel="stylesheet" href="http://langsci-press.org//$$$call$$$/page/page/css" type="text/css" />
+                <link rel="stylesheet" href="http://langsci-press.org//$$$call$$$/page/page/css?name=langscithemeplugin" type="text/css" />
+                <link rel="stylesheet" href="http://langsci-press.org/public/presses/1/styleSheet.css" type="text/css" />
+      
+  <!-- Constants for JavaScript -->
+  
+<script>
+  jQuery.pkp = jQuery.pkp || { };
+  jQuery.pkp.cons = { };
+    jQuery.pkp.cons.REALLY_BIG_NUMBER = 10000;
+    jQuery.pkp.cons.UPLOAD_MAX_FILESIZE = '500M';
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_PUBLISHED = 0;
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_SUBMISSION = 1;
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_INTERNAL_REVIEW = 2;
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_EXTERNAL_REVIEW = 3;
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_EDITING = 4;
+    jQuery.pkp.cons.WORKFLOW_STAGE_ID_PRODUCTION = 5;
+    jQuery.pkp.cons.LISTBUILDER_SOURCE_TYPE_TEXT = 0;
+    jQuery.pkp.cons.LISTBUILDER_SOURCE_TYPE_SELECT = 1;
+    jQuery.pkp.cons.LISTBUILDER_OPTGROUP_LABEL = 'optGroupLabel';
+    jQuery.pkp.cons.ORDER_CATEGORY_GRID_CATEGORIES_ONLY = 1;
+    jQuery.pkp.cons.ORDER_CATEGORY_GRID_CATEGORIES_ROWS_ONLY = 2;
+    jQuery.pkp.cons.ORDER_CATEGORY_GRID_CATEGORIES_AND_ROWS = 3;
+  </script>
+  <!-- Default global locale keys for JavaScript -->
+  
+<script>
+  jQuery.pkp = jQuery.pkp || { };
+  jQuery.pkp.locale = { };
+      
+        jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Do wish to continue without saving?';
+      
+        jQuery.pkp.locale.common_close = 'Close';
+  </script>
+  <!-- Compiled scripts -->
+      
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.form.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.pnotify.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.roundabout.min.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.sortElements.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.imgpreview.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.equalizer.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.jlabel-1.3.min.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.selectBox.min.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.scrollabletab.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/lib/json/json2.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/functions/general.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/classes/Helper.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/Handler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/RedirectRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/OpenWindowRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/PostAndRedirectRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/NullAction.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/EventAction.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/AjaxRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/linkAction/ModalRequest.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/notification/NotificationHelper.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/Feature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/OrderItemsFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/OrderGridItemsFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/OrderCategoryGridItemsFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/OrderListbuilderItemsFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/OrderMultipleListsItemsFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/GridCategoryAccordionFeature.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/classes/features/PagingFeature.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/controllers/SiteHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/PageHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/TabHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/UploaderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/RangeSliderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/NotificationHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/DropdownHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/ToggleFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/FileUploadFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/MultilingualInputHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/form/reviewer/ReviewerReviewStep3FormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/CategoryGridHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/listbuilder/ListbuilderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/listbuilder/MultipleListsListbuilderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/ModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/ConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/RedirectConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/RemoteActionConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/CallbackConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/ButtonConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/JsEventConfirmationModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/AjaxModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/AjaxLegacyPluginModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modal/WizardModalHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/modals/editorDecision/form/EditorDecisionFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/wizard/WizardHandler.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/controllers/wizard/fileUpload/FileUploadWizardHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/wizard/fileUpload/form/FileUploadFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/wizard/fileUpload/form/RevisionConfirmationHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/tab/settings/form/FileViewFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/tab/settings/announcements/form/AnnouncementSettingsFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/tab/settings/paymentMethod/PaymentMethodHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/header/ContextSwitcherFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/header/HeaderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/admin/ContextsHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/submission/SubmissionTabHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/settings/user/form/UserFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/settings/roles/form/UserGroupFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/files/signoff/form/AddAuditorFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/tab/settings/siteAccessOptions/form/SiteAccessOptionsFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/tab/settings/managementSettings/UsersAndRolesTabHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/dashboard/form/DashboardTaskFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/informationCenter/NotesHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/informationCenter/SignoffNotesHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/statistics/ReportGeneratorFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/submission/SubmissionStep2FormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/submission/SubmissionStep3FormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/workflow/WorkflowHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/workflow/SubmissionHeaderHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/workflow/EditorDecisionsHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/workflow/ProductionHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/reviewer/AdvancedReviewerSearchHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/reviewer/form/LimitFilesFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/reviewer/form/AddReviewerFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/reviewer/form/ReviewerFormFooterHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/reviewer/form/AdvancedSearchReviewerFilterFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/stageParticipant/form/StageParticipantNotifyHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/controllers/grid/users/stageParticipant/form/AddParticipantFormHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/reviewer/ReviewerTabHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/authorDashboard/PKPAuthorDashboardHandler.js"></script>
+<script src="http://langsci-press.org/lib/pkp/js/pages/authorDashboard/SubmissionEmailHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/grid/content/spotlights/form/SpotlightFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/modals/editorDecision/ApproveProofsHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/modals/catalogEntry/form/RepresentativeFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/modals/catalogEntry/form/PublicationFormatMetadataFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/modals/submissionMetadata/MonographlessCatalogEntryHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/modals/expeditedSubmission/form/ExpeditedSubmissionMetadataFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/grid/files/proof/form/ApprovedProofFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/tab/catalogEntry/CatalogEntryTabHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/tab/publicationFormat/PublicationFormatsTabHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/catalog/form/CatalogMetadataFormHandler.js"></script>
+<script src="http://langsci-press.org/js/controllers/monographList/MonographListHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/catalog/CarouselHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/catalog/MonographPublicListHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/manageCatalog/ManageCatalogHeaderHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/manageCatalog/ManageCatalogModalHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/manageCatalog/ManageCatalogSearchFormHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/manageCatalog/MonographManagementListHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/manageCatalog/MonographHandler.js"></script>
+<script src="http://langsci-press.org/js/pages/authorDashboard/AuthorDashboardHandler.js"></script>
+
+<script src="http://langsci-press.org/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>  
+  
+
+    <link rel="stylesheet" type="text/css" media="all" href="http://langsci-press.org/lib/pkp/styles/lib/selectBox/jquery.selectBox.css" />
+
+
+  
+</head><body>
+  <script type="text/javascript">
+    // Initialise JS handler.
+    $(function() {
+      $('body').pkpHandler(
+        '$.pkp.controllers.SiteHandler',
+        {
+                      inlineHelpState: 1,
+                    toggleHelpUrl: 'http://langsci-press.org//user/toggleHelp',
+          toggleHelpOnText: 'Help On',
+          toggleHelpOffText: 'Help Off',
+          
+fetchNotificationUrl: 'http://langsci-press.org//notification/fetchNotification',
+hasSystemNotifications: ''
+        });
+    });
+  </script>
+  <div class="pkp_structure_page">
+    
+    
+<script>
+  // Initialise JS handler.
+  <!--
+  $(function() {
+    $('#headerContainer').pkpHandler(
+      '$.pkp.controllers.UrlInDivHandler',
+      {
+        sourceUrl: 'http://langsci-press.org//$$$call$$$/page/page/header'
+      }
+    );
+  });
+  // -->
+</script>
+
+<div id="headerContainer" class="pkp_structure_head">
+<div class="loading_container">
+  <div class="pkp_helpers_progressIndicator"></div>
+  <span class="message">Loading ...</span>
+</div></div>
+    <div class="pkp_structure_body">
+      <div class="pkp_structure_content">
+        <div class="line">
+                      <script type="text/javascript">
+  $(function() {
+    $('#topSearchFormField').jLabel();
+  });
+</script>
+
+<div class="pkp_structure_search pkp_helpers_align_right">
+  <form id="topSearchForm" action="http://langsci-press.org//catalog/results" method="post">
+    <fieldset>
+      <input id="topSearchFormField" name="query" value="" type="text" title="Search Catalog..." />
+      <button class="go">Go</button>
+    </fieldset>
+  </form>
+</div>                  </div>
+
+        
+
+
+        
+<script>
+  // Initialise JS handler.
+  <!--
+  $(function() {
+    $('#sidebarContainer').pkpHandler(
+      '$.pkp.controllers.UrlInDivHandler',
+      {
+        sourceUrl: 'http://langsci-press.org//$$$call$$$/page/page/sidebar?params='
+      }
+    );
+  });
+  // -->
+</script>
+
+<div id="sidebarContainer">
+<div class="loading_container">
+  <div class="pkp_helpers_progressIndicator"></div>
+  <span class="message">Loading ...</span>
+</div></div>
+
+        <script type="text/javascript">
+          // Attach the JS page handler to the main content wrapper.
+          $(function() {
+            $('div.pkp_structure_main').pkpHandler('$.pkp.controllers.PageHandler');
+          });
+        </script>
+
+        <div class="pkp_structure_main">
+                    
+
+
+
+<script>
+  // Initialise JS handler.
+  <!--
+  $(function() {
+    $('#carousel').pkpHandler(
+      '$.pkp.controllers.UrlInDivHandler',
+      {
+        sourceUrl: 'http://langsci-press.org//$$$call$$$/carousel/carousel/fetch'
+      }
+    );
+  });
+  // -->
+</script>
+
+<div id="carousel">
+<div class="loading_container">
+  <div class="pkp_helpers_progressIndicator"></div>
+  <span class="message">Loading ...</span>
+</div></div>
+
+<script type="text/javascript">
+  // Initialize JS handler.
+  $(function() {
+    $('#monographListContainer').pkpHandler(
+      '$.pkp.pages.catalog.MonographPublicListHandler'
+    );
+  });
+</script>
+<div class="pkp_catalog_monographs" id="monographListContainer">
+      
+    <h2><em>Browse 36 Titles</em></h2>
+      <ul class="pkp_helpers_clear">
+          
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/76">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="New directions in corpus-based translation studies" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=76&amp;random=76577519aea4494" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/76"> New directions in corpus-based translation studies</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Claudio Fantinuoli, Federico Zanettin (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-02-29
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/48">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Natural causes of language: Frames, biases, and cultural transmission" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=48&amp;random=48577519aea5100" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/48"> Natural causes of language</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      N.J. Enfield (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/81">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The future of dialects: Selected papers from  Methods in  Dialectology XV  " src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=81&amp;random=81577519aea5afc" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/81">The future of dialects</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Marie-Hélène Côté, Remco Knooihuizen, John Nerbonne (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-06-29
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/53">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The evolution of grounded spatial language" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=53&amp;random=53577519aea6861" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/53">The evolution of grounded spatial language</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Michael Spranger (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-06-02
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/52">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The evolution of case grammar" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=52&amp;random=52577519aea722f" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/52">The evolution of case grammar</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Remi van Trijp (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-06-27
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/97">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Die Sprachwissenschaft: Ihre Aufgaben, Methoden und bisherigen Ergebnisse" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=97&amp;random=97577519aea7c54" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/97">Die Sprachwissenschaft</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Georg von der Gabelentz (Author); James McElvenny, Manfred Ringmacher (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-04-12
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/94">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Advances in the study of Siouan languages and linguistics" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=94&amp;random=94577519aea8c5f" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/94"> Advances in the study of Siouan languages and linguistics</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Catherine Rudin, Bryan James Gordon (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-18
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/25">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Grammatical theory: From transformational grammar to constraint-based approaches" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=25&amp;random=25577519aea9946" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/25"> Grammatical theory</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Stefan Müller (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-03-15
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/20">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Syntax und Valenz: Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=20&amp;random=20577519aeaa3aa" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/20"> Syntax und Valenz</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Timm Lichte (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-11-02
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/75">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Linguistic variation, identity construction and cognition" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=75&amp;random=75577519aeaadb8" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/75"> Linguistic variation, identity construction and cognition</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Katie K. Drager (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-10-22
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/111">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: A grammar library for information structure" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=111&amp;random=111577519aeab7a9" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/111">Forthcoming: A grammar library for information structure</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Sanghoun Song (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-06-28
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/115">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Order and structure in syntax" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=115&amp;random=115577519aeac18c" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/115">Forthcoming: Order and structure in syntax</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Laura R. Bailey, Michelle Sheehan (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-06-28
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/108">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Eyetracking and applied linguistics" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=108&amp;random=108577519aeacd2b" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/108">Forthcoming: Eyetracking and applied linguistics</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Silvia Hansen-Schirra, Sambor Grucza (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-23
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/106">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Language technologies for a multilingual Europe" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=106&amp;random=106577519aead8de" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/106">Forthcoming: Language technologies for a multilingual Europe</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Georg Rehm, Daniel Stein, Felix Sasaki, Andreas Witt (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-10
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/78">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: A grammar of Papuan Malay" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=78&amp;random=78577519aeae7c4" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/78">Forthcoming: A grammar of Papuan Malay</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Angela Kluge (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-04
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/103">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Annotation, exploitation and evaluation of parallel corpora: Translation: Computation, Corpora, Cognition I" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=103&amp;random=103577519aeaf1a3" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/103">Forthcoming: Annotation, exploitation and evaluation of parallel corpora</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Stella Neumann, Oliver Čulo, Silvia Hansen-Schirra (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-03
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/102">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Crossroads between contrastive linguistics, translation studies and machine translation: Translation: Computation, Corpora, Cognition II" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=102&amp;random=102577519aeafeea" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/102">Forthcoming: Crossroads between contrastive linguistics, translation studies and machine translation</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Oliver Čulo, Silvia Hansen-Schirra (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-05-03
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/22">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The Alor-Pantar languages: History and typology" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=22&amp;random=22577519aeb0b72" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/22">The Alor-Pantar languages</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Marian Klamer (Volume Editor)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-03-03
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/82">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="A grammar of Palula" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=82&amp;random=82577519aeb1568" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/82">A grammar of Palula</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Henrik Liljegren (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-02-26
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/89">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The empirical base of linguistics: Grammaticality judgments and linguistic methodology" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=89&amp;random=89577519aeb1f4a" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/89">The empirical base of linguistics</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Carson T. Schütze (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-02-23
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/91">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Roots of language" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=91&amp;random=91577519aeb2940" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/91"> Roots of language</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Derek Bickerton (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-02-02
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/67">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="A grammar of Mauwake" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=67&amp;random=67577519aeb334d" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/67">A grammar of Mauwake</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Liisa Berghäll (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2016-01-06
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/50">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="How mobile robots can self-organise a vocabulary" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=50&amp;random=50577519aeb3d29" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/50"> How mobile robots can self-organise a vocabulary</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Paul Vogt (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-12-14
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/88">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Thoughts on grammaticalization" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=88&amp;random=88577519aeb4a0e" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/88"> Thoughts on grammaticalization</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Christian Lehmann (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-12-08
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/66">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="A grammar of Yakkha" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=66&amp;random=66577519aeb5405" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/66">A grammar of Yakkha</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Diana Schackow (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-11-18
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/51">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Language strategies for the domain of colour" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=51&amp;random=51577519aeb5dee" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/51"> Language strategies for the domain of colour</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Joris Bleys (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-11-12
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/16">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Prosodic detail in Neapolitan Italian" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=16&amp;random=16577519aeb67e7" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/16"> Prosodic detail in Neapolitan Italian</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Francesco Cangemi (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-10-12
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/85">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: A grammar of Pichi" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=85&amp;random=85577519aeb71f2" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/85">Forthcoming: A grammar of Pichi</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Kofi Yakpo (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-09-14
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/83">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: A grammar of Yauyos Quechua" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=83&amp;random=83577519aeb7c98" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/83">Forthcoming: A grammar of Yauyos Quechua</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Aviva Shimelman (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-30
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/19">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Adjective attribution" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=19&amp;random=19577519aeb8692" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/19">Forthcoming: Adjective attribution</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Michael Rießler (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-25
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/17">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="A grammar of Pite Saami" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=17&amp;random=17577519aeb9072" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/17">A grammar of Pite Saami</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Joshua Wilbur (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/73">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Grammaticalization in the North: Noun phrase morphosyntax in Scandinavian vernaculars" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=73&amp;random=73577519aeb9a64" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/73"> Grammaticalization in the North</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Östen Dahl (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/49">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="The Talking Heads experiment: Origins of words and meanings" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=49&amp;random=49577519aeba490" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/49">The Talking Heads experiment</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Luc L. Steels (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/18">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="A typology of marked-S languages" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=18&amp;random=18577519aebaec6" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/18">A typology of marked-S languages</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Corinna Handschuh (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/46">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Einführung in die grammatische Beschreibung des Deutschen" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=46&amp;random=46577519aebb8ed" />  </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/46"> Einführung in die grammatische Beschreibung des Deutschen</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Roland Schäfer (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-08-24
+  </div>
+</li>         
+<li class="pkp_catalog_monograph  pkp_helpers_text_center">
+  <a href="http://langsci-press.org//catalog/book/27">
+    
+    <img class="pkp_catalog_monograph_thumbnail pkp_helpers_container_center" height="100" width="106" alt="Forthcoming: Grammaire des constructions elliptiques: Une étude comparative des phrases sans verbe en roumain et en français" src="http://langsci-press.org//$$$call$$$/submission/cover/thumbnail?submissionId=27&amp;random=27577519aebc395" /> </a>
+  <div class="pkp_catalog_monographDetails">
+    <div class="pkp_catalog_monographTitle"><a href="http://langsci-press.org//catalog/book/27">Forthcoming: Grammaire des constructions elliptiques</a></div>
+    <div class="pkp_catalog_monograph_authorship pkp_helpers_clear">
+      Gabriela Bîlbîie (Author)
+    </div>
+  </div>
+  <div class="pkp_catalog_monograph_date">
+      2015-03-12
+  </div>
+</li>       </ul>
+  </div>
+
+</div><!-- pkp_structure_main -->
+</div><!-- pkp_structure_content -->
+</div><!-- pkp_structure_body -->
+
+<div class="pkp_structure_foot">
+
+<div class="pkp_structure_subfoot">
+    <div class="pkp_structure_content">
+    <a href="http://langsci-press.org//about/aboutThisPublishingSystem"><img class="pkp_helpers_align_right" alt="Open Monograph Press" src="http://langsci-press.org/templates/images/omp_brand.png"/></a>
+    <a href="http://pkp.sfu.ca/omp"><img class="pkp_helpers_align_right pkp_helpers_clear" alt="Public Knowledge Project" src="http://langsci-press.org/lib/pkp/templates/images/pkp_brand.png"/></a>
+  </div><!-- pkp_structure_content -->
+  <div class="pkp_structure_content">
+        
+    <link rel="stylesheet" href="http://langsci-press.org/plugins/generic/shariff/shariff.min.css" type="text/css" />
+    <div class="shariff" data-lang="en"
+    data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;googleplus&quot;,&quot;info&quot;]"  
+    data-backend-url="http://langsci-press.org/shariff-backend" 
+    data-theme="standard" 
+    data-url="http://langsci-press.org">
+    </div> 
+    <script src="http://langsci-press.org/plugins/generic/shariff/shariff.complete.js"></script>
+  </div><!-- pkp_structure_content -->
+</div><!-- pkp_structure_subfoot -->
+
+</div><!-- pkp_structure_foot -->
+
+</div><!-- pkp_structure_page -->
+
+
+</body>
+</html>
