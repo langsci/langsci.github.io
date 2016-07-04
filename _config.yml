@@ -2,7 +2,7 @@
 name: Sample Jekyll Blog
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: This is a sample Jekyll Blog.
+description: This is a saaaample Jekyll Blog.
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Your Name
@@ -38,3 +38,7 @@ paginate: 3
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+collections:
+  books:
+    output: true
