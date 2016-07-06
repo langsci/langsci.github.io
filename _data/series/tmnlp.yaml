@@ -1,15 +1,33 @@
-name: African Language Grammars and Dictionaries
+name: Translation and Multilingual Natural Language Processing
 members:
-  78:
-        bookid: 78
-        title: A dictionary and grammatical outline of Chakali
-        author: Jonathan A. Brindle
+  76:
+        bookid: 76
+        title: New directions in corpus-based translation studies
+        author: Claudio Fantinuoli & Federico Zanettin
         editedvolume: 0 
-        booktitle: A dictionary and grammatical outline of Chakali
+        booktitle: New directions in corpus-based translation studies
         booksubtitle:  a 
-        seriesnumber: -1
-        blurb: This book is the first comprehensive monograph dedicated to Chakali, a Southwestern Grusi language spoken by less than 3500 people in northwest Ghana. The dictionary offers a consistent description of word meaning and provides the basis for future research in the linguistic area. It is also designed to provide an inventory of correspondence with English usage in a reversal index. The concepts used in the dictionary are explained in a grammar outline, which is of interest to specialists in Gur and Grusi linguistics, as well as any language researchers working in this part of the world.
-        authorbio: tbd
+        seriesnumber: 1
+        blurb: Corpus-based translation studies has become a major paradigm and research methodology and has investigated a wide variety of topics in the last two decades. 
+        authorbio: Claudio Fantinuoli is Senior Lecturer at the Johannes Gutenberg University Mainz in Germersheim. His research and teaching areas include corpus-based translation and interpreting studies as well as information management for translators and interpreters. 
+        isbns: 978-3-944675-83-1 
+        doi: 10.17169/langsci.b76.64 
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: http://langsci-press.org//catalog/book/www.amazon.co.uk/New-directions-corpus-based-translation-studies/dp/3944675754
+        bod: http://www.bod.de/buch/fantinuoli-claudio/new-directions-in-corpus-based-translation-studies/9783944675749.html
+        publicationdate: 2015-05-28 
+  102:
+        bookid: 102
+        title: Crossroads between contrastive linguistics, translation studies and machine translation
+        author: Oliver Čulo & Silvia Hansen-Schirra
+        editedvolume: 1 
+        booktitle: Crossroads between contrastive linguistics, translation studies and machine translation
+        booksubtitle:  TC3 II 
+        seriesnumber: 3
+        blurb: Contrastive Linguistics (CL), Translation Studies (TS) and Machine Translation (MT) have common grounds: They all work at the crossroad where two or more languages meet. 
+        authorbio: Oliver Čulo currently holds an Assistant Professor ("Juniorprofessor") position for Translation-relevant Linguistics at the Translation Faculty at Mainz University. 
         isbns: 978-3-000000-00-0 
         doi: tbd
         proofreaders:  tbd

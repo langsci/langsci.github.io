@@ -1,20 +1,20 @@
 name: African Language Grammars and Dictionaries
-members:
-  78:
-        bookid: 78
-        title: A dictionary and grammatical outline of Chakali
-        author: Jonathan A. Brindle
+members:  
+  20:
+        bookid: 20
+        title: Syntax und Valenz
+        author: Timm Lichte
         editedvolume: 0 
-        booktitle: A dictionary and grammatical outline of Chakali
-        booksubtitle:  a 
-        seriesnumber: -1
-        blurb: This book is the first comprehensive monograph dedicated to Chakali, a Southwestern Grusi language spoken by less than 3500 people in northwest Ghana. The dictionary offers a consistent description of word meaning and provides the basis for future research in the linguistic area. It is also designed to provide an inventory of correspondence with English usage in a reversal index. The concepts used in the dictionary are explained in a grammar outline, which is of interest to specialists in Gur and Grusi linguistics, as well as any language researchers working in this part of the world.
-        authorbio: tbd
-        isbns: 978-3-000000-00-0 
-        doi: tbd
+        booktitle: Syntax und Valenz
+        booksubtitle:  Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken
+        seriesnumber: 1
+        blurb: Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse. 
+        authorbio: Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer. 
+        isbns: 978-3-944675-51-0 
+        doi: 10.17169/langsci.b20.102 
         proofreaders:  tbd
         typesetters:   tbd
         illustrators:  tbd
-        createspace: tbd
-        bod: tbd
-        publicationdate: forthcoming
+        createspace: http://www.amazon.de/dp/3944675517
+        bod: https://www.bod.de/buch/timm-lichte/syntax-und-valenz/9783944675626.html
+        publicationdate: 2015-11-04 
