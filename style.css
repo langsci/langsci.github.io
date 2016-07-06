@@ -155,18 +155,19 @@ section address {
     background-color: #fff;
 }
 
-#catalogtable td,#catalogtable th{
-  text-align: right;
+#catalogtable td,#catalogtable th{ 
   padding: 5px;
 }
 
-#catalogtable img{
-  width:100px;
+
+#catalogtable td {
+  text-align: right; 
 }
 
-#catalogtable tr{
-  padding: 5px;
+#catalogtable th{
+  text-align: center;
 }
+
 
 
 .jumbotron{

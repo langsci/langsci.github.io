@@ -46,8 +46,8 @@ title: Home
         <img src="resources/img/{{ dbook[1].bookid }}.png" >
         <div class="linkwrapper">
             <div class="booklink"> <a href=""><img src="resources/img/pdf.jpeg"/><a> </div>
-            <div class="booklink"> <a href=""><img src="resources/img/amazon.png"/><a> </div>
-            <div class="booklink"> <a href=""><img src="resources/img/bod.jpg"/><a></div>
+            <div class="booklink"> <a href="{{ dbook[1].createspace }}"><img src="resources/img/amazon.png"/><a> </div>
+            <div class="booklink"> <a href="{{ dbook[1].bod }}"><img src="resources/img/bod.jpg"/><a></div>
         <div>
       </td>
       <td> {{ dbook[1].bookid }} </td>
