@@ -148,7 +148,7 @@ section address {
 }
 
 #catalogtable tr:nth-child(even) {
-    background-color: #eee;
+    background-color: #fcfcfc;
 }
 
 #catalogtable tr:nth-child(odd) {
@@ -174,8 +174,8 @@ section address {
 }
 
 thead{
-  border-top: 2px solid blue;
-  border-bottom: 3px double green;
+  border-top: 2px solid #005678;
+  border-bottom: 3px double #005678;
   font-size: 120%;
 }
 
@@ -187,4 +187,7 @@ thead{
   float:left;
   display:inline-block;
   width:25px;
+  border: 1px solid gray;
+  border-radius:2px;
+  padding:2px;
 }
