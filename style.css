@@ -2,7 +2,7 @@ body {
     font-size: 12px;
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
-    background: #005678;
+    background: #d0ecf6;
     padding-left: 50px;
     padding-right: 20%;
 }
@@ -167,3 +167,9 @@ section address {
 #catalogtable tr{
   padding: 5px;
 }
+
+
+.jumbotron{
+  background: #005678;
+}
+  
