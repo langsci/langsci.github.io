@@ -2,7 +2,7 @@ body {
     font-size: 12px;
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
-    background: #d0ecf6;
+    background: #005678;
     padding-left: 50px;
     padding-right: 20%;
 }
@@ -77,7 +77,7 @@ nav {
 nav a,
 nav a:visited,
 nav a:active {
-    color: blue;
+    color: #005678;
 }
 
 nav a:hover {
@@ -155,8 +155,9 @@ section address {
     background-color: #fff;
 }
 
-#catalogtable td{
+#catalogtable td,#catalogtable th{
   text-align: right;
+  padding: 5px;
 }
 
 #catalogtable img{
