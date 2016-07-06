@@ -1,21 +1,74 @@
-name: Studies in Laboratory Phonology
+name: African Language Grammars and Dictionaries
 members:
-  16:
-        bookid: 16
-        title: Prosodic detail in Neapolitan Italian
-        author: Francesco Cangemi 
+  88:
+        bookid: 88
+        title: Thoughts on grammaticalization
+        author: Christian Lehmann
         editedvolume: 0 
-        booktitle: Prosodic detail in Neapolitan Italian
-        booksubtitle:  a
-        series:  Studies in Laboratory Phonology
-        seriesnumber: 1
-        blurb: Recent findings on phonetic detail have been taken as supporting exemplar-based approaches to prosody. Through four experiments on both production and perception of both melodic and temporal detail in Neapolitan Italian, we show that prosodic detail is not incompatible with abstractionist approaches either. Specifically, we suggest that the exploration of prosodic detail leads to a refined understanding of the relationships between the richly specified and continuous varying phonetic information on one side, and coarse phonologically structured contrasts on the other, thus offering insights on how pragmatic information is conveyed by prosody.
-        authorbio: Francesco Cangemi (1983) studied Literature and Philology in Naples and Zurich, completing his undergraduate studies with a dissertation on vowel systems in southern Italian dialects. After receiving his PhD in Linguistics from Aix-Marseille University with a thesis on underspecification in prosodic categories, he is currently working as a post-doc researcher in Cologne, focussing on the encoding and decoding of linguistic prominence. 
-        isbns: 978-3-944675-01-5 
-        doi: 10.17169/FUDOCS_document_000000020994
-        proofreaders:  a
-        typesetters:   a
-        illustrators:  a
-        createspace: http://www.amazon.co.uk/Prosodic-detail-Neapolitan-Italian-Laboratory/dp/3944675819/
-        bod: http://www.bod.de/buch/francesco-cangemi/prosodic-detail-in-neapolitan-italian/9783944675800.html
-        publicationdate: 2014-11-13 
+        booktitle: Thoughts on grammaticalization
+        booksubtitle:  a 
+        seriesnumber: -1
+        blurb:  Thoughts on grammaticalization was first published in a working-paper version in 1982 and became very influential immediately, even though it was properly published only in 1995. 
+        authorbio: Christian Lehmann is Emeritus Professor of General and Comparative Linguistics at the University of Erfurt, Germany. 
+        isbns: 978-3-946234-05-0 
+        doi: 10.17169/langsci.b88.98 
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: http://www.amazon.co.uk/Thoughts-grammaticalization-1-Classics-Linguistics/dp/3946234070
+        bod: http://www.bod.de/buch/christian-lehmann/-thoughts-on-grammaticalization/9783946234067.html
+        publicationdate: 2015-12-08 
+  91:
+        bookid: 91
+        title: Roots of language
+        author: Derek Bickerton
+        editedvolume: 0 
+        booktitle: Roots of language
+        booksubtitle:  a 
+        seriesnumber: -1
+        blurb:  Roots of language was originally published in 1981 by Karoma Press (Ann Arbor). 
+        authorbio: Derek Bickerton is Emeritus Professor of Linguistics at the University of Hawaii. He has carried out extensive research into creole languages in Guyana, Hawaii and the Seychelles. In recent years he has written extensively on the evolution of language. His publications include Dynamics of a creole system (1975), Language and species (1990), Language and human behavior (1995) and Adam’s tongue (2008). He has also co-edited volumes on the evolution of syntax (2009) and protolanguage (2010). 
+        isbns: 978-3-946234-08-1 
+        doi: 10.17169/langsci.b91.109 
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: http://www.amazon.co.uk/Roots-Language-3-Classics-Linguistics/dp/3946234100
+        bod: https://www.bod.de/buch/derek-bickerton/roots-of-language/9783946234098.html
+        publicationdate: 2016-02-03 
+  89:
+        bookid: 89
+        title: The empirical base of linguistics
+        author: Carson T. Schütze
+        editedvolume: 0 
+        booktitle: The empirical base of linguistics
+        booksubtitle:  a 
+        seriesnumber: -1
+        blurb:  Throughout much of the history of linguistics, grammaticality judgments – intuitions about the well-formedness of sentences – have constituted most of the empirical base against which theoretical hypothesis have been tested. 
+        authorbio: Carson T. Schütze is Professor of Linguistics at the University of California, Los Angeles. He has done research in syntax, first language acquisition, and (human) language processing, as well as in linguistic methodology, on which he has (co-)authored ten encyclopedia/handbook chapters and review articles.
+        isbns: 978-3-946234-02-9 
+        doi: 10.17169/langsci.b89.100 
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: http://www.amazon.co.uk/empirical-base-linguistics-Grammaticality-methodology/dp/3946234046?tag=wwwlangscip03-21
+        bod: https://www.bod.de/buch/carson-schuetze/the-empirical-base-of-linguistics/9783946234036.html
+        publicationdate: 2016-02-23 
+  97:
+        bookid: 97
+        title: Die Sprachwissenschaft
+        author: Georg von der Gabelentz 
+        editedvolume: 0 
+        booktitle: Die Sprachwissenschaft
+        booksubtitle:  a 
+        seriesnumber: -1
+        blurb:  Die Sprachwissenschaftis the magnum opus of the German sinologist and linguist Georg von der Gabelentz (1840-1893), a late 19th-century representative of the Humboldtian tradition of linguistic research. 
+        authorbio: Georg von der Gabelentz (1840–1893) war von 1878 bis 1889 Professor für Ostasiatische Sprachen an der Universität Leipzig und ab 1889 bis zu seinem Tod im Jahr 1893 Professor für Sinologie und allgemeine Sprachwissenschaft an der Universität Berlin. 
+        isbns: 978-3-946234-34-0 
+        doi: 10.17169/langsci.b97.143
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: http://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=gabelentz+sprachwissenschaft+%22language+science+press%22
+        bod: http://www.bod.de/buch/georg-von-der-gabelentz/die-sprachwissenschaft/9783946234357.html
+        publicationdate: 2016-04-12 

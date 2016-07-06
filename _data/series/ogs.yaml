@@ -1,21 +1,20 @@
-name: Studies in Laboratory Phonology
+name: African Language Grammars and Dictionaries
 members:
-  16:
-        bookid: 16
-        title: Prosodic detail in Neapolitan Italian
-        author: Francesco Cangemi 
+  78:
+        bookid: 78
+        title: A dictionary and grammatical outline of Chakali
+        author: Jonathan A. Brindle
         editedvolume: 0 
-        booktitle: Prosodic detail in Neapolitan Italian
-        booksubtitle:  a
-        series:  Studies in Laboratory Phonology
-        seriesnumber: 1
-        blurb: Recent findings on phonetic detail have been taken as supporting exemplar-based approaches to prosody. Through four experiments on both production and perception of both melodic and temporal detail in Neapolitan Italian, we show that prosodic detail is not incompatible with abstractionist approaches either. Specifically, we suggest that the exploration of prosodic detail leads to a refined understanding of the relationships between the richly specified and continuous varying phonetic information on one side, and coarse phonologically structured contrasts on the other, thus offering insights on how pragmatic information is conveyed by prosody.
-        authorbio: Francesco Cangemi (1983) studied Literature and Philology in Naples and Zurich, completing his undergraduate studies with a dissertation on vowel systems in southern Italian dialects. After receiving his PhD in Linguistics from Aix-Marseille University with a thesis on underspecification in prosodic categories, he is currently working as a post-doc researcher in Cologne, focussing on the encoding and decoding of linguistic prominence. 
-        isbns: 978-3-944675-01-5 
-        doi: 10.17169/FUDOCS_document_000000020994
-        proofreaders:  a
-        typesetters:   a
-        illustrators:  a
-        createspace: http://www.amazon.co.uk/Prosodic-detail-Neapolitan-Italian-Laboratory/dp/3944675819/
-        bod: http://www.bod.de/buch/francesco-cangemi/prosodic-detail-in-neapolitan-italian/9783944675800.html
-        publicationdate: 2014-11-13 
+        booktitle: A dictionary and grammatical outline of Chakali
+        booksubtitle:  a 
+        seriesnumber: -1
+        blurb: This book is the first comprehensive monograph dedicated to Chakali, a Southwestern Grusi language spoken by less than 3500 people in northwest Ghana. The dictionary offers a consistent description of word meaning and provides the basis for future research in the linguistic area. It is also designed to provide an inventory of correspondence with English usage in a reversal index. The concepts used in the dictionary are explained in a grammar outline, which is of interest to specialists in Gur and Grusi linguistics, as well as any language researchers working in this part of the world.
+        authorbio: tbd
+        isbns: 978-3-000000-00-0 
+        doi: tbd
+        proofreaders:  tbd
+        typesetters:   tbd
+        illustrators:  tbd
+        createspace: tbd
+        bod: tbd
+        publicationdate: forthcoming
