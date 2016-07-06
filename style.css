@@ -172,4 +172,19 @@ section address {
 .jumbotron{
   background: #005678 !important;
 }
-  
+
+thead{
+  border-top: 2px solid blue;
+  border-bottom: 3px double green;
+  font-size: 120%;
+}
+
+.linkwrapper{
+  width:100%;
+}
+
+.booklink{
+  float:left;
+  display:inline-block;
+  width:25px;
+}
