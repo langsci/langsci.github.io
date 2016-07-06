@@ -1,4 +1,4 @@
-name: African Language Grammars and Dictionaries
+name: Computational Models of Language Evolution
 members:
   49:
         bookid: 49
@@ -39,7 +39,7 @@ members:
   51:
         bookid: 51
         title: Language strategies for the domain of colour
-        author: v
+        author: Joris Bleys
         editedvolume: 0 
         booktitle: Language strategies for the domain of colour
         booksubtitle:  a 
