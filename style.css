@@ -146,3 +146,19 @@ section address {
 .more {
     margin-left: 80%;
 }
+
+#catalogtable tr:nth-child(even) {
+    background-color: #eee;
+}
+
+#catalogtable tr:nth-child(even) {
+    background-color: #fff;
+}
+
+#catalogtable td{
+  text-align: right;
+}
+
+#catalogtable tr{
+  padding: 5px;
+}

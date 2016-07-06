@@ -6,7 +6,7 @@ console.log('hello world!');
   $(document).ready(function() 
   { 
 //     alert(234)
-    $("#myTable").tablesorter(); 
+    $("#catalogtable").tablesorter(); 
 //     alert(5)
   } 
   ); 
