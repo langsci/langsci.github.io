@@ -151,7 +151,7 @@ section address {
     background-color: #eee;
 }
 
-#catalogtable tr:nth-child(even) {
+#catalogtable tr:nth-child(odd) {
     background-color: #fff;
 }
 
