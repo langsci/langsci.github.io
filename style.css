@@ -191,3 +191,7 @@ thead{
   border-radius:2px;
   padding:2px;
 }
+
+.booklink img{
+  width:80%;
+}
