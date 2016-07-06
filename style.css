@@ -159,6 +159,10 @@ section address {
   text-align: right;
 }
 
+#catalogtable img{
+  width:100px;
+}
+
 #catalogtable tr{
   padding: 5px;
 }
