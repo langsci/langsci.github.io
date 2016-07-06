@@ -28,11 +28,13 @@ title: Home
 <table id="myTable" class="tablesorter">
 <thead>
 <tr>
+<th></th>
 <th>ID</th>
 <th>Title</th>
 <th>Author</th>
 <th>Series</th>
 <th>Number</th>
+<th>Date</th>
 </tr>
 </thead>
 <tbody> 
@@ -40,11 +42,13 @@ title: Home
 {% assign ss = ss_hash[1] %} 
 {% for dbook in ss.members %} 
     <tr>
-      <td>{{ dbook[1].bookid }}</td>
+      <td> <img src="resources/img/{{ dbook[1].bookid }}.png" width="200"></td>
+      <td> {{ dbook[1].bookid }} </td>
       <td>{{ dbook[1].title }}</td>
       <td>{{ dbook[1].author }}</td>
       <td>{{ ss.name }}</td>
       <td> {{ dbook[1].seriesnumber  }}</td>
+      <td> {{ dbook[1].publicationdate  }}</td>
     </tr>
       {% endfor %} 
       {% endfor %} 
