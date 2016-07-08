@@ -3,8 +3,8 @@ body {
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
     background: #d0ecf6;
-    padding-left: 50px;
-    padding-right: 20%;
+/*     padding-left: 50px; */
+/*     padding-right: 20%; */
 }
 
 body>header h1>a {
@@ -161,7 +161,7 @@ section address {
 
 
 #catalogtable td {
-  text-align: right; 
+  text-align: left; 
 }
 
 #catalogtable th{
@@ -188,8 +188,7 @@ thead{
 .booklink {
     border: 1px solid #ccc;
     border-radius: 6px;
-    display: inline-block;
-    float: left;
+    display: inline-block; 
     margin-top: 1px;
     padding: 2px;
     width: 25px;
@@ -201,4 +200,16 @@ thead{
 
 .leadcover{
  width:100px; 
+}
+
+td.bookidcell, th.bookidcell{
+  display:none;
+}
+
+td.yearcell{
+  text-align:right !important;
+}
+
+.myjumbotron{
+  background:red;
 }

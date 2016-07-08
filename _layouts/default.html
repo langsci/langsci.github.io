@@ -15,137 +15,79 @@
         <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello.css">
         <link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/animation.css">
         <!--[if IE 7]><link rel="stylesheet" href="{{site.baseurl}}/resources/fontello/css/fontello-ie7.css"><![endif]-->
-        <script type="text/javascript" charset="utf8" src="./jquery-3.0.0.js"></script>
+        
+        <script src="./jquery-2.1.4.js"></script>
+<!--         <script type="text/javascript" charset="utf8" src="./jquery-3.0.0.js"></script> -->
         <script type="text/javascript" charset="utf8" src="./jquery.tablesorter.js"></script>
-<!--         <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.css"> -->
-<!--         <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script> -->
+        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
+        <script type="text/javascript" charset="utf8" src="./jquery.dataTables.js"></script>
 
 <!-- Bootstrap -->
     <meta charset="utf-8"> 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">    <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">  
-    <link href="jumbotron.css" rel="stylesheet">
+<!--     <link href="jumbotron.css" rel="stylesheet"> -->
+<!--     <link href="jumbotron-narrow.css" rel="stylesheet"> -->
  <!-- end Bootstrap -->
 
 
     </head>
 
     <body>
-
-
-    <nav class="navbar navbar-inverse navbar-fixed-top" style="display:none;">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar">Books</span>
-            <span class="icon-bar">Series</span>
-            <span class="icon-bar">Guidelines</span>
-          </button>
-          <a class="navbar-brand" href="#">{{ site.name }}</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <!--<form class="navbar-form navbar-right">
-            <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
-          </form>-->
-        </div><!--/.navbar-collapse -->
-      </div>
-    </nav>
-
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
-      <div class="container">
-<!--         <h1>Hello, world!</h1> -->
+      <div class="container"> 
 <!--         <p>{{ site.description }}</p> -->
 
         <img width="182" height="96" alt="Page Header Logo" src="http://langsci-press.org/public/presses/1/pageHeaderLogoImage_en_US.png" />
-
+ 
 <!--         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
       </div>
     </div>
 
-    <div class="container">
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-2">
-        <nav>
-
-            <h3>First Heading</h3>
- 
-            <ul class="sf-menu sf-js-enabled sf-shadow">
-            <li>
-            <a href="http://langsci-press.org//catalog" class="pkp_helpers_underline">Books</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//series">Series</a>
-            </li>
-            <li>
-            <a class="sf-with-ul">Guidelines 
-            <span class="sf-sub-indicator">»</span></a>
-            <ul class="displaynonevisibilityhidden">
-            <li>
-            <a href="http://langsci-press.org//forAuthors">For Authors</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//forEditors">For Editors</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//forReaders">For Readers</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//forLibrarians">For Librarians</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//templatesAndTools">Templates</a>
-            </li>
-            </ul>
-            </li>
-            <li>
-            <a class="sf-with-ul">Information 
-            <span class="sf-sub-indicator">»</span></a>
-            <ul class="displaynonevisibilityhidden">
-            <li>
-            <a href="http://langsci-press.org//about">About</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/support">Support us</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/advisoryBoard">Advisory board</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/supporters">Supporters</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/hallOfFame">Hall of fame</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/contact">Contact</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/editorialPolicies">Editorial policies</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/sponsorship">Sponsors</a>
-            </li>
-            <li>
-            <a href="http://langsci-press.org//about/imprint">Imprint</a>
-            </li>
-            </ul>
-            </li>
-            <li>
-            <a href="http://userblogs.fu-berlin.de/langsci-press/">Blog</a>
-            </li>
-            </ul>  
-        </nav>
-        </div>
+    <div class="container"> 
+      <div class="row"> 
+        <div class="col-md-2">  
+              <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collaborator" aria-expanded="false" aria-controls="collapseExample" >
+                <span class="icon-bar">_</span>
+                <span class="icon-bar">_</span>
+                <span class="icon-bar">_</span>
+                </button>   
+            <div class="collapse navbar-collapse" id="collaborator">
+              <div class="panel-heading"> </div>
+              <ul class="nav nav-stacked">
+                <li class="active"><a href="#"> </a></li>
+                <li>  <a href="http://langsci-press.org/catalog">Books</a> </li>
+                <li>  <a href="http://langsci-press.org/series">Series</a> </li>
+                <li>  <a>Guidelines                 <span class="sf-sub-indicator">»</span></a>
+                  <ul>
+                    <li>  <a href="http://langsci-press.org/forAuthors">For Authors</a> </li>
+                    <li>  <a href="http://langsci-press.org/forEditors">For Editors</a> </li>
+                    <li>  <a href="http://langsci-press.org/forReaders">For Readers</a> </li>
+                    <li>  <a href="http://langsci-press.org/forLibrarians">For Librarians</a> </li>
+                    <li>  <a href="http://langsci-press.org/templatesAndTools">Templates</a> </li>
+                  </ul>
+                </li>  
+                <li> <a>Information <span class="sf-sub-indicator">»</span></a>
+                  <ul>
+                    <li>  <a href="http://langsci-press.org/about">About</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/support">Support us</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/advisoryBoard">Advisory board</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/supporters">Supporters</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/hallOfFame">Hall of fame</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/contact">Contact</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/editorialPolicies">Editorial policies</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/sponsorship">Sponsors</a> </li>
+                    <li>  <a href="http://langsci-press.org/about/imprint">Imprint</a> </li>
+                  </ul>
+                </li> 
+                <li> <a href="http://userblogs.fu-berlin.de/langsci-press/">Blog</a> </li>         
+              </ul> 
+            </div><!-- /.navbar-collapse --> 
+        </div><!--/end left column-->
+        
+       
         <div class="col-md-10">
           {{ content }}
        </div> 
@@ -160,7 +102,7 @@
         <div class="pkp_structure_foot">
         <div class="pkp_structure_subfoot">
         <div class="pkp_structure_content">
-        <a href="http://langsci-press.org//about/aboutThisPublishingSystem">
+        <a href="http://langsci-press.org/about/aboutThisPublishingSystem">
         <img src="http://langsci-press.org/templates/images/omp_brand.png" alt="Open Monograph Press" class="pkp_helpers_align_right" />
         </a>
         <a href="http://pkp.sfu.ca/omp">
@@ -204,9 +146,9 @@
   <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-<!--     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+<!--     <script src="./jquery-2.1.4.js"></script> -->
 <!--     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script> -->
-<!--    <script src="bootstrap.min.js"></script>-->
+   <script src="bootstrap.min.js"></script>
   </body>
 
 </html>
