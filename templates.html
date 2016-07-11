@@ -1,0 +1,78 @@
+---
+layout: default
+title: Templates
+---
+
+
+<div class="pkp_structure_main" style="max-width: 760px;">
+  <h2 class="title_left">Templates and tools</h2>
+  <div class="LSP">
+    <div class="LangSciPages">
+      <h3 class="langsci">Download templates</h3>
+      <div>
+        <ul>
+          <li>
+            <span title="PDF" class="sprite pdf"></span>
+            <a href="/public/downloads/LangSci_Guidelines.pdf">Guidelines for style and formatting</a>
+          </li>
+          <li>
+            <span title="PDF" class="sprite pdf"></span>
+            <a href="/public/downloads/LangSci_Guidelines_Proofreaders.pdf">Guidelines for proofreaders</a>
+          </li>
+          <li>
+            <span title="PDF" class="sprite pdf"></span>
+            <a href="http://www.eva.mpg.de/fileadmin/content_files/staff/haspelmt/pdf/GenericStyleRules.pdf">Generic Style Rules for Linguistics</a>
+          </li>
+          <li>
+          <a href="/public/downloads/skeleton.zip">Latex-skeleton for monographs</a>. Download, unzip and open lsp-skeleton.tex</li>
+          <li>
+          <a href="/public/downloads/edskeleton.zip">Latex-skeleton for edited volumes</a>. Download, unzip and open lsp-edskeleton.tex</li>
+          <li>
+          <a href="/public/downloads/skeletonnofonts.zip">Latex-skeleton without fonts</a>. Download, unzip and open lsp-skeletonnofonts.tex</li>
+          <li>
+            <a href="/public/downloads/langsci-template-MS.dotx">Template for MS Word</a>
+          </li>
+          <li>
+            <a href="/public/downloads/langsci-template-OO.ott">Template for LibreOffice/OpenOffice</a>
+          </li>
+          <li>get the 
+          <a href="/public/downloads/LinLibertineTTF_5.3.0_2012_07_02.tgz">Libertine fonts</a></li>
+        </ul>
+      </div>
+      <h3 class="langsci">Online resources</h3>
+      <div>
+        <ul>
+          <li>
+            <a href="https://www.overleaf.com/latex/templates/language-science-press-template-2-dot-1/rykvhgwwvmzd">Overleaf template for monographs</a>
+          </li>
+          <li>
+            <a href="https://www.overleaf.com/latex/templates/language-science-press-template-2-dot-1-edited-volumes/dxfqwympmgxk">Overleaf template for edited volumes</a>
+          </li>
+        </ul>
+      </div>
+      <h3 class="langsci">Tools</h3>
+      <div>
+        <h4>1. Converter</h4>
+        <p>Convert MS Word or Libre Office files to LaTeX. Choose a Word or LibreOffice file (doc, docx, odt).</p>
+        <div class="content">
+          <form enctype="multipart/form-data" method="post" action="http://www.glottotopia.org/doc2tex/result">
+            <p>
+              <input type="file" name="docfile" class="LSPconverterButtonBrowse" />
+              <input type="submit" class="LSPconverterButtonSubmit" />
+            </p>
+          </form>
+        </div>
+        <br />
+        <h4>2. Sanity check</h4>
+        <p>Check whether your manuscript meets our formal criteria. Choose a tex, bib or zip file.</p>
+        <form enctype="multipart/form-data" method="post" action="http://glottotopia.org/doc2tex/sanitycheck">
+          <p>
+            <input type="file" size="50" name="texbibzip" class="LSPconverterButtonBrowse" />
+            <input type="submit" class="LSPconverterButtonSubmit" />
+          </p>
+        </form>
+        <br />
+      </div>
+    </div>
+  </div>
+</div>

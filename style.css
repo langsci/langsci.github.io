@@ -213,3 +213,13 @@ td.yearcell{
 .myjumbotron{
   background:red;
 }
+
+#coverimg {
+  float: right;
+  padding: 0 20px 20px 20px;
+  width: 30%;
+}
+
+#coverimg img{
+  width:100%;
+}
