@@ -1,0 +1,89 @@
+---
+layout: default 
+permalink: /serie/:title
+---
+ 
+
+{% assign s = site.data.series[page.title]%}
+  
+
+<h1> {{ s.name }} </h1>   
+  
+<h3> Editors </h3> 
+<div id="editors">
+ <ul>
+{% for eb in s.editors %} 
+<li> {{eb}} </li>
+{% endfor %}  
+</ul>
+</div> 
+<h3> Aims and scope </h3> 
+<div id="aimsandscope">
+{{s.aimsandscope}} 
+</div> 
+<h3> Editorial board </h3> 
+<div id="editorialboard"> 
+  <ul>
+    {% for eb in s.editorialboard %}
+      <li> {{eb}} </li>
+    {% endfor %}  
+  </ul>
+  </div> 
+  <h3> Languages </h3> 
+  <div id="languages">
+  {{s.languages}} 
+  </div> 
+  <h3> Contact </h3> 
+  <div id="contact">
+  {{s.contact}} 
+  </div> 
+<h3> ISSN </h3> 
+<div id="issn">
+{{s.issn}} 
+</div>  
+
+<table id="catalogtable" class="tablesorter">
+<thead>
+<tr>
+<th></th>
+<th class="bookidcell">ID</th>
+<th>Title</th> 
+<th>Number</th> 
+<th class="yearcell">Year</th>
+</tr>
+</thead>
+<tbody> 
+
+{% for m_hash in s.members %}
+{% assign b = m_hash[1] %}  
+
+<tr>
+  <td>
+    <img src="/resources/img/{{ b.bookid }}.png" class="leadcover">
+    <div class="linkwrapper">
+      <div class="booklink"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
+      <div class="booklink"> <a href="{{ b.createspace }}"><img src="/resources/img/amazon.png"/><a> </div>
+      <div class="booklink"> <a href="{{ b.bod }}"><img src="/resources/img/bod.jpg"/><a></div>
+    <div>
+  </td>
+  <td class="bookidcell"> {{ b.bookid }} </td>
+  <td>
+    <div class="title"> {{ b.title }} </div>
+    <div class="author"> {{ b.author }} </div>
+  </td>
+  <td>
+<!--   <span class="series">{{ s.acronym }}</span> -->
+  <span class="seriesnumber">{{ b.seriesnumber }}</span>
+  </td>
+  <td class="yearcell"> 
+  {% assign tmp = b.publicationdate | split: '-' %}
+  {{ tmp[0]  }}
+  </td>
+</tr>
+{% endfor %}  
+</tbody>
+</table>
+
+ 
+
+</div>

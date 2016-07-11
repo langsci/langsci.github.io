@@ -1,0 +1,60 @@
+---
+layout: default 
+permalink: /book/:title
+---
+
+{% assign book = site.data.series[page.bookseries].members[page.bookid]%}
+
+<h1> {{ book.title }} </h1>
+<h2> {{ book.subtitle }} </h2>
+<h4> 
+  <span id="seriestitle"> {{book.series}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
+</h4> 
+<h2> {{ book.author }} </h2>
+
+
+<div id="downloadlinks">
+<span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
+<span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
+<span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
+</div>
+
+<div id="coverimg">
+  <img src="/resources/img/{{page.bookid}}.png">
+  <div id="metadata">
+    <div id="isbns">
+      ISBNs: <span id="doi">{{book.isbns}}</span>
+    </div>
+    <div id="doi">
+      DOI: <span id="doi">{{book.doi}}</span>
+    </div>
+    <div id="publicationdate">
+      Published: <span id="doi">{{book.publicationdate}}</span>
+    </div>
+  </div>
+  <div id="acknowledgements">
+    <div id="proofreaders">
+      {{book.proofreaders}}
+    </div>
+    <div id="typesetters">
+      {{book.typesetters}}
+    </div>
+    <div id="illustrators">
+      {{book.illustrators}}
+    </div> 
+  </div>
+</div> 
+
+<div id="downloadlinks"> 
+</div>
+
+<div id="synopsis">
+<h3> About this book </h3>
+  {{book.blurb}}
+</div> 
+
+<h3> About {{ book.author }} </h3>
+<div id="authorbio">
+  {{book.authorbio}}
+</div> 
+ 
