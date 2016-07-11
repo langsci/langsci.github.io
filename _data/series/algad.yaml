@@ -1,15 +1,12 @@
 name: African Language Grammars and Dictionaries
 acronym: algad
 editors:
-- Stefan Müller (Freie Universität Berlin),
-- Martin Haspelmath (Max Planck Institute for Evolutionary Anthropology, Leipzig)
-aimsandscope: "This se­ries aims to pub­lish high-qual­i­ty textbooks in any area of the language sciences."
-editorialboard: 
-- Claude Hagège (Collège de France)
-- Marianne Mithun (University of California, Santa Barbara)
-- Anatol Stefanowitsch (Freie Universität Berlin)
-- Foong Ha Yap (Hong Kong Polytechnic University)
-contact: 
+-     Adams Bodomo (Chief Editor, University of Vienna),
+-   Ken Hiraiwa (Meiji Gakuin University, Japan)
+-   "Firmin Ahoua (University of Abidjan, Côte d'Ivoire)"
+aimsandscope: "African Languages are still among some of the least documented languages in the world. One of the aims of this series is to contribute to rectifying this state of affairs by focusing on the description, analysis, and documentation of languages within the African continent and contact languages within the African Diaspora. A distinctive aspect of this series is that each contribution is either (i) a comprehensive grammar, along with a (bilingual) lexicon as an appendix or (ii) a comprehensive monolingual or bilingual dictionary along with a sketch of the grammar of the language in question as an appendix. In this way different linguists of different specializations and interests, whether they are descriptive, theoretical linguists or lexicographers, would be given the opportunity to make substantial contributions from their particular area of specialization towards documenting, preserving, and revitalizing African languages. As a second aim, even for African languages that are already quite well documented, our editors will recruit scholars well versed in contemporary linguistic theories and descriptive techniques to write newer and updated grammars of these African languages that have existing grammars, dictionaries and other resources."
+editorialboard: []
+contact: algad@langsci-press.org
 issn: 
 members:
   74:
