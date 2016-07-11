@@ -1,5 +1,35 @@
 name: Open Generative Syntax 
-acronym: ogs
+acronym: ogs 
+editors:
+-      Elena Anagnostopoulou (University of Crete)
+-  Mark Baker (Rutgers University)
+-  Roberta D’Alessandro (Leiden University)
+-  David Pesetsky (MIT)
+-  Susi Wurmbrand (University of Connecticut) 
+aimsandscope: "Syntactic theory is a vibrant and central area of current linguistic research. The series provides a venue for reporting exciting research on any topic that advances our understanding of the syntactic component of the human language faculty from a broadly generative perspective. Volumes accepted for the series may vary widely in format, ambition, perspective, and subject matter. The series is open to studies focusing on topics in comparative syntax, formal syntax, and interfaces with syntax. A contribution to the series might report, for example, discoveries about the syntax of a particular language or language family, proposals concerning the formal properties of the syntactic component as a whole, typological questions advancing theories of syntax, experimental investigations that bear on issues of importance to the overall theory of syntax, and more. What unites the series is a commitment to the development of syntactic theory and a constructive engagement with current substantive debates in the field."
+editorialboard: 
+-      Artemis Alexiadou (Humboldt University Berlin)
+-  Rajesh Bhatt (UMass Amherst)
+-  Jonathan D. Bobaljik (University of Connecticut)
+-  Jessica Coon (McGill University)
+-  Caterina Donati (University Paris Diderot-Paris 7)
+-  Ángel Gallego (Autònoma University Barcelona)
+-  Vera Gribanova (Stanford University)
+-  Claire Halpert (University of Minnesota)
+-  Heidi Harley (University of Arizona)
+-  Caroline Heycock (University of Edinburgh)
+-  Winfried Lechner (University of Athens)
+-  Terje Lohndal (Norwegian University of Science and Technology)
+-  James McCloskey (UCSC)
+-  Jason Merchant (University of Chicago)
+-  Shigeru Miyagawa (MIT)
+-  Omer Preminger (University of Maryland)
+-  Ian Roberts (University of Cambridge)
+-  Lisa Travis (McGill University)
+-  George Walkden (University of Manchester)
+-  Martina Wiltschko (University of British Columbia)
+issn: 
+languages: We accept submissions in English. 
 members:
   115:
         bookid: 115

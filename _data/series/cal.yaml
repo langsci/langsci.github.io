@@ -1,5 +1,17 @@
 name: Contemporary African Linguistics 
-acronym: cal
+acronym: cal 
+editors:
+-     Lee Bickmore (University at Albany)
+- Akinbiyi Akinlabi (Rutgers University)
+aimsandscope: "The aim of this series is to advance and sustain research on African languages. It will publish at least one annual volume, namely, selected papers from the Annual Conference on African Linguistics (ACAL), beginning with the 45th conference, held in 2014. ACAL has been held every year since 1970 and represents the largest annual gathering of Africa-oriented linguists in the world. The conference provides a forum for the presentation of current research on African languages by scholars from North America, Europe, Africa, and elsewhere. A subset of the presented papers, selected through a strict peer-review process, provides a sampling of research in the field by top current researchers. The series will also publish peer-reviewed compilations and monographs featuring research on other topics in African linguistics as long as no other, more specialized, venue exists within Language Science Press (e.g. African Language Grammars and Dictionaries or Monographs on Comparative Niger-Congo. Submissions to this series can be in either English or French. "
+editorialboard: 
+-      Michael Cahill (SIL)
+- Tucker Childs (Portland University)
+- Laura Downing (University of Gothenburg)
+- Mary Paster (Pomona College)
+- Sharon Rose (University of California, San Diego)
+contact: cal@langsci-press.org
+issn: 
 members:
   201:
         bookid: 201

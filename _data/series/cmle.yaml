@@ -1,5 +1,22 @@
 name: Computational Models of Language Evolution
-acronym: cmle
+acronym: cmle 
+editors:
+-     Luc Steels (Universitat Pompeu Fabra Barcelona)
+- Remi van Trijp (Sony Computer Science Laboratory Paris)   
+aimsandscope: "This series publishes high quality research using computational methods to investigate fundamental questions in the origins and evolution of language, informed by observations from historical linguistics and/or child language development. The series will include new monographs, revised doctoral dissertations, edited volumes, and textbooks.
+  In order to be included in the series, the questions raised must be of relevance to evolutionary linguistics. There must be evidence of a working implementation that ideally can be accessed openly and, if empirical issues are considered, the data must ideally be available to compare them with the proposed models. The text must be of high quality and contain appropriate reference to prior work and the state of the art in the field."
+languages: "We accept proposals in several European languages (Dutch, English, French, German, Italian or Spanish) as well as Chinese and Japanese, but the final book will be published in English."
+editorialboard: 
+- Richard Blythe (Edinburgh University)
+- William Croft (University of New Mexico)
+- Tao Gong (University of Hong Kong)
+- Takashi Hashimoto (Japan Advanced Institute of Science and Technology)
+- Vittorio Loreto (Sapienza University of Rome)
+- Thierry Poibeau (École Normale Supérieure Paris)
+- Andrew Smith (University of Stirling)
+- Freek Van de Velde (University of Leuven)
+contact:  cmle@langsci-press.org
+issn: 2364-7809 
 members:
   49:
         bookid: 49

@@ -1,5 +1,28 @@
 name: Em­pir­i­cal­ly Ori­ent­ed The­o­ret­i­cal Mor­phol­o­gy and Syn­tax 
 acronym: eotms
+editors:
+-  Stefan Müller (Chief Editor, Freie Universität Berlin), 
+-  Berthold Crysmann (CNRS, Paris),
+-  Laura Kallmeyer (University of Düsseldorf)
+aimsandscope: "This se­ries aims to pub­lish high qual­i­ty books that con­tribute to a bet­ter un­der­stand­ing of phe­nom­e­na in mor­phol­o­gy, syn­tax and the inter­play be­tween both. Since the re­cent his­to­ry in lin­guis­tics showed that basic as­sump­tions may change rather quick­ly, the ideal submission to this se­ries is one that sep­a­rates data dis­cus­sion re­sult­ing in pre-the­o­ret­ic gen­er­al­iza­tions and anal­y­sis. Such a sep­a­ra­tion en­sures that pub­lished books will have some value even if the lin­guis­tic frame­work is rad­i­cal­ly changed or be­comes ir­rel­e­vant one day. The sep­a­ra­tion of the de­scrip­tion of the phe­nomenon from the anal­y­sis en­sures that read­ers that are non-ex­perts in more for­mal frameworks will find the books use­ful. Such a separation is not a strict precondition for acceptance in this series, but rather a suggestion. In any case the work should reflect a good understanding of the data and provide some new insights.
+
+The data dis­cus­sion should be the­o­ret­i­cal­ly in­formed: Pos­i­tive and neg­a­tive ex­am­ples ap­pear­ing in the lit­er­a­ture on the phe­nom­e­na discussed should be in­clud­ed in the dis­cus­sion, re­gard­less of the spe­cif­ic frame­work used in the pub­li­ca­tion. Con­tro­ver­sial ex­am­ples ideally are backed up by ex­per­i­men­tal or cor­pus data.
+
+We invite submissions from all frameworks and theoretical schools. Thor­ough for­mal­iza­tion of the kind that is known for example from work in HPSG, LFG, or TAG is not re­quired but is highly wel­come. Work that is backed up by a com­put­er-pro­cess­able im­ple­men­ta­tion is also el­i­gi­ble to be pub­lished in the sub­series Im­ple­ment­ed Gram­mars ."
+editorialboard: 
+- Doug Arnold (University of Essex)
+- Anne Abeillé (Université Paris 7)
+- Miriam Butt (University of Konstanz)
+- Tibor Kiss (Ruhr-Universität Bochum)
+- Detmar Meurers (Eberhard-Karls-Universität Tübingen)
+- Rachel Nordlinger (University of Melbourne)
+- Frank Richter (Eberhard-Karls-Universität Tübingen)
+- Louisa Sadler (University of Essex)
+- Gert Webelhuth (Goethe-Universität Frankfurt am Main)
+- Susi Wurmbrand (University of Connecticut)
+languages: We accept submissions in English, French, and German.
+contact:  eotms@langsci-press.org
+issn:     2366-3529
 members:  
   20:
         bookid: 20

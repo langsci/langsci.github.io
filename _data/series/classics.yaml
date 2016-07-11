@@ -1,5 +1,12 @@
 name: Classics in Linguistics
-acronym: classics
+acronym: classics 
+editors:
+- Stefan Müller (Freie Universität Berlin),
+- Martin Haspelmath (Max Planck Institute for Evolutionary Anthropology, Leipzig)
+aimsandscope: "Every field of linguistics has some classic works which are very influential but which are very hard to obtain these days. Think of works of the grey literature or famous books which have gone out of print. This series republishes these classic works as Open Access in order to allow everybody to profit from the insights. We are happy to consider proposals from authors who would like to republish an influential monograph or a collection of papers. "
+editorialboard: []
+contact: classics@langsci-press.org
+issn:  2366-374X 
 members:
   88:
         bookid: 88
