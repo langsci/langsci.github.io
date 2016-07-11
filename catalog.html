@@ -31,7 +31,7 @@ title: Home
         <div class="author"> {{ dbook[1].author }} </div>
       </td>
       <td>
-        <span class="series">{{ ss.acronym }}</span>
+        <span class="series">{{ ss.acronym| upcase   }}</span>
         <span class="seriesnumber">{{ dbook[1].seriesnumber }}</span>
       </td>
       <td class="yearcell"> 

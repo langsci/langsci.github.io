@@ -1,0 +1,22 @@
+---
+layout: default
+title: Series
+---
+<div> 
+<ul>
+{% for ss_hash in site.data.series %}
+{% assign ss = ss_hash[1] %}  
+<li>
+<div>  
+<!-- {{ss.name}} <a href="/series/{{ss.acronym}}"> view </a> -->
+  {{ss.name}} <a href="/{{ss.acronym}}"> view </a>
+<!--  {{ss.editors}} 
+  {{ss.aimsandscope}}
+  {{ss.editorialboard}}
+  {{ss.contact}}
+  {{ss.issn}}-->
+</div>
+{% endfor %} 
+</li>
+</ul>
+</div>
