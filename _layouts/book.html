@@ -1,6 +1,7 @@
 ---
 layout: default 
-permalink: /book/:title
+<!-- permalink: /book/:bookid -->
+permalink: /:bookid
 ---
 
 {% assign book = site.data.series[page.bookseries].members[page.bookid]%}
@@ -23,8 +24,19 @@ permalink: /book/:title
   <img src="/resources/img/{{page.bookid}}.png">
   <div id="metadata">
     <div id="isbns">
-      ISBNs: <span id="doi">{{book.isbns}}</span>
+      
+      {% for isbn in book.isbns %}
+          {% assign key = isbn[0]%}
+          {% assign value = isbn[1]%}
+          <div>
+          <span class="isbntype">{{key}}</span>:
+          <span class="isbnvalue">{{value}}</span>
+          </div>
+      {% endfor %}  
+
     </div>
+    
+    
     <div id="doi">
       DOI: <span id="doi">{{book.doi}}</span>
     </div>

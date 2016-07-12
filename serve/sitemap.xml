@@ -1,23 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-      <loc>http://yourdomain.com/Meta/2012/03/15/guest-blogs/</loc>
+      <loc>http://langsci-press.org/guest-blogs</loc>
       <lastmod>2012-03-15</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>http://yourdomain.com/Design/2012/02/10/code-snippets/</loc>
+      <loc>http://langsci-press.org/code-snippets</loc>
       <lastmod>2012-02-10</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>http://yourdomain.com/Design/2012/01/19/using-web-icons/</loc>
+      <loc>http://langsci-press.org/using-web-icons</loc>
       <lastmod>2012-01-19</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>http://yourdomain.com/Meta/2012/01/18/hello-world/</loc>
+      <loc>http://langsci-press.org/hello-world</loc>
       <lastmod>2012-01-18</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/tmnlp</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/tbls</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/silp</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/sidl</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/ogs</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/lv</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/eotms</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/cmle</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/classics</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/cfls</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/cal</loc>
+      <lastmod>2000-01-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>http://langsci-press.org/algad</loc>
+      <lastmod>2000-01-01</lastmod>
       <changefreq>never</changefreq>
   </url>
 </urlset>

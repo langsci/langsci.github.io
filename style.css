@@ -1,6 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Arimo);
+
+
 body {
     font-size: 12px;
-    font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+    font-family: Arimo, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
     background: #d0ecf6;
 /*     padding-left: 50px; */
@@ -223,3 +226,4 @@ td.yearcell{
 #coverimg img{
   width:100%;
 }
+
