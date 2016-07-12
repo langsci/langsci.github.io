@@ -45,7 +45,7 @@ title: Hall of Fame
 {% assign sorted = storage|sort%}  
 {%assign index=sorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
 
-<table id="proofreaderHoF">
+<table id="proofreaderHoF" class="HoFtable">
 {%for ignore in  sorted %} 
   {% assign index=index|minus:1 %} 
   <tr>
@@ -99,7 +99,7 @@ title: Hall of Fame
 {% assign sorted = storage|sort%}  
 {%assign index=sorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
 
-<table id="typesetterHoF">
+<table id="typesetterHoF" class="HoFtable">
 {%for ignore in  sorted %} 
   {% assign index=index|minus:1 %} 
   <tr>
@@ -154,7 +154,7 @@ title: Hall of Fame
 {% assign sorted = storage|sort%}  
 {%assign index=sorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
 
-<table id="illustratorHoF">
+<table id="illustratorHoF" class="HoFtable">
 {%for ignore in  sorted %} 
   {% assign index=index|minus:1 %} 
   <tr>
