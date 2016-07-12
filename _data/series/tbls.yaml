@@ -16,6 +16,13 @@ members:
         bookid: 25
         title: Grammatical theory
         author: Stefan Müller
+        creators:
+          authors:
+          - [Stefan, Müller]
+          - [Heinz, Meier]
+          editors:
+          - [Birgit, Schulze]
+          - [Heino, Haselnuß]
         editedvolume: 0 
         booktitle: Grammatical theory
         booksubtitle:  From transformational grammar to constraint-based approaches

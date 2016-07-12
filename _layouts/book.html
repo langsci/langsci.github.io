@@ -11,8 +11,41 @@ permalink: /:bookid
 <h4> 
   <span id="seriestitle"> {{book.series}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
 </h4> 
-<h2> {{ book.author }} </h2>
+ 
 
+{% assign authorlist = '' | split: ' ' %} <!--initialize array-->
+{% for  author in book.creators.authors %}
+  {% assign normalizedauthor = author| join: " " %} 
+  {% assign authorlist = authorlist | push:  normalizedauthor %}
+  {% assign authorsuffix = '(authors)' %}
+  {% if  {{forloop.length}} == 1 %}
+    {% assign authorsuffix = '(author)' %}
+  {% endif %}
+{% else %}
+  {% assign authorsuffix = 'none' %}
+{% endfor %} 
+{% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
+
+
+{% assign editorlist = '' | split: ' ' %} <!--initialize array-->
+{% for  editor in book.creators.editors %}
+  {% assign normalizededitor = editor| join: " " %} 
+  {% assign editorlist = editorlist | push:  normalizededitor %}
+  {% assign editorsuffix = '(editors)' %}
+  {% if  {{forloop.length}} == 1 %}
+    {% assign editorsuffix = '(editor)' %}
+  {% endif %}
+{% else %}
+  {% assign editorsuffix = '' %}
+  {% assign authorsuffix = '' %}
+{% endfor %} 
+{% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
+ 
+ 
+
+<h2> {{ authorstring }} <br /> {{ editorstring }} </h2>
+ 
+ 
 
 <div id="downloadlinks">
 <span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
