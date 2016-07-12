@@ -9,7 +9,7 @@ permalink: /:bookid
 <h1> {{ book.title }} </h1>
 <h2> {{ book.subtitle }} </h2>
 <h4> 
-  <span id="seriestitle"> {{book.series}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
+  <span id="seriestitle"> {{site.data.series[page.bookseries].name}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
 </h4> 
  
 
@@ -22,23 +22,25 @@ permalink: /:bookid
     {% assign authorsuffix = '(author)' %}
   {% endif %}
 {% else %}
-  {% assign authorsuffix = 'none' %}
+  {% assign authorsuffix = '' %}
 {% endfor %} 
-{% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
 
 
 {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
 {% for  editor in book.creators.editors %}
   {% assign normalizededitor = editor| join: " " %} 
   {% assign editorlist = editorlist | push:  normalizededitor %}
-  {% assign editorsuffix = '(editors)' %}
+  {% assign editorsuffix = '(editors)' %} 
   {% if  {{forloop.length}} == 1 %}
-    {% assign editorsuffix = '(editor)' %}
+    {% assign editorsuffix = '(editor)' %} 
   {% endif %}
 {% else %}
-  {% assign editorsuffix = '' %}
-  {% assign authorsuffix = '' %}
+  {% assign editorsuffix = '' %} 
+  {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
 {% endfor %} 
+
+
+{% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
 {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
  
  
@@ -61,9 +63,9 @@ permalink: /:bookid
       {% for isbn in book.isbns %}
           {% assign key = isbn[0]%}
           {% assign value = isbn[1]%}
-          <div>
-          <span class="isbntype">{{key}}</span>:
-          <span class="isbnvalue">{{value}}</span>
+          <div class="isbn">
+            <span class="isbntype">{{key}}</span>:
+            <span class="isbnvalue">{{value}}</span>
           </div>
       {% endfor %}  
 
