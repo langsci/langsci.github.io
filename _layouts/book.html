@@ -50,9 +50,9 @@ permalink: /:bookid
  
 
 <div id="downloadlinks">
-<span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
-<span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
-<span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
+  <span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
+  <span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
+  <span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
 </div>
 
 <div id="coverimg">
@@ -60,6 +60,7 @@ permalink: /:bookid
   <div id="metadata">
     <div id="isbns">
       
+      <h4> ISBNs </h4>
       {% for isbn in book.isbns %}
           {% assign key = isbn[0]%}
           {% assign value = isbn[1]%}
@@ -69,9 +70,9 @@ permalink: /:bookid
           </div>
       {% endfor %}  
 
-    </div>
+    </div> 
     
-    
+      <h4> DOI </h4>
     <div id="doi">
       DOI: <span id="doi">{{book.doi}}</span>
     </div>
@@ -81,13 +82,25 @@ permalink: /:bookid
   </div>
   <div id="acknowledgements">
     <div id="proofreaders">
-      {{book.proofreaders}}
+      <h4> Proofreaders </h4>
+      <ul>
+      {%for pr in book.proofreaders%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div>
     <div id="typesetters">
-      {{book.typesetters}}
+            <h4> Typesetters </h4>
+      <ul>
+      {%for pr in book.typesetters%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div>
     <div id="illustrators">
-      {{book.illustrators}}
+            <h4> Illustrators </h4>
+      <ul>
+      {%for pr in book.illustrators%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div> 
   </div>
 </div> 

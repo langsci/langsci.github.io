@@ -248,3 +248,13 @@ td.yearcell{
 .HoFtable tr:nth-child(even){
  background:#fbfbfb; 
 }
+
+.unbulleted{
+  list-style:none;
+  padding:12px;
+  margin:2px; 
+}
+
+.unbulleted li:nth-child(even) span{
+/*   background:#eee;   */
+}
