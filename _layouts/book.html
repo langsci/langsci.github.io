@@ -1,6 +1,7 @@
 ---
 layout: default 
-permalink: /book/:title
+<!-- permalink: /book/:bookid -->
+permalink: /:bookid
 ---
 
 {% assign book = site.data.series[page.bookseries].members[page.bookid]%}
@@ -8,23 +9,70 @@ permalink: /book/:title
 <h1> {{ book.title }} </h1>
 <h2> {{ book.subtitle }} </h2>
 <h4> 
-  <span id="seriestitle"> {{book.series}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
+  <span id="seriestitle"> {{site.data.series[page.bookseries].name}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
 </h4> 
-<h2> {{ book.author }} </h2>
+ 
 
+{% assign authorlist = '' | split: ' ' %} <!--initialize array-->
+{% for  author in book.creators.authors %}
+  {% assign normalizedauthor = author| join: " " %} 
+  {% assign authorlist = authorlist | push:  normalizedauthor %}
+  {% assign authorsuffix = '(authors)' %}
+  {% if  {{forloop.length}} == 1 %}
+    {% assign authorsuffix = '(author)' %}
+  {% endif %}
+{% else %}
+  {% assign authorsuffix = '' %}
+{% endfor %} 
+
+
+{% assign editorlist = '' | split: ' ' %} <!--initialize array-->
+{% for  editor in book.creators.editors %}
+  {% assign normalizededitor = editor| join: " " %} 
+  {% assign editorlist = editorlist | push:  normalizededitor %}
+  {% assign editorsuffix = '(editors)' %} 
+  {% if  {{forloop.length}} == 1 %}
+    {% assign editorsuffix = '(editor)' %} 
+  {% endif %}
+{% else %}
+  {% assign editorsuffix = '' %} 
+  {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
+{% endfor %} 
+
+
+{% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
+{% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
+ 
+ 
+
+<h2> {{ authorstring }} <br /> {{ editorstring }} </h2>
+ 
+ 
 
 <div id="downloadlinks">
-<span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
-<span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
-<span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
+  <span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
+  <span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
+  <span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
 </div>
 
 <div id="coverimg">
   <img src="/resources/img/{{page.bookid}}.png">
   <div id="metadata">
     <div id="isbns">
-      ISBNs: <span id="doi">{{book.isbns}}</span>
-    </div>
+      
+      <h4> ISBNs </h4>
+      {% for isbn in book.isbns %}
+          {% assign key = isbn[0]%}
+          {% assign value = isbn[1]%}
+          <div class="isbn">
+            <span class="isbntype">{{key}}</span>:
+            <span class="isbnvalue">{{value}}</span>
+          </div>
+      {% endfor %}  
+
+    </div> 
+    
+      <h4> DOI </h4>
     <div id="doi">
       DOI: <span id="doi">{{book.doi}}</span>
     </div>
@@ -34,13 +82,25 @@ permalink: /book/:title
   </div>
   <div id="acknowledgements">
     <div id="proofreaders">
-      {{book.proofreaders}}
+      <h4> Proofreaders </h4>
+      <ul>
+      {%for pr in book.proofreaders%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div>
     <div id="typesetters">
-      {{book.typesetters}}
+            <h4> Typesetters </h4>
+      <ul>
+      {%for pr in book.typesetters%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div>
     <div id="illustrators">
-      {{book.illustrators}}
+            <h4> Illustrators </h4>
+      <ul>
+      {%for pr in book.illustrators%}
+        <li>{{pr}}</li>
+      {%endfor%}
     </div> 
   </div>
 </div> 

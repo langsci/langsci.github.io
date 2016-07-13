@@ -18,7 +18,9 @@ title: Home
     {% for dbook in ss.members %} 
     <tr>
       <td>
-        <img src="/resources/img/{{ dbook[1].bookid }}.png" class="leadcover">
+        <a href="/{{dbook[1].bookid}}">
+          <img src="/resources/img/{{ dbook[1].bookid }}.png" class="leadcover">
+        </a>
         <div class="linkwrapper">
             <div class="booklink"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
             <div class="booklink"> <a href="{{ dbook[1].createspace }}"><img src="/resources/img/amazon.png"/><a> </div>

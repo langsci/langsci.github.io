@@ -16,15 +16,25 @@ members:
         bookid: 25
         title: Grammatical theory
         author: Stefan Müller
+        creators:
+          authors: [Stefan Müller]
+          editors: []
         editedvolume: 0 
         booktitle: Grammatical theory
         booksubtitle:  From transformational grammar to constraint-based approaches
         seriesnumber: 1
         blurb: This book introduces formal grammar theories that play a role in current linguistic theorizing (Phrase Structure Grammar, Transformational Grammar/Government & Binding, Generalized Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-​Driven Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar). 
         authorbio: Stefan Müller studied Computer Science, Computational Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh.
-        isbns: 978-3-944675-21-3 
+        isbns: 
+        - [ISBN-13, 978-3-944675-21-3]
+        - [ISBN-13 hardcover vol. 1, 978-3-946234-29-6]
+        - [ISBN-13 hardcover vol. 2, 978-3-946234-40-1]
+        - [ISBN-13 softcover vol. 1, 978-3-946234-30-2]         
+        - [ISBN-13 softcover vol. 2, 978-3-946234-41-8]
+        - [ISBN-13 softcover-US vol. 1, 978-1-530465-62-0]
+        - [ISBN-13 softcover-US vol. 2, 978-1-523743-82-7]
         doi: 10.17169/langsci.b25.167 
-        proofreaders:  tbd
+        proofreaders:  [Tom, Dick, Harry]
         typesetters:   tbd
         illustrators:  tbd
         createspace: http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=grammatical+theory+stefan+m%C3%BCller
@@ -42,7 +52,7 @@ members:
         authorbio: Roland Schäfer studierte Sprachwissenschaft und Japanologie an der Philipps-Universität Marburg. Er war wissenschaftlicher Mitarbeiter an der Georg-August Universität Göttingen und der Freien Universität Berlin
         isbns: 978-3-944675-53-4 
         doi: 10.17169/FUDOCS_document_000000022241 
-        proofreaders:  tbd
+        proofreaders:  [Mary, Tom, Jane]
         typesetters:   tbd
         illustrators:  tbd
         createspace: http://www.amazon.de/gp/product/394467569X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=394467569X&linkCode=as2&tag=wwwlangscipre-21

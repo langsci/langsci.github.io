@@ -3,48 +3,93 @@
 <html>
     <head>
         <meta charset="utf-8"/>
-        <title> Category: Meta |  Sample Jekyll Blog</title>
+        <title> Category: Meta |  Language Science Press catalog</title>
         <link rel="stylesheet" href="/style.css" />
-        <meta name="description" content="This is a sample Jekyll Blog."/>
-        <meta name="author" content="Your Name"/>
+        <meta name="description" content="This is a saaaample Jekyll Blog."/>
+        <meta name="author" content="Sebastian Nordhoff"/>
         <link rel="author" href="humans.txt"/>
         <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml" />
+
+
 
         <link rel="stylesheet" href="/resources/fontello/css/fontello.css">
         <link rel="stylesheet" href="/resources/fontello/css/animation.css">
         <!--[if IE 7]><link rel="stylesheet" href="/resources/fontello/css/fontello-ie7.css"><![endif]-->
+        
+        <script src="/jquery-2.1.4.js"></script>
+<!--         <script type="text/javascript" charset="utf8" src="/jquery-3.0.0.js"></script> -->
+        <script type="text/javascript" charset="utf8" src="/jquery.tablesorter.js"></script>
+        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
+        <script type="text/javascript" charset="utf8" src="/jquery.dataTables.js"></script>
+
+<!-- Bootstrap -->
+    <meta charset="utf-8"> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">    <!-- Bootstrap core CSS -->
+    <link href="/bootstrap.min.css" rel="stylesheet">  
+<!--     <link href="jumbotron.css" rel="stylesheet"> -->
+<!--     <link href="jumbotron-narrow.css" rel="stylesheet"> -->
+ <!-- end Bootstrap -->
+
+
     </head>
 
     <body>
-        <header>
-            <h1><a href="/">Welcome to Sample Jekyll Blog</a></h1>
-                <h4>This is a sample Jekyll Blog.</h4>
-            <hr />
-        </header>
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container"> 
+<!--         <p>This is a saaaample Jekyll Blog.</p> -->
+                <a href="/">
+        <img width="182" height="96" alt="Page Header Logo" src="http://langsci-press.org/public/presses/1/pageHeaderLogoImage_en_US.png" />
+                           </a>
+<!--         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
+      </div>
+    </div>
 
-        <nav>
-
-            <h3>First Heading</h3>
-
-            <ul>
-                <li><i class="icon-home"></i>   <a href="/">Home</a></li>
-                <li><i class="icon-mail"></i>   <a href="/contact">Contact</a></li>
-                <li><i class="icon-th"></i>     <a href="/archive">Archive</a></li>
-                <li><i class="icon-rss"></i>    <a href="/feed.xml">RSS Feed</a></li>
-            </ul>
-
-            <h3>Second Heading</h3>
-
-            <ul>
-                <li><i class="icon-link"></i>   <a href="#">Link 1</a></li>
-                <li><i class="icon-link"></i>   <a href="#">Link 2</a></li>
-                <li><i class="icon-link"></i>   <a href="#">Link 3</a></li>
-            </ul>
-        </nav>
-
-        <main>
-
-            <div class="post">
+    <div class="container"> 
+      <div class="row"> 
+        <div class="col-md-2">  
+              <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collaborator" aria-expanded="false" aria-controls="collapseExample" >
+                <span class="icon-bar">_</span>
+                <span class="icon-bar">_</span>
+                <span class="icon-bar">_</span>
+                </button>   
+            <div class="collapse navbar-collapse" id="collaborator">
+              <div class="panel-heading"> </div>
+              <ul class="nav nav-stacked">
+                <li class="active"><a href="#"> </a></li>
+                <li>  <a href="/catalog">Books</a> </li>
+                <li>  <a href="/series">Series</a> </li>
+                <li>  <a>Guidelines                 <span class="sf-sub-indicator">»</span></a>
+                  <ul>
+                    <li>  <a href="/guidelinesAuthors">For Authors</a> </li>
+                    <li>  <a href="/guidelinesEditors">For Editors</a> </li>
+                    <li>  <a href="/guidelinesReaders">For Readers</a> </li>
+                    <li>  <a href="/guidelinesLibrarians">For Librarians</a> </li>
+                    <li>  <a href="/templates">Templates</a> </li>
+                  </ul>
+                </li>  
+                <li> <a>Information <span class="sf-sub-indicator">»</span></a>
+                  <ul>
+                    <li>  <a href="/about">About</a> </li>
+                    <li>  <a href="/support">Support us</a> </li>
+                    <li>  <a href="/advisoryboard">Advisory board</a> </li>
+                    <li>  <a href="/supporters">Supporters FIXME</a> </li>
+                    <li>  <a href="/hallOfFame">Hall of fame FIXME</a> </li>
+                    <li>  <a href="/contact">Contact</a> </li>
+                    <li>  <a href="/editorialpolicies">Editorial policies</a> </li>
+                    <li>  <a href="/sponsors">Sponsors</a> </li>
+                    <li>  <a href="/impressum">Impressum</a> </li>
+                  </ul>
+                </li> 
+                <li> <a href="http://userblogs.fu-berlin.de/langsci-press/">Blog</a> </li>         
+              </ul> 
+            </div><!-- /.navbar-collapse --> 
+        </div><!--/end left column-->
+        
+       
+        <div class="col-md-10">
+          <div class="post">
 
     <h2>Category: Meta</h2>
 
@@ -53,13 +98,13 @@
             
             <tr>
                 <td><i class="icon-clock"></i><time datetime="2012-03-15">Mar 15, 2012</time></td>  
-                <td><a href="/Meta/2012/03/15/guest-blogs/">Guest Posts</a></td>
+                <td><a href="/guest-blogs">Guest Posts</a></td>
                 <td><span class="category"><i class="icon-tag"></i> <a href="/Meta/">Meta</a></span></td>
             </tr>
             
             <tr>
                 <td><i class="icon-clock"></i><time datetime="2012-01-18">Jan 18, 2012</time></td>  
-                <td><a href="/Meta/2012/01/18/hello-world/">Hello World!</a></td>
+                <td><a href="/hello-world">Hello World!</a></td>
                 <td><span class="category"><i class="icon-tag"></i> <a href="/Meta/">Meta</a></span></td>
             </tr>
             
@@ -70,15 +115,65 @@
 </div>
 
 
+       </div> 
+      </div>
 
-        </main>
 
+
+ 
+ 
         <footer>
-            <hr />
-            <p>&copy; <time>2012</time> Your Name</p>
+<!-- 
+        <div class="pkp_structure_foot">
+        <div class="pkp_structure_subfoot">
+        <div class="pkp_structure_content">
+        <a href="http://langsci-press.org/about/aboutThisPublishingSystem">
+        <img src="http://langsci-press.org/templates/images/omp_brand.png" alt="Open Monograph Press" class="pkp_helpers_align_right" />
+        </a>
+        <a href="http://pkp.sfu.ca/omp">
+        <img src="http://langsci-press.org/lib/pkp/templates/images/pkp_brand.png" alt="Public Knowledge Project" class="pkp_helpers_align_right pkp_helpers_clear" />
+        </a>
+        </div> 
+        <div class="pkp_structure_content">
+        <div data-url="http://langsci-press.org" data-theme="standard" data-backend-url="http://langsci-press.org/shariff-backend" data-services="[&quot;facebook&quot;,&quot;twitter&quot;,&quot;googleplus&quot;,&quot;info&quot;]" data-lang="en" class="shariff">
+        <ul class="theme-standard orientation-horizontal">
+        <li class="shariff-button facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flangsci-press.org" rel="popup" title="Share on Facebook">
+        <span class="share_text">share</span>
+        <span class="share_count">481</span>
+        </a>
+        </li>
+        <li class="shariff-button twitter">
+        <a href="https://twitter.com/intent/tweet?text=Catalog&amp;url=http://langsci-press.org" rel="popup" title="Share on Twitter">
+        <span class="share_text">tweet</span>
+        </a>
+        </li>
+        <li class="shariff-button googleplus">
+        <a href="https://plus.google.com/share?url=http://langsci-press.org" rel="popup" title="Share on Google+">
+        <span class="share_text">+1</span>
+        <span class="share_count">22</span>
+        </a>
+        </li>
+        <li class="shariff-button info">
+        <a href="http://ct.de/-2467514" target="_blank" title="more information">
+        <span class="share_text">Info</span>
+        </a>
+        </li>
+        </ul>
+        </div>
+        </div> 
+        </div> 
+        </div> 
+        -->
         </footer>
 
-        <script src="/scripts.js"></script>
-    </body>
+        <script src="/scripts.js"></script>    
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+<!--     <script src="./jquery-2.1.4.js"></script> -->
+<!--     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script> -->
+   <script src="bootstrap.min.js"></script>
+  </body>
 
 </html>

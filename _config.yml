@@ -44,3 +44,5 @@ gems: [jekyll-paginate]
 collections:
   books:
     output: true
+    
+array: [3]    #initialization for future usage

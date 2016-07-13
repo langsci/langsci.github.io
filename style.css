@@ -1,6 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Arimo);
+
+
 body {
     font-size: 12px;
-    font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
+    font-family: Arimo, Arial, SunSans-Regular, Sans-Serif;
     color:#564b47;  
     background: #d0ecf6;
 /*     padding-left: 50px; */
@@ -222,4 +225,36 @@ td.yearcell{
 
 #coverimg img{
   width:100%;
+}
+
+.isbn{
+  margin-top:2px;
+}
+
+
+.HoFtable{
+  min-width:200px;
+ border-top: 1px solid gray; 
+ border-bottom: 1px solid gray; 
+}
+
+.HoFtable td{
+/*  border: 1px solid gray;  */
+ text-align:right;
+ width: 50%;
+ padding: 2px;
+}
+
+.HoFtable tr:nth-child(even){
+ background:#fbfbfb; 
+}
+
+.unbulleted{
+  list-style:none;
+  padding:12px;
+  margin:2px; 
+}
+
+.unbulleted li:nth-child(even) span{
+/*   background:#eee;   */
 }
