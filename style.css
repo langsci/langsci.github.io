@@ -185,7 +185,7 @@ thead{
 
 .linkwrapper{
   width:100%;
-  text-align:center;
+  text-align:left;
 }
 
 .booklink {
@@ -195,6 +195,7 @@ thead{
     margin-top: 1px;
     padding: 2px;
     width: 25px;
+    text-align:center;
 }
 
 .booklink img{
@@ -223,8 +224,9 @@ td.yearcell{
   width: 30%;
 }
 
-#coverimg img{
+#coverimg>img{
   width:100%;
+  margin-bottom:5px;
 }
 
 .isbn{
@@ -257,4 +259,66 @@ td.yearcell{
 
 .unbulleted li:nth-child(even) span{
 /*   background:#eee;   */
+}
+
+.chapter {
+  display: inline-block;
+  margin-bottom: 20px;
+  max-width: 50%;
+  line-height: 130%; 
+}
+
+.chapterfirstline{ 
+  font-size: 120%;
+  margin-bottom:1px;
+}
+
+ 
+.chapterid {
+  display: inline-block; 
+  font-size: 3rem;
+  margin-right: 10px;
+  vertical-align: top;
+  width: 30px;
+  padding-top:0px;
+  margin-top:-5px;
+}
+
+.chaptersubtitle{
+  font-size: 0.8em; 
+}
+
+.chapterauthors{
+  font-size: 80%;
+}
+
+.chapterdoi{
+  font-size:80%;
+}
+
+.chapterdownload{
+  display:inline;  
+  vertical-align:bottom;
+/*   float:left; */
+}
+
+.chapterauthormetadatablock{
+/*   min-width:50%; */
+display:inline-block;    
+margin-top: 5px;
+}
+
+
+#topbookblock{
+  font-size:4rem;  
+} 
+
+#booksubtitle {
+  font-size: 3rem;
+  margin-bottom: 10px; 
+}
+
+#creators {
+  font-size: 2rem;
+  margin-bottom: 50px; 
 }

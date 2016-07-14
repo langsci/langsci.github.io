@@ -35,14 +35,21 @@ members:
   81:
         bookid: 81
         title: The future of dialects
-        author: Marie-Hélène Côté, Remco Knooihuizen and John Nerbonne
+        creators:
+          editors: 
+          - [Marie-Hélène, Côté,"Marie-Hélène Côté, Laval/Québec, specializes in phonology and variation in sound patterns. She has worked on several languages, in particular geographical variation in French, in the context of the project Phonologie du français contemporain"]
+          - [Remco, Knooihuizen, "Remco Knooihuizen, Groningen, works on the sociolinguistics language change in situations of language and dialect contact. He has worked on contemporary and historical data sets from languages such as English, Dutch, Frisian and Faroese. "]
+          - [John, Nerbonne, "John Nerbonne, Groningen & Freiburg, applies computational sequence distance measures to dialect pronunciations and also investigates the detection of groups in dialect data and statistics sensitive to both geographic influences and to social conditioning. "]
         editedvolume: 1
         booktitle: The future of dialects
         booksubtitle:  Selected papers from Methods in Dialectology XV  
         seriesnumber: 1
-        blurb: Traditional dialects have been encroached upon by the increasing mobility of their speakers and by the onslaught of national languages in education and mass media. 
-        authorbio: Marie-Hélène Côté, Laval/Québec, specializes in phonology and variation in sound patterns. She has worked on several languages, in particular geographical variation in French, in the context of the project Phonologie du français contemporain
-        isbns: 978-3-946234-18-0 
+        blurb: "Traditional dialects have been encroached upon by the increasing mobility of their speakers and by the onslaught of national languages in education and mass media.
+        Typically, older dialects are “leveling” to become more like national languages. This is regrettable when the last articulate traces of a culture are lost, but it also promotes a complex dynamics of interaction as speakers shift from dialect to standard and to intermediate compromises between the two in their forms of speech. Varieties of speech thus live on in modern communities, where they still function to mark provenance, but increasingly cultural and social provenance as opposed to pure geography. They arise at times from the need to function throughout the different groups in society, but they also may have roots in immigrants’ speech, and just as certainly from the ineluctable dynamics of groups wishing to express their identity to themselves and to the world.
+        
+        The future of dialects is a selection of the papers presented at Methods in Dialectology XV, held in Groningen, the Netherlands, 11-15 August 2014. While the focus is on methodology, the volume also includes specialized studies on varieties of Catalan, Breton, Croatian, (Belgian) Dutch, English (in the US, the UK and in Japan), German (including Swiss German), Italian (including Tyrolean Italian), Japanese, and Spanish as well as on heritage languages in Canada.
+        "
+        isbns: [[digital,978-3-946234-18-0]]
         doi: 10.17169/langsci.b81.78 
         proofreaders:  tbd
         typesetters:   tbd

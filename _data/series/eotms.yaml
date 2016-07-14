@@ -27,14 +27,14 @@ members:
   20:
         bookid: 20
         title: Syntax und Valenz
-        author: Timm Lichte
+        creators:
+          authors: [[Timm, Lichte, "Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer."]]
         editedvolume: 0 
         booktitle: Syntax und Valenz
         booksubtitle:  Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken
         seriesnumber: 1
         blurb: Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse. 
-        authorbio: Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer. 
-        isbns: 978-3-944675-51-0 
+        isbns: [[digital,978-3-944675-51-0 ]]
         doi: 10.17169/langsci.b20.102 
         proofreaders:  tbd
         typesetters:   tbd

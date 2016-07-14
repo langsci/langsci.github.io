@@ -16,6 +16,36 @@ title: Home
     {% for ss_hash in site.data.series %}
     {% assign ss = ss_hash[1] %} 
     {% for dbook in ss.members %} 
+      {% assign book = dbook[1] %}
+      {% assign authorlist = '' | split: ' ' %} <!--initialize array--> 
+      {% for  author in book.creators.authors %}
+        {% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
+        {% assign authorlist = authorlist | push:  normalizedauthor %}
+        {% assign authorsuffix = '(authors)' %}
+        {% if  {{forloop.length}} == 1 %}
+          {% assign authorsuffix = '(author)' %}
+        {% endif %}
+      {% else %}
+        {% assign authorsuffix = '' %}
+      {% endfor %} 
+      
+      {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
+      {% for  editor in book.creators.editors %}
+        {% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
+        {% assign editorlist = editorlist | push:  normalizededitor %}
+        {% assign editorsuffix = '(editors)' %} 
+        {% if  {{forloop.length}} == 1 %}
+          {% assign editorsuffix = '(editor)' %} 
+        {% endif %}
+      {% else %}
+        {% assign editorsuffix = '' %} 
+        {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
+      {% endfor %} 
+      
+      
+      {% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
+      {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
+      {% assign creatorstring = authorstring | append: editorstring %}
     <tr>
       <td>
         <a href="/{{dbook[1].bookid}}">
@@ -23,18 +53,17 @@ title: Home
         </a>
         <div class="linkwrapper">
             <div class="booklink"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
-            <div class="booklink"> <a href="{{ dbook[1].createspace }}"><img src="/resources/img/amazon.png"/><a> </div>
-            <div class="booklink"> <a href="{{ dbook[1].bod }}"><img src="/resources/img/bod.jpg"/><a></div>
+            <div class="booklink"> <a href="{{ dbook[1].createspace }}"><img src="/resources/img/amazon.png"/></a> </div>
+            <div class="booklink"> <a href="{{ dbook[1].bod }}"><img src="/resources/img/bod.jpg"/></a></div>
         <div>
       </td>
       <td class="bookidcell"> {{ dbook[1].bookid }} </td>
       <td>
         <div class="title"> {{ dbook[1].title }} </div>
-        <div class="author"> {{ dbook[1].author }} </div>
+        <div class="author"> {{ creatorstring }} </div>
       </td>
       <td>
-        <span class="series">{{ ss.acronym| upcase   }}</span>
-        <span class="seriesnumber">{{ dbook[1].seriesnumber }}</span>
+        <span class="series">{{ ss.acronym| upcase   }}</span>&nbsp;<span class="seriesnumber">{{ dbook[1].seriesnumber }}</span>
       </td>
       <td class="yearcell"> 
         {% assign tmp = dbook[1].publicationdate | split: '-' %}

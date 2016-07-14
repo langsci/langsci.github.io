@@ -35,14 +35,16 @@ members:
   115:
         bookid: 115
         title: Order and structure in syntax
-        author: Laura R. Bailey & Michelle Sheehan
+        creators:
+          editors:
+            - [Laura R., Bailey, "Laura Bailey is a Lecturer in English Language and Linguistics at the University of Kent. She specialises in cross-linguistic and comparative syntax with a special interest in the left periphery, Latin word order, and non-standard English syntax"]
+            - [Michelle, Sheehan, "Michelle Sheehan is a Senior Lecturer in English Language and Linguistics at Anglia Ruskin University. She specialises in comparative and theoretical syntax with a particular focus on Romance languages. She is co-author of Parametric Variation (2010, CUP) and The Philosophy of Universal Grammar (2013, OUP), and co-editor of Theoretical Approaches to Disharmonic Word Order (2013, OUP). "]
         editedvolume: 1 
-        booktitle: Order and structure in syntax
-        booksubtitle:  a 
+        booktitle: Order and structure in syntax 
         seriesnumber: 1
         blurb: This book reconsiders the role of order and structure in syntax, focusing on fundamental issues such as word order and grammatical functions. 
-        authorbio: Laura Bailey is a Lecturer in English Language and Linguistics at the University of Kent. She specialises in cross-linguistic and comparative syntax with a special interest in the left periphery, Latin word order, and non-standard English syntax
-        isbns: 978-3-000000-00-0 
+        authorbio: 
+        isbns: [[digital,978-3-000000-00-0 ]]
         doi: tbd
         proofreaders:  tbd
         typesetters:   tbd

@@ -17,14 +17,14 @@ members:
         title: Grammatical theory
         author: Stefan Müller
         creators:
-          authors: [Stefan Müller]
+          authors: [[Stefan, Müller," Stefan Müller studied Computer Science, Computational Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh."]]
           editors: []
         editedvolume: 0 
         booktitle: Grammatical theory
         booksubtitle:  From transformational grammar to constraint-based approaches
         seriesnumber: 1
         blurb: This book introduces formal grammar theories that play a role in current linguistic theorizing (Phrase Structure Grammar, Transformational Grammar/Government & Binding, Generalized Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-​Driven Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar). 
-        authorbio: Stefan Müller studied Computer Science, Computational Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh.
+        authorbio:
         isbns: 
         - [ISBN-13, 978-3-944675-21-3]
         - [ISBN-13 hardcover vol. 1, 978-3-946234-29-6]
@@ -43,14 +43,15 @@ members:
   46:
         bookid: 46
         title: Einführung in die grammatische Beschreibung des Deutschen
-        author: Roland Schäfer
+        creators:
+          authors: [[Roland, Schäfer, "Roland Schäfer studierte Sprachwissenschaft und Japanologie an der Philipps-Universität Marburg. Er war wissenschaftlicher Mitarbeiter an der Georg-August Universität Göttingen und der Freien Universität Berlin"]]
         editedvolume: 0 
         booktitle: Einführung in die grammatische Beschreibung des Deutschen
         booksubtitle:  a 
         seriesnumber: 2
         blurb: Einführung in die grammatische Beschreibung des Deutschen ist eine Einführung in die deskriptive Grammatik am Beispiel des gegenwärtigen Deutschen in den Bereichen Phonetik, Phonologie, Morphologie, Syntax und Graphematik. 
-        authorbio: Roland Schäfer studierte Sprachwissenschaft und Japanologie an der Philipps-Universität Marburg. Er war wissenschaftlicher Mitarbeiter an der Georg-August Universität Göttingen und der Freien Universität Berlin
-        isbns: 978-3-944675-53-4 
+        authorbio: 
+        isbns: [[digital,978-3-944675-53-4 ]]
         doi: 10.17169/FUDOCS_document_000000022241 
         proofreaders:  [Mary, Tom, Jane]
         typesetters:   tbd

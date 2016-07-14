@@ -11,14 +11,14 @@ members:
   88:
         bookid: 88
         title: Thoughts on grammaticalization
-        author: Christian Lehmann
+        creators:
+          authors: [[Christian, Lehmann, "Christian Lehmann is Emeritus Professor of General and Comparative Linguistics at the University of Erfurt, Germany. " ]]
         editedvolume: 0 
         booktitle: Thoughts on grammaticalization
         booksubtitle:  a 
         seriesnumber: 1
         blurb:  Thoughts on grammaticalization was first published in a working-paper version in 1982 and became very influential immediately, even though it was properly published only in 1995. 
-        authorbio: Christian Lehmann is Emeritus Professor of General and Comparative Linguistics at the University of Erfurt, Germany. 
-        isbns: 978-3-946234-05-0 
+        isbns: [[digital,978-3-946234-05-0 ]]
         doi: 10.17169/langsci.b88.98 
         proofreaders:  tbd
         typesetters:   tbd
@@ -29,14 +29,14 @@ members:
   91:
         bookid: 91
         title: Roots of language
-        author: Derek Bickerton
+        creators:
+          authors: [[Derek, Bickerton, "Derek Bickerton is Emeritus Professor of Linguistics at the University of Hawaii. He has carried out extensive research into creole languages in Guyana, Hawaii and the Seychelles. In recent years he has written extensively on the evolution of language. His publications include Dynamics of a creole system (1975), Language and species (1990), Language and human behavior (1995) and Adam’s tongue (2008). He has also co-edited volumes on the evolution of syntax (2009) and protolanguage (2010). "]]
         editedvolume: 0 
         booktitle: Roots of language
         booksubtitle:  a 
         seriesnumber: 3
-        blurb:  Roots of language was originally published in 1981 by Karoma Press (Ann Arbor). 
-        authorbio: Derek Bickerton is Emeritus Professor of Linguistics at the University of Hawaii. He has carried out extensive research into creole languages in Guyana, Hawaii and the Seychelles. In recent years he has written extensively on the evolution of language. His publications include Dynamics of a creole system (1975), Language and species (1990), Language and human behavior (1995) and Adam’s tongue (2008). He has also co-edited volumes on the evolution of syntax (2009) and protolanguage (2010). 
-        isbns: 978-3-946234-08-1 
+        blurb:  Roots of language was originally published in 1981 by Karoma Press (Ann Arbor).  
+        isbns: [[digital,978-3-946234-08-1 ]]
         doi: 10.17169/langsci.b91.109 
         proofreaders:  tbd
         typesetters:   tbd
@@ -47,14 +47,14 @@ members:
   89:
         bookid: 89
         title: The empirical base of linguistics
-        author: Carson T. Schütze
+        creators:
+          authors: [[Carson T., Schütze, "Carson T. Schütze is Professor of Linguistics at the University of California, Los Angeles. He has done research in syntax, first language acquisition, and (human) language processing, as well as in linguistic methodology, on which he has (co-)authored ten encyclopedia/handbook chapters and review articles."]]
         editedvolume: 0 
         booktitle: The empirical base of linguistics
         booksubtitle:  a 
         seriesnumber: 2
-        blurb:  Throughout much of the history of linguistics, grammaticality judgments – intuitions about the well-formedness of sentences – have constituted most of the empirical base against which theoretical hypothesis have been tested. 
-        authorbio: Carson T. Schütze is Professor of Linguistics at the University of California, Los Angeles. He has done research in syntax, first language acquisition, and (human) language processing, as well as in linguistic methodology, on which he has (co-)authored ten encyclopedia/handbook chapters and review articles.
-        isbns: 978-3-946234-02-9 
+        blurb:  Throughout much of the history of linguistics, grammaticality judgments – intuitions about the well-formedness of sentences – have constituted most of the empirical base against which theoretical hypothesis have been tested.        
+        isbns: [[digital,978-3-946234-02-9]] 
         doi: 10.17169/langsci.b89.100 
         proofreaders:  tbd
         typesetters:   tbd

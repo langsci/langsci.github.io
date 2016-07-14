@@ -6,16 +6,11 @@ permalink: /:bookid
 
 {% assign book = site.data.series[page.bookseries].members[page.bookid]%}
 
-<h1> {{ book.title }} </h1>
-<h2> {{ book.subtitle }} </h2>
-<h4> 
-  <span id="seriestitle"> {{site.data.series[page.bookseries].name}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
-</h4> 
  
 
 {% assign authorlist = '' | split: ' ' %} <!--initialize array-->
 {% for  author in book.creators.authors %}
-  {% assign normalizedauthor = author| join: " " %} 
+  {% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
   {% assign authorlist = authorlist | push:  normalizedauthor %}
   {% assign authorsuffix = '(authors)' %}
   {% if  {{forloop.length}} == 1 %}
@@ -28,7 +23,7 @@ permalink: /:bookid
 
 {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
 {% for  editor in book.creators.editors %}
-  {% assign normalizededitor = editor| join: " " %} 
+  {% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
   {% assign editorlist = editorlist | push:  normalizededitor %}
   {% assign editorsuffix = '(editors)' %} 
   {% if  {{forloop.length}} == 1 %}
@@ -42,22 +37,32 @@ permalink: /:bookid
 
 {% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
 {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
- 
- 
+{% assign creatorstring = authorstring | append: editorstring %}
 
-<h2> {{ authorstring }} <br /> {{ editorstring }} </h2>
- 
- 
+<div id="topbookblock">
+<div> {{ book.title }} </div>
+{%if book.booksubtitle%}
+  <div id="booksubtitle"> {{ book.booksubtitle }} </div>
+{%endif %}
 
-<div id="downloadlinks">
-  <span id="download"> <a href="{{book.createspace}}"> Download FIXME</a> </span>
-  <span id="createspace"><a href="{{book.createspace}}"> Buy softcover</a> </span>
-  <span id="bod"> <a href="{{book.bod}}"> Buy hardcover </a> </span>
-</div>
+<div id="creators"> {{ creatorstring }} </div>
+ 
+</div> 
+
+
 
 <div id="coverimg">
-  <img src="/resources/img/{{page.bookid}}.png">
+  <img src="/resources/img/{{page.bookid}}.png">  
+  <div class="linekwrapper">
+    <div class="booklink" id="downloadpdf"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
+    <div class="booklink" id="createspace"> <a href="{{book.createspace}}"><img src="/resources/img/amazon.png"/></a> </div>
+    <div class="booklink" id="bod"> <a href="{{book.bod}}"><img src="/resources/img/bod.jpg"/></a></div>
+  </div> 
   <div id="metadata">
+  <h4> Series </h4>
+     <div id="seriesposition">
+        <span id="seriestitle"> {{site.data.series[page.bookseries].name}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
+     </div>
     <div id="isbns">
       
       <h4> ISBNs </h4>
@@ -111,10 +116,55 @@ permalink: /:bookid
 <div id="synopsis">
 <h3> About this book </h3>
   {{book.blurb}}
-</div> 
+  </div> 
+  
+  {%for author in book.creators.authors%} 
+  <h3> About  {{ author[0] }} {{author[1] }} </h3>
+  <div class="creatorbio">
+  {{ author[2] }}
+  </div> 
+  {% endfor %}
+  
+  {%for editor in book.creators.editors%} 
+  <h3> About  {{ editor[0] }} {{editor[1] }} </h3>
+  <div class="creatorbio">
+  {{ editor[2] }}
+  </div> 
+  {% endfor %}
 
-<h3> About {{ book.author }} </h3>
-<div id="authorbio">
-  {{book.authorbio}}
-</div> 
- 
+{%if book.chapters%}
+<h3> Chapters </h3>
+  <div id="chapters">
+    {%for ch_hash in book.chapters%}
+      {%assign chapterid=ch_hash[0]%}
+      {%assign chapter=ch_hash[1]%}
+      <br />
+      <div class="chapterid"> {{ chapterid }} </div> 
+      <div class="chapter">
+        <div class="chapterheading">
+          <div class="chapterfirstline">
+            <div class="chaptertitle"> {{ chapter.title }} </div> 
+            <div class="chaptersubtitle"> {{ chapter.subtitle }} </div>
+          </div>
+        </div>
+        <div class="chapterauthormetadatablock">
+          <div class="chapterauthors">   
+            {% assign chapterauthorlist = '' | split: ' ' %} <!--initialize array-->
+            {% for  chapterauthor in chapter.authors %} 
+              {% assign normalizedchapterauthor = chapterauthor| join: " " %} 
+              {% assign chapterauthorlist = chapterauthorlist | push:  normalizedchapterauthor %}       
+            {% endfor %} 
+            {% assign chapterauthorstring = chapterauthorlist | join:  ', ' %}
+            {{ chapterauthorstring }}
+          </div>
+          <div class="chapterdoi"> DOI:
+            <span> {{ chapter.chapterdoi }} </span>
+          </div> 
+        </div> 
+        <div class="chapterdownload" >
+          <a href="{{ chapter.downloadlink}}"> <img src="/resources/img/pdf.jpeg" width="30px" /></a>
+        </div>
+      </div>
+    {%endfor%} 
+  </div> 
+{%endif%} 

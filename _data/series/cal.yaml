@@ -16,14 +16,16 @@ members:
   201:
         bookid: 201
         title: Proceedings of the 45th Annual Conference on African Linguistics
-        author: Harold Torrence & Jason Kandybowicz
+        creators:
+          authors: 
+          - [Harold, Torrence, ""]
+          - [Jason, Kandybowicz, ""]
         editedvolume: 1 
         booktitle: Proceedings of the 45th Annual Conference on African Linguistics
         booksubtitle:  a 
         seriesnumber: 1
         blurb: tbd
-        authorbio: tbd
-        isbns: 978-3-000000-00-0 
+        isbns: [[digital,978-3-000000-00-0 ]]
         doi: tbd
         proofreaders:  tbd
         typesetters:   tbd
@@ -34,14 +36,18 @@ members:
   202:
         bookid: 202
         title: Proceedings of the 46th Annual Conference on African Linguistics
-        author: Doris Payne, Sara Pacchiarotti & Mokaya Bosire
+        creators:
+          authors:
+          - [Doris, Payne, ""]
+          - [Sara, Pacchiarotti, ""]
+          - [Mokaya, Bosire, ""]
         editedvolume: 1 
         booktitle: Proceedings of the 46th Annual Conference on African Linguistics
         booksubtitle:  a 
         seriesnumber: 2
         blurb: tbd
         authorbio: tbd
-        isbns: 978-3-000000-00-0 
+        isbns: [[digital,978-3-000000-00-0 ]]
         doi: tbd
         proofreaders:  tbd
         typesetters:   tbd

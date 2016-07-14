@@ -24,14 +24,14 @@ members:
   48:
         bookid: 48
         title: Natural causes of language
-        author: N. J. Enfield
+        creators:
+          authors: [[N. J., Enfield, "N. J. Enfield is Professor of Linguistics at the University of Sydney, and a senior staff scientist at the Max Planck Institute, Nijmegen. He has carried out extensive field work in mainland Southeast Asia, especially Laos, working on language, culture, cognition, and social interaction. His books include Ethnosyntax (OUP 2002), Linguistic Epidemiology (Routledge 2003), A Grammar of Lao (Mouton de Gruyter 2007), The Anatomy of Meaning (CUP 2009), Dynamics of Human Diversity (Pacific Linguistics 2011), Relationship Thinking (OUP 2013), The Cambridge Handbook of Linguistic Anthropology (with P Kockelman and J Sidnell, 2014), Languages of Mainland Southeast Asia (with B Comrie, Mouton 2015) and The Utility of Meaning (OUP 2015). He has published over 100 academic articles and reviews. "]]
         editedvolume: 0 
         booktitle: Natural causes of language
         booksubtitle:  Frames, biases, and cultural transmission
         seriesnumber: -1
         blurb: What causes a language to be the way it is? Some features are universal, some are inherited, others are borrowed, and yet others are internally innovated. 
-        authorbio: N. J. Enfield is Professor of Linguistics at the University of Sydney, and a senior staff scientist at the Max Planck Institute, Nijmegen. He has carried out extensive field work in mainland Southeast Asia, especially Laos, working on language, culture, cognition, and social interaction. His books include Ethnosyntax (OUP 2002), Linguistic Epidemiology (Routledge 2003), A Grammar of Lao (Mouton de Gruyter 2007), The Anatomy of Meaning (CUP 2009), Dynamics of Human Diversity (Pacific Linguistics 2011), Relationship Thinking (OUP 2013), The Cambridge Handbook of Linguistic Anthropology (with P Kockelman and J Sidnell, 2014), Languages of Mainland Southeast Asia (with B Comrie, Mouton 2015) and The Utility of Meaning (OUP 2015). He has published over 100 academic articles and reviews. 
-        isbns: 978-3-944675-50-3 
+        isbns: [[digital,978-3-944675-50-3 ]]
         doi: 10.17169/FUDOCS_document_000000021399
         proofreaders:  tbd
         typesetters:   tbd

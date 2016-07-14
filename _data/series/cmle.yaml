@@ -21,14 +21,14 @@ members:
   49:
         bookid: 49
         title: The Talking Heads experiment
-        author: Luc L. Steels 
+        creators:
+          authors: [[Luc L., Steels , "Luc Steels is a pioneer in the use of agent-based models for exploring issues in the origins and evolution of language. "]]
         editedvolume: 0 
         booktitle: The Talking Heads experiment
         booksubtitle:  Origins of words and meanings 
         seriesnumber: 1
         blurb: The Talking Heads Experiment, conducted in the years 1999-2001, was the first large-scale experiment in which open populations of situated embodied agents created for the first time ever a new shared vocabulary by playing language games about real world scenes in front of them. 
-        authorbio: Luc Steels is a pioneer in the use of agent-based models for exploring issues in the origins and evolution of language. 
-        isbns: 978-3-944675-42-8 
+        isbns: [[digital,978-3-944675-42-8 ]]
         doi: 10.17169/FUDOCS_document_000000022455
         proofreaders:  tbd
         typesetters:   tbd
@@ -39,14 +39,13 @@ members:
   50:
         bookid: 50
         title: How mobile robots can self-organise a vocabulary
-        author: Paul Vogt
+        creators:
+          authors: [[Paul, Vogt,  "Paul Vogt is assistant professor at the Tilburg center for Cognition and Communication at Tilburg University, the Netherlands. "]]
         editedvolume: 0 
-        booktitle: How mobile robots can self-organise a vocabulary
-        booksubtitle:  a 
+        booktitle: How mobile robots can self-organise a vocabulary 
         seriesnumber: 2
         blurb: One of the hardest problems in science is the symbol grounding problem, a question that has intrigued philosophers and linguists for more than a century. 
-        authorbio: Paul Vogt is assistant professor at the Tilburg center for Cognition and Communication at Tilburg University, the Netherlands. 
-        isbns: 978-3-944675-43-5 
+        isbns: [[digital, 978-3-944675-43-5 ]]
         doi: 10.17169/langsci.b50.113 
         proofreaders:  tbd
         typesetters:   tbd
@@ -57,14 +56,13 @@ members:
   51:
         bookid: 51
         title: Language strategies for the domain of colour
-        author: Joris Bleys
+        creators:
+          authors: [[Joris, Bleys, "Joris Bleys holds a PhD in Computer Science from the Vrije Universiteit Brussel (VUB) and is an expert in multi-agent systems, cognitive psychology, machine learning and artificial intelligence. He has worked on innovative technologies for Embodied Cognitive Semantics at the VUB, the Sony Computer Science Laboratory Paris, and the University of Plymouth. Currently, Bleys is System Architect at Technicolor (Brussels)."]]
         editedvolume: 0 
-        booktitle: Language strategies for the domain of colour
-        booksubtitle:  a 
+        booktitle: Language strategies for the domain of colour 
         seriesnumber: 3
         blurb: This book presents a major leap forward in the understanding of colour by showing how richer descriptions of colour samples can be operationalized in agent-based models. 
-        authorbio: Joris Bleys holds a PhD in Computer Science from the Vrije Universiteit Brussel (VUB) and is an expert in multi-agent systems, cognitive psychology, machine learning and artificial intelligence. He has worked on innovative technologies for Embodied Cognitive Semantics at the VUB, the Sony Computer Science Laboratory Paris, and the University of Plymouth. Currently, Bleys is System Architect at Technicolor (Brussels).
-        isbns: 978-3-946234-16-6 
+        isbns: [[digital,978-3-946234-16-6 ]]
         doi: 10.17169/langsci.b51.104 
         proofreaders:  tbd
         typesetters:   tbd
@@ -75,14 +73,13 @@ members:
   52:
         bookid: 52
         title: The evolution of case grammar
-        author: Remi van Trijp
+        creators:
+          authors: [[Remi, van Trijp,"tbd"]]
         editedvolume: 0 
-        booktitle: The evolution of case grammar
-        booksubtitle:  a 
+        booktitle: The evolution of case grammar 
         seriesnumber: 4
         blurb: There are few linguistic phenomena that have seduced linguists so skillfully as grammatical case has done. 
-        authorbio: tbd
-        isbns: 978-3-944675-45-9 
+        isbns: [[digital, 978-3-944675-45-9 ]]
         doi: 10.17169/langsci.b52.182 
         proofreaders:  tbd
         typesetters:   tbd
@@ -93,14 +90,13 @@ members:
   53:
         bookid: 53
         title: The evolution of grounded spatial language
-        author: Michael Spranger
+        creators:
+          authors: [[Michael, Spranger, "tbd"]]
         editedvolume: 0 
-        booktitle: The evolution of grounded spatial language
-        booksubtitle:  a 
+        booktitle: The evolution of grounded spatial language 
         seriesnumber: 5
         blurb: This book presents groundbreaking robotic experiments on how and why spatial language evolves. 
-        authorbio: tbd
-        isbns: 978-3-946234-14-2 
+        isbns: [[digital,978-3-946234-14-2 ]]
         doi: 10.17169/langsci.b53.183 
         proofreaders:  tbd
         typesetters:   tbd
