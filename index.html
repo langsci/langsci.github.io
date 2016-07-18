@@ -63,32 +63,38 @@ title: Home
       </div>
     </div>-->
     <div class="additional_content">
-      <div class="lsp-icon-box">
-        <a href="http://dev.langsci-press.org/index.php/langsci-press/catalog">
-        <img alt="read books" src="/resources/img/read.png" class="lsp-icon-box-image" />
-        <br />Read books</a>
-      </div>
-      <div class="lsp-icon-box">
-        <a href="http://dev.langsci-press.org/index.php/langsci-press/about/submissions">
-        <img alt="publish with us" src="/resources/img/present.png" class="lsp-icon-box-image" />
-        <br />Publish with us</a>
-      </div>
-      <div class="lsp-icon-box">
-        <a href="http://dev.langsci-press.org/index.php/langsci-press/supportUs">
-        <img alt="support us" src="/resources/img/support.png" class="lsp-icon-box-image" />
-        <br />Support us</a>
-      </div>
-      <div class="lsp-icon-box">
-        <a href="http://dev.langsci-press.org/index.php/langsci-press/about">
-        <img alt="about the press" src="/resources/img/info.png" class="lsp-icon-box-image" />
-        <br />About us</a>
+      <div class="icon-row">
+        <div class="lsp-icon-box">
+          <a href="/catalog">
+          <img alt="read books" src="/resources/img/read.png" class="lsp-icon-box-image" />
+          <br />Read books</a>
+          </div>
+          <div class="lsp-icon-box">
+            <a href="http://dev.langsci-press.org/index.php/langsci-press/about/submissions">
+            <img alt="publish with us" src="/resources/img/present.png" class="lsp-icon-box-image" />
+            <br />Publish with us</a>
+          </div>
+        </div>
+      <div class="icon-row">
+        <div class="lsp-icon-box">
+          <a href="/support">
+          <img alt="support us" src="/resources/img/support.png" class="lsp-icon-box-image" />
+          <br />Support us</a>
+        </div>
+        <div class="lsp-icon-box">
+          <a href="/about">
+          <img alt="about the press" src="/resources/img/info.png" class="lsp-icon-box-image" />
+          <br />About us</a>
+        </div>
       </div>
     </div>
   </div>
 </div>
 <ul>
-{% for post in site.posts %}
+{% for post in site.posts %} 
+{% if post.layout==post%}
 <li><a href="{{ post.url }}">{{ post.title }}</a> 
 ({{ post.date | date_to_string}})</li>
+{%endif%}
 {% endfor %}
 </ul>
