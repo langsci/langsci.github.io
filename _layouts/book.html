@@ -1,11 +1,12 @@
 ---
-layout: default 
-<!-- permalink: /book/:bookid -->
+layout: default  
 permalink: /:bookid
 ---
-
-{% assign book = site.data.series[page.bookseries].members[page.bookid]%}
-
+{% assign bookseries =  page.bookseries %}
+{% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
+  
+{% assign book = site.data.series[bookseries].books[bookid] %}
+ 
  
 
 {% assign authorlist = '' | split: ' ' %} <!--initialize array-->

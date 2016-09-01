@@ -23,3 +23,19 @@ illustrators:  tbd
 createspace: http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=grammatical+theory+stefan+m%C3%BCller
 bod: http://www.bod.de/shop/suchergebnisse.html?id=4806&tx_frshopplugins_pi6[title]=grammatical+theory&tx_frshopplugins_pi6[author]=&tx_frshopplugins_pi6[isbn]=&tx_frshopplugins_pi6[maincategory]=all&tx_frshopplugins_pi6[subcategory]=
 publicationdate: 2016-03-12 
+versions:
+- "versiontype": "openreview"
+  "title": "Test2 document open review"
+  "authors": 
+  - "name": "Horst Morst"
+  "publishedAt": "2016-08-25T22:00:00.000Z"
+- "versiontype": "proofreading"
+  "title": "Test2 document proofreading"
+  "authors": 
+  - "name": "Horst Morst"
+  "publishedAt": "2016-09-15T00:33:00.000Z"
+- "versiontype": "main"
+  "title": "Test2 document main"
+  "authors": 
+  - "name": "Horst Morst"
+  "publishedAt": "2016-10-25T00:00:44.000Z"
