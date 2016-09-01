@@ -4,19 +4,21 @@ title: Series
 ---
 <div> 
   <ul class="unbulleted">
-    {% for ss_hash in site.data.series  %}
-      {% assign ss = ss_hash[1] %}  
+  {% for ss_hash in site.data.series  %}
+  {% assign metadata = ss_hash[1].metadata %} 
+  {% assign books = ss_hash[1].books %}  
       <li>
         <span>  
-        <!-- {{ss.name}} <a href="/series/{{ss.acronym}}"> view </a> -->
-          {{ss.name}}
-          {%assign count=ss.members|size%} 
+        {{metadata.name}} 
+<!--         <a href="/series/{{metadata.acronym}}"> view </a> -->
+<!--         {{ss.name}} --> 
+        {%assign count=books|size%} 
           {% if count == 1 %} 
             ({{count}} book)
           {% else %} 
             ({{count}} books)  
           {% endif %}
-          <a href="/{{ss.acronym}}"> ➜ </a>
+          <a href="/{{metadata.acronym}}"> ➜ </a>
         </span>
       </li>
     {% endfor %} 

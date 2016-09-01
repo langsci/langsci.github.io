@@ -22,23 +22,4 @@ editorialboard:
 - Susi Wurmbrand (University of Connecticut)
 languages: We accept submissions in English, French, and German.
 contact:  eotms@langsci-press.org
-issn:     2366-3529
-members:  
-  20:
-        bookid: 20
-        title: Syntax und Valenz
-        creators:
-          authors: [[Timm, Lichte, "Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer."]]
-        editedvolume: 0 
-        booktitle: Syntax und Valenz
-        booksubtitle:  Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken
-        seriesnumber: 1
-        blurb: Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse. 
-        isbns: [[digital,978-3-944675-51-0 ]]
-        doi: 10.17169/langsci.b20.102 
-        proofreaders:  tbd
-        typesetters:   tbd
-        illustrators:  tbd
-        createspace: http://www.amazon.de/dp/3944675517
-        bod: https://www.bod.de/buch/timm-lichte/syntax-und-valenz/9783944675626.html
-        publicationdate: 2015-11-04 
+issn:     2366-3529 

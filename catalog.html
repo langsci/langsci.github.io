@@ -15,7 +15,7 @@ title: Home
   <tbody> 
     {% for ss_hash in site.data.series %}
     {% assign ss = ss_hash[1] %} 
-    {% for dbook in ss.members %} 
+    {% for dbook in ss.books %} 
       {% assign book = dbook[1] %}
       {% assign authorlist = '' | split: ' ' %} <!--initialize array--> 
       {% for  author in book.creators.authors %}

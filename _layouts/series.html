@@ -1,16 +1,20 @@
 ---
 layout: default 
-permalink: /serie/:title
+permalink: /series/:title
 ---
- 
-{% assign s = site.data.series[page.title]%}
 
-<h1> {{ s.name }} </h1>   
+{% assign acronym  = page.title %}
+{% assign s = site.data.series[acronym] %}
+{% assign metadata = s.metadata %}
+{% assign books = s.books %} 
+
+ 
+<h1> {{ metadata.name }} </h1>   
   
 <h3> Editors </h3> 
 <div id="editors">
   <ul>
-    {% for eb in s.editors %} 
+  {% for eb in metadata.editors %} 
       <li> {{eb}} </li>
     {% endfor %}  
   </ul>
@@ -18,40 +22,40 @@ permalink: /serie/:title
 
 <h3> Aims and scope </h3> 
 <div id="aimsandscope">
-  {{s.aimsandscope}} 
+{{metadata.aimsandscope}} 
 </div> 
 
-{% if s.editorialboard %}
+{% if metadata.editorialboard %}
   <h3> Editorial board </h3> 
   <div id="editorialboard"> 
     <ul>
-      {% for eb in s.editorialboard %}
+    {% for eb in metadata.editorialboard %}
         <li> {{eb}} </li>
       {% endfor %}  
     </ul>
   </div> 
 {% endif %}
 
-{% if s.languages %}
+{% if metadata.languages %}
   <h3> Languages </h3> 
   <div id="languages">
-    {{s.languages}} 
+  {{metadata.languages}} 
   </div> 
 {% endif %}
 
 <h3> Contact </h3> 
 <div id="contact">
-  {{s.contact}} 
+{{metadata.contact}} 
 </div> 
 
-{% if s.issn %}
+{% if metadata.issn %}
   <h3> ISSN </h3> 
   <div id="issn">
-    {{s.issn}} 
+  {{metadata.issn}} 
   </div>  
 {% endif %}
 
-{% for ai in s.additionalinfo %}
+{% for ai in metadata.additionalinfo %}
     {% assign key = ai[0]%}
     {% assign value = ai[1]%}
     <h3> {{ key }} </h3> 
@@ -73,7 +77,7 @@ permalink: /serie/:title
   </thead>
   <tbody> 
 
-  {% for m_hash in s.members %}
+  {% for m_hash in books %}
   {% assign b = m_hash[1] %}  
 
   <tr>
