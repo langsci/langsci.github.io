@@ -1,14 +1,16 @@
-bookid:  
-title:  
+bookid:  107
+title:  New perspectives on cohesion and coherence
 creators:
   editors: 
-  authors: [[a,b,""]]
-editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
+  - [Katrin,Menzel , 'Katrin Menzel studied Conference Interpreting and Translation Studies at Saarland University and is about to finish her PhD on German-English contrasts in textual cohesion. She is working as a lecturer and researcher at the Department of Applied Linguistics, Translation and Interpreting at Saarland University. ']
+  - [Ekaterina, Lapshinova-Koltunski, 'Ekaterina Lapshinova-Koltunski is a post-doctoral researcher at the Department of Linguistics at Saarland University. After finishing her PhD on semi-automatic extraction and classification of language data at the IMS in Stuttgart, she has been working in corpus-based projects related to intralingual and interlingual language variation in multilingual contexts. '] 
+  authors:  
+editedvolume: 1 
+booksubtitle: Implications for translation
+seriesnumber: 6
 blurb: "
-
+The contributions to this volume investigate relations of cohesion and coherence as well as instantiations of discourse phenomena and their interaction with information structure in multilingual contexts.
+Some contributions concentrate on procedures to analyze cohesion and coherence from a corpus-linguistic perspective. Others have a particular focus on textual cohesion in parallel corpora that include both originals and translated texts. Additionally, the papers in the volume discuss the nature of cohesion and coherence with implications for human and machine translation. The contributors are experts on discourse phenomena and textuality who address these issues from an empirical perspective. The chapters in this volume are grounded in the latest research making this book useful to both experts of discourse studies and computational linguistics, as well as advanced students with an interest in these disciplines. We hope that this volume will serve as a catalyst to other researchers and will facilitate further advances in the development of cost-effective annotation procedures, the application of statistical techniques for the analysis of linguistic phenomena and the elaboration of new methods for data interpretation in multilingual corpus linguistics and machine translation. 
 "
 isbns: 
 - [digital,978-3-000000-00-0] 
@@ -19,16 +21,4 @@ illustrators:
 createspace: 
 bod: 
 publicationdate: 
-chapters:
-- number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
-- number: 2 
-  title: 
-  subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+chapters: 
