@@ -1,16 +1,24 @@
 bookid: 50
 title: How mobile robots can self-organise a vocabulary
 creators:
-  authors: [[Paul, Vogt,  "Paul Vogt is assistant professor at the Tilburg center for Cognition and Communication at Tilburg University, the Netherlands. "]]
+  authors: [[Paul, Vogt,  "Paul Vogt is assistant professor at the Tilburg center for Cognition and Communication at Tilburg University, the Netherlands. His lifelong research interest focuses on the understanding of the social and cognitive mechanisms that underlie the acquisition and evolution of language. He started this academic career studying the emergence of vocabulary using mobile robots at the Vrije Universiteit Brussel, where he obtained his PhD. After that, he investigated the self-organisation of compositionality using agent-based simulations at the University of Edinburgh and at Tilburg University. Currently, he investigates how human children acquire early language in the Netherlands and in Mozambique. One of the aims of that study is to construct a corpus that can be used in agent-based simulations of language acquisition and evolution."]]
 editedvolume: 0 
 booktitle: How mobile robots can self-organise a vocabulary 
 seriesnumber: 2
-blurb: One of the hardest problems in science is the symbol grounding problem, a question that has intrigued philosophers and linguists for more than a century. 
-isbns: [[digital, 978-3-944675-43-5 ]]
+blurb: "One of the hardest problems in science is the symbol grounding problem, a question that has intrigued philosophers and linguists for more than a century.
+With the rise of artificial intelligence, the question has become very actual, especially within the field of robotics. The problem is that an agent, be it a robot or a human, perceives the world in analogue signals. Yet humans have the ability to categorise the world in symbols that they, for instance, may use for language.
+
+This book presents a series of experiments in which two robots try to solve the symbol grounding problem. The experiments are based on the language game paradigm, and involve real mobile robots that are able to develop a grounded lexicon about the objects that they can detect in their world. Crucially, neither the lexicon nor the ontology of the robots has been preprogrammed, so the experiments demonstrate how a population of embodied language users can develop their own vocabularies from scratch.
+"
+isbns:
+- [digital, 978-3-944675-43-5 ]
+- [ISBN-13 hardcover, 978-3-946234-00-5]
+- [ISBN-13 softcover, 978-3-946234-01-2]
+- [ISBN-13 softcover-US, 978-1-523743-41-4 ]
 doi: 10.17169/langsci.b50.113 
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:  
+typesetters:    
+illustrators:   
 createspace: http://www.amazon.co.uk/dp/3946234011
 bod: https://www.bod.de/buch/paul-vogt/how-mobile-robots-can-self-organise-a-vocabulary/9783946234005.html
 publicationdate: 2015-12-14 
