@@ -1,12 +1,11 @@
 bookid:  
 title:  
-creators:
-  editors: 
-  authors: [[first,last,"bio"]]
-editedvolume: 
-booktitle: 
 booksubtitle: 
 seriesnumber: 
+creators:
+  authors: [[first,last,"bio"]]
+  editors: 
+editedvolume: 
 blurb: "
 
 "
