@@ -1,34 +1,152 @@
-bookid:  
-title:  
+bookid:  94
+title:  Advances in the study of Siouan languages and linguistics
 creators:
   editors: 
-  authors: [[a,b,""]]
-editedvolume: 
-booktitle: 
+  authors:
+    - [Catherine, Rudin, "Catherine Rudin (1954) is Professor of Linguistics at Wayne State College. Though best known for her publications on Slavic and Balkan syntax (2 books and numerous articles), she has also done significant work on Siouan languages, including field work on Omaha-Ponca (1988-1993), the Omaha and Ponca Digital Dictionary project (Co-PI 2008-11), and is currently at work on a grammar of Omaha-Ponca. "]
+    - [Bryan James, Gordon, "Bryan James Gordon (1982) is an applied linguistic anthropologist working as instructional, technical and linguistic support for the Title VII UmóⁿhoⁿLanguage and Cultural Center at the UmóⁿhoⁿNation Public School in Macy, Nebraska. He has published on information structure in Siouan and Algonquian languages, colinguistic gesture and sociolinguistics of Spanish-English contact zones, and taken part in documentary projects in Nebraska, Kansas and Panama. His current efforts are focussed on language reclamation in theory and practice. "]
+editedvolume: 1 
 booksubtitle: 
-seriesnumber: 
+seriesnumber: 10
 blurb: "
-
+The Siouan family comprises some twenty languages, historically spoken across a broad swath of the central North American plains and woodlands, as well as in parts of the southeastern United States.
+<br />
+In spite of its geographical extent and diversity, and the size and importance of several Siouan-speaking tribes, this family has received relatively little attention in the linguistic literature and many of the individual Siouan languages are severely understudied. This volume aims to make work on Siouan languages more broadly available and to encourage deeper investigation of the myriad typological, theoretical, descriptive, and pedagogical issues they raise.
+<br />
+The 17 chapters in this volume present a broad range of current Siouan research, focusing on various Siouan languages, from a variety of linguistic perspectives: historical-genetic, philological, applied, descriptive, formal/generative, and comparative/typological. The editors' preface summarizes characteristic features of the Siouan family, including head-final and 'verb-centered' syntax, a complex system of verbal affixes including applicatives and subject-possessives, head-internal relative clauses, gendered speech markers, stop-systems including ejectives, and a preference for certain prosodic and phonotactic patterns.
+<br />
+The volume is dedicated to the memory of - ssor Robert L. Rankin, a towering figure in Siouan linguistics throughout his long career, who passed away in February of 2014.
+<br />
 "
 isbns: 
 - [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
+doi: 10.17169/langsci.b94.118 
+typesetters: 
+- Sebastian Nordhoff
 proofreaders: 
-illustrators: 
+-  Aaron Huey Sonnenschein
+-  Alec Shaw
+-  Andreas Hölzl
+-  Christian Döhler
+- Dominik Lukes
+- Eitan Grossman
+- Matthew Czuba
+-  Martin Haspelmath
+-  Neal Whitman
+-  Rong Chen
+-  Steve Pepper
+-  Alessia Battisti
+-  Anelia Ignatova
+-  "Carolyn O'Meara"
+-  Elizabeth Zeitoun
+-  Roelant Ossewaarde
+- Stathis Selimis
+-  Teresa Proto
+- Varun deCastro-Arrazola
+illustrators: Sebastian Nordhoff
 createspace: 
 bod: 
-publicationdate: 
+publicationdate: 2016-05-18 
 chapters:
 - number: 1
-  title: 
+  title:  A distant genetic relationship between Siouan-Catawban and Yuchi
   subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
+  authors:  [Ryan M. Kasak]
+  chapterdoi: 10.17169/langsci.b94.120 
+  downloadlink: http://langsci-press.org//catalog/view/94/120/445-1
 - number: 2 
-  title: 
+  title: Two Siouan languages walk into a sprachbund
   subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+  authors: [David Kaufman]
+  chapterdoi: 10.17169/langsci.b94.121 
+  downloadlink: http://langsci-press.org//catalog/view/94/121/437-1
+- number: 3 
+  title: Regular sound shifts in the history of Siouan
+  subtitle:  
+  authors: [Rory Larson]
+  chapterdoi: 10.17169/langsci.b94.122 
+  downloadlink: http://langsci-press.org//catalog/view/94/122/436-1
+- number: 4 
+  title: Ba-be-bi-bo-ra 
+  subtitle:  Refinement of the Ho-Chunk syllabary in the nine-teenth and twentieth centuries
+  authors: [Kathleen Danker]
+  chapterdoi: 10.17169/langsci.b94.123 
+  downloadlink: http://langsci-press.org//catalog/view/94/123/435-1
+- number: 5 
+  title: A forgotten figure in Siouan and Caddoan linguistics
+  subtitle:  Samuel Stehman Haldeman (1812-1880)
+  authors: [Anthony Grant]
+  chapterdoi: 10.17169/langsci.b94.124 
+  downloadlink: http://langsci-press.org//catalog/view/94/124/434-1
+- number: 6 
+  title: In his own words
+  subtitle:  Robert Rankin recalls his work with the Kaw people and their language
+  authors: [Linda Cumberland]
+  chapterdoi: 10.17169/langsci.b94.169 
+  downloadlink: http://langsci-press.org//catalog/view/94/169/444-1
+- number: 7 
+  title: Perspectives on Chiwere revitalization
+  subtitle:  
+  authors: [Jimm Goodtracks, Bryan James Gordon , Saul Schwartz]
+  chapterdoi: 10.17169/langsci.b94.170 
+  downloadlink: http://langsci-press.org//catalog/view/94/170/433-1
+- number: 8 
+  title: Reconstructing post-verbal negation in Kansa
+  subtitle:  A pedagogical problem
+  authors: [Justin T. McBride]
+  chapterdoi: 10.17169/langsci.b94.171 
+  downloadlink: http://langsci-press.org//catalog/view/94/171/448-1
+- number: 9 
+  title: Baxoje-Jiwere grammar sketch
+  subtitle:  
+  authors: [Jill D. Greer]
+  chapterdoi: 10.17169/langsci.b94.172 
+  downloadlink: http://langsci-press.org//catalog/view/94/172/431-1
+- number: 10 
+  title: The phonology of Lakota voiced stops
+  subtitle:  
+  authors: [David Rood]
+  chapterdoi: 10.17169/langsci.b94.173 
+  downloadlink: http://langsci-press.org//catalog/view/94/173/447-1
+- number: 11 
+  title: The syntax and semantics of internally headed relative clauses in Hidatsa
+  subtitle:  
+  authors: [John P. Boyle]
+  chapterdoi: 10.17169/langsci.b94.174 
+  downloadlink: http://langsci-press.org//catalog/view/94/174/443-1
+- number: 12 
+  title: A description of verb-phrase ellipsis in Hocąk
+  subtitle:  
+  authors: [Meredith Johnson]
+  chapterdoi: 10.17169/langsci.b94.175 
+  downloadlink: http://langsci-press.org//catalog/view/94/176/441-1
+- number: 13 
+  title: On the structure and constituency of Hocąk resultatives
+  subtitle:  
+  authors: [Bryan Rosen]
+  chapterdoi: 10.17169/langsci.b94.176 
+  downloadlink: http://langsci-press.org//catalog/view/94/176/441-1
+- number: 14 
+  title: Evidence for a VP constituent in Hocąk
+  subtitle:  
+  authors: [Meredith Johnson, Bryan Rosen , Mateja Schuck]
+  chapterdoi: 10.17169/langsci.b94.177 
+  downloadlink: http://langsci-press.org//catalog/view/94/177/440-1
+- number: 15 
+  title: Coordination and related constructions in Omaha-Ponca and in Siouan languages
+  subtitle:  
+  authors: [Catherine Rudin]
+  chapterdoi: 10.17169/langsci.b94.178 
+  downloadlink: http://langsci-press.org//catalog/view/94/178/446-1
+- number: 16 
+  title: Information-structural variations in Siouan languages
+  subtitle:  
+  authors: [Bryan James Gordon]
+  chapterdoi: 10.17169/langsci.b94.179 
+  downloadlink: http://langsci-press.org//catalog/view/94/179/439-1
+- number: 17 
+  title: NP-internal possessive constructions in Hoocąk and other Siouan languages
+  subtitle:  
+  authors: [Johannes Helmbrecht]
+  chapterdoi: 10.17169/langsci.b94.180 
+  downloadlink: http://langsci-press.org//catalog/view/94/180/438-1
