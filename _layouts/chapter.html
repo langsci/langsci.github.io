@@ -3,8 +3,10 @@ layout: default
 ---
 
 {% assign bookid =  page.bookid|append : '' %}
+{% assign book =  site.data.books[bookid] %}
 {% assign chapternumber =  page.chapternumber %}
-{% assign chapter = site.data.books[bookid].chapters[chapternumber] %}
+{% assign chapternumberarray =  chapternumber|minus: 1 %}
+{% assign chapter = book.chapters[chapternumberarray] %}
 
 
 <div id="chapters"> 
@@ -35,3 +37,7 @@ layout: default
     </div> 
   </div> 
 </div> 
+
+<div id="parentbook">
+Part of: <a href="/book/{{bookid}}">{{book.title}}</a>
+</div>
