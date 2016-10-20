@@ -1,0 +1,37 @@
+---
+layout: default   
+---
+
+{% assign bookid =  page.bookid|append : '' %}
+{% assign chapternumber =  page.chapternumber %}
+{% assign chapter = site.data.books[bookid].chapters[chapternumber] %}
+
+
+<div id="chapters"> 
+  <div class="chapterid"> {{ chapter.number }} </div> 
+  <div class="chapter">
+    <div class="chapterheading">
+      <div class="chapterfirstline">
+        <div class="chaptertitle"> {{ chapter.title }} </div> 
+        <div class="chaptersubtitle"> {{ chapter.subtitle }} </div>
+      </div>
+    </div>
+    <div class="chapterauthormetadatablock">
+      <div class="chapterauthors">   
+        {% assign chapterauthorlist = '' | split: ' ' %} <!--initialize array-->
+        {% for  chapterauthor in chapter.authors %} 
+        {% assign normalizedchapterauthor = chapterauthor| join: " " %} 
+        {% assign chapterauthorlist = chapterauthorlist | push:  normalizedchapterauthor %}       
+        {% endfor %} 
+        {% assign chapterauthorstring = chapterauthorlist | join:  ', ' %}
+        {{ chapterauthorstring }}
+      </div>
+      <div class="chapterdoi"> DOI:
+        <span> {{ chapter.chapterdoi }} </span>
+      </div> 
+    </div> 
+    <div class="chapterdownload" >
+    <a href="{{ chapter.downloadlink}}"> <img src="/resources/img/pdf.jpeg" width="30px" /></a>
+    </div> 
+  </div> 
+</div> 

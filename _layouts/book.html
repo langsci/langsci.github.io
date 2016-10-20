@@ -1,6 +1,5 @@
 ---
 layout: default   
-permalink: page/bookid
 ---
 {% assign bookseries =  page.bookseries %}
 {% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
@@ -136,11 +135,9 @@ permalink: page/bookid
 {%if book.chapters%}
 <h3> Chapters </h3>
   <div id="chapters">
-    {%for ch_hash in book.chapters%}
-      {%assign chapterid=ch_hash[0]%}
-      {%assign chapter=ch_hash[1]%}
+    {%for chapter in book.chapters%}
       <br />
-      <div class="chapterid"> {{ chapterid }} </div> 
+      <div class="chapterid"> {{ chapter.number }} </div> 
       <div class="chapter">
         <div class="chapterheading">
           <div class="chapterfirstline">
