@@ -5,12 +5,22 @@ creators:
 editedvolume: 0 
 booktitle: A typology of marked-S languages
 seriesnumber: 1
-blurb: A typological study of the rare marked-S language type which overtly marks the single argument of intransitive verbs (S) while one of the arguments of transitive verbs (either A or P) is left zero-coded. 
-isbns: [[digital,978-3-944675-19-0 ]]
+blurb: "A typological study of the rare marked-S language type which overtly marks the single argument of intransitive verbs (S) while one of the arguments of transitive verbs (either A or P) is left zero-coded.
+The formal (overt versus zero-coding) as well as functional aspects (range of uses of individual case forms) of the phenomenon are treated. The book covers languages from the Afro-Asiatic and Nilo-Saharan languages of Africa and of the North America Pacific Northwest and Pacific regions."
+isbns: 
+- [digital,978-3-944675-19-0]
+- [ISBN-13 hardcover, 978-3-944675-70-1]
+- [ISBN-13 softcover, 978-3-944675-71-8]
+- [ISBN-13 softcover-US, 978-1-523743-58-2 ]
 doi: 10.17169/FUDOCS_document_000000019858
-proofreaders: 0
-typesetters: 0
-illustrators: forty
+proofreaders: 
+- Eitan Grossman
+-  Daniel W. Hieber
+-  Aaron Huey Sonnenschein
+typesetters: 
+- Stefan Müller
+- Corinna Handschuh
+illustrators:  
 createspace: http://www.amazon.co.uk/typology-marked-S-languages-Diversity-Linguistics/dp/3944675711/
 bod: https://www.bod.de/buch/corinna-handschuh/a-typology-of-marked-s-languages/9783944675701.html
 publicationdate: 2014-03-05 
