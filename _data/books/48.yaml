@@ -5,13 +5,25 @@ creators:
   editedvolume: 0 
 booktitle: Natural causes of language
 booksubtitle:  Frames, biases, and cultural transmission
-seriesnumber: -1
-blurb: What causes a language to be the way it is? Some features are universal, some are inherited, others are borrowed, and yet others are internally innovated. 
-isbns: [[digital,978-3-944675-50-3 ]]
+seriesnumber: 1
+blurb: "What causes a language to be the way it is? Some features are universal, some are inherited, others are borrowed, and yet others are internally innovated.
+But no matter where a bit of language is from, it will only exist if it has been diffused and kept in circulation through social interaction in the history of a community. This book makes the case that a proper understanding of the ontology of language systems has to be grounded in the causal mechanisms by which linguistic items are socially transmitted, in communicative contexts. A biased transmission model provides a basis for understanding why certain things and not others are likely to develop, spread, and stick in languages. Because bits of language are always parts of systems, we also need to show how it is that items of knowledge and behavior become structured wholes. The book argues that to achieve this, we need to see how causal processes apply in multiple frames or 'time scales' simultaneously, and we need to understand and address each and all of these frames in our work on language. This forces us to confront implications that are not always comfortable: for example, that 'a language' is not a real thing but a convenient fiction, that language-internal and language-external processes have a lot in common, and that tree diagrams are poor conceptual tools for understanding the history of languages. By exploring avenues for clear solutions to these problems, this book suggests a conceptual framework for ultimately explaining, in causal terms, what languages are like and why they are like that. "
+isbns:
+- [[digital,978-3-944675-50-3 ],2]
+- [ISBN-13 hardcover, 978-3-944675-72-5]
+- [ISBN-13 softcover, 978-3-944675-73-2]
+- [ISBN-13 softcover-US, 978-1-523743-76-6]
 doi: 10.17169/FUDOCS_document_000000021399
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:
+- Stefan Hartmann
+- Christian Pietsch
+- Anelia Ignatova
+- Timo Buchholz
+- Klara Kim
+typesetters:   
+- Sebastian Nordhoff
+- Nick Enfield
+illustrators:   
 createspace: http://www.amazon.co.uk/Natural-causes-language-transmission-Foundations/dp/3944675738/
 bod: http://www.bod.de/buch/n--j--enfield/natural-causes-of-language/9783944675725.html
 publicationdate: 2014-12-01 
