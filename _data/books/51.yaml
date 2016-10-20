@@ -5,12 +5,24 @@ creators:
 editedvolume: 0 
 booktitle: Language strategies for the domain of colour 
 seriesnumber: 3
-blurb: This book presents a major leap forward in the understanding of colour by showing how richer descriptions of colour samples can be operationalized in agent-based models. 
-isbns: [[digital,978-3-946234-16-6 ]]
+blurb: "This book presents a major leap forward in the understanding of colour by showing how richer descriptions of colour samples can be operationalized in agent-based models.
+Four different language strategies are explored: the basic colour strategy, the graded membership strategy, the category combination strategy and the basic modification strategy. These strategies are firmly rooted in empirical observations in natural languages, with a focus on compositionality at both the syntactic and semantic level. Through a series of in-depth experiments, this book discerns the impact of the environment, language and embodiment on the formation of basic colour systems. Finally, the experiments demonstrate how language users can invent their own language strategies of increasing complexity by combining primitive cognitive operators, and how these strategies can be aligned between language users through linguistic interactions."
+isbns:
+- [digital,978-3-946234-16-6 ]
+- [ISBN-13 hardcover, 978-3-946234-17-3]
+- [ISBN-13 softcover, 978-3-944675-44-2]
+- [ISBN-13 softcover-US, 978-1-523743-46-9 ]
 doi: 10.17169/langsci.b51.104 
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:  
+-  Svetoslava Antonova-Baumann
+-  Armin Buch
+- Rachele De Felice
+-  Daniela Schröder
+-  Susanne Vejdemo
+typesetters:   
+-  Sebastian Nordhoff
+-  Felix Kopecky
+illustrators:   
 createspace: http://www.amazon.co.uk/Language-Strategies-domain-colour-Computational/dp/3944675444
 bod: https://www.bod.de/buch/joris-bleys/language-strategies-for-the-domain-of-colour/9783946234173.html
 publicationdate: 2015-11-12 
