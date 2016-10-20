@@ -2,12 +2,32 @@ bookid: 25
 title: Grammatical theory 
 creators:
   authors: [[Stefan, Müller," Stefan Müller studied Computer Science, Computational Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh."]]
-  editors: []
 editedvolume: 0 
 booktitle: Grammatical theory
 booksubtitle:  From transformational grammar to constraint-based approaches
 seriesnumber: 1
-blurb: This book introduces formal grammar theories that play a role in current linguistic theorizing (Phrase Structure Grammar, Transformational Grammar/Government & Binding, Generalized Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-​Driven Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar). 
+blurb: "<p>
+This book introduces formal grammar theories that play a role in current linguistic theorizing (Phrase Structure Grammar, Transformational Grammar/Government & Binding, Generalized Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-​Driven Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar).
+<br />
+The key assumptions are explained and it is shown how the respective theory treats arguments and adjuncts, the active/passive alternation, local reorderings, verb placement, and fronting of constituents over long distances. The analyses are explained with German as the object language.
+<br />
+The second part of the book compares these approaches with respect to their predictions regarding language acquisition and psycholinguistic plausibility. The nativism hypothesis, which assumes that humans posses genetically determined innate language-specific knowledge, is critically examined and alternative models of language acquisition are discussed. The second part then addresses controversial issues of current theory building such as the question of flat or binary branching structures being more appropriate, the question whether constructions should be treated on the phrasal or the lexical level, and the question whether abstract, non-visible entities should play a role in syntactic analyses. It is shown that the analyses suggested in the respective frameworks are often translatable into each other. The book closes with a chapter showing how properties common to all languages or to certain classes of languages can be captured.
+<br />
+The book is a translation of the German book Grammatiktheorie, which was published by Stauffenburg in 2010. The following quotes are taken from reviews:
+</p>
+
+<blockquote>
+With this critical yet fair reflection on various grammatical theories, Müller fills what was a major gap in the literature. Karen Lehmann, Zeitschrift für Rezen­sio­nen zur ger­man­is­tis­chen Sprach­wis­senschaft, 2012
+</blockquote>
+<br />
+<blockquote>
+Stefan Müller’s recent introductory textbook, Gram­matik­the­o­rie, is an astonishingly comprehensive and insightful survey for beginning students of the present state of syntactic theory. Wolfgang Sternefeld und Frank Richter, Zeitschrift für Sprach­wissen­schaft, 2012
+</blockquote>
+<br />
+<blockquote>
+This is the kind of work that has been sought after for a while [...] The impartial and objective discussion offered by the author is particularly refreshing. Werner Abraham, Germanistik, 2012
+</blockquote>
+"
 isbns: 
 - [ISBN-13, 978-3-944675-21-3]
 - [ISBN-13 hardcover vol. 1, 978-3-946234-29-6]
@@ -17,25 +37,37 @@ isbns:
 - [ISBN-13 softcover-US vol. 1, 978-1-530465-62-0]
 - [ISBN-13 softcover-US vol. 2, 978-1-523743-82-7]
 doi: 10.17169/langsci.b25.167 
-proofreaders:  [Tom, Dick, Harry]
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:   
+-  Timm Lichte
+-  Stephanie Natolo
+-  Joseph T. Farquharson
+-  Sebastian Nordhoff
+- Benedikt Singpiel
+-  Michelle Natolo
+-  Paul Kay
+-  Armin Buch
+-  Andreea Calude
+-  Anelia Ignatova
+-  Daniela Schröder
+-  Antonio Machicao y Priemer
+- Viola Auermann
+-  Conor Pyle
+-  Christian Döhler
+-  Andreas Hölzl
+- Viola Wiegand
+-  Alec Shaw
+-  Anne Kilgus
+- Eva Schultze-Berndt
+-  Gianina Iordachioaia
+-  Neal Whitman
+-  PARVIZ PARSAFAR
+-  Rong Chen
+- Leonel F. de Alencar
+- Matthew Czuba
+- Sandra Kübler
+typesetters:   
+- Stefan Mülller
+illustrators:   
 createspace: http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=grammatical+theory+stefan+m%C3%BCller
 bod: http://www.bod.de/shop/suchergebnisse.html?id=4806&tx_frshopplugins_pi6[title]=grammatical+theory&tx_frshopplugins_pi6[author]=&tx_frshopplugins_pi6[isbn]=&tx_frshopplugins_pi6[maincategory]=all&tx_frshopplugins_pi6[subcategory]=
 publicationdate: 2016-03-12 
-versions:
-- "versiontype": "openreview"
-  "title": "Test2 document open review"
-  "authors": 
-  - "name": "Horst Morst"
-  "publishedAt": "2016-08-25T22:00:00.000Z"
-- "versiontype": "proofreading"
-  "title": "Test2 document proofreading"
-  "authors": 
-  - "name": "Horst Morst"
-  "publishedAt": "2016-09-15T00:33:00.000Z"
-- "versiontype": "main"
-  "title": "Test2 document main"
-  "authors": 
-  - "name": "Horst Morst"
-  "publishedAt": "2016-10-25T00:00:44.000Z"
