@@ -2,13 +2,14 @@ bookid: 102
 title: Crossroads between contrastive linguistics, translation studies and machine translation
 creators:
   editors: 
-  - [Oliver, Čulo, ""]
-  - [Silvia, Hansen-Schirra, ""]
+  - [Oliver, Čulo, 'Oliver Čulo currently holds an Assistant Professor ("Juniorprofessor") position for Translation-relevant Linguistics at the Translation Faculty at Mainz University. He attended Saarland University, where he received his diploma in computational linguistics and his PhD in machine translation. His thesis work focused on developing ways of automatically comparing verb valence between English and German using parallel corpora. During a one-year stay at ICSI at the University of California in Berkeley in 2011 and 2012, he worked with researchers in the FrameNet Project, who are building a lexical database based on frame semantic analyses. He is interested in how grammar and semantics interact in translation. ']
+  - [Silvia, Hansen-Schirra, 'Silvia Hansen-Schirra, Dipl.-Übers., Dr. phil., PD, is a full professor of English linguistics and translation studies at Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research interests include specialized communication, text comprehensibility, post-editing, translation process and competence research. As fellow of the Gutenberg Research College she is the director of the Translation & Cognition (TRACO) Center in Germersheim and co-editor of the online book series "Translation and Multilingual Natural Language Processing ". ']
 editedvolume: 1 
 booktitle: Crossroads between contrastive linguistics, translation studies and machine translation
 booksubtitle:  TC3 II 
 seriesnumber: 3
-blurb: "
+blurb: "Contrastive Linguistics (CL), Translation Studies (TS) and Machine Translation (MT) have common grounds: They all work at the crossroad where two or more languages meet.
+Despite their inherent relatedness, methodological exchange between the three disciplines is rare. This special issue touches upon areas where the three fields converge. It results directly from a workshop at the 2011 German Association for Language Technology and Computational Linguistics (GSCL) conference in Hamburg where researchers from the three fields presented and discussed their interdisciplinary work. While the studies contained in this volume draw from a wide variety of objectives and methods, and various areas of overlaps between CL, TS and MT are addressed, the volume is by no means exhaustive with regard to this topic. Further cross-fertilisation is not only desirable, but almost mandatory in order to tackle future tasks and endeavours, and this volume is committed to bringing these three fields even closer together. 
  "
 isbns: [[digital, 978-3-000000-00-0 ]]
 doi:  
