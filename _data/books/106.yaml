@@ -1,15 +1,16 @@
-bookid:  
-title:  
+bookid: 106  
+title:  Language technologies for a multilingual Europe
 creators:
+  authors:
   editors: 
-  authors: [[a,b,""]]
-editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
-blurb: "
-
-"
+  - [Georg,Rehm,"Georg Rehm is a senior consultant, researcher and project leader at DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz GmbH) in Berlin. His research areas include, among others, multilingual technologies, especially in a European context, semantics, standards for language technologies, and machine translation. Georg Rehm is the Network Manager of META-NET and the head of the German/Austrian Office of W3C (World Wide Web Consortium). "]
+  - [Daniel,Stein,"Daniel Stein is a computational linguist and senior IT project manager at studiointeractive GmbH in Kassel, Germany. He worked as a research fellow at the Hamburg Center for Language Corpora (HZSK) from 2011 to 2013 and as a computational linguist at veeseo from 2014 to 2015. He was co-chair of the SIG Machine Translation of the German Society of Computational Linguistics (GSCL) and is member of the research council of the Association of the Brother Grimm. Current topics of his work include Software Development Processes, Theory and Usage of Local Grammars and Multi-Word Expressions in the context of digital lexicography. For more information see his LinkedIn profile. "]
+  - [Felix,Sasaki,"Felix Sasaki joined the W3C in 2005 to work in the Internationalization Activity until March 2009. In 2012 he rejoined the W3C team as a fellow on behalf of DFKI (German Research Center for Artificial Intelligence). He was co-chair of the MultilingualWeb-LT Working Group and co-editor of the Internationalization Tag Set (ITS) 2.0 specification. He is currently engaged in the FREME project. His main field of interest is the application of Web technologies for representation and processing of multilingual information. For more information see his LinkedIn profile. "]
+  - [Andreas,Witt,"Since 2009, Andreas Witt has been heading the Research Infrastructure Group at the Institute for the German Language (IDS) in Mannheim. He chairs the CLARIN Standards Committee, and is a convenor of both the TEI Special Interest Group “TEI for Linguists” and of the ISO Working Group on Linguistic Annotation. In 2014, he was appointed Honorary Professor in Digital Humanities at the Heidelberg University. "]
+editedvolume: 1 
+booksubtitle: TC 3 III
+seriesnumber: 4
+blurb: "This volume of the series “Translation and Multilingual Natural Language Processing” includes most of the papers presented at the Workshop “Language Technology for a Multilingual Europe”, held at the University of Hamburg on September 27, 2011 in the framework of the conference GSCL 2011 with the topic “Multilingual Resources and Multilingual Applications”, along with several additional contributions. "
 isbns: 
 - [digital,978-3-000000-00-0] 
 doi: 
@@ -18,17 +19,4 @@ proofreaders:
 illustrators: 
 createspace: 
 bod: 
-publicationdate: 
-chapters:
-- number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
-- number: 2 
-  title: 
-  subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+publicationdate:  forthcoming
