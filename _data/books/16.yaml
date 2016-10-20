@@ -7,11 +7,23 @@ booktitle: Prosodic detail in Neapolitan Italian
 series:  Studies in Laboratory Phonology
 seriesnumber: 1
 blurb: Recent findings on phonetic detail have been taken as supporting exemplar-based approaches to prosody. Through four experiments on both production and perception of both melodic and temporal detail in Neapolitan Italian, we show that prosodic detail is not incompatible with abstractionist approaches either. Specifically, we suggest that the exploration of prosodic detail leads to a refined understanding of the relationships between the richly specified and continuous varying phonetic information on one side, and coarse phonologically structured contrasts on the other, thus offering insights on how pragmatic information is conveyed by prosody.
-isbns: [[digital,978-3-944675-01-5]] 
+isbns: 
+- [digital,978-3-944675-01-5]
+- [ISBN-13 hardcover, 978-3-944675-80-0]
+- [ISBN-13 softcover, 978-3-944675-81-7]
+- [ISBN-13 softcover-US, 978-1-523743-79-7]
 doi: 10.17169/FUDOCS_document_000000020994
-proofreaders:  a
-typesetters:   a
-illustrators:  a
+proofreaders:  
+- Stephanie Natolo
+- Siri Tuttle
+- Martin Hilpert
+- Thomas Gardener
+- Benedikt Singpiel
+- Michelle Natolo
+- Tamara Schmidt
+typesetters:   
+- Francesco Cangemi
+illustrators:   
 createspace: http://www.amazon.co.uk/Prosodic-detail-Neapolitan-Italian-Laboratory/dp/3944675819/
 bod: http://www.bod.de/buch/francesco-cangemi/prosodic-detail-in-neapolitan-italian/9783944675800.html
 publicationdate: 2014-11-13 
