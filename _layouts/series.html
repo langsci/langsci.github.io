@@ -1,12 +1,17 @@
 ---
 layout: default 
-permalink: /series/:title
 ---
-
 {% assign acronym  = page.title %}
-{% assign s = site.data.series[acronym] %}
-{% assign metadata = s.metadata %}
-{% assign books = s.books %} 
+{% assign metadata = site.data.series[acronym] %}
+{% assign books = ''|split: ' ' %} 
+
+{% for page in site.pages  %} 
+  {% assign bookid = page.bookid|append: ''%} 
+  {% if acronym == page.bookseries %}   
+    {% assign books = books|push: site.data.books[bookid] %} 
+  {% endif %} 
+{% endfor %}  
+
 
  
 <h1> {{ metadata.name }} </h1>   
@@ -77,12 +82,13 @@ permalink: /series/:title
   </thead>
   <tbody> 
 
-  {% for m_hash in books %}
-  {% assign b = m_hash[1] %}  
+  {% for b in books %}
 
   <tr>
     <td>
-      <img src="/resources/img/{{ b.bookid }}.png" class="leadcover">
+      <a href="/book/{{ b.bookid/ }}">
+        <img src="/resources/img/{{ b.bookid }}.png" class="leadcover">
+      </a>
       <div class="linkwrapper">
         <div class="booklink"> <a href="/{{ b.bookid/main.pdf }}"><img src="/resources/img/pdf.jpeg"/><a> </div>
         <div class="booklink"> <a href="{{ b.createspace }}"><img src="/resources/img/amazon.png"/><a> </div>

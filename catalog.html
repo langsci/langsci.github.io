@@ -49,7 +49,7 @@ title: Home
       {% assign creatorstring = authorstring | append: editorstring %}
       <tr>
         <td>
-          <a href="/{{ p.bookid }}">
+          <a href="/book/{{ p.bookid }}">
             <img src="/resources/img/{{ p.bookid }}.png" class="leadcover">
           </a>
           <div class="linkwrapper">
@@ -64,7 +64,7 @@ title: Home
           <div class="author"> {{ creatorstring }} </div>
         </td>
         <td>
-          <span class="series">{{ series.acronym| upcase   }}</span>&nbsp;<span class="seriesnumber">{{ book.seriesnumber }}</span>
+        <span class="series"><a href="/series/{{series.acronym}}">{{ series.acronym| upcase   }}</a></span>&nbsp;<span class="seriesnumber">{{ book.seriesnumber }}</span>
         </td>
         <td class="yearcell"> 
           {% assign tmp = book.publicationdate | split: '-' %}

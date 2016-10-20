@@ -1,5 +1,6 @@
 ---
 layout: default   
+permalink: page/bookid
 ---
 {% assign bookseries =  page.bookseries %}
 {% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
@@ -61,7 +62,7 @@ layout: default
   <div id="metadata">
   <h4> Series </h4>
      <div id="seriesposition">
-        <span id="seriestitle"> {{site.data.series[page.bookseries].name}} </span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
+     <span id="seriestitle"> <a href="/series/{{site.data.series[page.bookseries].acronym}}">{{site.data.series[page.bookseries].name}} </a></span> <span id="seriesnumber"> {{book.seriesnumber}} </span>
      </div>
     <div id="isbns">
       
