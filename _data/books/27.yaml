@@ -1,14 +1,24 @@
-bookid:  
-title:  
+bookid:  27
+title:      Grammaire des constructions elliptiques
 creators:
   editors: 
-  authors:
+  authors: [[Gabriela, Bîlbîie, "Gabriela Bîlbîie studied Romanian and French Linguistics and Literature at the University of Bucharest, completing her studies with a MA and a PhD in Theoretical Linguistics at Université Paris Diderot – Paris 7. Since 2006, she has taught Linguistics in several Parisian universities (Paris 4, Paris 7, Paris 10, and Paris 13). After being granted a postdoctoral research fellowship within the Labex - Empirical Foundations of Linguistics project (PRES Sorbonne Paris-Cité) on experimental syntax and ellipsis, she is currently a post-doctoral researcher at the University of Bucharest working on a research project that investigates null complements in Romanian from a cross-linguistic perspective. Her research interests include syntax and its interfaces (in particular semantics and discourse) and corpus linguistics. She is particularly interested in ellipsis phenomena, coordination, and subordination. She mainly works on Romanian and French, adopting a larger comparative perspective (with other Romance, Slavic, and Balkanic languages)."]]
 editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
+booksubtitle:  Une étude comparative des phrases sans verbe en roumain et en français
+seriesnumber: 2 
 blurb: "
-
+<p>
+In this book, I propose a grammar fragment which accounts for the main properties of two elliptical constructions (‘lacking’ for the verbal head) called gapping (1a) and verbless relative adjuncts (therefore, VRA) (1b) respectively.
+</p>
+<p>
+(1) a. Jean aime les pommes [et Marie les bananes]. 'Jean likes apples and Maria bananas' 
+</p>
+<p>
+b. Plusieurs personnes sont venues cette semaine, [dont Marie (hier)]. 'Several people have come this week, among which Marie yesterday'
+</p>
+<p>
+We mainly argue for the fact that elliptical clauses in gapping and VRA constructions don’t behave as regular verbal clauses. Their syntactic and semantic properties don’t provide evidence for deriving this kind of elliptical clause from a complete clause. An analysis in terms of syntactic reconstruction of the missing material is therefore inadequate. Thus, the elliptical clause in both constructions (gapping and VRA) has a specific syntactic behaviour and must be assigned an independent status in the grammar, more precisely the status of a fragmentary clause, that is a syntactic unit having a propositional content of message type, but an incomplete syntax. This dissertation gives new arguments in favor of a semantic reconstruction with parallelism constraints, cf. Ginzburg & Sag (2000), Culicover & Jackendoff (2005).
+</p>
 "
 isbns: 
 - [digital,978-3-000000-00-0] 
@@ -18,17 +28,4 @@ proofreaders:
 illustrators: 
 createspace: 
 bod: 
-publicationdate: 
-chapters:
-- number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
-- number: 2 
-  title: 
-  subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+publicationdate:  Forthcoming
