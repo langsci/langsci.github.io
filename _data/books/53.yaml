@@ -1,16 +1,23 @@
 bookid: 53
 title: The evolution of grounded spatial language
 creators:
-  authors: [[Michael, Spranger, "tbd"]]
+  authors: [[Michael, Spranger, " "]]
 editedvolume: 0 
 booktitle: The evolution of grounded spatial language 
 seriesnumber: 5
-blurb: This book presents groundbreaking robotic experiments on how and why spatial language evolves. 
-isbns: [[digital,978-3-946234-14-2 ]]
+blurb: "This book presents groundbreaking robotic experiments on how and why spatial language evolves.
+It provides detailed explanations of the origins of spatial conceptualization strategies, spatial categories, landmark systems and spatial grammar by tracing the interplay of environmental conditions, communicative and cognitive pressures. The experiments discussed in this book go far beyond previous approaches in grounded language evolution. For the first time, agents can evolve not only particular lexical systems but also evolve complex conceptualization strategies underlying the emergence of category systems and compositional semantics. Moreover, many issues in cognitive science, ranging from perception and conceptualization to language processing, had to be dealt with to instantiate these experiments, so that this book contributes not only to the study of language evolution but to the investigation of the cognitive bases of spatial language as well."
+isbns:
+- [digital,978-3-946234-14-2 ] 
+- [ISBN-13 hardcover, 978-3-946234-15-9]
+- [ISBN-13 softcover, 978-3-944675-46-6]
+- [ISBN-13 softcover-US, 978-1-523743-49-0 ]
 doi: 10.17169/langsci.b53.183 
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:  
+- Felix Kopecky
+typesetters:   
+- Felix Kopecky
+illustrators:   
 createspace: https://www.amazon.co.uk/evolution-grounded-spatial-language-Computational/dp/3944675460/&tag=wwwlangscip03-21
 bod: http://www.bod.de/buch/michael-spranger/the-evolution-of-grounded-spatial-language/9783946234159.html
 publicationdate: 2016-06-07 
