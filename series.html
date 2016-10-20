@@ -3,22 +3,33 @@ layout: default
 title: Series
 ---
 <div> 
-  <ul class="unbulleted">
-  {% for ss_hash in site.data.series  %}
-  {% assign metadata = ss_hash[1].metadata %} 
-  {% assign books = ss_hash[1].books %}  
+ 
+
+<ul class="unbulleted">
+{% for ss_hash in site.data.series  %}
+  {% assign metadata = ss_hash[1] %}  
+  {% assign acronym = metadata.acronym %}
       <li>
         <span>  
         {{metadata.name}} 
+          
+        <!--   calculate number of books -->
+          {% assign count = 0 %} 
+          {% for page in site.pages  %} 
+            {% if acronym == page.bookseries %} 
+              {% assign count = count|plus: 1 %} 
+<!--                {{page.bookid}} -->
+            {% endif %} 
+          {% endfor %}  
+  
 <!--         <a href="/series/{{metadata.acronym}}"> view </a> -->
-<!--         {{ss.name}} --> 
-        {%assign count=books|size%} 
+<!--         {{ss.name}} -->  
           {% if count == 1 %} 
             ({{count}} book)
           {% else %} 
             ({{count}} books)  
           {% endif %}
-          <a href="/{{metadata.acronym}}"> ➜ </a>
+          <a href="/{{acronym}}"> ➜ </a>
         </span>
       </li>
     {% endfor %} 

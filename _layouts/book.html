@@ -4,7 +4,7 @@ layout: default
 {% assign bookseries =  page.bookseries %}
 {% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
   
-{% assign book = site.data.series[bookseries].books[bookid] %}
+{% assign book = site.data.books[bookid] %}
  
  
 
