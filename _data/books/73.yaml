@@ -1,34 +1,23 @@
-bookid:  
-title:  
-creators:
+bookid:   73
+title:  Grammaticalization in the North
+creators: 
   editors: 
-  authors:
-editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
+  authors: [[Östen,Dahl,"Östen Dahl is Emeritus Professor of General Linguistics at the University of Stockholm, Sweden. In recent years, his research has mainly been typologically oriented with a strong interest in diachronic approaches to grammar, in particular areas such as tense and aspect, negation, and definiteness marking. His publications include the monographs Tense and Aspect Systems (1985) and The growth and maintenance of linguistic complexity (2004) and the edited volumes Tense and Aspect in the Languages of Europe (2000) and The Circum-Baltic Languages: Typology and Contact (2 vols, 2002, co-edited with Maria Koptjevskaja Tamm). Together with Jens Allwood and Lars-Gunnar Andersson he published the textbook Logic in Linguistics (1977). He has also written several textbooks in Swedish. "]] 
+booksubtitle:  Noun phrase morphosyntax in Scandinavian vernaculars
+seriesnumber: 6
 blurb: "
-
+This book looks at some phenomena within the grammar of the noun phrase in a group of traditional North Germanic varieties mainly spoken in Sweden and Finland, usually seen as Swedish dialects, although the differences between them and Standard Swedish are often larger than between the latter and the other standard Mainland Scandinavian languages.
+In addition to being conservative in many respects – e.g. in preserving nominal cases and subject-verb agreement – these varieties also display many innovative features. These include extended uses of definite articles, incorporation of attributive adjectives, and a variety of possessive constructions. Although considerable attention has been given to these phenomena in earlier literature, this book is the first to put them in the perspective of typology and grammaticalization processes. It also looks for a plausible account of the historical origin of the changes involved, arguing that many of them spread from central Sweden, where they were later reverted due to the influence from prestige varieties coming from southern Scandinavia. 
 "
 isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
+- [digital,978-3-944675-57-2 ] 
+- [ISBN-13 hardcover, 978-3-944675-78-7]
+- [ISBN-13 softcover, 978-3-944675-79-4]
+- [ISBN-13 softcover-US, 978-1-523743-60-5 ]
+doi: 10.17169/langsci.b73.17 
 typesetters:
 proofreaders: 
 illustrators: 
-createspace: 
-bod: 
-publicationdate: 
-chapters:
-- number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
-- number: 2 
-  title: 
-  subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+createspace: http://www.amazon.co.uk/Grammaticalization-North-morphosyntax-Scandinavian-vernaculars/dp/3944675797
+bod: http://www.bod.de/buch/oesten-dahl/grammaticalization-in-the-north/9783944675787.html
+publicationdate: 2015-06-11 
