@@ -10,9 +10,9 @@ blurb: "This study makes substantial contributions to both the theoretical and c
 The present study first provides cross-linguistic findings in regards to information structure meanings and markings. Building upon such findings, the current model represents information structure within the HPSG/MRS framework using Individual Constraints. The primary goal of the present study is to create a multilingual grammar model of information structure for the LinGO Grammar Matrix system. The present study explores the construction of a grammar library for creating customized grammar incorporating information structure and illustrates how the information structure-based model improves performance of transfer-based machine translation. "
 isbns: [[digital,978-3-000000-00-0] ]
 doi: 10.17169/FUDOCS_document_000000020994
-proofreaders:  a
-typesetters:   a
-illustrators:  a
-createspace: a
-bod: a
+proofreaders:  
+typesetters:  
+illustrators:  
+createspace:  
+bod:  
 publicationdate: Forthcoming 
