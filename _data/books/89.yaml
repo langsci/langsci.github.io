@@ -1,17 +1,31 @@
 bookid: 89
 title: The empirical base of linguistics
 creators:
-  authors: [[Carson T., Schütze, "Carson T. Schütze is Professor of Linguistics at the University of California, Los Angeles. He has done research in syntax, first language acquisition, and (human) language processing, as well as in linguistic methodology, on which he has (co-)authored ten encyclopedia/handbook chapters and review articles."]]
+  authors: [[Carson T., Schütze, "Carson T. Schütze is Professor of Linguistics at the University of California, Los Angeles. He has done research in syntax, first language acquisition, and (human) language processing, as well as in linguistic methodology, on which he has (co-)authored ten encyclopedia/handbook chapters and review articles. His publications include “On the nature of default case” (Syntax), “On Korean 'case stacking'...” (The Linguistic Review), “Parameterizing passive participle movement” with Ivano Caponigro (Linguistic Inquiry), and “The status of nonagreeing don’t and theories of root infinitives” (Language Acquisition). He has also co-edited three large volumes of working papers that focus on psycholinguistics. "]]
 editedvolume: 0 
 booktitle: The empirical base of linguistics
-booksubtitle:  a 
+booksubtitle:  
 seriesnumber: 2
-blurb:  Throughout much of the history of linguistics, grammaticality judgments – intuitions about the well-formedness of sentences – have constituted most of the empirical base against which theoretical hypothesis have been tested.        
-isbns: [[digital,978-3-946234-02-9]] 
+blurb:  "Throughout much of the history of linguistics, grammaticality judgments – intuitions about the well-formedness of sentences – have constituted most of the empirical base against which theoretical hypothesis have been tested. Although such judgments often rest on subtle intuitions, there is no systematic methodology for eliciting them, and their apparent instability and unreliability have led many to conclude that they should be abandoned as a source of data.
+<br /><br />
+Carson T. Schütze presents here a detailed critical overview of the vast literature on the nature and utility of grammaticality judgments and other linguistic intuitions, and the ways they have been used in linguistic research. He shows how variation in the judgment process can arise from factors such as biological, cognitive, and social differences among subjects, the particular elicitation method used, and extraneous features of the materials being judged. He then assesses the status of judgments as reliable indicators of a speaker's grammar.
+<br /><br />
+Integrating substantive and methodological findings, Schütze proposes a model in which grammaticality judgments result from interaction of linguistic competence with general cognitive processes. He argues that this model provides the underpinning for empirical arguments to show that once extragrammatical variance is factored out, universal grammar succumbs to a simpler, more elegant analysis than judgment data initially lead us to expect. Finally, Schütze offers numerous practical suggestions on how to collect better and more useful data. The result is a work of vital importance that will be required reading for linguists, cognitive psychologists, and philosophers of language alike.
+<br /><br />
+'Native speakers' judgments of the acceptability of linguistic examples have always formed a major part of the data of linguistics, but linguists generally either have elicited such data in a haphazard fashion and accepted the results uncritically or have rejected acceptability judgments altogether and equally uncritically. Schütze's book is a welcome relief from the failure of linguists to deal responsibly with what can be either the most fertile or the most misleading source of information about languages.'<br />—James D. McCawley, University of Chicago
+<br /><br />
+'Schütze has written an extraordinarily useful and timely book. In it, he provides a clear and readable review of past studies of the methodology of generative syntax. But this is not merely a survey: it is also a call for more careful and objective scientific methods in syntax, including a set of practical methodological suggestions for working syntacticians. If heeded, they will greatly strengthen the empirical base of linguistic theory.'<br />—Tom Wasow, Stanford University"
+isbns: 
+- [digital,978-3-946234-02-9] 
+- [ISBN-13 hardcover, 978-3-946234-03-6]
+- [ISBN-13 softcover, 978-3-946234-04-3]
+- [ISBN-13 softcover-US, 978-1-523743-32-2]
 doi: 10.17169/langsci.b89.100 
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:   
+typesetters: 
+- Felix Kopecky
+- Sebastian Nordhoff   
+illustrators:   
 createspace: http://www.amazon.co.uk/empirical-base-linguistics-Grammaticality-methodology/dp/3946234046?tag=wwwlangscip03-21
 bod: https://www.bod.de/buch/carson-schuetze/the-empirical-base-of-linguistics/9783946234036.html
 publicationdate: 2016-02-23 
