@@ -1,14 +1,15 @@
-bookid:  
-title:  
+bookid:  85
+title:  A grammar of Pichi
 creators:
   editors: 
-  authors:
+  authors: [[Kofi,Yakpo,"Kofi Yakpo is Assistant Professor of Linguistics at the University of Hong Kong. His main research interests lie in the areas of language contact and multilingualism. He has conducted research on Pichi (Equatorial Guinea), Sranan (Suriname) and other English-lexifier Creoles of the Atlantic Basin, as well as the Asian diaspora languages of the Caribbean and the Indian Ocean. "]]
 editedvolume: 
 booktitle: 
 booksubtitle: 
 seriesnumber: 
 blurb: "
-
+Pichi is an Afro-Caribbean English Lexifier Creole spoken by some 150,000 people on the island of Bioko, Equatorial Guinea.
+The language is an off-shoot of Krio (Sierra Leone) and shares many characteristics with closely related languages in West Africa and the Caribbean, such as Nigerian Pidgin and Sranan (Suriname). However, the isolation of Pichi from English and Krio, extensive contact and hybridization with Spanish, language shift from the Bantu language Bubi, as well as koineization through the prolonged coexistence with Nigerian and Cameroon Pidgin have given the language a distinct character. This first comprehensive description of Pichi is based on primary data gathered in Equatorial Guinea. It presents a detailed analysis of the grammar and phonology of Pichi and includes sections on pragmatics and language contact. The annexes contain a collection of text of different genres as well as a Pichi-English-Pichi wordlist. 
 "
 isbns: 
 - [digital,978-3-000000-00-0] 
@@ -18,17 +19,4 @@ proofreaders:
 illustrators: 
 createspace: 
 bod: 
-publicationdate: 
-chapters:
-- number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
-- number: 2 
-  title: 
-  subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+publicationdate:  
