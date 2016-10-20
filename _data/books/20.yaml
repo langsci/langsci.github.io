@@ -1,17 +1,44 @@
 bookid: 20
 title: Syntax und Valenz
 creators:
-  authors: [[Timm, Lichte, "Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer."]]
+  authors: [[Timm, Lichte, "  
+  Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer. Derzeit ist er wissenschaftlicher Mitarbeiter im SFB 991 an der Heinrich-Heine-Universität Düsseldorf. Zu seinen Forschungsinteressen zählen die Formalisierung und computerlinguistische Implementierung von natürlichsprachlichen Grammatiken.
+  
+  Timm Lichte studied general linguistics, computer science and general rhetoric at the University of Tübingen, where he also started his PhD under Laura Kallmeyer as part of an Emmy-Noether Project. He is currently research associate of the CRC 991 at the University of Düsseldorf. His research focuses on the formalization and implementation of natural language grammars."]]
 editedvolume: 0 
 booktitle: Syntax und Valenz
 booksubtitle:  Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken
 seriesnumber: 1
-blurb: Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse. 
-isbns: [[digital,978-3-944675-51-0 ]]
+blurb: "Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse.
+<br/>
+Wie die meisten prominenten Syntaxmodelle betreibt TAG eine Amalgamierung von Syntax und Valenz, die oft zu Realisierungsidealisierungen führt. Es wird jedoch gezeigt,
+<ul>
+<li>dass TAG dabei gewisse Realisierungsidealisierungen vermeidet und Diskontinuität bei Kohärenz direkt repräsentieren kann;</li>
+<li>dass TAG trotzdem und trotz der im Vergleich zu GB, LFG und HPSG wesentlich eingeschränkten Ausdrucksstärke zu einer linguistisch sinnvollen Analyse kohärenter Konstruktionen herangezogen werden kann;</li>
+<li>dass der TAG-Ableitungsbaum für die indirekte Gapping-Modellierung eine ausreichend informative Bezugsgröße darstellt.</li>
+</ul>
+Für  die direkte Repräsentation von Gapping-Strukturen wird schließlich ein baumbasiertes Syntaxmodell, STUG, vorgeschlagen, in dem Syntax und Valenz getrennt, aber verlinkt sind. 
+<br/>
+German law requires we state the prices in Germany for this publication. The hardcover price is 60.00 EUR; the softcover price is 32.10 EUR.
+"
+isbns:
+- [digital,978-3-944675-51-0 ]
+- [ISBN-13 hardcover, 978-3-944675-62-6]
+- [ISBN-13 softcover, 978-3-944675-63-3]
+- [ISBN-13 softcover-US, 978-1-523743-78-0 ]
 doi: 10.17169/langsci.b20.102 
-proofreaders:  tbd
-typesetters:   tbd
-illustrators:  tbd
+proofreaders:   
+-  Martin Haspelmath
+-  Sebastian Nordhoff
+-  Armin Buch
+-  Daniela Schröder
+-  Constantin Freitag
+-  Charlotte van Tongeren
+-  Aviva Shimelman
+typesetters:  
+- Timm Lichte
+- Sebastian Nordhoff
+illustrators:  
 createspace: http://www.amazon.de/dp/3944675517
 bod: https://www.bod.de/buch/timm-lichte/syntax-und-valenz/9783944675626.html
 publicationdate: 2015-11-04 

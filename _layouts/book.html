@@ -77,15 +77,18 @@ layout: default
 
     </div> 
     
+    {% if book.doi %}
       <h4> DOI </h4>
     <div id="doi">
       DOI: <span id="doi">{{book.doi}}</span>
     </div>
+    {% endif %}
     <div id="publicationdate">
       Published: <span id="doi">{{book.publicationdate}}</span>
     </div>
   </div>
   <div id="acknowledgements">
+    {% if book.proofreaders %}
     <div id="proofreaders">
       <h4> Proofreaders </h4>
       <ul>
@@ -93,6 +96,8 @@ layout: default
         <li>{{pr}}</li>
       {%endfor%}
     </div>
+    {%endif%}
+    {% if book.typesetters %}
     <div id="typesetters">
             <h4> Typesetters </h4>
       <ul>
@@ -100,6 +105,8 @@ layout: default
         <li>{{pr}}</li>
       {%endfor%}
     </div>
+    {%endif%}
+    {% if book.illustrators %}
     <div id="illustrators">
             <h4> Illustrators </h4>
       <ul>
@@ -107,6 +114,7 @@ layout: default
         <li>{{pr}}</li>
       {%endfor%}
     </div> 
+    {%endif%}
   </div>
 </div> 
 
