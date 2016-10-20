@@ -1,34 +1,91 @@
-bookid:  
-title:  
+bookid:  22
+title:  The Alor-Pantar languages
 creators:
-  editors: 
+  editors: [[Marian, Klamer,'Marian Klamer (1965) is Professor of Austronesian and Papuan Linguistics at Leiden University. Over the last two decades she has lead research projects describing and documenting Austronesian and Papuan minority languages in Eastern Indonesia; comparing their typological characteristics; and reconstructing their history. Her publications include grammars on Kambera (1998), Teiwa (2010), and Alorese (2011), as well as several edited volumes, and over fifty articles on a wide range of topics. Klamer is currently leading the NWO-VICI project "Reconstructing the past through languages of the present -- the Lesser Sunda Islands" (2014-2019).']]
   authors:
-editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
-blurb: "
-
+editedvolume: 1 
+booksubtitle: History and typology
+seriesnumber: 3
+blurb: "The Alor-Pantar family constitutes the westernmost outlier group of Papuan (Non-Austronesian) languages.
+Its twenty or so languages are spoken on the islands of Alor and Pantar, located just north of Timor, in eastern Indonesia. Together with the Papuan languages of Timor, they make up the Timor-Alor-Pantar family. The languages average 5,000 speakers and are under pressure from the local Malay variety as well as the national language, Indonesian.
+<br/>
+This volume studies the internal and external linguistic history of this interesting group, and showcases some of its unique typological features, such as the preference to index the transitive patient-like argument on the verb but not the agent-like one; the extreme variety in morphological alignment patterns; the use of plural number words; the existence of quinary numeral systems; the elaborate spatial deictic systems involving an elevation component; and the great variation exhibited in their kinship systems.
+<br/>
+Unlike many other Papuan languages, Alor-Pantar languages do not exhibit clause-chaining, do not have switch reference systems, never suffix subject indexes to verbs, do not mark gender, but do encode clusivity in their pronominal systems. Indeed, apart from a broadly similar head-final syntactic profile, there is little else that the Alor-Pantar languages share with Papuan languages spoken in other regions. While all of them show some traces of contact with Austronesian languages, in general, borrowing from Austronesian has not been intense, and contact with Malay and Indonesian is a relatively recent phenomenon in most of the Alor-Pantar region.
 "
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
+isbns:  
+- [ISBN-13, 978-3-944675-48-0]
+- [ISBN-13 hardcover, 978-3-944675-60-2]
+- [ISBN-13 softcover, 978-3-944675-61-9]
+- [ISBN-13 softcover-US, 978-1-523743-68-1]
+doi: 10.17169/FUDOCS_document_000000020993
 typesetters:
+- Timm Lichte
+-  Sebastian Nordhoff  
 proofreaders: 
+- Benedikt Singpiel
 illustrators: 
-createspace: 
-bod: 
-publicationdate: 
+createspace: http://www.amazon.co.uk/books/dp/3944675614
+bod: http://www.bod.de/buch/marian-klamer/the-alor-pantar-languages/9783944675602.html
+publicationdate: 2014-09-06 
 chapters:
 - number: 1
-  title: 
-  subtitle: 
-  authors:  []
-  chapterdoi: 
-  downloadlink:
+  title: The Alor-Pantar languages
+  subtitle: Linguistic context, history and typology
+  authors:  [Marian Klamer]
+  chapterdoi: 10.17169/langsci.b22.40 
+  downloadlink: http://langsci-press.org//catalog/view/22/40/248-1
 - number: 2 
-  title: 
+  title: The internal history of the Alor-Pantar language family
   subtitle:  
-  authors: []
-  chapterdoi:
-  downloadlink:
+  authors: [Gary Holton , Laura C. Robinson]
+  chapterdoi: 10.17169/langsci.b22.44 
+  downloadlink: http://langsci-press.org//catalog/view/22/44/249-1
+- number: 3 
+  title: The relatedness of Timor-Kisar and Alor-Pantar languages 
+  subtitle:  A preliminary   demonstration
+  authors: [Antoinette Schapper, Juliette Huber , Aone van Engelenhoven]
+  chapterdoi: 10.17169/langsci.b22.44 
+  downloadlink: http://langsci-press.org//catalog/view/22/46/250-1
+- number: 4 
+  title: The linguistic position of the Timor-Alor-Pantar languages
+  subtitle:  
+  authors: [Gary Holton , Laura C. Robinson]
+  chapterdoi: 10.17169/langsci.b22.48 
+  downloadlink: http://langsci-press.org//catalog/view/22/48/251-1
+- number: 5 
+  title: Kinship in the Alor-Pantar languages
+  subtitle:  
+  authors: [Gary Holton]
+  chapterdoi: 10.17169/langsci.b22.49 
+  downloadlink: http://langsci-press.org//catalog/view/22/49/252-1
+- number: 6 
+  title: Elevation in the spatial deictic systems of Alor-Pantar languages
+  subtitle:  
+  authors: [Antoinette Schapper]
+  chapterdoi: 10.17169/langsci.b22.50 
+  downloadlink: http://langsci-press.org//catalog/view/22/50/253-1
+- number: 7 
+  title: Numeral systems in the Alor-Pantar languages
+  subtitle:  
+  authors: [Antoinette Schapper , Marian Klamer]
+  chapterdoi: 10.17169/langsci.b22.51 
+  downloadlink: http://langsci-press.org//catalog/view/22/51/254-1
+- number: 8 
+  title: Numeral words and arithmetic operations in the Alor-Pantar languages
+  subtitle:  
+  authors: [Marian Klamer, Antoinette Schapper, Greville Corbett, Gary Holton, František Kratochvíl , Laura C. Robinson]
+  chapterdoi: 10.17169/langsci.b22.52 
+  downloadlink: http://langsci-press.org//catalog/view/22/52/255-1
+- number: 9 
+  title: Plural number words in the Alor-Pantar languages
+  subtitle:  
+  authors: [Marian Klamer, Antoinette Schapper , Greville Corbett]
+  chapterdoi: 10.17169/langsci.b22.53 
+  downloadlink: http://langsci-press.org//catalog/view/22/53/256-1
+- number: 10
+  title: Participant marking
+  subtitle:   Corpus study and video elicitation 
+  authors: [Sebastian Fedden , Dunstan Brown]
+  chapterdoi: 10.17169/langsci.b22.54 
+  downloadlink: http://langsci-press.org//catalog/view/22/54/257-1
