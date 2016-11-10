@@ -41,3 +41,29 @@ layout: default
 <div id="parentbook">
 Part of: <a href="/book/{{bookid}}">{{book.title}}</a>
 </div>
+
+{% assign previouschapternumber = chapternumber|minus: 1%}
+{% assign previouschapternumberarray = chapternumberarray|minus: 1%}
+{% if previouschapternumber != 0 %}
+  {% assign previouschapter =book.chapters[previouschapternumberarray] %}
+
+  <div id="previousnextchapter">
+    <div id="previouschapter">
+      Previous:   <a href="/chapters/{{bookid}}-{{previouschapternumber}}">{{previouschapternumber}}: {{previouschapter.title}}</a> 
+    </div>
+  {% endif %}
+
+  {% assign nextchapternumber = chapternumber|plus: 1%}
+  {% assign nextchapternumberarray = chapternumberarray|plus: 1%}
+  {% assign nextchapter =book.chapters[nextchapternumberarray] %}
+  {% assign lastchapter = book.chapters | size %} 
+  <!-- {{nextchapternumber}} {{lastchapter}} -->
+  {% if chapternumber != lastchapter %}
+
+  <div id="nextchapter">
+    Next: <a href="/chapters/{{bookid}}-{{nextchapternumber}}">{{nextchapternumber}}:{{nextchapter.title}} </a>
+  </div>
+  {% endif %}
+</div>
+
+<!-- {{book.chapters | size:}} -->

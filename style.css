@@ -347,3 +347,21 @@ margin-top: 5px;
   background:#eee;
   border-radius:5px;
 }
+
+#previousnextchapter{
+    margin-top:20px;
+}
+
+#previouschapter,#nextchapter{
+  width:30%;
+  font-size:smaller;
+}
+
+#previouschapter{
+  float:left;
+}
+
+#nextchapter{
+  float:left;
+  margin-left:30px;
+}
