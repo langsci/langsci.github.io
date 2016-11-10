@@ -3,7 +3,6 @@ layout: default
 ---
 {% assign bookseries =  page.bookseries %}
 {% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
-  
 {% assign book = site.data.books[bookid] %}
  
  
@@ -39,6 +38,43 @@ layout: default
 {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
 {% assign creatorstring = authorstring | append: editorstring %}
 
+{% assign citationstring = '' %}
+
+{% if book.creators.authors%}
+  {% for creator in book.creators.authors %} 
+    {% if forloop.index == 1%}
+      {% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
+    {% else %}
+      {% if forloop.index == forloop.length%}
+        {% assign citationstring = citationstring|append: " &amp; " |append: creator[0] |append: ' '|append: creator[1] %}
+      {% else %}
+        {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
+      {% endif %}
+    {% endif %} 
+  {% endfor %}
+{%else%}
+  {% for creator in book.creators.editors %} 
+    {% if forloop.index == 1%}
+      {% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
+    {% else %}
+      {% if forloop.index == forloop.length%}
+        {% assign citationstring = citationstring|append: " &amp; " |append: creator[0] |append: ' '|append: creator[1] %}
+      {% else %}
+        {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
+      {% endif %}
+    {% endif %} 
+  {% endfor %}
+  {% assign tmp = book.creators.editors|size %} 
+  {% if tmp == 1%}
+    {% assign citationstring = citationstring|append: " (ed.)"%}
+  {% else %}
+    {% assign citationstring = citationstring|append: " (eds.)"%}
+  {% endif %}
+{% endif %} 
+
+
+
+ 
 <div id="topbookblock">
 <div> {{ book.title }} </div>
 {%if book.booksubtitle%}
@@ -90,6 +126,19 @@ layout: default
   <div id="acknowledgements">
     {% if book.proofreaders %}
     <div id="proofreaders">
+      <h4> Cite as </h4>
+        <div id="citation">
+          {{ citationstring }}.
+          {% assign tmp = book.publicationdate | split: '-' %} 
+          {% assign publicationyear =  tmp[0]  %}
+          {{publicationyear}}.
+          {{book.title}}
+          ({{site.data.series[page.bookseries].name}}
+          {{book.seriesnumber}}).
+          Berlin:
+          Language Science Press.
+        </div>
+    
       <h4> Proofreaders </h4>
       <ul>
       {%for pr in book.proofreaders%}
