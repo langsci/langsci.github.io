@@ -365,3 +365,11 @@ margin-top: 5px;
   float:left;
   margin-left:30px;
 }
+
+#bibtexcitation{
+  background:#ccddff;
+  border:1px solid darkgray;
+  padding:2px;
+  font-family: monospace;
+  font-size: smaller;
+}

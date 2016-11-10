@@ -123,22 +123,51 @@ layout: default
       Published: <span id="doi">{{book.publicationdate}}</span>
     </div>
   </div>
+  
+  <h4> Cite as </h4>
+  <div id="citation">
+  {{ citationstring }}.
+  {% assign tmp = book.publicationdate | split: '-' %} 
+  {% assign publicationyear =  tmp[0]  %}
+  {{publicationyear}}.
+  {{book.title}}
+  ({{site.data.series[page.bookseries].name}}
+  {{book.seriesnumber}}).
+  Berlin:
+    Language Science Press.
+    </div>
+    <div id="bibtex">
+      {% assign bibtexauthorstring = -1 %}
+      {% assign bibtexauthors = ''|split: ' ' %}
+      {% for author in book.creators.authors%}
+        {% assign reversedstring = author[1]|append: ', '|append: author[0]%}
+        {% assign bibtexauthors = bibtexauthors| push: reversedstring %}
+        {% assign bibtexauthorstring = bibtexauthors|join: ' and ' %}
+      {%endfor%}  
+      {% assign bibtexeditorstring = -1 %}
+      {% assign bibtexeditors = ''|split: ' ' %}
+      {% for editor in book.creators.editors%}
+        {% assign reversedstring = editor[1]|append: ', '|append: editor[0]%}
+        {% assign bibtexeditors = bibtexeditors| push: reversedstring %}
+        {% assign bibtexeditorstring = bibtexeditors|join: ' and ' %}
+      {%endfor%}   
+      <div id="bibtexcitation">
+@book{<!---->{{site.data.series[page.bookseries].acronym}}{{book.seriesnumber}},<br />
+{%if bibtexauthorstring != -1 %}author = {<!---->{{bibtexauthorstring}}},<br />{%endif%}
+{%if bibtexeditorstring != -1 %}editor = {<!---->{{bibtexeditorstring}}},<br />{%endif%}
+title = {<!---->{{book.title}}},<br />
+year = {<!---->{{publicationyear}}},<br />
+series = {<!---->{{site.data.series[page.bookseries].acronym}}},<br />
+number = {<!---->{{book.seriesnumber}}},<br />
+address = {Berlin},<br />
+publisher = {Language Science Press}<br />
+}
+      </div> 
+    </div>
+  
   <div id="acknowledgements">
     {% if book.proofreaders %}
-    <div id="proofreaders">
-      <h4> Cite as </h4>
-        <div id="citation">
-          {{ citationstring }}.
-          {% assign tmp = book.publicationdate | split: '-' %} 
-          {% assign publicationyear =  tmp[0]  %}
-          {{publicationyear}}.
-          {{book.title}}
-          ({{site.data.series[page.bookseries].name}}
-          {{book.seriesnumber}}).
-          Berlin:
-          Language Science Press.
-        </div>
-    
+    <div id="proofreaders">      
       <h4> Proofreaders </h4>
       <ul>
       {%for pr in book.proofreaders%}
