@@ -340,6 +340,7 @@ margin-top: 5px;
 
 .lsp-icon-box a{
   width:100%;
+  font-size:200%;
   margin: 5px auto;
 }
 
@@ -367,9 +368,23 @@ margin-top: 5px;
 }
 
 #bibtexcitation{
-  background:#ccddff;
+  background:#ddeeff;
   border:1px solid darkgray;
   padding:2px;
   font-family: monospace;
   font-size: smaller;
+}
+
+#tagline{
+  display: inline;
+  color:white;
+  vertical-align:bottom;
+}
+
+.catalogcover{
+  width:100px;
+}
+
+.title{
+  font-size:120%: 
 }
