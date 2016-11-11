@@ -50,15 +50,17 @@ title: Home
       <tr>
         <td>
           <a href="/book/{{ p.bookid }}">
-<!--             <img src="/resources/img/{{ p.bookid }}.png" class="leadcover"> -->
+            <img src="/resources/img/{{ p.bookid }}.png" class="leadcover">
             
-            <img class="catalogcover" src="https://raw.githubusercontent.com/langsci/{{p.bookid}}/master/cover.png" />  
+<!--             <img class="catalogcover" src="https://raw.githubusercontent.com/langsci/{{p.bookid}}/master/cover.png" />   -->
           </a>
           <div class="linkwrapper">
-              <div class="booklink"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
-              <div class="booklink"> <a href="{{ book.createspace }}"><img src="/resources/img/amazon.png"/></a> </div>
-              <div class="booklink"> <a href="{{ book.bod }}"><img src="/resources/img/bod.jpg"/></a></div>
-          <div>
+            <div class="booklink"> <a href=""><img src="/resources/img/pdf.jpeg"/><a> </div>
+            <div class="booklink"> <a href="{{ book.createspace }}"><img src="/resources/img/amazon.png"/></a> </div>
+            <div class="booklink"> <a href="{{ book.bod }}"><img src="/resources/img/bod.jpg"/></a></div>
+            <div class="booklink"> <a href="https://paperhive.org/documents/remote?type=langsci&amp;id={{p.bookid}}"><img src="/resources/img/paperhive.png"/></a></div>
+          </div>
+
         </td>
         <td class="bookidcell"> {{ p.bookid }} </td>
         <td>

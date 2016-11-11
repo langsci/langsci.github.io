@@ -6,20 +6,19 @@ permalink: /seriesoverview
 <div> 
  
 
-<ul class="unbulleted">
+<ul class="unbulleted" id="serieslist">
 {% for ss_hash in site.data.series  %}
   {% assign metadata = ss_hash[1] %}  
   {% assign acronym = metadata.acronym %}
       <li>
         <span>  
-        {{metadata.name}} 
           
         <!--   calculate number of books -->
           {% assign count = 0 %} 
           {% for page in site.pages  %} 
             {% if acronym == page.bookseries %} 
               {% assign count = count|plus: 1 %} 
-<!--                {{page.bookid}} -->
+              <img class="seriesimg" src="/resources/img/{{page.bookid}}.png"/>
             {% endif %} 
           {% endfor %}  
   
@@ -30,8 +29,11 @@ permalink: /seriesoverview
           {% else %} 
             ({{count}} books)  
           {% endif %}
-          <a href="/series/{{acronym}}"> ➜ </a>
+          <a href="/series/{{acronym}}"> 
+          {{metadata.name}}  </a>
         </span>
+        
+        
       </li>
     {% endfor %} 
   </ul>

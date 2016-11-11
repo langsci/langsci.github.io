@@ -184,18 +184,19 @@ thead{
 }
 
 .linkwrapper{
-  width:100%;
-  text-align:left;
+  width:100px;
+/*   text-align:left; */
+/*   float:right; */
 }
 
 .booklink {
     border: 1px solid #ccc;
     border-radius: 6px;
-    display: inline-block; 
+    display: inline-block;
     margin-top: 1px;
-    padding: 2px;
-    width: 25px;
-    text-align:center;
+    padding: 0 2px 2px;
+    text-align: center;
+    width: 22px;
 }
 
 .booklink img{
@@ -386,5 +387,18 @@ margin-top: 5px;
 }
 
 .title{
-  font-size:120%: 
+  font-size:120%;
+  width:80%;
+}
+
+.author{
+  width:80%;
+}
+
+.seriesimg{
+  width:20px;
+}
+
+#serieslist li{
+  margin-bottom:10px;
 }
