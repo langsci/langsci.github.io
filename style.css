@@ -315,9 +315,15 @@ margin-top: 5px;
 } 
 
 #booksubtitle {
-  font-size: 3rem;
-  margin-bottom: 10px; 
+font-size: 3rem;
+margin-bottom: 10px; 
 }
+
+.booksubtitle{
+  font-size: 110%;
+}
+
+
 
 #creators {
   font-size: 2rem;

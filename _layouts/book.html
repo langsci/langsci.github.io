@@ -133,6 +133,9 @@ layout: default
   {% assign publicationyear =  tmp[0]  %}
   {{publicationyear}}.
   {{book.title}}
+  {%if book.booksubtitle%}
+  : {{book.booksubtitle}}.
+  {%endif%}
   ({{site.data.series[page.bookseries].name}}
   {{book.seriesnumber}}).
   Berlin:
@@ -157,7 +160,11 @@ layout: default
 @book{<!---->{{site.data.series[page.bookseries].acronym}}{{book.seriesnumber}},<br />
 {%if bibtexauthorstring != -1 %}author = {<!---->{{bibtexauthorstring}}},<br />{%endif%}
 {%if bibtexeditorstring != -1 %}editor = {<!---->{{bibtexeditorstring}}},<br />{%endif%}
-title = {<!---->{{book.title}}},<br />
+{%if book.booksubtitle%}
+  title = {<!---->{{book.title}}: {{book.booksubtitle}}},<br />
+{%else%}
+  title = {<!---->{{book.title}}},<br />
+{%endif%}
 year = {<!---->{{publicationyear}}},<br />
 series = {<!---->{{site.data.series[page.bookseries].acronym}}},<br />
 number = {<!---->{{book.seriesnumber}}},<br />
