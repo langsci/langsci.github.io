@@ -321,6 +321,7 @@ margin-bottom: 10px;
 
 .booksubtitle{
   font-size: 110%;
+  font-style: italic;
 }
 
 
@@ -407,4 +408,157 @@ margin-bottom: 10px;
 
 #serieslist li{
   margin-bottom:10px;
+}
+
+#headermenu{
+
+}
+
+#headermenu li, #headermenu li a{
+color:white !important;
+}
+
+#headermenu li{
+display:inline;
+width:200px;
+}
+
+.has_submenu ul{
+  width:0px;
+  opacity:0;
+  display: none;
+}
+
+
+
+
+.langsci-icon-box {
+  background-color: white;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  width: 100%;
+}
+.langsci-icon-box:hover {
+  background-color: #eee;
+  border-radius: 5px;
+}
+.langsci-icon-box:hover .langsci-startpage-image {
+  background-color: #eee;
+  opacity: 1;
+}
+.langsci-icon-box:hover .a {
+  color: #005680 !important;
+}
+.langsci-icon-box-image {
+  display: block;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.5;
+  width: 60px;
+}
+.langsci-icon-box-image:hover {
+  opacity: 1;
+}
+@media (min-width: 992px) {
+  .langsci-icon-box {
+    width: 50%;
+  }
+}
+@media (min-width: 1200px) {
+  .langsci-icon-box {
+    width: 25%;
+  }
+}
+h3.accordionHeader {
+  border-bottom: 1px solid #dddddd;
+  cursor: pointer;
+  font-weight: normal;
+}
+.langsci-accordion-icon {
+  display: inline;
+  float: left;
+  height: 20px;
+  opacity: 0.5;
+  padding: 0 10px 0 0;
+}
+.langsci-accordion-icon:hover {
+  opacity: 1;
+}
+.langsci-accordion-arrow {
+  display: inline;
+  float: left;
+  padding: 10px 0 0;
+}
+.slider-container div {
+  background-color: #eee;
+  height: 40%;
+  left: 0;
+  opacity: 0.9;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+.slider-container h3, .slider-container p {
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.owl-theme .owl-controls .owl-page span, .owl-theme .owl-controls .owl-buttons div {
+  background-color: black !important;
+}
+.obj_monograph_full .title {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.obj_monograph_full .langsci_author {
+  margin-bottom: 5px;
+}
+.obj_monograph_full .chapters li {
+  padding: 0;
+}
+.shariff {
+  float: left;
+}
+.shariff li.info a::before {
+  color: white !important;
+}
+.clear_left {
+  clear: left;
+}
+.pkp_brand_footer {
+  float: right;
+}
+.pkp_footer_content, .pkp_footer_content a {
+  color: white;
+}
+
+.langsci_footer_navi {
+  width: 80%;
+  margin: auto;
+}
+
+.langsci_footer_navi div {
+  display: inline-block;
+  float: left;
+  width: 20%;
+}
+
+.langsci_footer_meta {
+  float: left;
+}
+.langsci_footer_meta a {
+  padding-right: 15px;
+}
+
+.pkp_structure_footer_wrapper{
+  background:#005680;
+}
+
+.shariff-button{
+  display:inline;
 }
