@@ -5,15 +5,12 @@ title: Hall of Fame
 <div id="proofreaders">
 <h3>Proofreaders</h3>
 {% assign proofreaders = '' |split: ' ' %}  <!--empty array-->
-{% for series in site.data.series %} 
-  {% for book in series[1].members %} 
-      {% assign bookid = book[0]  %}  
-      {% for proofreader in  book[1].proofreaders %}         
-        {% assign tmp = proofreader| split: "sdfsafsd" %}
-        {% assign pusher = tmp | push: bookid %}
-<!--         {{pusher}} -->
-        {% assign proofreaders = proofreaders| push: pusher %}             
-    {% endfor %}  
+{% for book in site.data.books %} 
+    {% assign bookid = book[0]  %}  
+    {% for proofreader in  book[1].proofreaders %}         
+      {% assign tmp = proofreader| split: "xyz" %}
+      {% assign pusher = tmp | push: bookid %} 
+      {% assign proofreaders = proofreaders| push: pusher %}             
   {% endfor %}  
 {% endfor %}  
  
@@ -23,9 +20,9 @@ title: Hall of Fame
 {% assign current = '' %}
 {% assign i = '' %}  
 
-{% for proofreader in sorted   %}
+{% for proofreader in sorted   %} 
   {% assign reader = proofreader[0] %}
-  {% assign book = proofreader[1] %}
+  {% assign book = proofreader[-1] %} 
   {% if proofreader[0] != current %} 
     {% assign tmp = i |split: ' ' %} 
     {% assign tmp = tmp |push: current %}  
