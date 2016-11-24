@@ -17,8 +17,12 @@ permalink: /seriesoverview
           {% assign count = 0 %} 
           {% for page in site.pages  %} 
             {% if acronym == page.bookseries %} 
+              {% assign bookid = page.bookid  %} 
+              {% include bookvariables.html %}
               {% assign count = count|plus: 1 %} 
+              <a href="/book/{{page.bookid}}" title="{{citationstring}}: {{book.title}}">  
               <img class="seriesimg" src="/resources/img/{{page.bookid}}.png"/>
+              </a>
             {% endif %} 
           {% endfor %}  
   

@@ -1,9 +1,11 @@
 <!-- assumes a variable 'bookid' is accessible -->
 <!-- sets the variable citationstring -->
 
-{% assign book = site.data.books[bookid] %}
 
-{% include citationstring.html%}
+{% assign bookid2 = page.bookid|append: ''%} 
+{% assign book = site.data.books[bookid2] %}
+ 
+{% include citationstring.html %}
 
 
 <!-- assign publicationyear -->
