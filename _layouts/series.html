@@ -83,36 +83,7 @@ layout: default
   <tbody> 
 
   {% for book in books %} 
-    {% assign authorlist = '' | split: ' ' %} <!--initialize array--> 
-    {% for  author in book.creators.authors %}
-      {% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
-      {% assign authorlist = authorlist | push:  normalizedauthor %}
-      {% assign authorsuffix = '(authors)' %}
-      {% if  {{forloop.length}} == 1 %}
-        {% assign authorsuffix = '(author)' %}
-      {% endif %}
-      {% else %}
-      {% assign authorsuffix = '' %}
-    {% endfor %} <!--author-->
-    
-    {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
-    {% for  editor in book.creators.editors %}
-      {% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
-      {% assign editorlist = editorlist | push:  normalizededitor %}
-      {% assign editorsuffix = '(editors)' %} 
-      {% if  {{forloop.length}} == 1 %}
-        {% assign editorsuffix = '(editor)' %} 
-      {% endif %}
-    {% else %}
-      {% assign editorsuffix = '' %} 
-      {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
-    {% endfor %} 
-    
-    
-    {% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
-    {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
-    {% assign creatorstring = authorstring | append: editorstring %}
-     
+    {%include citationstring.html%}
     <tr>
       <td>
         <a href="/book/{{ book.bookid/ }}">
@@ -128,7 +99,7 @@ layout: default
       <td>
         <div class="title"> {{ book.title }} </div>
         <div class="booksubtitle"> {{ book.booksubtitle }} </div>      
-        <div class="author"> {{ authorstring }} </div>
+        <div class="author"> {{ creatorstring }} </div>
       </td>
       <td>
     <!--   <span class="series">{{ s.acronym }}</span> -->

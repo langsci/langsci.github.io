@@ -1,0 +1,28 @@
+<!-- assumes a variable 'bookid' is accessible -->
+<!-- sets the variable citationstring -->
+
+{% assign book = site.data.books[bookid] %}
+
+{% include citationstring.html%}
+
+
+<!-- assign publicationyear -->
+{% assign tmp = book.publicationdate | split: '-' %} 
+{% assign publicationyear =  tmp[0]  %}
+
+
+<!-- bibtex author field and editor field  -->
+{% assign bibtexauthorstring = -1 %}
+{% assign bibtexauthors = ''|split: ' ' %}
+{% for author in book.creators.authors%}
+{% assign reversedstring = author[1]|append: ', '|append: author[0]%}
+{% assign bibtexauthors = bibtexauthors| push: reversedstring %}
+{% assign bibtexauthorstring = bibtexauthors|join: ' and ' %}
+{%endfor%}  
+{% assign bibtexeditorstring = -1 %}
+{% assign bibtexeditors = ''|split: ' ' %}
+{% for editor in book.creators.editors%}
+{% assign reversedstring = editor[1]|append: ', '|append: editor[0]%}
+{% assign bibtexeditors = bibtexeditors| push: reversedstring %}
+{% assign bibtexeditorstring = bibtexeditors|join: ' and ' %}
+{%endfor%}   

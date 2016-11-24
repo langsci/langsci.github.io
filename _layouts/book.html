@@ -3,77 +3,7 @@ layout: default
 ---
 {% assign bookseries =  page.bookseries %}
 {% assign bookid =  page.bookid |append: '' %} <!--cast to string-->
-{% assign book = site.data.books[bookid] %}
- 
- 
-
-{% assign authorlist = '' | split: ' ' %} <!--initialize array-->
-{% for  author in book.creators.authors %}
-  {% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
-  {% assign authorlist = authorlist | push:  normalizedauthor %}
-  {% assign authorsuffix = '(authors)' %}
-  {% if  {{forloop.length}} == 1 %}
-    {% assign authorsuffix = '(author)' %}
-  {% endif %}
-{% else %}
-  {% assign authorsuffix = '' %}
-{% endfor %} 
-
-
-{% assign editorlist = '' | split: ' ' %} <!--initialize array-->
-{% for  editor in book.creators.editors %}
-  {% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
-  {% assign editorlist = editorlist | push:  normalizededitor %}
-  {% assign editorsuffix = '(editors)' %} 
-  {% if  {{forloop.length}} == 1 %}
-    {% assign editorsuffix = '(editor)' %} 
-  {% endif %}
-{% else %}
-  {% assign editorsuffix = '' %} 
-  {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
-{% endfor %} 
-
-
-{% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
-{% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
-{% assign creatorstring = authorstring | append: editorstring %}
-
-{% assign citationstring = '' %}
-
-{% if book.creators.authors%}
-  {% for creator in book.creators.authors %} 
-    {% if forloop.index == 1%}
-      {% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
-    {% else %}
-      {% if forloop.index == forloop.length%}
-        {% assign citationstring = citationstring|append: " &amp; " |append: creator[0] |append: ' '|append: creator[1] %}
-      {% else %}
-        {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
-      {% endif %}
-    {% endif %} 
-  {% endfor %}
-{%else%}
-  {% for creator in book.creators.editors %} 
-    {% if forloop.index == 1%}
-      {% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
-    {% else %}
-      {% if forloop.index == forloop.length%}
-        {% assign citationstring = citationstring|append: " &amp; " |append: creator[0] |append: ' '|append: creator[1] %}
-      {% else %}
-        {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
-      {% endif %}
-    {% endif %} 
-  {% endfor %}
-  {% assign tmp = book.creators.editors|size %} 
-  {% if tmp == 1%}
-    {% assign citationstring = citationstring|append: " (ed.)"%}
-  {% else %}
-    {% assign citationstring = citationstring|append: " (eds.)"%}
-  {% endif %}
-{% endif %} 
-
-
-
+{% include bookvariables.html %}
  
 <div id="topbookblock">
 <div> {{ book.title }} </div>
@@ -84,8 +14,7 @@ layout: default
 <div id="creators"> {{ creatorstring }} </div>
  
 </div> 
-
-
+ 
 
 <div id="coverimg">
   <img src="/resources/img/{{page.bookid}}.png">  
@@ -129,8 +58,6 @@ layout: default
   <h4> Cite as </h4>
   <div id="citation">
   {{ citationstring }}.
-  {% assign tmp = book.publicationdate | split: '-' %} 
-  {% assign publicationyear =  tmp[0]  %}
   {{publicationyear}}.
   {{book.title}}
   {%if book.booksubtitle%}
@@ -142,20 +69,7 @@ layout: default
     Language Science Press.
     </div>
     <div id="bibtex">
-      {% assign bibtexauthorstring = -1 %}
-      {% assign bibtexauthors = ''|split: ' ' %}
-      {% for author in book.creators.authors%}
-        {% assign reversedstring = author[1]|append: ', '|append: author[0]%}
-        {% assign bibtexauthors = bibtexauthors| push: reversedstring %}
-        {% assign bibtexauthorstring = bibtexauthors|join: ' and ' %}
-      {%endfor%}  
-      {% assign bibtexeditorstring = -1 %}
-      {% assign bibtexeditors = ''|split: ' ' %}
-      {% for editor in book.creators.editors%}
-        {% assign reversedstring = editor[1]|append: ', '|append: editor[0]%}
-        {% assign bibtexeditors = bibtexeditors| push: reversedstring %}
-        {% assign bibtexeditorstring = bibtexeditors|join: ' and ' %}
-      {%endfor%}   
+
       <div id="bibtexcitation">
 @book{<!---->{{site.data.series[page.bookseries].acronym}}{{book.seriesnumber}},<br />
 {%if bibtexauthorstring != -1 %}author = {<!---->{{bibtexauthorstring}}},<br />{%endif%}

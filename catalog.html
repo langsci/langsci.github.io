@@ -16,37 +16,9 @@ title: Home
   {% for p in site.pages %}
     {% if p.layout == 'book' %}   
       {% assign series = site.data.series[p.bookseries] %}
-      {% assign bookid = p.bookid |append: '' %}
-      {% assign book = site.data.books[bookid] %} 
-      {% assign authorlist = '' | split: ' ' %} <!--initialize array--> 
-      {% for  author in book.creators.authors %}
-        {% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
-        {% assign authorlist = authorlist | push:  normalizedauthor %}
-        {% assign authorsuffix = '(authors)' %}
-        {% if  {{forloop.length}} == 1 %}
-          {% assign authorsuffix = '(author)' %}
-        {% endif %}
-      {% else %}
-        {% assign authorsuffix = '' %}
-      {% endfor %} 
-      
-      {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
-      {% for  editor in book.creators.editors %}
-        {% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
-        {% assign editorlist = editorlist | push:  normalizededitor %}
-        {% assign editorsuffix = '(editors)' %} 
-        {% if  {{forloop.length}} == 1 %}
-          {% assign editorsuffix = '(editor)' %} 
-        {% endif %}
-      {% else %}
-        {% assign editorsuffix = '' %} 
-        {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
-      {% endfor %} 
-      
-      
-      {% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
-      {% assign editorstring = editorlist | join:  ', ' |append: ' '| append: editorsuffix %}
-      {% assign creatorstring = authorstring | append: editorstring %}
+      {% assign bookid = p.bookid |append: '' %}     
+      {% assign book = site.data.books[bookid] %}
+      {%include citationstring.html%}
       <tr>
         <td>
           <a href="/book/{{ p.bookid }}">
