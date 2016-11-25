@@ -583,3 +583,15 @@ margin-left:0px;
 padding-top:50px;
 margin-top:0px;
 }
+
+.nav-stacked{
+  margin-left:0px;
+  padding-left:0px;
+}
+
+.nav-stacked li li{
+  list-style:none;
+  border-bottom:2px solid grey;
+  margin-top:20px;
+  font-size:120%;
+}
