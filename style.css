@@ -80,7 +80,7 @@ nav {
 nav a,
 nav a:visited,
 nav a:active {
-    color: #005678;
+    color: #005680;
 }
 
 nav a:hover {
@@ -174,12 +174,12 @@ section address {
 
 
 .jumbotron{
-/*   background: #005678 !important; */
+  background: white !important;
 }
 
 thead{
-  border-top: 2px solid #005678;
-  border-bottom: 3px double #005678;
+  border-top: 2px solid #005680;
+  border-bottom: 3px double #005680;
   font-size: 120%;
 }
 
@@ -564,7 +564,7 @@ h3.accordionHeader {
 }
 
 #header, #footer{
-  background: #005678 !important;
+  background: #005680 !important;
 }
 
 #headermenu{ 
