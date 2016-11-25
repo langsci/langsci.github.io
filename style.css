@@ -509,7 +509,7 @@ h3.accordionHeader {
   padding-right: 2%;
 }
 .owl-theme .owl-controls .owl-page span, .owl-theme .owl-controls .owl-buttons div {
-  background-color: black !important;
+/*   background-color: black !important; */
 }
 .obj_monograph_full .title {
   margin-bottom: 20px;
