@@ -174,7 +174,7 @@ section address {
 
 
 .jumbotron{
-  background: #005678 !important;
+/*   background: #005678 !important; */
 }
 
 thead{
@@ -384,9 +384,9 @@ margin-bottom: 10px;
 }
 
 #tagline{
-  display: inline;
   color:white;
   vertical-align:bottom;
+  margin-top:50px;
 }
 
 .catalogcover{
@@ -561,4 +561,25 @@ h3.accordionHeader {
 
 .shariff-button{
   display:inline;
+}
+
+#header, #footer{
+  background: #005678 !important;
+}
+
+#headermenu{ 
+}
+
+#headermenu ul{ 
+  padding-left:0px;
+}
+
+#headermenu li{ 
+margin-right:20px;
+margin-left:0px;
+}
+
+#header{
+padding-top:50px;
+margin-top:0px;
 }
