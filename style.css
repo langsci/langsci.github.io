@@ -607,5 +607,7 @@ color: #005680;
     margin-bottom: 10px;
 }
 
-
+.slider-container > img {
+    width: 100%;
+}
  
