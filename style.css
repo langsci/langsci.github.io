@@ -330,33 +330,7 @@ margin-bottom: 10px;
   font-size: 2rem;
   margin-bottom: 50px; 
 }
-
-.lsp-icon-box{
-  max-width:300px;
-  display:inline-flex;
-  min-width:200px;
-  width:49%;
-  text-align:center;
-}
-
-.lsp-icon-box img{
-  padding: 20%;  
-  width:100%;
-  margin: 0 auto;
-}
-
-
-.lsp-icon-box a{
-  width:100%;
-  font-size:200%;
-  margin: 5px auto;
-}
-
-.lsp-icon-box:hover{
-  background:#eee;
-  border-radius:5px;
-}
-
+ 
 #previousnextchapter{
     margin-top:20px;
 }
@@ -440,7 +414,7 @@ width:200px;
   padding-bottom: 10px;
   padding-top: 10px;
   text-align: center;
-  width: 100%;
+  width: 25%;
 }
 .langsci-icon-box:hover {
   background-color: #eee;
@@ -464,16 +438,7 @@ width:200px;
 .langsci-icon-box-image:hover {
   opacity: 1;
 }
-@media (min-width: 992px) {
-  .langsci-icon-box {
-    width: 50%;
-  }
-}
-@media (min-width: 1200px) {
-  .langsci-icon-box {
-    width: 25%;
-  }
-}
+ 
 h3.accordionHeader {
   border-bottom: 1px solid #dddddd;
   cursor: pointer;
@@ -595,3 +560,52 @@ margin-top:0px;
   margin-top:20px;
   font-size:120%;
 }
+
+/*#customblock-langsci-sidenavi div ul li{
+  padding-left: 5px;
+  margin-top: 5px;
+}*/
+
+/* sidebar with lines */
+.pkp_structure_sidebar div div ul li{
+	border-bottom: 2px solid #005680;
+}
+
+
+body {
+    color: rgba(0, 0, 0, 0.87);
+    font-family: "Noto Sans",Arial,Helvetica,sans-serif; 
+}
+
+
+#sidebar{
+}
+
+#sidebar ul{
+list-style:none;
+padding: 0;
+}
+
+#sidebar a{
+text-decoration: none;
+color: #005680;
+ font-size: 14px;
+ line-height: 20px;
+}
+
+#sidebar li{
+  padding: 10px 0;
+/*   margin-left:-10px; */
+}
+
+.pkp_block .title{
+    color: rgba(0, 0, 0, 0.54);
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+
+ 
