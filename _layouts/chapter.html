@@ -56,8 +56,8 @@ Part of: <a href="/book/{{bookid}}">{{book.title}}</a>
   {% assign nextchapternumber = chapternumber|plus: 1%}
   {% assign nextchapternumberarray = chapternumberarray|plus: 1%}
   {% assign nextchapter =book.chapters[nextchapternumberarray] %}
-  {% assign lastchapter = book.chapters | size %} 
-  <!-- {{nextchapternumber}} {{lastchapter}} -->
+  {% assign lastchapter = book.chapters | size: %} 
+<!--   {{nextchapternumber}} {{lastchapter}} -->
   {% if chapternumber != lastchapter %}
 
   <div id="nextchapter">
@@ -65,5 +65,4 @@ Part of: <a href="/book/{{bookid}}">{{book.title}}</a>
   </div>
   {% endif %}
 </div>
-
-<!-- {{book.chapters | size:}} -->
+ 

@@ -1,31 +1,19 @@
-<div class="owl-carousel owl-theme" id="owl-slider" style="display: block; opacity: 1;">
+<div  id="owl-slider" class="owl-carousel owl-theme" style="display: block; opacity: 1;">
   <div class="owl-wrapper-outer autoHeight">
-    <div class="owl-wrapper" style="display: block;">
-      {%for slidehash in site.data.slidercontent%}
-      {%assign slide = slidehash[1]%}
-      {{slide}}
+    <div class="owl-wrapper" style="display: block;"> 
+       {%for slidehash in site.data.slidercontent%} 
+	{%assign slide = slidehash[1]%}   
 	<div class="owl-item" style="width: 800px;">
-	  <div class="slider-container"><img src="/resources/candy/{{slide.img}}" style="width: 100%;"></div>
-	  <h3>{{slide.h3}}</h3>
-	  <p>{{slide.p}}<a href="{{href}}">Read more ...</a></p>
-	</div>
-      {%endfor%}
-    </div>
-  </div>
-  <div class="owl-controls clickable">
-    <div class="owl-pagination">
-      <div class="owl-page active"></div>
-      <div class="owl-page"></div>
-      <div class="owl-page"></div>
-      <div class="owl-page"></div>
-    </div>
-    <div class="owl-buttons">
-      <div class="owl-prev">
-	◀ 
-      </div>
-      <div class="owl-next">
-	▶
-      </div>
-    </div>
-  </div>
-</div> 
+	  <div class="slider-container">
+	    <img src="/resources/candy/{{slide.img}}" alt="123">
+	    <div>
+	      <h3>{{slide.h3}}</h3> 
+	      <p>{{slide.p}} {{slide.img}} <a href="{{href}}">Read more ...</a></p>
+	    </div>  
+	  </div>  
+	</div>  
+       {%endfor%}  
+    </div> <!--owl-wrapper-->
+  </div> <!--owl-wrapper-outer-->
+ <div class="owl-controls clickable" /> 
+</div> <!--owl-carousel--> 
