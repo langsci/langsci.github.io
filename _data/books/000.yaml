@@ -3,7 +3,8 @@ title:
 booksubtitle: 
 seriesnumber: 
 creators:
-  authors: [[first,last,"bio"]]
+  authors: 
+  - [firstname,lastname,"biosketch"] 
   editors: 
 editedvolume: 
 blurb: "
