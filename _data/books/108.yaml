@@ -1,18 +1,15 @@
-bookid:  108
-title:  Eyetracking and applied linguistics
-creators:
-  editors:
-    - [Silvia,Hansen-Schirra,'Silvia Hansen-Schirra, Dipl.-Übers., Dr. phil., PD, is a full professor of English linguistics and translation studies at Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research interests include specialized communication, text comprehensibility, post-editing, translation process and competence research. As fellow of the Gutenberg Research College she is the director of the Translation & Cognition (TRACO) Center in Germersheim and co-editor of the online book series "Translation and Multilingual Natural Language Processing ". ']
-    - - Sambor
-      - Grucza 
-      - "Sambor Grucza, Dr. phil., PD, is a full professor of Applied Linguistics at the University of Warsaw, Poland. His research interests are: metalinguistics, applied linguistics, and linguistics of languages for specific purposes. He is director of Institute of Specialist and Intercultural Communication, head of the Linguistics for Languages for Specific Purposes Department, founder and research head of the Eye-Tracking Experimental Linguistics Laboratory."
-  authors:  
-editedvolume: 1 
+bookid: 108
+title: Eyetracking and Applied Linguistics
 booksubtitle: 
-seriesnumber: 5
+seriesnumber: 2
+creators:
+  authors: 
+  - [Silvia,Hansen-Schirra,"Silvia Hansen-Schirra, Dipl.-Übers., Dr. phil., PD, is a full professor of English linguistics and translation studies at Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research interests include specialized communication, text comprehensibility, post-editing, translation process and competence research. As fellow of the Gutenberg Research College she is the director of the Translation & Cognition (TRACO) Center in Germersheim and co-editor of the online book series "Translation and Multilingual Natural Language Processing"."] 
+  - [Sambor, Grucza,"Sambor Grucza, Dr. phil., PD, is a full professor of Applied Linguistics at the University of Warsaw, Poland. His research interests are: metalinguistics, applied linguistics, and linguistics of languages for specific purposes. He is director of Institute of Specialist and Intercultural Communication, head of the Linguistics for Languages for Specific Purposes Department, founder and research head of the Eye-Tracking Experimental Linguistics Laboratory."]
+  editors: 
+editedvolume: 
 blurb: "
-Eyetracking has become a powerful tool in scientific research and has finally found its way into disciplines such as applied linguistics and translation studies, paving the way for new insights and challenges in these fields.
-The aim of the first International Conference on Eyetracking and Applied Linguistics (ICEAL) was to bring together researchers who use eyetracking to empirically answer their research questions. It was intended to bridge the gaps between applied linguistics, translation studies, cognitive science and computational linguistics on the one hand and to further encourage innovative research methodologies and data triangulation on the other hand. These challenges are also addressed in this proceedings volume: While the studies described in the volume deal with a wide range of topics, they all agree on eyetracking as an appropriate methodology in empirical research. 
+
 "
 isbns: 
 - [digital,978-3-000000-00-0] 
@@ -22,5 +19,17 @@ proofreaders:
 illustrators: 
 createspace: 
 bod: 
-publicationdate: forthcoming
-chapters: 
+publicationdate: 
+chapters:
+- number: 1
+  title: 
+  subtitle: 
+  authors:  []
+  chapterdoi: 
+  downloadlink:
+- number: 2 
+  title: 
+  subtitle:  
+  authors: []
+  chapterdoi:
+  downloadlink:
