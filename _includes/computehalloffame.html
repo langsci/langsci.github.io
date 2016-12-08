@@ -1,0 +1,124 @@
+{% assign proofreaders = '' |split: ' ' %}  <!--empty array-->
+{% for book in site.data.books %} 
+{% assign bookid = book[0]  %}  
+{% for proofreader in  book[1].proofreaders %}         
+{% assign tmp = proofreader| split: "xyz" %}
+{% assign pusher = tmp | push: bookid %} 
+{% assign proofreaders = proofreaders| push: pusher %}             
+{% endfor %}  
+{% endfor %}  
+
+{% assign sorted = proofreaders|sort%}
+{% assign storage = ''|split: ' ' %}
+
+{% assign current = '' %}
+{% assign i = '' %}  
+
+{% for proofreader in sorted   %} 
+{% assign reader = proofreader[0] %}
+{% assign book = proofreader[-1] %} 
+{% if proofreader[0] != current %} 
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %}  
+{%if i != ''%} <!--for first iteration-->
+{% assign storage = storage| push: tmp %}
+{%endif %}
+<!--     reinitialize -->
+{% assign current = proofreader[0] %}   
+{% assign i = '' %}    
+{% endif %}
+{% assign i = i| append:'.' %}
+{% endfor %}
+<!-- final element -->
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %} 
+{% assign proofstorage = storage| push: tmp %}
+{% assign proofsorted = proofstorage|sort%}  
+{% assign proofindex=proofsorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
+
+<!-- ---------- -->
+
+{% assign typesetters = '' |split: ' ' %}  <!--empty array-->
+{% for series in site.data.series %} 
+{% for book in series[1].members %} 
+{% assign bookid = book[0]  %}  
+{% for typesetter in  book[1].typesetters %}         
+{% assign tmp = typesetter| split: "sdfsafsd" %}
+{% assign pusher = tmp | push: bookid %}
+<!--         {{pusher}} -->
+{% assign typesetters = typesetters| push: pusher %}             
+{% endfor %}  
+{% endfor %}  
+{% endfor %}  
+
+{% assign sorted = typesetters|sort%}
+{% assign storage = ''|split: ' ' %}
+
+{% assign current = '' %}
+{% assign i = '' %}  
+
+{% for typesetter in sorted   %}
+{% assign reader = typesetter[0] %}
+{% assign book = typesetter[1] %}
+{% if typesetter[0] != current %} 
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %}  
+{%if i != ''%} <!--for first iteration-->
+{% assign storage = storage| push: tmp %}
+{%endif %}
+<!--     reinitialize -->
+{% assign current = typesetter[0] %}   
+{% assign i = '' %}    
+{% endif %}
+{% assign i = i| append:'.' %}
+{% endfor %}
+<!-- final element -->
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %} 
+{% assign storage = storage| push: tmp %}
+{% assign typesettersorted = storage|sort%}  
+{%assign typesetterindex=sorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
+
+
+<!-- ----------------- -->
+
+{% assign illustrators = '' |split: ' ' %}  <!--empty array-->
+{% for series in site.data.series %} 
+{% for book in series[1].members %} 
+{% assign bookid = book[0]  %}  
+{% for illustrator in  book[1].illustrators %}         
+{% assign tmp = illustrator| split: "sdfsafsd" %}
+{% assign pusher = tmp | push: bookid %}
+<!--         {{pusher}} -->
+{% assign illustrators = illustrators| push: pusher %}             
+{% endfor %}  
+{% endfor %}  
+{% endfor %}  
+
+{% assign sorted = illustrators|sort%}
+{% assign storage = ''|split: ' ' %}
+
+{% assign current = '' %}
+{% assign i = '' %}  
+
+{% for illustrator in sorted   %}
+{% assign reader = illustrator[0] %}
+{% assign book = illustrator[1] %}
+{% if illustrator[0] != current %} 
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %}  
+{%if i != ''%} <!--for first iteration-->
+{% assign storage = storage| push: tmp %}
+{%endif %}
+<!--     reinitialize -->
+{% assign current = illustrator[0] %}   
+{% assign i = '' %}    
+{% endif %}
+{% assign i = i| append:'.' %}
+{% endfor %}
+<!-- final element -->
+{% assign tmp = i |split: ' ' %} 
+{% assign tmp = tmp |push: current %} 
+{% assign storage = storage| push: tmp %}
+{% assign illusorted = storage|sort%}  
+{%assign illuindex=sorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
