@@ -10,13 +10,35 @@ title: Hall of Fame
 <table id="proofreaderHoF" class="HoFtable">
 {%for ignore in  proofsorted %} 
   {% assign proofindex=proofindex|minus:1 %}  
+  {% assign person =proofsorted[proofindex][1]  %}
+  {% assign count =proofsorted[proofindex][0]|size   %}
+  
+  {% assign tmpcount=count|minus: 1 %} 
+  {% assign percentiles=percentilestore[tmpcount]  %}
   <tr>
-    <td>  {{ proofsorted[proofindex][1] }}</td>
+    <td>  {{ person }}</td>
     <td> 
-      <div class="HoFbar" style="width:{{ proofsorted[proofindex][0]|size }}0%;">
-        {%assign tmpcount=proofsorted[proofindex][0]|size|minus: 1 %} 
-        <span title="proofread more than {{ percentilestore[tmpcount] }}% of all proofreaders">{{ proofsorted[proofindex][0]|size }}</span>
+      <div class="HoFbar" style="width:{{ count }}0%;"> 
+        <span title="proofread more than {{percentiles}}% of all proofreaders">{{count}}</span>
       </div>
+    </td>
+    
+    <td>
+    
+      <div class="headerContent">      
+        <div class="user">
+          <a class="userName">{{person}}</a>
+          <a href="http://langsci-press.org/user/publicProfile/766" class="linkToProfile">(view profile)</a>               
+        </div>      
+        <div class="achievements">          
+        </div> 
+        <div title="" class="colorBarWrapper  ">
+          <div class="colorBar">
+          <span>          {{count}}/{{percentiles}}                    </span>                 
+        </div>
+        <span class=" ">{{person}} has worked on {{count}} books and is thus statistically more active than {{percentiles}}% of the proofreaders.</span>
+        </div>
+      </div> 
     </td>
   </tr>
 {%endfor %} 

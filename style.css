@@ -628,3 +628,108 @@ color: #005680;
   background: orange;
   
 }
+
+
+#hallOfFame .linkToProfile {
+font-weight: normal;
+}
+#hallOfFame .ui-tabs-nav {
+border-bottom: 1px solid #dddddd;
+}
+#hallOfFame .tab li {
+border: 1px solid #dddddd;
+}
+#hallOfFame .tab .ui-state-active {
+background-color: #dddddd;
+}
+#hallOfFame .bibList {
+padding-bottom: 8px;
+}
+#hallOfFame img {
+display: inline;
+height: 25px;
+}
+#hallOfFame h2 {
+background-repeat: no-repeat !important;
+}
+#hallOfFame h2 span.headerText {
+padding-left: 50px;
+}
+#hallOfFame div.star {
+display: inline;
+}
+#hallOfFame div.accordionContent {
+height: auto !important;
+}
+#hallOfFame h2.goldTitle {
+background-image: url("../img/goldMedal.png");
+}
+#hallOfFame h2.silverTitle {
+background-image: url("../img/silverMedal.png");
+}
+#hallOfFame h2.bronzeTitle {
+background-image: url("../img/bronzeMedal.png");
+}
+#hallOfFame .ui-accordion-header {
+margin: 0 !important;
+padding: 6px 0 !important;
+}
+#hallOfFame .ui-accordion-header div.user {
+display: inline-block;
+height: 22px;
+}
+#hallOfFame .ui-accordion-header div.achievements {
+display: inline-block;
+vertical-align: bottom;
+width: 70px;
+}
+#hallOfFame .ui-accordion-header div.userName {
+margin: 0 !important;
+padding: 0 !important;
+}
+#hallOfFame .ui-accordion-header div.colorBarWrapper {
+display: inline-block;
+}
+#hallOfFame .ui-accordion-header div.colorBar {
+background-color: #ffe56b;
+display: inline-block;
+}
+#hallOfFame .ui-accordion-header div.colorBarWrapper span {
+color: black;
+font-size: 0.8em;
+font-weight: normal;
+margin-left: 6px;
+}
+#hallOfFame #tab-medalCount div.rank {
+float: left;
+padding-top: 7px;
+width: 30px;
+}
+#hallOfFame #tab-medalCount li {
+height: 30px;
+list-style: outside none none;
+}
+#hallOfFame div.medalCount {
+display: inline-block;
+}
+#hallOfFame #tab-medalCount img {
+vertical-align: bottom;
+}
+h2.tooltip > span.tooltip, div.tooltip > span.tooltip {
+  background-color: #dddddd;
+  font-size: 10pt !important;
+  font-weight: normal !important;
+  opacity: 0;
+  padding: 3px;
+  position: absolute;
+  visibility: hidden;
+  z-index: 10;
+}
+h2.tooltip:hover > span.tooltip, div.tooltip:hover > span.tooltip {
+  display: inline;
+  margin-left: -200px !important;
+  margin-top: 40px;
+  opacity: 1;
+  overflow: visible;
+  visibility: visible;
+}
