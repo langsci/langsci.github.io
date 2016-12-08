@@ -1,11 +1,12 @@
 {% assign proofreaders = '' |split: ' ' %}  <!--empty array-->
 {% for book in site.data.books %} 
-{% assign bookid = book[0]  %}  
-{% for proofreader in  book[1].proofreaders %}         
-{% assign tmp = proofreader| split: "xyz" %}
-{% assign pusher = tmp | push: bookid %} 
-{% assign proofreaders = proofreaders| push: pusher %}             
-{% endfor %}  
+  {% assign bookid = book[0]  %}  
+  {% for proofreader in  book[1].proofreaders %}    
+<!--     proofreader is a list with person at [0] and book at [1] -->
+    {% assign tmp = proofreader| split: "xyz" %} <!--put into array-->
+    {% assign pusher = tmp | push: bookid %} 
+    {% assign proofreaders = proofreaders| push: pusher %}             
+  {% endfor %}  
 {% endfor %}  
 
 {% assign sorted = proofreaders|sort%}
@@ -14,27 +15,68 @@
 {% assign current = '' %}
 {% assign i = '' %}  
 
+<!-- count books by adding a token '.' -->
 {% for proofreader in sorted   %} 
-{% assign reader = proofreader[0] %}
-{% assign book = proofreader[-1] %} 
-{% if proofreader[0] != current %} 
-{% assign tmp = i |split: ' ' %} 
-{% assign tmp = tmp |push: current %}  
-{%if i != ''%} <!--for first iteration-->
-{% assign storage = storage| push: tmp %}
-{%endif %}
-<!--     reinitialize -->
-{% assign current = proofreader[0] %}   
-{% assign i = '' %}    
-{% endif %}
-{% assign i = i| append:'.' %}
+  {% assign reader = proofreader[0] %}
+  {% assign book = proofreader[-1] %} 
+  {% if proofreader[0] != current %} <!--new proofreader-->
+    {% assign tmp = i |split: ' ' %} <!--initialize array-->
+    {% assign tmp = tmp |push: current %}  
+    {%if i != ''%} <!--for first iteration-->
+      {% assign storage = storage| push: tmp %}
+    {%endif %}
+    <!--     reinitialize -->
+    {% assign current = proofreader[0] %}   
+    {% assign i = '' %}    
+  {% endif %}
+<!--   append a token for each read book -->
+  {% assign i = i| append:'.' %}
 {% endfor %}
-<!-- final element -->
+  <!-- final element -->
 {% assign tmp = i |split: ' ' %} 
 {% assign tmp = tmp |push: current %} 
 {% assign proofstorage = storage| push: tmp %}
+<!-- we sort by the chained periods alphabetically since jekyll cannot sort numerically -->
 {% assign proofsorted = proofstorage|sort%}  
-{% assign proofindex=proofsorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
+{% assign proofreaderquantity=proofsorted|size%}  <!--reversing an array seems to be complicated, so we count down from the length-->
+{% assign proofreaderindex=proofreaderquantity%}  <!--reversing an array seems to be complicated, so we count down from the length-->
+ 
+{%assign max = 1  %}
+{%assign current = 0  %}
+{%assign rankstore = ''|split: ' '%}
+{%assign percentilestore = ''|split: ' '%}
+{% for x in proofsorted %} 
+  {% assign count = x[0]|size: %} 
+  {% if count == max %} 
+    {%assign current = current|plus: 1 %}
+  {% else %}  
+    {% assign rankstore = rankstore|push: current %}
+    {% assign max=count %}
+    {% assign current=1 %}
+  {% endif %} 
+{% endfor %} 
+{% assign rankstore = rankstore|push: current %}
+{% assign max=count %}
+ 
+<!-- sum up all ranks -->
+{% for r in rankstore %} 
+  {%assign totalranks = totalranks|plus: r%}
+{%endfor%} 
+
+{% assign below = 0 %}
+{% for r in rankstore %} 
+  {%assign self=r%}
+  {%assign above = totalranks|minus:self|minus:below %} 
+  {%assign half = self|divided_by :2%} 
+  {%assign worse = below| plus: half%} 
+  {%assign percentile = worse|times:100|divided_by: totalranks %}  
+  {%assign percentilestore = percentilestore| push: percentile%}
+  {%assign below = below|plus: self %}  
+{%endfor%} 
+ 
+
+
+   
 
 <!-- ---------- -->
 

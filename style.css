@@ -241,6 +241,10 @@ td.yearcell{
  border-bottom: 1px solid gray; 
 }
 
+.HoFtable tr{ 
+  margin-bottom:10px;
+}
+
 .HoFtable td{
 /*  border: 1px solid gray;  */
  text-align:right;
@@ -611,3 +615,16 @@ color: #005680;
     width: 100%;
 }
  
+ 
+.HoFbar{
+  background:green;
+}
+
+.HoFbar span{
+  margin:-3px;
+  padding:3px;
+  border: 2px solid blue;
+  border-radius:5px;
+  background: orange;
+  
+}

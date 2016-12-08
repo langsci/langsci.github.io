@@ -11,9 +11,15 @@ title: Hall of Fame
 {%for ignore in  proofsorted %} 
   {% assign proofindex=proofindex|minus:1 %}  
   <tr>
-    <td>  {{ proofsorted[proofindex][1] }}</td><td>{{ proofsorted[proofindex][0]|size }}</td>
+    <td>  {{ proofsorted[proofindex][1] }}</td>
+    <td> 
+      <div class="HoFbar" style="width:{{ proofsorted[proofindex][0]|size }}0%;">
+        {%assign tmpcount=proofsorted[proofindex][0]|size|minus: 1 %} 
+        <span title="proofread more than {{ percentilestore[tmpcount] }}% of all proofreaders">{{ proofsorted[proofindex][0]|size }}</span>
+      </div>
+    </td>
   </tr>
-{%endfor %}
+{%endfor %} 
 </table>
 </div>
 
