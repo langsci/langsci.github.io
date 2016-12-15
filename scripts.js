@@ -15,7 +15,10 @@ $(document).ready(function()
 	    rewindSpeed : 4000,
 	    autoHeight: true
     });  
-  } 
-); 
+
+ 
+// initialize submenus
+//     $( "#menu" ).menu();    
+  });
 
  
