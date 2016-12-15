@@ -400,12 +400,7 @@ color:white !important;
 display:inline;
 width:200px;
 }
-
-.has_submenu ul{
-  width:0px;
-  opacity:0;
-  display: none;
-}
+ 
 
 
 
@@ -546,6 +541,11 @@ h3.accordionHeader {
 #headermenu li{ 
 margin-right:20px;
 margin-left:0px;
+}
+
+.has_submenu a:hover{
+text-decoration: none;
+cursor:pointer;
 }
 
 #header{
@@ -732,4 +732,9 @@ h2.tooltip:hover > span.tooltip, div.tooltip:hover > span.tooltip {
   opacity: 1;
   overflow: visible;
   visibility: visible;
+}
+
+
+.has_submenu:after{
+  content: '▼';
 }
