@@ -738,3 +738,7 @@ h2.tooltip:hover > span.tooltip, div.tooltip:hover > span.tooltip {
 .has_submenu:after{
   content: '▼';
 }
+
+div.row, td{
+ background-image: url('/resources/img/development.png');
+}
