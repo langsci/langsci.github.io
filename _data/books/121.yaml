@@ -1,22 +1,212 @@
+blurb: "<p class=\"western\" style=\"margin-top: 0.19in; margin-bottom: 0.19in; line-height:\
+  \ 100%;\"><em>Diversity in African Languages</em> contains a selection of revised\
+  \ papers from the 46th Annual Conference on African Linguistics, held at the University\
+  \ of Oregon. Most chapters focus on single languages, addressing diverse aspects\
+  \ of their phonology, morphology, semantics, syntax, information structure, or historical\
+  \ development. These chapters represent nine different genera: Mande, Gur, Kwa,\
+  \ Edoid, Bantu, Nilotic, Gumuzic, Cushitic, and Omotic. Other chapters investigate\
+  \ a mix of languages and families, moving from typological issues to sociolinguistic\
+  \ and inter-ethnic factors that affect language and accent switching. Some chapters\
+  \ are primarily descriptive, while others push forward the theoretical understanding\
+  \ of tone, semantic problems, discourse related structures, and other linguistic\
+  \ systems. The papers on Bantu languages reflect something of the internal richness\
+  \ and continued fascination of the family for linguists, as well as maturation of\
+  \ research on the family. The distribution of other papers highlights the need for\
+  \ intensified research into all the language families of Africa, including basic\
+  \ documentation, in order to comprehend linguistic diversities and convergences\
+  \ across the continent. In this regard, the chapter on Daats\x92i?in (Gumuzic) stands\
+  \ out as the first-ever published article on this hitherto unknown and endangered\
+  \ language found in the Ethiopian-Sudanese border lands."
 bookid: 121
-title: Proceedings of the 46th Annual Conference on African Linguistics
+booksubtitle: Selected papers from the 46th Annual Conference on African Linguistics
+chapters:
+- authors:
+  - [Laura, '', McPherson]
+  number: 1
+  subtitle: null
+  title: Tone features revisited
+- authors:
+  - [Michael, '', Cahill]
+  number: 2
+  subtitle: null
+  title: Intonation and emotions in K?nni
+- authors:
+  - [Amos, '', Teo]
+  number: 3
+  subtitle: null
+  title: "The coding of identifiability in Moor\xE9"
+- authors:
+  - [Sara, '', Pacchiarotti]
+  number: 4
+  subtitle: null
+  title: "The syntactic status of objects in Moor\xE9 ditransitive constructions"
+- authors:
+  - [Anne, '', Schwarz]
+  number: 5
+  subtitle: null
+  title: All-in-one and one-for-all
+- authors:
+  - [Sampson, '', Korsah]
+  number: 6
+  subtitle: null
+  title: Beyond resumptives and expletives in Akan
+- authors:
+  - [E. Kweku, '', Osam]
+  number: 7
+  subtitle: null
+  title: Valency changing processes in Akan
+- authors:
+  - [Nicholas, '', Rolle]
+  - [Ethelbert, E., Kari]
+  number: 8
+  subtitle: null
+  title: Degema clitics and serial verb constructions at the syntax/phonology interface
+- authors:
+  - [Eleanor, '', Glewwe]
+  - [Ann, M., Aly]
+  number: 9
+  subtitle: null
+  title: Coronal palatalization in Logoori
+- authors:
+  - [Boniface, '', Kawasha]
+  number: 10
+  subtitle: null
+  title: Remote past and phonological processes in Kaonde
+- authors:
+  - [Hannah, '', Sarvasy]
+  number: 11
+  subtitle: null
+  title: The future in Logoori oral texts
+- authors:
+  - [Meredith, '', Landman]
+  number: 12
+  subtitle: null
+  title: Quantification in Logoori
+- authors:
+  - [Ross, '', Burkholder]
+  number: 13
+  subtitle: null
+  title: The syntactic structure of negation in Ndebele
+- authors:
+  - [Deo, '', Ngonyani]
+  - [Nancy, Jumwa, Ngowa]
+  number: 14
+  subtitle: null
+  title: The productivity of the reversive extension in Standard Swahili
+- authors:
+  - [John, '', Gluckmann]
+  - [Margit, '', Bowler]
+  number: 15
+  subtitle: null
+  title: The anticausative alternation in Luragooli
+- authors:
+  - [Kyle, '', Jerro]
+  number: 16
+  subtitle: null
+  title: The locative applicative and the semantics of verb class in Kinyarwanda
+- authors:
+  - [Galen, '', Sibanda]
+  number: 17
+  subtitle: null
+  title: The Ndebele applicative construction
+- authors:
+  - ["Armindoo Sa\xFAl", '', Atelela Ngunga]
+  - ["F\xE1bio", '', Bonfim Duarte]
+  - [Quesler, '', Fagundes Camargos]
+  number: 18
+  subtitle: null
+  title: Differential object marking in Mozambican languages
+- authors:
+  - [Jenneke, '', van der Wal]
+  - [Saudah, '', Namyalo]
+  number: 19
+  subtitle: null
+  title: The interaction of two focus marking strategies in Luganda
+- authors:
+  - [Steve, '', Nicolle]
+  number: 20
+  subtitle: null
+  title: Variation in the expression of information structure in eastern Bantu languages
+- authors:
+  - [Jonathan, '', Moodie]
+  number: 21
+  subtitle: null
+  title: Number marking in Lopit, an Eastern Nilotic language
+- authors:
+  - [Colleen, '', Ahland]
+  number: 22
+  subtitle: null
+  title: "Daats?\xEDin, a newly identified undocumented language of western Ethiopia"
+- authors:
+  - [Morgan, '', Nilsson]
+  number: 23
+  subtitle: null
+  title: Somali gender polarity revisited
+- authors:
+  - [Michael, '', Ahland]
+  number: 24
+  subtitle: null
+  title: The development of finite verbs from nominalized structures in Northern Mao
+- authors:
+  - [Ken, '', Safir]
+  - [Naga, '', Selvanathan]
+  number: 25
+  subtitle: null
+  title: Niger-Congo transitive reciprocal constructions and polysemy with reflexives
+- authors:
+  - [Gregory, D.S., Anderson]
+  number: 26
+  subtitle: null
+  title: STAMP morphs in the Macro-Sudan Belt
+- authors:
+  - [Kelechukwu, '', Ihemere]
+  number: 27
+  subtitle: null
+  title: Igbo-English intrasentential codeswitching and the Matrix Language Frame
+    model
+- authors:
+  - [Martha, '', Michieka]
+  - [Leonard, '', Muaka]
+  number: 28
+  subtitle: null
+  title: Humor in Kenyan comedy
 creators:
-  authors:
-    - [Doris, Payne, ""]
-    - [Sara, Pacchiarotti, ""]
-    - [Mokaya, Bosire, ""]
-editedvolume: 1 
-booktitle: Proceedings of the 46th Annual Conference on African Linguistics
-booksubtitle:   
-seriesnumber: 2
-blurb:  
-authorbio:  
-isbns: 
-- [digital,978-3-000000-00-0 ]
-doi:  
-proofreaders:   
-typesetters:    
-illustrators:   
-createspace:  
-bod:  
-publicationdate: forthcoming
+  authors: []
+  editors:
+  - [Doris, L., Payne, '<p class="western" style="margin-bottom: 0in; line-height:
+      100%;">Doris L. Payne is a professor at the University of Oregon and a consultant
+      with SIL International. She has done original field work on languages of East
+      Africa and the Americas. As a fieldworker, she focuses on all aspects of language
+      structure but is especially interested in morphosyntax, discourse, and the lexical-syntactic
+      interface. Together with Maasai colleagues, she is developing a trilingual Maasai-Swahili-English
+      dictionary.</p>']
+  - [Sara, '', Pacchiarotti, '<p style="margin-bottom: 0in; line-height: 100%;"><span
+      style="font-family: Calibri,serif;"><span style="font-size: small;"><span style="font-family:
+      Times New Roman,serif;"><span style="font-size: medium;">Sara Pacchiarotti is
+      a PhD candidate in Linguistics at the University of Oregon. She is particularly
+      interested in syntax, historical linguistics and language change. She has worked
+      on Bribri (Chibchan), has broad experience with Indo-European languages, and
+      is also interested in African languages.</span></span></span></span></p>']
+  - [Mokaya, '', Bosire, '<p style="margin-bottom: 0in; line-height: 100%;"><span
+      style="font-family: Calibri,serif;"><span style="font-size: small;"><span style="font-family:
+      Times New Roman,serif;"><span style="font-size: medium;">Mokaya Bosire studies
+      Swahili, youth languages and urban vernaculars in the Swahili Nation including
+      Sheng and Street Swahili. He is particularly interested in language contact,
+      language variation and the interplay between language and power in post-colonial
+      Africa. He teaches Swahili at the University of Oregon, Eugene.</span></span></span></span></p>']
+doi: 10.17169/langsci.b121.280
+illustrators: []
+isbns: {digital: 978-3-946234-70-8, hardcover: 978-3-946234-71-5, softcover: 978-1-542598-22-4}
+prefix: ''
+proofreaders: ["M\xAA Teresa Ortego", George Walkden, Michael Marlo, Evans Mecha,
+  Felix Kopecky, Rosey Billington, Ikmi Nur Oktavianti, "Andreas H\xF6lzl", Ezekiel
+    Tunde Bolaji, "Ahmet Bilal \xD6zdemir", Anne Kilgus, Stathis Selimis, Varun deCastro-Arrazola,
+  Steve Pepper, Jean Nitzke, Valeria Quochi, Ignatius Usar, Hannah Gibson]
+publicationdate: '20170123'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/1542598222?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/1542598222?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/1542598222?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/hyztie-dG04d'}
+series: cal
+seriesnumber: '1'
+title: Diversity in African languages
+typesetters: []

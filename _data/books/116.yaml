@@ -1,28 +1,50 @@
-bookid:  116
-title:  Sprachliche Imitation
-creators:
-  editors: 
-  authors: [[Lea,Schäfer,'
-  Lea Schäfer studierte Sprachwissenschaft an der Philipps-Universität Marburg. Von 2011–2016 war sie wissenschaftliche Mitarbeiterin im DFG-finanzierten Projekt "Westjiddisch im (langen) 19. Jahrhundert" an der Philipps-Universität Marburg, wo sie 2015 ihre Dissertationschrift "Imitationen des Jiddischen in der deutschsprachigen Literatur – Studien zur Struktur fiktionaler Sprache" verteidigte. Ihre Forschungsschwerpunkte sind historische Mündlichkeit und sprachliche Variabilität bzw. Stativität.
-  
-  Lea Schäfer studied linguistics at the Philipps-Universität Marburg. She worked as a research assistant at a project funded by the German Research Council (DFG) called "Western Yiddish in the (long) 19th century" from 2011–2016. She defended her Ph.D. thesis on the imitation of Yiddish in german fiction in 2015. Her research interests center around historical orality as well as language variation and stability.
-  ']]
-editedvolume:  
+blurb: "Diese Arbeit besch\xE4ftigt sich mit den Strukturen fiktionaler, imitierender\
+  \ Sprache. Am Beispiel detaillierter Analysen der sprachlichen Charakterisierung\
+  \ j\xFCdischer Figuren der deutschsprachigen Literatur des 18., 19. und fr\xFChen\
+  \ 20. Jahrhunderts legt die Arbeit offen, welche Strukturen die jiddische Sprachrealit\xE4\
+  t widerspiegeln und welche als Reflexe der (zumeist autoreigenen) M\xFCndlichkeit\
+  \ gelten k\xF6nnen. Zugleich stellt die Untersuchung eine umfangreiche grammatische\
+  \ Darstellung des im deutschsprachigen Raum bis ins fr\xFChe 20. Jahrhundert hinein\
+  \ verbreiteten Westjiddischen dar, dessen Strukturen sie mit denen deutscher und\
+  \ ostjiddischer Variet\xE4ten vergleicht.\r\nThis book contains a study on fictional,\
+  \ imitated language. In detailed analyses it shows how Jewish figures were characterized\
+  \ through their language in German fiction (18th until early 20th century). It discloses\
+  \ which structures of this fictional language originate from the Yiddish language\
+  \ and which are reflexes of (the author's) orality. At the same time the study contains\
+  \ a comprehensive description of Western Yiddish and its grammatical structures,\
+  \ which are compared with German and Eastern Yiddish varieties.\r\n&nbsp;\r\n&nbsp;\r\
+  \nGerman law requires we state the prices in Germany for this publication. The hardcover\
+  \ price is 70.00 EUR; the softcover price is 64.20 EUR."
+bookid: 116
 booksubtitle: Jiddisch in der deutschsprachigen Literatur (18.-20. Jahrhundert)
-seriesnumber: 2
-blurb: "
-Diese Arbeit beschäftigt sich mit den Strukturen fiktionaler, imitierender Sprache.
-Am Beispiel detaillierter Analysen der sprachlichen Charakterisierung jüdischer Figuren der deutschsprachigen Literatur des 18., 19. und frühen 20. Jahrhunderts legt die Arbeit offen, welche Strukturen die jiddische Sprachrealität widerspiegeln und welche als Reflexe der (zumeist autoreigenen) Mündlichkeit gelten können. Zugleich stellt die Untersuchung eine umfangreiche grammatische Darstellung des im deutschsprachigen Raum bis ins frühe 20. Jahrhundert hinein verbreiteten Westjiddischen dar, dessen Strukturen sie mit denen deutscher und ostjiddischer Varietäten vergleicht.
-
-This book contains a study on fictional, imitated language. In detailed analyses it shows how Jewish figures were characterized through their language in German fiction (18th until early 20th century). It discloses which structures of this fictional language originate from the Yiddisch language and which are reflexes of (the author's) orality. At the same time the study contains a comprehensive description of Western Yiddish and its grammatical structures, which are compared with German and Eastern Yiddish varieties.
-
-"
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate:  forthcoming
+chapters: []
+creators:
+  authors:
+  - [Lea, '', "Sch\xE4fer", "<p>\nLea Sch\xE4fer studierte Sprachwissenschaft an der\
+      \ Philipps-Universit\xE4t Marburg. Von 2011\x962016 war sie wissenschaftliche\
+      \ Mitarbeiterin im DFG-finanzierten Projekt \"Westjiddisch im (langen) 19. Jahrhundert\"\
+      \ an der Philipps-Universit\xE4t Marburg, wo sie 2015 ihre Dissertationschrift\
+      \ \"Imitationen des Jiddischen in der deutschsprachigen Literatur \x96 Studien\
+      \ zur Struktur fiktionaler Sprache\" verteidigte. Ihre Forschungsschwerpunkte\
+      \ sind historische M\xFCndlichkeit und sprachliche Variabilit\xE4t bzw. Stativit\xE4\
+      t.\n</p>\n<p>\nLea Sch\xE4fer studied linguistics at the Philipps-Universit\xE4\
+      t Marburg. She worked as a research assistant at a project funded by the German\
+      \ Research Council (DFG) called \"Western Yiddish in the (long) 19th century\"\
+      \ from 2011\x962016. She defended her Ph.D. thesis on the imitation of Yiddish\
+      \ in German fiction in 2015. Her research interests center around historical\
+      \ orality as well as language variation and stability.\n</p>"]
+  editors: []
+doi: 10.17169/langsci.b116.259
+illustrators: []
+isbns: {digital: 978-3-946234-78-4, hardcover: 978-3-946234-79-1, softcover: 978-3-946234-80-7}
+prefix: ''
+proofreaders: ["Michael Rie\xDFler", Sebastian Nordhoff, Kilu von Prince, Felix Kopecky,
+  "Andreas H\xF6lzl", Jean Nitzke]
+publicationdate: '20170116'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/1537564439?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/1537564439?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/1537564439?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/KZAslKj0Bgrk'}
+series: lv
+seriesnumber: '2'
+title: Sprachliche Imitation
+typesetters: []

@@ -1,31 +1,56 @@
-bookid:  27
-title:      Grammaire des constructions elliptiques
+blurb: "<p class=\"p1\">In this book, I propose a grammar fragment which accounts\
+  \ for the main properties of two elliptical constructions (\x91lacking\x92 for the\
+  \ verbal head) called <em>gapping</em> (1a) and <em>verbless relative adjuncts</em>\
+  \ (therefore, VRA) (1b) respectively.\r\n<p class=\"p1\">(1) a. Jean aime les pommes\
+  \ [<strong>et</strong>&nbsp;Marie les bananes]. 'Jean likes apples and Maria bananas'&nbsp;\r\
+  \n<p class=\"p1\">&nbsp; &nbsp; &nbsp;b. Plusieurs personnes sont venues cette semaine,\
+  \ [<strong>dont</strong>&nbsp;Marie (hier)]. 'Several people have come this week,\
+  \ among which Marie yesterday'\r\n<p class=\"p2\">We mainly argue for the fact that\
+  \ elliptical clauses in gapping and VRA constructions don\x92t behave as regular\
+  \ verbal clauses. Their syntactic and semantic properties don\x92t provide evidence\
+  \ for deriving this kind of elliptical clause from a complete clause. An analysis\
+  \ in terms of syntactic reconstruction of the missing material is therefore inadequate.\
+  \ Thus, the elliptical clause in both constructions (gapping and VRA) has a specific\
+  \ syntactic behaviour and must be assigned an independent status in the grammar,\
+  \ more precisely the status of a <em>fragmentary clause</em>, that is a syntactic\
+  \ unit having a propositional content of message type, but an incomplete syntax.\
+  \ This dissertation gives new arguments in favor of a semantic reconstruction with\
+  \ parallelism constraints, cf. Ginzburg &amp; Sag (2000), Culicover &amp; Jackendoff\
+  \ (2005)."
+bookid: 27
+booksubtitle: "Une \xE9tude comparative des phrases sans verbe en roumain et en fran\xE7\
+  ais"
+chapters: []
 creators:
-  editors: 
-  authors: [[Gabriela, Bîlbîie, "Gabriela Bîlbîie studied Romanian and French Linguistics and Literature at the University of Bucharest, completing her studies with a MA and a PhD in Theoretical Linguistics at Université Paris Diderot – Paris 7. Since 2006, she has taught Linguistics in several Parisian universities (Paris 4, Paris 7, Paris 10, and Paris 13). After being granted a postdoctoral research fellowship within the Labex - Empirical Foundations of Linguistics project (PRES Sorbonne Paris-Cité) on experimental syntax and ellipsis, she is currently a post-doctoral researcher at the University of Bucharest working on a research project that investigates null complements in Romanian from a cross-linguistic perspective. Her research interests include syntax and its interfaces (in particular semantics and discourse) and corpus linguistics. She is particularly interested in ellipsis phenomena, coordination, and subordination. She mainly works on Romanian and French, adopting a larger comparative perspective (with other Romance, Slavic, and Balkanic languages)."]]
-editedvolume: 
-booksubtitle:  Une étude comparative des phrases sans verbe en roumain et en français
-seriesnumber: 2 
-blurb: "
-<p>
-In this book, I propose a grammar fragment which accounts for the main properties of two elliptical constructions (‘lacking’ for the verbal head) called gapping (1a) and verbless relative adjuncts (therefore, VRA) (1b) respectively.
-</p>
-<p>
-(1) a. Jean aime les pommes [et Marie les bananes]. 'Jean likes apples and Maria bananas' 
-</p>
-<p>
-b. Plusieurs personnes sont venues cette semaine, [dont Marie (hier)]. 'Several people have come this week, among which Marie yesterday'
-</p>
-<p>
-We mainly argue for the fact that elliptical clauses in gapping and VRA constructions don’t behave as regular verbal clauses. Their syntactic and semantic properties don’t provide evidence for deriving this kind of elliptical clause from a complete clause. An analysis in terms of syntactic reconstruction of the missing material is therefore inadequate. Thus, the elliptical clause in both constructions (gapping and VRA) has a specific syntactic behaviour and must be assigned an independent status in the grammar, more precisely the status of a fragmentary clause, that is a syntactic unit having a propositional content of message type, but an incomplete syntax. This dissertation gives new arguments in favor of a semantic reconstruction with parallelism constraints, cf. Ginzburg & Sag (2000), Culicover & Jackendoff (2005).
-</p>
-"
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate:  Forthcoming
+  authors:
+  - [Gabriela, '', "B\xEElb\xEEie", "<p>Gabriela B\xEElb\xEEie studied Romanian and\
+      \ French Linguistics and Literature at the University of Bucharest, completing\
+      \ her studies with a MA and a PhD in Theoretical Linguistics at Universit\xE9\
+      \ Paris Diderot \x96 Paris 7. Since 2006, she has taught Linguistics in several\
+      \ Parisian universities (Paris 4, Paris 7, Paris 10, and Paris 13). After being\
+      \ granted a postdoctoral research fellowship within the Labex - Empirical Foundations\
+      \ of Linguistics project (PRES Sorbonne Paris-Cit\xE9) on experimental syntax\
+      \ and ellipsis, she is currently a post-doctoral researcher at the University\
+      \ of Bucharest working on a research project that investigates null complements\
+      \ in Romanian from a cross-linguistic perspective. Her research interests include\
+      \ syntax and its interfaces (in particular semantics and discourse) and corpus\
+      \ linguistics. She is particularly interested in ellipsis phenomena, coordination,\
+      \ and subordination. She mainly works on Romanian and French, adopting a larger\
+      \ comparative perspective (with other Romance, Slavic, and Balkanic languages).</p>"]
+  - [Gabriela, '', "B\xEElb\xEEie", '']
+  - [Gabriela, '', "B\xEElb\xEEie", '']
+  editors: []
+doi: 10.5281/zenodo.573753
+edition: 0
+illustrators: []
+isbns: {digital: 978-3-944675-52-7, hardcover: 978-3-946234-82-1, softcover: 978-3-944675-67-1}
+prefix: ''
+proofreaders: []
+publicationdate: ''
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675673?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675673?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675673?tag=wwwlangscipre-20',
+  paperhive: 'http://www.paperhive.org/documents/remote?type=langsci&id=27'}
+series: eotms
+seriesnumber: '2'
+title: ''
+typesetters: []

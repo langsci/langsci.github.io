@@ -1,21 +1,37 @@
-bookid:  83
-title:  A grammar of Yauyos Quechua
+blurb: This book presents a synchronic grammar of the southern dialects of Yauyos,
+  an extremely endangered Quechuan language spoken in the Peruvian Andes. As the language
+  is highly synthetic, the grammar focuses principally on morphology; a longer section
+  is dedicated to the language's unusual evidential system. The grammar's 1400 examples
+  are drawn from a 24-hour corpus of transcribed recordings collected in the course
+  of the documentation of the language.
+bookid: 83
+booksubtitle: ''
+chapters: []
 creators:
-  editors: 
-  authors: [[Aviva,Shimelman,"Aviva Shimelman earned a PhD in Linguistics from Université Laval and an MA in Political Science from the University of California at Berkeley. She has taught in California in the Linguistics Department at San José State University and in Merrill College at the University of California at Santa Cruz; in China, she taught in the School of Foreign Languages at Beijing Normal University, Zhuhai. She was a fellow for three years in the Documenting Endangered Languages program of the US National Endowment for the Humanities and National Science Foundation. She is currently working on a project of the Max Planck Institute for Psycholinguistics in Vanuatu documenting the languages of Malekula. "]]
-editedvolume:  
-booksubtitle: 
-seriesnumber: 9
-blurb: "
-This book presents a synchronic grammar of the southern dialects of Yauyos, an extremely endangered Quechuan language spoken in the Peruvian Andes.
-As the language is highly synthetic, the grammar focuses principally on morphology; a longer section is dedicated to the language's unusual evidential system. The grammar's 1400 examples are drawn from a 24-hour corpus of transcribed recordings collected in the course of the documentation of the language. 
-"
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate:  forthcoming
+  authors:
+  - [Aviva, '', Shimelman, "<p>Aviva Shimelman earned a PhD in Linguistics from Universit\xE9\
+      \ Laval and an MA in Political Science from the University of California at\
+      \ Berkeley. She has taught in California in the Linguistics Department at San\
+      \ Jos\xE9 State University and in Merrill College at the University of California\
+      \ at Santa Cruz; in China, she taught in the School of Foreign Languages at\
+      \ Beijing Normal University, Zhuhai. She was a fellow for three years in the\
+      \ Documenting Endangered Languages program of the US National Endowment for\
+      \ the Humanities and National Science Foundation. She is currently working in\
+      \ Vanuatu on a project of the Max Planck Institute for the Science of Human\
+      \ History documenting the languages of the island of Malekula.</p>"]
+  editors: []
+doi: 10.5281/zenodo.376355
+illustrators: []
+isbns: {digital: 978-3-946234-21-0, hardcover: 978-3-946234-22-7, softcover: 978-3-946234-23-4}
+prefix: A
+proofreaders: [Martin Haspelmath, Eitan Grossman, Siri Tuttle, Conor Pyle, Alan Scott,
+  Tamara Schmidt, Charlotte van Tongeren, Jo-Anne Ferreira, Alec Shaw, Mario Bisiada,
+  Siva Kalyan]
+publicationdate: '20170331'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234224?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234224?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234224?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/S_WoxpLs0ZvE'}
+series: sidl
+seriesnumber: '9'
+title: grammar of Yauyos Quechua
+typesetters: []

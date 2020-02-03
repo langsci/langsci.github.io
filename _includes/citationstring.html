@@ -1,6 +1,6 @@
 {% assign authorlist = '' | split: ' ' %} <!--initialize array-->
 {% for  author in book.creators.authors %}
-{% assign normalizedauthor = author[0] | append:" " | append: author[1] %} 
+{% assign normalizedauthor = author[0] | append:" " | append: author[1] | append:" " | append: author[2] %}
 {% assign authorlist = authorlist | push:  normalizedauthor %}
 {% assign authorsuffix = '(authors)' %}
 {% if  {{forloop.length}} == 1 %}
@@ -8,21 +8,21 @@
 {% endif %}
 {% else %}
 {% assign authorsuffix = '' %}
-{% endfor %} 
+{% endfor %}
 
 
 {% assign editorlist = '' | split: ' ' %} <!--initialize array-->
 {% for  editor in book.creators.editors %}
-{% assign normalizededitor = editor[0] | append: " " | append: editor[1] %} 
+{% assign normalizededitor = editor[0] | append: " " | append: editor[1]| append: " " | append: editor[2] %}
 {% assign editorlist = editorlist | push:  normalizededitor %}
-{% assign editorsuffix = '(editors)' %} 
+{% assign editorsuffix = '(editors)' %}
 {% if  {{forloop.length}} == 1 %}
-{% assign editorsuffix = '(editor)' %} 
+{% assign editorsuffix = '(editor)' %}
 {% endif %}
 {% else %}
-{% assign editorsuffix = '' %} 
+{% assign editorsuffix = '' %}
 {% assign authorsuffix = '' %} <!--if no editors are present, the authors are not explicitly marked as such-->
-{% endfor %} 
+{% endfor %}
 
 
 {% assign authorstring = authorlist | join:  ', ' |append: ' '| append: authorsuffix %}
@@ -32,19 +32,19 @@
 {% assign citationstring = '' %}
 
 {% if book.creators.authors%}
-{% for creator in book.creators.authors %} 
+{% for creator in book.creators.authors %}
 {% if forloop.index == 1%}
-{% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
+{% assign citationstring = citationstring|append: creator[2]|append: ", "| append: creator[0]  |append: ' '| append: creator[1]%}
 {% else %}
 {% if forloop.index == forloop.length%}
 {% assign citationstring = citationstring|append: " &amp; " |append: creator[0] |append: ' '|append: creator[1] %}
 {% else %}
 {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
 {% endif %}
-{% endif %} 
+{% endif %}
 {% endfor %}
 {%else%}
-{% for creator in book.creators.editors %} 
+{% for creator in book.creators.editors %}
 {% if forloop.index == 1%}
 {% assign citationstring = citationstring|append: creator[1]|append: ", "| append: creator[0] %}
 {% else %}
@@ -53,13 +53,13 @@
 {% else %}
 {% assign citationstring = citationstring|append: ", " |append: creator[0] |append: ' ' |append: creator[1] %}
 {% endif %}
-{% endif %} 
+{% endif %}
 {% endfor %}
-{% assign tmp = book.creators.editors|size %} 
+{% assign tmp = book.creators.editors|size %}
 {% if tmp == 1%}
 {% assign citationstring = citationstring|append: " (ed.)"%}
 {% else %}
 {% assign citationstring = citationstring|append: " (eds.)"%}
 {% endif %}
-{% endif %} 
+{% endif %}
 

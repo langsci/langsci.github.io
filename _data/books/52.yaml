@@ -1,26 +1,36 @@
+blurb: "<p style=\"margin-bottom: 0in;\"><span style=\"color: #000000;\"><span style=\"\
+  font-family: Helvetica,serif;\"><span style=\"font-size: medium;\">There are few\
+  \ linguistic phenomena that have seduced linguists so skillfully as grammatical\
+  \ case has done. Ever since Panini (4th Century BC), case has claimed a central\
+  \ role in linguistic theory and continues to do so today. However, despite centuries\
+  \ worth of research, case has yet to reveal its most important secrets.</span></span></span><p\
+  \ style=\"margin-bottom: 0in;\">\_<p style=\"margin-bottom: 0in;\"><span style=\"\
+  color: #000000;\"><span style=\"font-family: Helvetica,serif;\"><span style=\"font-size:\
+  \ medium;\">This book offers breakthrough explanations for the understanding of\
+  \ case through agent-based experiments in cultural language evolution. The experiments\
+  \ demonstrate that case systems may emerge because they have a selective advantage\
+  \ for communication: they reduce the cognitive effort that listeners need for semantic\
+  \ interpretation, while at the same time limiting the cognitive resources required\
+  \ for doing so.</span></span></span>"
 bookid: 52
-title: The evolution of case grammar
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Remi, van Trijp," "]]
-editedvolume: 0 
-booktitle: The evolution of case grammar 
-seriesnumber: 4
-blurb: "There are few linguistic phenomena that have seduced linguists so skillfully as grammatical case has done.
-Ever since Panini (4th Century BC), case has claimed a central role in linguistic theory and continues to do so today. However, despite centuries worth of research, case has yet to reveal its most important secrets.
-
-
-
-This book offers breakthrough explanations for the understanding of case through agent-based experiments in cultural language evolution. The experiments demonstrate that case systems may emerge because they have a selective advantage for communication: they reduce the cognitive effort that listeners need for semantic interpretation, while at the same time limiting the cognitive resources required for doing so.
-"
-isbns:
-- [digital, 978-3-944675-45-9 ]
-- [ISBN-13 softcover-US, 978-1-523743-51-3]
-- [ISBN-13 hardcover, 978-3-944675-84-8]
-- [ISBN-13 softcover, 978-3-944675-85-5 ]
-doi: 10.17169/langsci.b52.182 
-proofreaders:  
-typesetters:    
-illustrators:   
-createspace: https://www.amazon.co.uk/evolution-case-grammar-Computational-Evolution/dp/3944675851&tag=wwwlangscip03-21
-bod: https://www.bod.de/buch/remi-van-trijp/the-evolution-of-case-grammar/9783944675848.html
-publicationdate: 2016-06-27 
+  authors:
+  - [Remi, '', van Trijp, '']
+  - [Remi, '', van Trijp, '']
+  - [Remi, '', van Trijp, '']
+  editors: []
+doi: 10.17169/langsci.b52.182
+illustrators: []
+isbns: {digital: 978-3-944675-45-9, hardcover: 978-3-944675-84-8, softcover: 978-3-944675-85-5}
+prefix: The
+proofreaders: [Benjamin Brosig, Marijana Janjic, Felix Kopecky]
+publicationdate: '20160627'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675851?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675851?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675851?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/2P7ikIRPkbND'}
+series: cmle
+seriesnumber: '4'
+title: evolution of case grammar
+typesetters: []

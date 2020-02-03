@@ -1,44 +1,48 @@
+blurb: "Diese Arbeit untersucht das Verh\xE4ltnis zwischen Syntaxmodell und lexikalischen\
+  \ Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und\
+  \ anhand der Ph\xE4nomenbereiche Koh\xE4renz und Ellipse. Wie die meisten prominenten\
+  \ Syntaxmodelle betreibt TAG eine Amalgamierung von Syntax und Valenz, die oft zu\
+  \ Realisierungsidealisierungen f\xFChrt. Es wird jedoch gezeigt,\r\n<ul>\r\n<li>dass\
+  \ TAG dabei gewisse Realisierungsidealisierungen vermeidet und Diskontinuit\xE4\
+  t bei Koh\xE4renz direkt repr\xE4sentieren kann;</li>\r\n<li>dass TAG trotzdem und\
+  \ trotz der im Vergleich zu GB, LFG und HPSG wesentlich eingeschr\xE4nkten Ausdrucksst\xE4\
+  rke zu einer linguistisch sinnvollen Analyse koh\xE4renter Konstruktionen herangezogen\
+  \ werden kann;</li>\r\n<li>dass der TAG-Ableitungsbaum f\xFCr die indirekte Gapping-Modellierung\
+  \ eine ausreichend informative Bezugsgr\xF6\xDFe darstellt.</li>\r\n</ul>\r\nF\xFC\
+  r &nbsp;die direkte Repr\xE4sentation von Gapping-Strukturen wird schlie\xDFlich\
+  \ ein baumbasiertes Syntaxmodell, STUG, vorgeschlagen, in dem Syntax und Valenz\
+  \ getrennt, aber verlinkt sind.&nbsp;\r\n&nbsp;\r\nGerman law requires we state\
+  \ the prices in Germany for this publication. The hardcover price is 35.00 EUR;\
+  \ the softcover price is 25.00 EUR."
 bookid: 20
-title: Syntax und Valenz
+booksubtitle: "Zur Modellierung koh\xE4renter und elliptischer Strukturen mit Baumadjunktionsgrammatiken"
+chapters: []
 creators:
-  authors: [[Timm, Lichte, "  
-  Timm Lichte studierte allgemeine Sprachwissenschaft, Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universität Tübingen und begann dort anschließend seine Promotion im Rahmen eines Emmy-Noether-Projekts bei Laura Kallmeyer. Derzeit ist er wissenschaftlicher Mitarbeiter im SFB 991 an der Heinrich-Heine-Universität Düsseldorf. Zu seinen Forschungsinteressen zählen die Formalisierung und computerlinguistische Implementierung von natürlichsprachlichen Grammatiken.
-  
-  Timm Lichte studied general linguistics, computer science and general rhetoric at the University of Tübingen, where he also started his PhD under Laura Kallmeyer as part of an Emmy-Noether Project. He is currently research associate of the CRC 991 at the University of Düsseldorf. His research focuses on the formalization and implementation of natural language grammars."]]
-editedvolume: 0 
-booktitle: Syntax und Valenz
-booksubtitle:  Zur Modellierung kohärenter und elliptischer Strukturen mit Baumadjunktionsgrammatiken
-seriesnumber: 1
-blurb: "Diese Arbeit untersucht das Verhältnis zwischen Syntaxmodell und lexikalischen Valenzeigenschaften anhand der Familie der Baumadjunktionsgrammatiken (TAG) und anhand der Phänomenbereiche Kohärenz und Ellipse.
-<br/>
-Wie die meisten prominenten Syntaxmodelle betreibt TAG eine Amalgamierung von Syntax und Valenz, die oft zu Realisierungsidealisierungen führt. Es wird jedoch gezeigt,
-<ul>
-<li>dass TAG dabei gewisse Realisierungsidealisierungen vermeidet und Diskontinuität bei Kohärenz direkt repräsentieren kann;</li>
-<li>dass TAG trotzdem und trotz der im Vergleich zu GB, LFG und HPSG wesentlich eingeschränkten Ausdrucksstärke zu einer linguistisch sinnvollen Analyse kohärenter Konstruktionen herangezogen werden kann;</li>
-<li>dass der TAG-Ableitungsbaum für die indirekte Gapping-Modellierung eine ausreichend informative Bezugsgröße darstellt.</li>
-</ul>
-Für  die direkte Repräsentation von Gapping-Strukturen wird schließlich ein baumbasiertes Syntaxmodell, STUG, vorgeschlagen, in dem Syntax und Valenz getrennt, aber verlinkt sind. 
-<br/>
-German law requires we state the prices in Germany for this publication. The hardcover price is 60.00 EUR; the softcover price is 32.10 EUR.
-"
-isbns:
-- [digital,978-3-944675-51-0 ]
-- [ISBN-13 hardcover, 978-3-944675-62-6]
-- [ISBN-13 softcover, 978-3-944675-63-3]
-- [ISBN-13 softcover-US, 978-1-523743-78-0 ]
-doi: 10.17169/langsci.b20.102 
-proofreaders:   
--  Martin Haspelmath
--  Sebastian Nordhoff
--  Armin Buch
--  Daniela Schröder
--  Constantin Freitag
--  Charlotte van Tongeren
--  Aviva Shimelman
-typesetters:  
-- Timm Lichte
-- Sebastian Nordhoff
-illustrators:  
-createspace: http://www.amazon.de/dp/3944675517
-bod: https://www.bod.de/buch/timm-lichte/syntax-und-valenz/9783944675626.html
-publicationdate: 2015-11-04 
+  authors:
+  - [Timm, '', Lichte, "<p>\nTimm Lichte studierte allgemeine Sprachwissenschaft,\
+      \ Informatik und allgemeine Rhetorik an der Eberhard-Karls-Universit\xE4t T\xFC\
+      bingen und begann dort anschlie\xDFend seine Promotion im Rahmen eines Emmy-Noether-Projekts\
+      \ bei Laura Kallmeyer. Derzeit ist er wissenschaftlicher Mitarbeiter im SFB\
+      \ 991 an der Heinrich-Heine-Universit\xE4t D\xFCsseldorf. Zu seinen Forschungsinteressen\
+      \ z\xE4hlen die Formalisierung und computerlinguistische Implementierung von\
+      \ nat\xFCrlichsprachlichen Grammatiken.\n</p>\n<p>\nTimm Lichte studied general\
+      \ linguistics, computer science and general rhetoric at the University of T\xFC\
+      bingen, where he also started his PhD under Laura Kallmeyer as part of an Emmy-Noether\
+      \ Project. He is currently research associate of the CRC 991 at the University\
+      \ of D\xFCsseldorf. His research focuses on the formalization and implementation\
+      \ of natural language grammars.\n</p>"]
+  editors: []
+doi: 10.17169/langsci.b20.102
+illustrators: []
+isbns: {digital: 978-3-944675-51-0, hardcover: 978-3-944675-62-6, softcover: 978-3-944675-63-3}
+prefix: ''
+proofreaders: [Martin Haspelmath, Sebastian Nordhoff, Armin Buch, "Daniela Schr\xF6\
+    der", Constantin Freitag, Charlotte van Tongeren, Aviva Shimelman]
+publicationdate: '20151104'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675517?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675517?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675517?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/ViMLAm0TYeJO'}
+series: eotms
+seriesnumber: '1'
+title: Syntax und Valenz
+typesetters: []

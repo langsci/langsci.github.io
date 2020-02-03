@@ -1,19 +1,203 @@
+blurb: '<p class="western" style="margin-bottom: 0in; line-height: 0.17in;" align="justify"><em>African
+  Linguistics on the Prairie</em>&nbsp;features select revised peer-reviewed papers
+  from the 45<sup>th</sup> Annual Conference on African Linguistics, held at the University
+  of Kansas. The articles in this volume reflect the enormous diversity of African
+  languages, as they focus on languages from all of the major African language phyla.&nbsp;
+  The articles here also reflect the many different research perspectives that frame
+  the work of linguists in the Association for Contemporary African Linguistics. The
+  diversity of views presented in this volume are thus indicative of the vitality
+  of current African linguistics research. The work presented in this volume represents
+  both descriptive and theoretical methodologies and covers fields ranging from phonetics,
+  phonology, morphology, typology, syntax, and semantics to sociolinguistics, discourse
+  analysis, language acquisition, computational linguistics and beyond.&nbsp; This
+  broad scope and the quality of the articles contained within holds out the promise
+  of continued advancement in linguistic research on African languages.'
 bookid: 120
-title: Proceedings of the 45th Annual Conference on African Linguistics
+booksubtitle: Selected papers from the 45th Annual Conference on African Linguistics
+chapters:
+- authors:
+  - [Kyle, '', Jerro]
+  number: 1
+  subtitle: null
+  title: Linguistic complexity
+- authors:
+  - [Emmanuel, Amo, Ofori]
+  number: 2
+  subtitle: null
+  title: Inter-party insults in political discourse in Ghana
+- authors:
+  - [Hannah, Leigh, Sande]
+  number: 3
+  subtitle: null
+  title: "Classification of Gu\xE9bie within Kru"
+- authors:
+  - [Heike, '', Tappe]
+  number: 4
+  subtitle: null
+  title: What about Southern African story grammar? Promoting language specific macrostructures
+    in educational settings
+- authors:
+  - [Mehari Zemelak, '', Worku]
+  number: 5
+  subtitle: null
+  title: How multilingual policies can fail
+- authors:
+  - [Kofi, '', Agyekum]
+  number: 6
+  subtitle: null
+  title: Linguistic imperialism and language decolonisation in Africa through documentation
+    and preservation
+- authors:
+  - [Bryan, D., Gelles]
+  number: 7
+  subtitle: null
+  title: Dictionary Day
+- authors:
+  - [Abbie, '', Hantgan]
+  number: 8
+  subtitle: null
+  title: Language endangerment in Southwestern Burkina
+- authors:
+  - [Roseline, I.C., Alerechi]
+  number: 9
+  subtitle: null
+  title: Consonant substitution in child language (Ikwere)
+- authors:
+  - [Regina, Oforiwah, Caesar]
+  - [Yvonne, A. A., Ollennu]
+  number: 10
+  subtitle: Ga and Dangme
+  title: A morphosyntactic analysis of adjectives in two Kwa languages
+- authors:
+  - [Nick, '', Kloehn]
+  number: 11
+  subtitle: null
+  title: Towards a unified theory of morphological productivity in the Bantu languages
+- authors:
+  - [Ettien, '', Koffi]
+  number: 12
+  subtitle: null
+  title: The acoustic vowel space of Anyi in light of the cardinal vowel system and
+    the Dispersion Focalization Theory
+- authors:
+  - [Mary, '', Paster]
+  number: 13
+  subtitle: null
+  title: Gender Instability in Maay
+- authors:
+  - [Lindley, '', Winchester]
+  number: 14
+  subtitle: null
+  title: Egyptian Arabic broken plurals in DATR
+- authors:
+  - [Ibrahim, '', Ba]
+  number: 15
+  subtitle: null
+  title: Factive Relative Clauses in Pulaar
+- authors:
+  - [Nico, '', Baier]
+  number: 16
+  subtitle: null
+  title: Object Suffixes as Incorporated Pronouns in Seereer
+- authors:
+  - [Travis, '', Major]
+  - [Philip, T., Duncan]
+  - [Mfon, '', Udoinyang]
+  number: 17
+  subtitle: null
+  title: Searching high and low for focus in Ibibio
+- authors:
+  - [Claire, '', Halpert]
+  - [Michael, '', Diercks]
+  number: 18
+  subtitle: null
+  title: More on have and need
+- authors:
+  - ["Philoth\xE9", '', Mwamba Kabsele]
+  number: 19
+  subtitle: null
+  title: Structural transfer in third language acquisition
+- authors:
+  - [Aggrey, '', Wasike]
+  number: 20
+  subtitle: null
+  title: Adjectives in Lubukusu
+- authors:
+  - [Andrew, '', Wolfe]
+  - [Tajeldin, Abdalla, Adam]
+  number: 21
+  subtitle: null
+  title: Optional ergativity and information structure in Beria
+- authors:
+  - [M., Ryan, Bochnak]
+  number: 22
+  subtitle: null
+  title: Two-place exceed comparatives in Luganda
+- authors:
+  - [Meredith, '', Landman]
+  - [Rodrigo, '', Ranero]
+  number: 23
+  subtitle: null
+  title: Focus Marking in Kuria
+- authors:
+  - [Mohamed, '', Mwamzandi]
+  number: 24
+  subtitle: null
+  title: A corpus study of the Swahili demonstrative position
+- authors:
+  - [M., Ryan, Bochnak]
+  - [Peter, '', Klecha]
+  number: 25
+  subtitle: null
+  title: Temporal remoteness and vagueness in past time reference in Luganda
 creators:
-  authors: 
-  - [Harold, Torrence, ""]
-  - [Jason, Kandybowicz, ""]
-editedvolume: 1 
-booktitle: Proceedings of the 45th Annual Conference on African Linguistics
-booksubtitle:   
-seriesnumber: 1
-blurb:  
-isbns: [[digital,978-3-000000-00-0 ]]
-doi:  
-proofreaders:   
-typesetters:    
-illustrators:   
-createspace:  
-bod:  
-publicationdate: forthcoming
+  authors: []
+  editors:
+  - [Jason, '', Kandybowicz, "<p class=\"western\" style=\"margin-bottom: 0in; line-height:\
+      \ 100%;\" align=\"justify\">Jason Kandybowicz&nbsp;is Associate Professor of\
+      \ Linguistics at The Graduate Center, City University of New York.&nbsp; He\
+      \ is the author of&nbsp;<em>The Grammar of Repetition: Nupe Grammar at the Syntax\x96\
+      Phonology Interface </em>(John Benjamins), co-editor of&nbsp;<em>Africa\x92\
+      s Endangered&nbsp;Languages: Documentary and Theoretical Approaches&nbsp;</em>(Oxford\
+      \ University Press),&nbsp;as well as the author of a number of articles in various\
+      \ linguistics journals.&nbsp; His research interests include syntactic theory,&nbsp;the&nbsp;syntax\x96\
+      phonology interface, field linguistics and language documentation, and African\
+      \ linguistics (particularly, the languages of West Africa).</p>"]
+  - [Harold, '', Torrence, "<p class=\"western\" style=\"margin-bottom: 0in; line-height:\
+      \ 100%;\" align=\"justify\">Harold Torrence&nbsp;is Associate Professor of Linguistics\
+      \ at the University of California, Los Angeles.&nbsp; He is the author of&nbsp;<em>The\
+      \ Clause Structure of Wolof: Insights into the Left Periphery</em>&nbsp;(John\
+      \ Benjamins), co-editor of&nbsp;<em>Africa\x92s Endangered&nbsp;Languages: Documentary\
+      \ and Theoretical Approaches&nbsp;</em>(Oxford University Press),&nbsp;and the\
+      \ author of several descriptive and theoretical articles in various linguistics\
+      \ journals.&nbsp; His areas of research include syntactic theory, morphology,\
+      \ field linguistics, language documentation, African linguistics (the languages\
+      \ of West Africa, in particular), and Meso-American linguistics.</p>"]
+  - [Travis, '', Major, '<p class="western" style="margin-bottom: 0in; line-height:
+      100%;" align="justify">Travis Major is a Ph.D. candidate in Linguistics at the
+      University of California, Los Angeles. He is interested in syntax, semantics,
+      field linguistics, and language documentation. He conducts research on Lower-Cross
+      languages in Nigeria, as well as Turkic languages.</p>']
+  - [Philip, T., Duncan, '<p>Phil Duncan is a Lecturer at the University of Kansas,
+      where he teaches courses on syntax, typology, linguistic anthropology, language
+      revitalization, and general linguistics. His research focuses on syntax and
+      its interfaces with semantics and morphology. His most recent work is on Me?phaa,
+      an Otomanguean language from Guerrero, Mexico, and Ibibio, a Niger-Congo language
+      from southeastern Nigeria.</p>']
+doi: 10.5281/zenodo.1219141
+illustrators: []
+isbns: {digital: 978-3-96110-036-1, hardcover: 978-3-96110-037-8, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Eitan Grossman, Richard T Griscom, Amr El-Zawawy,
+  "Christian D\xF6hler", Jonathan Brindle, Rosey Billington, "Andreas H\xF6lzl", Alexis
+    Michaud, Maria Maldonado, Jean Nitzke, Lotta Aunio, Beverley Erasmus, Brett Reynolds,
+  Ken Manson, Gerald Delahunty, Ka Yau (Ryan) Lai, Elizabeth Bogal-Allbritten, Steven
+    Kaye, Paulson Skerrit, Evans Gesure]
+publicationdate: '20180615'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100373?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100373?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100373?tag=wwwlangscipre-20',
+  paperhive: 'https://www.paperhive.org/documents/remote?type=langsci&id=120'}
+series: cal
+seriesnumber: '3'
+title: African linguistics on the prairie
+typesetters: []

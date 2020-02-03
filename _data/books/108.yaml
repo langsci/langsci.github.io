@@ -1,75 +1,99 @@
+blurb: 'Eyetracking has become a powerful tool in scientific research and has finally
+  found its way into disciplines such as applied linguistics and translation studies,
+  paving the way for new insights and challenges in these fields. The aim of the first
+  International Conference on Eyetracking and Applied Linguistics (ICEAL) was to bring
+  together researchers who use eyetracking to empirically answer their research questions.
+  It was intended to bridge the gaps between applied linguistics, translation studies,
+  cognitive science and computational linguistics on the one hand and to further encourage
+  innovative research methodologies and data triangulation on the other hand. These
+  challenges are also addressed in this proceedings volume: While the studies described
+  in the volume deal with a wide range of topics, they all agree on eyetracking as
+  an appropriate methodology in empirical research.'
 bookid: 108
-title: Eyetracking and Applied Linguistics
-booksubtitle: 
-seriesnumber: 2
-creators:
-  authors: 
-  editors: 
-  - [Silvia,Hansen-Schirra,"Silvia Hansen-Schirra, Dipl.-Übers., Dr. phil., PD, is a full professor of English linguistics and translation studies at Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research interests include specialized communication, text comprehensibility, post-editing, translation process and competence research. As fellow of the Gutenberg Research College she is the director of the Translation & Cognition (TRACO) Center in Germersheim and co-editor of the online book series Translation and Multilingual Natural Language Processing."] 
-  - [Sambor, Grucza,"Sambor Grucza, Dr. phil., PD, is a full professor of Applied Linguistics at the University of Warsaw, Poland. His research interests are: metalinguistics, applied linguistics, and linguistics of languages for specific purposes. He is director of Institute of Specialist and Intercultural Communication, head of the Linguistics for Languages for Specific Purposes Department, founder and research head of the Eye-Tracking Experimental Linguistics Laboratory."]
-editedvolume: 1
-blurb: "
-Eyetracking has become a powerful tool in scientific research and has finally found its way into disciplines such as applied linguistics and translation studies, paving the way for new insights and challenges in these fields. 
-The aim of the first International Conference on Eyetracking and Applied Linguistics (ICEAL) was to bring together researchers who use eyetracking to empirically answer their research questions. It was intended to bridge the gaps between applied linguistics, translation studies, cognitive science and computational linguistics on the one hand and to further encourage innovative research methodologies and data triangulation on the other hand. These challenges are also addressed in this proceedings volume: While the studies described in the volume deal with a wide range of topics, they all agree on eyetracking as an appropriate methodology in empirical research.
-"
-isbns: 
-- [digital,978-3-944675-98-5]
-- [hardcover,978-3-946234-65-4] 
-- [softcover,978-3-946234-69-2]
-- [softcover-us,978-1-537653-20-4]
-doi: 10.17169/langsci.b108.230
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate: 2016-11-25
+booksubtitle: ''
 chapters:
-- number: 1
-  title: Eyetracking and applied linguistics
-  subtitle: 
-  authors:  [Silvia Hansen-Schirra, Sambor Grucza]
-  chapterdoi: 
-  downloadlink: http://langsci-press.org//catalog/view/108/232/505-1
-- number: 2 
+- authors:
+  - [Sambor, '', Grucza]
+  - [Silvia, '', Hansen-Schirra]
+  number: 1
+  subtitle: null
+  title: Eyetracking and Applied Linguistics
+- authors:
+  - [Wendy, '', Fox]
+  number: 2
+  subtitle: An improved viewing experience?
   title: Integrated titles
-  subtitle:  An improved viewing experience?  
-  authors: [Wendy Fox]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/233/506-1
-- number: 3 
-  title: Crazy Japanese subtitles?
-  subtitle: Shedding light on the impact of impact captions with a focus on research methodology
-  authors: [Wendy Fox]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/234/507-1
-- number: 4 
+- authors:
+  - [Minako, '', "O\x92Hagan"]
+  - [Ryoko, '', Sasamoto]
+  number: 3
+  subtitle: null
+  title: Crazy Japanese subtitles? Shedding light on the impact of impact captions
+    with a focus on research methodology
+- authors:
+  - [Juha, '', "L\xE5ng"]
+  number: 4
+  subtitle: The acquisition of information from visual-verbal and audio-verbal channels
+    when watching a television documentary
   title: Subtitles vs. narration
-  subtitle: The acquisition of information from visual-verbal and audio-verbal channels when watching a television documentary
-  authors: [Juha Lång]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/235/508-1
-- number: 5 
-  title: Monolingual post-editing
+- authors:
+  - [Jean, '', Nitzke]
+  number: 5
   subtitle: An exploratory study on research behaviour and target text quality
-  authors: [Jean Nitzke]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/236/509-1
-- number: 6
-  title: Investigating cognitive effort in post-editing
+  title: Monolingual post-editing
+- authors:
+  - [Fabio, '', Alves]
+  - [Karina, '', Sarto Szpak]
+  - ["Jos\xE9 Luiz", '', "Gon\xE7alves"]
+  - [Kyoko, '', Sekino]
+  - [Marceli, '', Aquino]
+  - [Arlene, '', Koglin]
+  - [Rodrigo, '', "Ara\xFAjo e Castro"]
+  - [Norma B., '', de Lima Fonseca]
+  - ["Bartolom\xE9", '', Mesa-Lao]
+  number: 6
   subtitle: A relevance-theoretical approach
-  authors: [Fabio Alves, Karina Sarto Szpak,José Luiz Gonçalves,Kyoko Sekino, Marceli Aquino, Rodrigo Araújo e Castro, Arlene Koglin, Norma B. de Lima Fonseca,Bartolomé Mesa-Lao]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/296/510-1
-- number: 7
+  title: Investigating cognitive effort in post-editing
+- authors:
+  - [Christoph, '', "R\xF6sener"]
+  number: 7
+  subtitle: "The dos and don\x92ts of creating a contemporary usability lab"
   title: Eye tracking and beyond
-  subtitle: The dos and don’ts of creating a contemporary usability lab
-  authors: [Christoph Rösener]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/297/511-1
-- number: 8
-  title: The impact of nominalisations on the reading process
+- authors:
+  - [Sascha, '', Wolfer]
+  number: 8
   subtitle: A case-study using the Freiburg Legalese Reading Corpus
-  authors: [Sascha Wolfer]
-  chapterdoi:
-  downloadlink: http://langsci-press.org//catalog/view/108/298/512-1
+  title: The impact of nominalisations on the reading process
+creators:
+  authors: []
+  editors:
+  - [Sambor, '', Grucza, 'Sambor Grucza, Dr. phil., PD, is a full professor of Applied
+      Linguistics at the University of Warsaw, Poland. His research interests are:
+      metalinguistics, applied linguistics, and linguistics of languages for specific
+      purposes. He is director of Institute of Specialist and Intercultural Communication,
+      head of the Linguistics for Languages for Specific Purposes Department, founder
+      and research head of the Eye-Tracking Experimental Linguistics Laboratory.']
+  - [Silvia, '', Hansen-Schirra, "Silvia Hansen-Schirra, Dipl.-\xDCbers., Dr. phil.,\
+      \ PD, is a full professor of English linguistics and translation studies at\
+      \ Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research\
+      \ interests include specialized communication, text comprehensibility, post-editing,\
+      \ translation process and competence research. As fellow of the Gutenberg Research\
+      \ College she is the director of the Translation & Cognition (TRACO) Center\
+      \ in Germersheim and co-editor of the online book series \"Translation and Multilingual\
+      \ Natural Language Processing \"."]
+doi: 10.17169/langsci.b108.230
+illustrators: []
+isbns: {digital: 978-3-944675-98-5, hardcover: 978-3-946234-65-4, softcover: 978-3-946234-69-2}
+prefix: ''
+proofreaders: [Martin Haspelmath, Eitan Grossman, Benedikt Singpiel, Anelia Ignatova,
+  Rachele De Felice, Joseph P. DeVeaugh-Geiss, George Krasovitskiy, "Andreas H\xF6\
+    lzl", Viola Wiegand, Alec Shaw, Anne Kilgus, Stathis Selimis, Gabrielle Hodge,
+  Jean Nitzke]
+publicationdate: '20161125'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234690?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234690?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234690?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/Mf7Qsw00n-FO'}
+series: tmnlp
+seriesnumber: '2'
+title: Eyetracking and Applied Linguistics
+typesetters: []

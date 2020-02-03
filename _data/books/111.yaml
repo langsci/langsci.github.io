@@ -1,18 +1,42 @@
+blurb: This study makes substantial contributions to both the theoretical and computational
+  treatment of information structure, with a specific focus on creating natural language
+  processing applications such as multilingual machine translation systems. The present
+  study first provides cross-linguistic findings in regards to information structure
+  meanings and markings. Building upon such findings, the current model represents
+  information structure within the HPSG/MRS framework using Individual Constraints.
+  The primary goal of the present study is to create a multilingual grammar model
+  of information structure for the LinGO Grammar Matrix system. The present study
+  explores the construction of a grammar library for creating customized grammar incorporating
+  information structure and illustrates how the information structure-based model
+  improves performance of transfer-based machine translation.
 bookid: 111
-title: A grammar library for information structure
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Sanghoun, Song, " Sanghoun Song (1977) is specialized in grammar engineering based on the HPSG and MRS formalism. He graduated from Korea University in Seoul, where he earned his BA and MA degree in linguistics. He received a PhD in linguistics from University of Washington in Seattle. Afterwards, he worked at the computational linguistics lab. at Nanyang Technological University in Singapore as a research fellow. Now, he is an assistant professor at Incheon National University. His research interests include grammatical theory (the theory of computational grammar from a cross-linguistic perspective), experimental syntax (the use of acceptability judgments as evidence for linguistic theories), and corpus linguistics (the use of data-based methods to capture linguistic phenomena in human languages). "]]
-editedvolume: 0 
-booktitle: A grammar library for information structure 
-series:  Topics at the Grammar-Discourse Interface
-seriesnumber: 1
-blurb: "This study makes substantial contributions to both the theoretical and computational treatment of information structure, with a specific focus on creating natural language processing applications such as multilingual machine translation systems.
-The present study first provides cross-linguistic findings in regards to information structure meanings and markings. Building upon such findings, the current model represents information structure within the HPSG/MRS framework using Individual Constraints. The primary goal of the present study is to create a multilingual grammar model of information structure for the LinGO Grammar Matrix system. The present study explores the construction of a grammar library for creating customized grammar incorporating information structure and illustrates how the information structure-based model improves performance of transfer-based machine translation. "
-isbns: [[digital,978-3-000000-00-0] ]
-doi: 10.17169/FUDOCS_document_000000020994
-proofreaders:  
-typesetters:  
-illustrators:  
-createspace:  
-bod:  
-publicationdate: Forthcoming 
+  authors:
+  - [Sanghoun, '', Song, '<p>Sanghoun Song (1977) is specialized in grammar engineering
+      based on the HPSG and MRS formalism. He graduated from Korea University in Seoul,
+      where he earned his BA and MA degree in linguistics. He received a PhD in linguistics
+      from University of Washington in Seattle. Afterwards, he worked at the computational
+      linguistics lab. at Nanyang Technological University in Singapore as a research
+      fellow. Now, he is an assistant professor at Incheon National University. His
+      research interests include grammatical theory (the theory of computational grammar
+      from a cross-linguistic perspective), experimental syntax (the use of acceptability
+      judgments as evidence for linguistic theories), and corpus linguistics (the
+      use of data-based methods to capture linguistic phenomena in human languages).</p>']
+  editors: []
+doi: 10.5281/zenodo.818365
+illustrators: []
+isbns: {digital: 978-3-946234-90-6, hardcover: 978-3-944675-97-8, softcover: 978-3-946234-64-7}
+prefix: ''
+proofreaders: [Amr El-Zawawy, "Christian D\xF6hler", Ikmi Nur Oktavianti, "Andreas\
+    \ H\xF6lzl", Natsuko Nakagawa, Jean Nitzke, Ken Manson, Gerald Delahunty, Evans
+    Gesure]
+publicationdate: '20170704'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/394623464X?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/394623464X?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/394623464X?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/5j_0AGe1-Qup'}
+series: tgdi
+seriesnumber: '1'
+title: Modeling  information structure in a cross-linguistic perspective
+typesetters: []

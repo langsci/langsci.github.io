@@ -1,38 +1,43 @@
-bookid:  75
-title:  Linguistic variation, identity construction and cognition
+blurb: "Speakers use a variety of different linguistic resources in the construction\
+  \ of their identities, and they are able to do so because their mental representations\
+  \ of linguistic and social information are linked.  While the exact nature of these\
+  \ representations remains unclear, there is growing evidence that they encode a\
+  \ great deal more phonetic detail than traditionally assumed and that the phonetic\
+  \ detail is linked with word-based information.  This book investigates the ways\
+  \ in which a lemma\x92s phonetic realisation depends on a combination of its grammatical\
+  \ function and the speaker\x92s social group.  This question is investigated within\
+  \ the context of the word <i>like</i> as it is produced and perceived by students\
+  \ at an all girls\x92 high school in New Zealand.  The results are used to inform\
+  \ an exemplar-based model of speech production and perception in which the quality\
+  \ and frequency of linguistic and non-linguistic variants contribute to a speaker\x92\
+  s style."
+bookid: 75
+booksubtitle: ''
+chapters: []
 creators:
-  editors: 
-  authors: [[Katie K.,Drager,"Katie K. Drager is Associate Professor of Sociolinguistics at the University of Hawai‘i at Mānoa. Her research is located at the intersection of sociolinguistics, phonetics, and psycholinguistics, combining qualitative and quantitative methodologies to examine the ways in which social factors influence the production and perception of linguistic variables, and vice versa. Her recent work has appeared in Language Variation and Change, Journal of Phonetics, and Language and Speech, and she is currently leading a project on the production and perception of linguistic variation in Hawai‘i. "]]
-editedvolume:  
-booksubtitle: 
-seriesnumber: 2 
-blurb: "
-Speakers use a variety of different linguistic resources in the construction of their identities, and they are able to do so because their mental representations of linguistic and social information are linked.
-While the exact nature of these representations remains unclear, there is growing evidence that they encode a great deal more phonetic detail than traditionally assumed and that the phonetic detail is linked with word-based information. This book investigates the ways in which a lemma’s phonetic realisation depends on a combination of its grammatical function and the speaker’s social group. This question is investigated within the context of the word like as it is produced and perceived by students at an all girls’ high school in New Zealand. The results are used to inform an exemplar-based model of speech production and perception in which the quality and frequency of linguistic and non-linguistic variants contribute to a speaker’s style. 
-"
-isbns:  
-- [ISBN-13, 978-3-946234-24-1]
-- [ISBN-13 hardcover, 978-3-946234-25-8]
-- [ISBN-13 softcover, 978-3-944675-56-5]
-- [ISBN-13 softcover-US, 978-1-523743-73-5]
-- [Publication date, 2015-10-22] 
-doi:  10.17169/langsci.b75.22 
-typesetters:
-- Katie K. Drager
--  Felix Kopecky
--  Sebastian Nordhoff   
-proofreaders: 
--  Martin Haspelmath
--  Svetoslava Antonova-Baumann
--  Andreea Calude
-- Hugo Cardoso
--  Timo Buchholz
--  Charlotte van Tongeren
--  Aviva Shimelman
--  Christian Döhler
--  Andreas Hölzl
-- Maria Maldonado
-illustrators: 
-createspace: http://www.amazon.co.uk/Linguistic-variation-identity-construction-cognition/dp/3944675568
-bod: https://www.bod.de/buch/katie-k--drager/linguistic-variation--identity-construction-and-cognition/9783946234258.html
-publicationdate:  2015-10-22 
+  authors:
+  - [Katie, K., Drager, "Katie K. Drager is Associate Professor of Sociolinguistics\
+      \ at the University of Hawai\x91i at M&#257;noa. Her research is located at\
+      \ the intersection of sociolinguistics, phonetics, and psycholinguistics, combining\
+      \ qualitative and quantitative methodologies to examine the ways in which social\
+      \ factors influence the production and perception of linguistic variables, and\
+      \ vice versa. Her recent work has appeared in Language Variation and Change,\
+      \ Journal of Phonetics, and Language and Speech, and she is currently leading\
+      \ a project on the production and perception of linguistic variation in Hawai\x91\
+      i."]
+  editors: []
+doi: 10.17169/langsci.b75.22
+illustrators: []
+isbns: {digital: 978-3-946234-24-1, hardcover: 978-3-946234-25-8, softcover: '978-3-944675-56-5 '}
+prefix: ''
+proofreaders: [Martin Haspelmath, Svetoslava Antonova-Baumann, Andreea Calude, Hugo
+    Cardoso, Timo Buchholz, Charlotte van Tongeren, Aviva Shimelman, "Christian D\xF6\
+    hler", "Andreas H\xF6lzl", Maria Maldonado]
+publicationdate: '20151022'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675568?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675568?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675568?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/NryBaAeQCx0J'}
+series: silp
+seriesnumber: '2'
+title: Linguistic variation, identity construction and cognition
+typesetters: []

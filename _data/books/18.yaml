@@ -1,26 +1,32 @@
+blurb: A typological study of the rare marked-S language type which overtly marks
+  the single argument of intransitive verbs (S) while one of the arguments of transitive
+  verbs (either A or P) is left zero-coded. The formal (overt versus zero-coding)
+  as well as functional aspects (range of uses of individual case forms) of the phenomenon
+  are treated. The book covers languages from the Afro-Asiatic and Nilo-Saharan languages
+  of Africa and of the North America Pacific Northwest and Pacific regions.
 bookid: 18
-title: A typology of marked-S languages
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Corinna, Handschuh, "Corinna Handschuh (1981) studied Linguistics, Sociology and Media Studies  in Düsseldorf. Afterwards she worked at the MPI for Evolutionary Anthropology in Leipzig on a typological study of Marked-S languages and  received a PhD from Leipzig University. She is currently teaching linguistics in Regensburg. Her research interests include the typology of  grammatical relations and the interaction of their formal encoding with other domains of grammar."]]
-editedvolume: 0 
-booktitle: A typology of marked-S languages
-seriesnumber: 1
-blurb: "A typological study of the rare marked-S language type which overtly marks the single argument of intransitive verbs (S) while one of the arguments of transitive verbs (either A or P) is left zero-coded.
-The formal (overt versus zero-coding) as well as functional aspects (range of uses of individual case forms) of the phenomenon are treated. The book covers languages from the Afro-Asiatic and Nilo-Saharan languages of Africa and of the North America Pacific Northwest and Pacific regions."
-isbns: 
-- [digital,978-3-944675-19-0]
-- [ISBN-13 hardcover, 978-3-944675-70-1]
-- [ISBN-13 softcover, 978-3-944675-71-8]
-- [ISBN-13 softcover-US, 978-1-523743-58-2 ]
+  authors:
+  - [Corinna, '', Handschuh, "<p>Corinna Handschuh (1981) studied Linguistics, Sociology\
+      \ and Media Studies\_ in D\xFCsseldorf. Afterwards she worked at the MPI for\
+      \ Evolutionary Anthropology in Leipzig on a typological study of Marked-S languages\
+      \ and\_ received a PhD from Leipzig University. She is currently teaching linguistics\
+      \ in Regensburg. Her research interests include the typology of\_ grammatical\
+      \ relations and the interaction of their formal encoding with other domains\
+      \ of grammar.</p>"]
+  editors: []
 doi: 10.17169/FUDOCS_document_000000019858
-proofreaders: 
-- Eitan Grossman
--  Daniel W. Hieber
--  Aaron Huey Sonnenschein
-typesetters: 
-- Stefan Müller
-- Corinna Handschuh
-illustrators:  
-createspace: http://www.amazon.co.uk/typology-marked-S-languages-Diversity-Linguistics/dp/3944675711/
-bod: https://www.bod.de/buch/corinna-handschuh/a-typology-of-marked-s-languages/9783944675701.html
-publicationdate: 2014-03-05 
+illustrators: []
+isbns: {digital: 978-3-944675-19-0, hardcover: 978-3-944675-70-1, softcover: 978-3-944675-71-8}
+prefix: A
+proofreaders: [Eitan Grossman, Daniel W. Hieber, Aaron Huey Sonnenschein]
+publicationdate: '20140305'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675711?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675711?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675711?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/OVMK6Y5fF8SP'}
+series: sidl
+seriesnumber: '1'
+title: ''
+typesetters: []

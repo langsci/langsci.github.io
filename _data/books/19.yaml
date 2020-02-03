@@ -1,39 +1,34 @@
+blurb: This book is the first typological study of adjective attribution marking.
+  Its focus lies on Northern Eurasia, although it covers many more languages and presents
+  an ontology of morphosyntactic categories relevant to noun phrase structure in general.
+  Beside treating synchronic data, the study contributes to historical linguistics
+  by reconstructing the origin of new types specifically in the language contact area
+  between the Indo-European and Uralic families.
 bookid: 19
-title: Adjective attribution
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Michael, Rießler, "Michael Rießler (1971) holds an MA degree in Scandinavian Studies from Humboldt University Berlin and a PhD in General Linguistics from the University of Leipzig. Currently he is affiliated with the University of Freiburg where he leads a research group in Saami Studies. Among the areas he has worked in besides linguistic typology are documentary linguistics, language contact and the sociology of language."]]
-editedvolume: 0 
-booktitle: Adjective attribution 
-seriesnumber: 2
-blurb: "This book is the first typological study of adjective attribution marking.
-Its focus lies on Northern Eurasia, although it covers many more languages and presents an ontology of morphosyntactic categories relevant to noun phrase structure in general. Beside treating synchronic data, the study contributes to historical linguistics by reconstructing the origin of new types specifically in the language contact area between the Indo-European and Uralic families."
-isbns:
-- [digital,978-3-000000-00-0]
-- [ISBN-13 hardcover, 978-3-944675-66-4]
-- [ISBN-13 softcover, 978-3-944675-49-7]
-- [ISBN-13 softcover-US, 978-1-530889-34-1 ]
-doi: 10.17169/FUDOCS_document_000000000000
-proofreaders: 
--  Martin Haspelmath
-- Eitan Grossman
--  Michelle Natolo
--  Anelia Ignatova
--  Antonio Machicao y Priemer
-- Natalia Cáceres Arandia
--  Andreas Hölzl
--  Ezekiel Tunde
--  Alec Shaw
-- Mario Bisiada
-- Eva Schultze-Berndt
--  Neal Whitman
--  Parviz Parsafar
--  Alessia Battisti
-- Rogier Blokland
-typesetters: 
-- Felix Kopecky
-- Sebastian Nordhoff
-- Michael Rießler
-illustrators:  
-createspace: http://www.amazon.co.uk/typology-marked-S-languages-Diversity-Linguistics/dp/3944675711/
-bod: https://www.bod.de/buch/corinna-handschuh/a-typology-of-marked-s-languages/9783944675701.html
-publicationdate: 2014-03-05 
+  authors:
+  - [Michael, '', "Rie\xDFler", "<p>Michael Rie\xDFler (1971) holds an MA degree in\
+      \ Scandinavian Studies from Humboldt University Berlin and a PhD in General\
+      \ Linguistics from the University of Leipzig. Currently he is affiliated with\
+      \ the University of Freiburg where he leads a research group in Saami Studies.\
+      \ Among the areas he has worked in besides linguistic typology are documentary\
+      \ linguistics, language contact and the sociology of language.</p>"]
+  editors: []
+doi: 10.17169/langsci.b19.294
+illustrators: []
+isbns: {digital: 978-3-944675-65-7, hardcover: 978-3-944675-66-4, softcover: 978-3-944675-49-7}
+prefix: ''
+proofreaders: [Martin Haspelmath, Eitan Grossman, Michelle Natolo, Anelia Ignatova,
+  Antonio Machicao y Priemer, "Natalia C\xE1ceres Arandia", "Andreas H\xF6lzl", Ezekiel
+    Tunde Bolaji, Alec Shaw, Mario Bisiada, Eva Schultze-Berndt, Neal Whitman, PARVIZ
+    PARSAFAR, Alessia Battisti, Rogier Blokland]
+publicationdate: '20160928'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675495?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675495?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675495?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/l8cO7VG2KYeG'}
+series: sidl
+seriesnumber: '2'
+title: ''
+typesetters: []

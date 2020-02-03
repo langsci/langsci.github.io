@@ -1,34 +1,54 @@
-bookid:  67
-title:  A grammar of Mauwake
+blurb: "This grammar provides a synchronic grammatical description of Mauwake, a Papuan\
+  \ Trans-New Guinea (TNG) language of about 2000 speakers on the north coast of the\
+  \ Madang Province in Papua New Guinea. It is the first book-length treatment of\
+  \ the Mauwake language and the only published grammar of the Kumil subgroup to date.\
+  \ Relying on other existing published and unpublished grammars, the author shows\
+  \ how the language is similar to, or different from, related TNG languages especially\
+  \ in the Madang province. \n\nThe grammar gives a brief introduction to the Mauwake\
+  \ people, their environment and their culture. Although the book mainly covers morphology\
+  \ and syntax, it also includes ashort treatment of the phonological system and the\
+  \ orthography. The description of the grammatical units proceeds from the words/morphology\
+  \ to the phrases, clauses, sentence types and clause combinations. The chapter on\
+  \ functional domains is the only one where the organization is based on meaning/function\
+  \ rather than structure.  The longest chapter in the book is on morphology, with\
+  \ verbs taking the central stage. The final chapter deals with the pragmatic functions\
+  \ theme, topic and focus.   \n\n13 texts by native speakers, mostly recorded and\
+  \ transcribed but some originally written, are included in the Appendix with morpheme-by-morpheme\
+  \ glosses and a free translation.\n\nThe theoretical approach used is that of Basic\
+  \ Linguistic Theory. Language typologists and professional Papuanist linguists are\
+  \ naturally one target audience for the grammar. But also two other possible, and\
+  \ important, audiences influenced especially the style the writing: well educated\
+  \ Mauwake speakers interested in their language, and those other Papua New Guineans\
+  \ who have some basic training in linguistics and are keen to explore their own\
+  \ languages."
+bookid: 67
+booksubtitle: ''
+chapters: []
 creators:
-  editors: 
-  authors: [[Liisa,Berghäll,"Liisa Berghäll (1950) received her M.A. in English philology at the University of Helsinki in 1975. She worked under the auspices of SIL in Papua New Guinea among the Mauwake speakers from 1978 to 2001 and after that as a linguistic consultant. Together with her co-workers she collected Mauwake language data, analyzed the phonology, basic morphology and syntax, created an alphabet, wrote literacy books and carried out a literacy program, plus translated the New Testament. Concurrently with the work she started postgraduate studies in general linguistics and defended her Ph.D. dissertation at the University of Helsinki in 2010. She is retired but does some linguistic consulting. "]]
-editedvolume:  
-booksubtitle: 
-seriesnumber: 4
-blurb: "
-This grammar provides a synchronic grammatical description of Mauwake, a Papuan Trans-New Guinea (TNG) language of about 2000 speakers on the north coast of the Madang Province in Papua New Guinea.
-It is the first book-length treatment of the Mauwake language and the only published grammar of the Kumil subgroup to date. Relying on other existing published and unpublished grammars, the author shows how the language is similar to, or different from, related TNG languages especially in the Madang province. The grammar gives a brief introduction to the Mauwake people, their environment and their culture. Although the book mainly covers morphology and syntax, it also includes ashort treatment of the phonological system and the orthography. The description of the grammatical units proceeds from the words/morphology to the phrases, clauses, sentence types and clause combinations. The chapter on functional domains is the only one where the organization is based on meaning/function rather than structure. The longest chapter in the book is on morphology, with verbs taking the central stage. The final chapter deals with the pragmatic functions theme, topic and focus. 13 texts by native speakers, mostly recorded and transcribed but some originally written, are included in the Appendix with morpheme-by-morpheme glosses and a free translation. The theoretical approach used is that of Basic Linguistic Theory. Language typologists and professional Papuanist linguists are naturally one target audience for the grammar. But also two other possible, and important, audiences influenced especially the style the writing: well educated Mauwake speakers interested in their language, and those other Papua New Guineans who have some basic training in linguistics and are keen to explore their own languages. 
-"
-isbns: 
-- [ISBN-13, 978-3-946234-27-2]
-- [ISBN-13 hardcover, 978-3-946234-28-9]
-- [ISBN-13 softcover, 978-3-944675-54-1]
-- [ISBN-13 softcover-US, 978-1-523743-65-0]
-doi: 10.17169/langsci.b67.96 
-typesetters:
-proofreaders: 
-- Eitan Grossman
--  Stephanie Natolo
-- Thomas Gardener
--  Michelle Natolo
--  Conor Pyle
--  Tamara Schmidt
--  Charlotte van Tongeren
-- Ka Shing Ko
--  Christian Döhler
--  Marsha Forbes-Barnett
-illustrators: 
-createspace: http://www.amazon.co.uk/grammar-Mauwake-Studies-Diversity-Linguistics/dp/3944675541/ref=sr_1_1?ie=UTF8&qid=144437 
-bod: https://www.bod.de/buch/liisa-berghaell/a-grammar-of-mauwake/9783946234289.html
-publicationdate:  2015-10-12 
+  authors:
+  - [Liisa, '', "Bergh\xE4ll", "Liisa Bergh\xE4ll (1950) received her M.A. in English\
+      \ philology at the University of Helsinki in 1975. She worked under the auspices\
+      \ of SIL in Papua New Guinea among the Mauwake speakers from 1978 to 2001 and\
+      \ after that as a linguistic consultant. Together with her co-workers she collected\
+      \ Mauwake language data, analyzed the phonology, basic morphology and syntax,\
+      \ created an alphabet, wrote literacy books and carried out a literacy program,\
+      \ plus translated the New Testament. Concurrently with the work she started\
+      \ postgraduate studies in general linguistics and defended her Ph.D. dissertation\
+      \ at the University of Helsinki in 2010. She is retired but does some linguistic\
+      \ consulting."]
+  editors: []
+doi: 10.17169/langsci.b67.96
+illustrators: []
+isbns: {digital: 978-3-946234-27-2, hardcover: 978-3-946234-28-9, softcover: 978-3-944675-54-1}
+prefix: A
+proofreaders: [Eitan Grossman, Stephanie Natolo, Thomas Gardener, Michelle Natolo,
+  Conor Pyle, Tamara Schmidt, Charlotte van Tongeren, Ka Shing Ko, "Christian D\xF6\
+    hler", Marsha Forbes-Barnett]
+publicationdate: '20151012'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675541?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675541?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675541?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/kG6r3ZJUas2Y'}
+series: sidl
+seriesnumber: '4'
+title: grammar of Mauwake
+typesetters: []

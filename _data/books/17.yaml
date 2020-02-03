@@ -1,31 +1,42 @@
+blurb: Pite Saami is a highly endangered Western Saami language in the Uralic language
+  family currently spoken by a few individuals in Swedish Lapland. This grammar is
+  the first extensive book-length treatment of a Saami language written in English.
+  While focussing on the morphophonology of the main word classes nouns, adjectives
+  and verbs, it also deals with other linguistic structures such as prosody, phonology,
+  phrase types and clauses. Furthermore, it provides an introduction to the language
+  and its speakers, and an outline of a preliminary Pite Saami orthography. An extensive
+  annotated spoken-language corpus collected over the course of five years forms the
+  empirical foundation for this description, and each example includes a specific
+  reference to the corpus in order to facilitate verification of claims made on the
+  data. Descriptions are presented for a general linguistics audience and without
+  attempting to support a specific theoretical approach, but this book should be equally
+  useful for scholars of Uralic linguistics, typologists, and even learners of Pite
+  Saami.
 bookid: 17
-title: A grammar of Pite Saami
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Joshua, Wilbur, "Joshua Wilbur completed his MA in General Linguistics and American Studies at the University of Leipzig before receiving his -  from Christian-Albrechts University in Kiel in 2013. He has been doing documentary field work on Pite Saami since 2008, and is currently a post-doc researcher at the Scandinavian Studies Department at the University of Freiburg as part of the Freiburg Research Group in Saami Studies. In addition to endangered languages, his interests include morphophonology, documentary linguistics, corpus linguistics, grammaticography, lexicography and language contact."]]
-editedvolume: 0  
-seriesnumber: 5
-blurb: "Pite Saami is a highly endangered Western Saami language in the Uralic language family currently spoken by a few individuals in Swedish Lapland.
-<br />
-This grammar is the first extensive book-length treatment of a Saami language written in English. While focussing on the morphophonology of the main word classes nouns, adjectives and verbs, it also deals with other linguistic structures such as prosody, phonology, phrase types and clauses. Furthermore, it provides an introduction to the language and its speakers, and an outline of a preliminary Pite Saami orthography. An extensive annotated spoken-language corpus collected over the course of five years forms the empirical foundation for this description, and each example includes a specific reference to the corpus in order to facilitate verification of claims made on the data. Descriptions are presented for a general linguistics audience and without attempting to support a specific theoretical approach, but this book should be equally useful for scholars of Uralic linguistics, typologists, and even learners of Pite Saami. "
-isbns: 
-- [digital,978-3-944675-47-3 ]
-- [ISBN-13 hardcover, 978-3-944675-58-9]
-- [ISBN-13 softcover, 978-3-944675-59-6]
-- [ISBN-13 softcover-US, 978-1-523743-67-4 ]
+  authors:
+  - [Joshua, '', Wilbur, '<p>Joshua Wilbur completed his MA in General Linguistics
+      and American Studies at the University of Leipzig before receiving his PhD from
+      Christian-Albrechts University in Kiel in 2013. He has been doing documentary
+      field work on Pite Saami since 2008, and is currently a post-doc researcher
+      at the Scandinavian Studies Department at the University of Freiburg as part
+      of the Freiburg Research Group in Saami Studies. In addition to endangered languages,
+      his interests include morphophonology, documentary linguistics, corpus linguistics,
+      grammaticography, lexicography and language contact.</p>']
+  editors: []
 doi: 10.17169/FUDOCS_document_000000020749
-proofreaders:  
--  Stephanie Natolo
--  Richard T Griscom
--  Thomas Gardener
--  Linda Lanz
--  Joseph T. Farquharson
-- Benedikt Singpiel
--  Michelle Natolo
--  Andreea Calude
--  Joern Piontek
-- Jorge Emilio Rosés Labrada
-typesetters:   Joshua Karl Wilbur 
-illustrators:  
-createspace: http://www.amazon.co.uk/grammar-Pite-Saami-Diversity-Linguistics/dp/3944675592/
-bod: http://www.bod.de/buch/joshua-wilbur/a-grammar-of-pite-saami/9783944675589.html
-publicationdate: 2014-07-07 
+illustrators: []
+isbns: {digital: 978-3-944675-47-3, hardcover: 978-3-944675-58-9, softcover: 978-3-944675-59-6}
+prefix: A
+proofreaders: [Stephanie Natolo, Richard T Griscom, Thomas Gardener, Linda Lanz, Joseph
+    T. Farquharson, Benedikt Singpiel, Michelle Natolo, Andreea Calude, Joern Piontek,
+  "Jorge Emilio Ros\xE9s Labrada"]
+publicationdate: '20140707'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675592?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675592?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675592?tag=wwwlangscipre-20'}
+series: sidl
+seriesnumber: '5'
+title: ''
+typesetters: []

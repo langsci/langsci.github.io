@@ -1,29 +1,29 @@
 ---
 layout: default
 title: Home
---- 
+---
 <table id="catalogtable" class="tablesorter">
   <thead>
     <tr>
     <th></th>
       <th class="bookidcell">ID</th>
-      <th>Title</th> 
-      <th>Series</th> 
+      <th>Title</th>
+      <th>Series</th>
       <th class="yearcell">Year</th>
     </tr>
   </thead>
-  <tbody> 
+  <tbody>
   {% for p in site.pages %}
-    {% if p.layout == 'book' %}   
+    {% if p.layout == 'book' %}
       {% assign series = site.data.series[p.bookseries] %}
-      {% assign bookid = p.bookid |append: '' %}     
+      {% assign bookid = p.bookid |append: '' %}
       {% assign book = site.data.books[bookid] %}
       {%include citationstring.html%}
       <tr>
         <td>
           <a href="/book/{{ p.bookid }}">
             <img src="/resources/img/{{ p.bookid }}.png" class="leadcover">
-            
+
 <!--             <img class="catalogcover" src="https://raw.githubusercontent.com/langsci/{{p.bookid}}/master/cover.png" />   -->
           </a>
           <div class="linkwrapper">
@@ -43,12 +43,12 @@ title: Home
         <td>
         <span class="series"><a href="/series/{{series.acronym}}">{{ series.acronym| upcase   }}</a></span>&nbsp;<span class="seriesnumber">{{ book.seriesnumber }}</span>
         </td>
-        <td class="yearcell"> 
-          {% assign tmp = book.publicationdate | split: '-' %}
-          {{ tmp[0]  }}
+        <td class="yearcell">
+          {% assign tmp = book.publicationdate | slice: 0, 4 %}
+          {{ tmp  }}
         </td>
-      </tr> 
-    {% endif %} 
-    {% endfor %} 
+      </tr>
+    {% endif %}
+    {% endfor %}
   </tbody>
 </table>

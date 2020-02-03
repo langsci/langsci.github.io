@@ -1,88 +1,88 @@
 ---
-layout: default 
+layout: default
 ---
 {% assign acronym  = page.title %}
 {% assign metadata = site.data.series[acronym] %}
-{% assign books = ''|split: ' ' %} 
+{% assign books = ''|split: ' ' %}
 
-{% for page in site.pages  %} 
-  {% assign bookid = page.bookid|append: ''%} 
-  {% if acronym == page.bookseries %}   
-    {% assign books = books|push: site.data.books[bookid] %} 
-  {% endif %} 
-{% endfor %}  
+{% for page in site.pages  %}
+  {% assign bookid = page.bookid|append: ''%}
+  {% if acronym == page.bookseries %}
+    {% assign books = books|push: site.data.books[bookid] %}
+  {% endif %}
+{% endfor %}
 
 
- 
-<h1> {{ metadata.name }} </h1>   
-  
-<h3> Editors </h3> 
+
+<h1> {{ metadata.name }} </h1>
+
+<h3> Editors </h3>
 <div id="editors">
   <ul>
-  {% for eb in metadata.editors %} 
+  {% for eb in metadata.editors %}
       <li> {{eb}} </li>
-    {% endfor %}  
+    {% endfor %}
   </ul>
-</div> 
+</div>
 
-<h3> Aims and scope </h3> 
+<h3> Aims and scope </h3>
 <div id="aimsandscope">
-{{metadata.aimsandscope}} 
-</div> 
+{{metadata.aimsandscope}}
+</div>
 
 {% if metadata.editorialboard %}
-  <h3> Editorial board </h3> 
-  <div id="editorialboard"> 
+  <h3> Editorial board </h3>
+  <div id="editorialboard">
     <ul>
     {% for eb in metadata.editorialboard %}
         <li> {{eb}} </li>
-      {% endfor %}  
+      {% endfor %}
     </ul>
-  </div> 
+  </div>
 {% endif %}
 
 {% if metadata.languages %}
-  <h3> Languages </h3> 
+  <h3> Languages </h3>
   <div id="languages">
-  {{metadata.languages}} 
-  </div> 
+  {{metadata.languages}}
+  </div>
 {% endif %}
 
-<h3> Contact </h3> 
+<h3> Contact </h3>
 <div id="contact">
-{{metadata.contact}} 
-</div> 
+{{metadata.contact}}
+</div>
 
 {% if metadata.issn %}
-  <h3> ISSN </h3> 
+  <h3> ISSN </h3>
   <div id="issn">
-  {{metadata.issn}} 
-  </div>  
+  {{metadata.issn}}
+  </div>
 {% endif %}
 
 {% for ai in metadata.additionalinfo %}
     {% assign key = ai[0]%}
     {% assign value = ai[1]%}
-    <h3> {{ key }} </h3> 
+    <h3> {{ key }} </h3>
     <div id="key{{key}}">
-    {{value}} 
-    </div>   
-{% endfor %}  
- 
+    {{value}}
+    </div>
+{% endfor %}
+
 
 <table id="catalogtable" class="tablesorter">
   <thead>
     <tr>
       <th></th>
       <th class="bookidcell">ID</th>
-      <th>Title</th> 
-      <th>Number</th> 
+      <th>Title</th>
+      <th>Number</th>
       <th class="yearcell">Year</th>
     </tr>
   </thead>
-  <tbody> 
+  <tbody>
 
-  {% for book in books %} 
+  {% for book in books %}
     {%include citationstring.html%}
     <tr>
       <td>
@@ -98,19 +98,19 @@ layout: default
       <td class="bookidcell"> {{ book.bookid }} </td>
       <td>
         <div class="title"> {{ book.title }} </div>
-        <div class="booksubtitle"> {{ book.booksubtitle }} </div>      
+        <div class="booksubtitle"> {{ book.booksubtitle }} </div>
         <div class="author"> {{ creatorstring }} </div>
       </td>
       <td>
     <!--   <span class="series">{{ s.acronym }}</span> -->
       <span class="seriesnumber">{{ book.seriesnumber }}</span>
       </td>
-      <td class="yearcell"> 
+      <td class="yearcell">
       {% assign tmp = book.publicationdate | split: '-' %}
-      {{ tmp[0]  }}
+      {{ tmp[0] |slice: 0, 4  }}
       </td>
     </tr>
-  {% endfor %}  
+  {% endfor %}
   </tbody>
-</table> 
+</table>
 </div>

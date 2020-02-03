@@ -1,21 +1,96 @@
+blurb: 'Contrastive Linguistics (CL), Translation Studies (TS) and Machine Translation
+  (MT) have common grounds: They all work at the crossroad where two or more languages
+  meet. Despite their inherent relatedness, methodological exchange between the three
+  disciplines is rare. This special issue touches upon areas where the three fields
+  converge. It results directly from a workshop at the 2011 German Association for
+  Language Technology and Computational Linguistics (GSCL) conference in Hamburg where
+  researchers from the three fields presented and discussed their interdisciplinary
+  work. While the studies contained in this volume draw from a wide variety of objectives
+  and methods, and various areas of overlaps between CL, TS and MT are addressed,
+  the volume is by no means exhaustive with regard to this topic. Further cross-fertilisation
+  is not only desirable, but almost mandatory in order to tackle future tasks and
+  endeavours, and this volume is committed to bringing these three fields even closer
+  together.'
 bookid: 102
-title: Crossroads between contrastive linguistics, translation studies and machine translation
+booksubtitle: TC3-II
+chapters:
+- authors:
+  - [Michael, '', Carl]
+  - [Barbara, '', Dragsted]
+  number: 1
+  subtitle: null
+  title: Inside the monitor model
+- authors:
+  - ["I\xF8rn", '', Korzen]
+  - [Morten, '', Gylling]
+  number: 2
+  subtitle: null
+  title: Text structure in a contrastive and translational perspective
+- authors:
+  - [Erich, '', Steiner]
+  number: 3
+  subtitle: null
+  title: Methodological cross-fertilization
+- authors:
+  - [Martha, '', Thunes]
+  number: 4
+  subtitle: null
+  title: An analysis of translational complexity in two text types
+- authors:
+  - [Gerhard, '', Kremer]
+  - [Matthias, '', Hartung]
+  - [Sebastian, '', "Pad\xF3"]
+  - [Stefan, '', Riezler]
+  number: 5
+  subtitle: null
+  title: Statistical machine translation support improves human adjective translation
+- authors:
+  - [Oliver, '', Czulo]
+  - [Silvia, '', Hansen-Schirra]
+  number: 6
+  subtitle: null
+  title: Introduction
+- authors:
+  - [Heike, '', Zinsmeister]
+  - [Stefanie, '', Dipper]
+  - [Melanie, '', Seiss]
+  number: 7
+  subtitle: null
+  title: Abstract pronominal anaphors and label nouns in German and English
 creators:
-  editors: 
-  - [Oliver, Čulo, 'Oliver Čulo currently holds an Assistant Professor ("Juniorprofessor") position for Translation-relevant Linguistics at the Translation Faculty at Mainz University. He attended Saarland University, where he received his diploma in computational linguistics and his PhD in machine translation. His thesis work focused on developing ways of automatically comparing verb valence between English and German using parallel corpora. During a one-year stay at ICSI at the University of California in Berkeley in 2011 and 2012, he worked with researchers in the FrameNet Project, who are building a lexical database based on frame semantic analyses. He is interested in how grammar and semantics interact in translation. ']
-  - [Silvia, Hansen-Schirra, 'Silvia Hansen-Schirra, Dipl.-Übers., Dr. phil., PD, is a full professor of English linguistics and translation studies at Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research interests include specialized communication, text comprehensibility, post-editing, translation process and competence research. As fellow of the Gutenberg Research College she is the director of the Translation & Cognition (TRACO) Center in Germersheim and co-editor of the online book series "Translation and Multilingual Natural Language Processing ". ']
-editedvolume: 1 
-booktitle: Crossroads between contrastive linguistics, translation studies and machine translation
-booksubtitle:  TC3 II 
-seriesnumber: 3
-blurb: "Contrastive Linguistics (CL), Translation Studies (TS) and Machine Translation (MT) have common grounds: They all work at the crossroad where two or more languages meet.
-Despite their inherent relatedness, methodological exchange between the three disciplines is rare. This special issue touches upon areas where the three fields converge. It results directly from a workshop at the 2011 German Association for Language Technology and Computational Linguistics (GSCL) conference in Hamburg where researchers from the three fields presented and discussed their interdisciplinary work. While the studies contained in this volume draw from a wide variety of objectives and methods, and various areas of overlaps between CL, TS and MT are addressed, the volume is by no means exhaustive with regard to this topic. Further cross-fertilisation is not only desirable, but almost mandatory in order to tackle future tasks and endeavours, and this volume is committed to bringing these three fields even closer together. 
- "
-isbns: [[digital, 978-3-000000-00-0 ]]
-doi:  
-proofreaders:   
-typesetters:    
-illustrators:   
-createspace:  
-bod:  
-publicationdate: forthcoming
+  authors: []
+  editors:
+  - [Silvia, '', Hansen-Schirra, "Silvia Hansen-Schirra, Dipl.-\xDCbers., Dr. phil.,\
+      \ PD, is a full professor of English linguistics and translation studies at\
+      \ Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research\
+      \ interests include specialized communication, text comprehensibility, post-editing,\
+      \ translation process and competence research. As fellow of the Gutenberg Research\
+      \ College she is the director of the Translation & Cognition (TRACO) Center\
+      \ in Germersheim and co-editor of the online book series \"Translation and Multilingual\
+      \ Natural Language Processing \"."]
+  - [Oliver, '', Czulo, '<p>Oliver ?ulo currently holds an Assistant Professor ("Juniorprofessor")
+      position for Translation-relevant Linguistics at the <a href="http://www.fb06.uni-mainz.de/">Translation
+      Faculty</a> at <a href="http://www.uni-mainz.de/">Mainz University</a>. He attended
+      <a href="http://www.uni-saarland.de/">Saarland University</a>, where he received
+      his diploma in computational linguistics and his PhD in machine translation.
+      His <a href="http://universaar.uni-saarland.de/monographien/frontdoor.php?source_opus=29&amp;la=de">thesis</a>
+      work focused on developing ways of automatically comparing verb valence between
+      English and German using parallel corpora. During a one-year stay at <a href="http://icsi.berkeley.edu/">ICSI</a>
+      at the University of California in Berkeley in 2011 and 2012, he worked with
+      researchers in the <a href="http://framenet.icsi.berkeley.edu/">FrameNet</a>
+      Project, who are building a lexical database based on frame semantic analyses.
+      He is interested in how grammar and semantics interact in translation.</p>']
+doi: 10.5281/zenodo.1019701
+illustrators: []
+isbns: {digital: 978-3-946234-26-5, hardcover: 978-3-946234-98-2, softcover: ''}
+prefix: ''
+proofreaders: [Felix Kopecky, Jean Nitzke, Valeria Quochi]
+publicationdate: '20171114'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234984?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234984?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234984?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=102'}
+series: tmnlp
+seriesnumber: '4'
+title: Crossroads between contrastive linguistics, translation studies and machine
+  translation
+typesetters: []

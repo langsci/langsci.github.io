@@ -1,22 +1,75 @@
+blurb: '"Thoughts on grammaticalization" was first published in a working-paper
+
+  version in 1982 and became very influential immediately, even though it
+
+  was properly published only in 1995. Despite its modest title, the book
+
+  can be read as an advanced introduction to grammaticalization, though
+
+  its conception is very original. The present edition contains a number
+
+  of corrections of the 1995 edition. After a short review of the history
+
+  of research, the work introduces and delimits the concepts related to
+
+  grammaticalization. It then provides extensive exemplification of
+
+  grammaticalization phenomena in diverse languages, ordered by
+
+  grammatical domains such as the verbal, pronominal and nominal sphere
+
+  and clause level relations. The final chapter presents a theory of
+
+  grammaticalization which is based on the autonomy of the linguistic sign
+
+  with respect to the paradigmatic and syntagmatic axes. This is the basis
+
+  of the structural parameters that constitute grammaticalization. They
+
+  are operationalized to the point of rendering degrees of
+
+  grammaticalization measurable.'
 bookid: 88
-title: Thoughts on grammaticalization
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Christian, Lehmann, 'Christian Lehmann is Emeritus Professor of General and Comparative Linguistics at the University of Erfurt, Germany. He has done research in descriptive linguistics, mainly on Latin and Yucatec Maya, on the diachrony and typology of various fields of grammar, and on linguistic methodology. His publications include monographs on the Relative clause (1984) and Possession in Yucatec Maya (1998). He has edited a volume on Participation (2005) and co-edited the volume on Morphology in the series Handbooks of Linguistics and Communications Science (2000/2004) and a two-volume set of Hoocąk teaching materials (2010). His website www.christianlehmann.eu offers, among other things, a linguistic bibliographical database with more than 20,000 entries accessible by a system of descriptors' ]]
-editedvolume: 0 
-booktitle: Thoughts on grammaticalization
-booksubtitle:   
-seriesnumber: 1
-blurb:  '"Thoughts on grammaticalization" was first published in a working-paper version in 1982 and became very influential immediately, even though it was properly published only in 1995.
-Despite its modest title, the book can be read as an advanced introduction to grammaticalization, though its conception is very original. The present edition contains a number of corrections of the 1995 edition. After a short review of the history of research, the work introduces and delimits the concepts related to grammaticalization. It then provides extensive exemplification of grammaticalization phenomena in diverse languages, ordered by grammatical domains such as the verbal, pronominal and nominal sphere and clause level relations. The final chapter presents a theory of grammaticalization which is based on the autonomy of the linguistic sign with respect to the paradigmatic and syntagmatic axes. This is the basis of the structural parameters that constitute grammaticalization. They are operationalized to the point of rendering degrees of grammaticalization measurable. '
-isbns:
-- [digital,978-3-946234-05-0 ]
-- [ISBN-13 hardcover, 978-3-946234-06-7]
-- [ISBN-13 softcover, 978-3-946234-07-4]
-- [ISBN-13 softcover-US, 978-1-523743-30-8 ]
-doi: 10.17169/langsci.b88.98 
-proofreaders:   
-typesetters:    
-illustrators:   
-createspace: http://www.amazon.co.uk/Thoughts-grammaticalization-1-Classics-Linguistics/dp/3946234070
-bod: http://www.bod.de/buch/christian-lehmann/-thoughts-on-grammaticalization/9783946234067.html
-publicationdate: 2015-12-08 
+  authors:
+  - [Christian, '', Lehmann, 'Christian Lehmann is Emeritus Professor of General and
+      Comparative
+
+      Linguistics at the University of Erfurt, Germany. He has done research
+
+      in descriptive linguistics, mainly on Latin and Yucatec Maya, on the
+
+      diachrony and typology of various fields of grammar, and on linguistic
+
+      methodology. His publications include monographs on the Relative clause
+
+      (1984) and Possession in Yucatec Maya (1998). He has edited a volume on
+
+      Participation (2005) and co-edited the volume on Morphology in the
+
+      series Handbooks of Linguistics and Communications Science (2000/2004)
+
+      and a two-volume set of Hooc?k teaching materials (2010). His website
+
+      <a href="http://www.christianlehmann.eu"> http://www.christianlehmann.eu</a>
+      offers, among
+
+      other things, a linguistic bibliographical database with more than
+
+      20,000 entries accessible by a system of descriptors.']
+  editors: []
+doi: 10.17169/langsci.b88.98
+illustrators: []
+isbns: {digital: 978-3-946234-05-0, hardcover: 978-3-946234-06-7, softcover: 978-3-946234-07-4}
+prefix: ''
+proofreaders: []
+publicationdate: '20151208'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234070?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234070?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234070?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/PRR_43dplOon'}
+series: classics
+seriesnumber: '1'
+title: Thoughts on grammaticalization
+typesetters: []

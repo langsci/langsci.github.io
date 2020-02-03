@@ -1,17 +1,36 @@
+blurb: This book is the first comprehensive monograph dedicated to Chakali, a Southwestern
+  Grusi language spoken by less than 3500 people in northwest Ghana. The dictionary
+  offers a consistent description of word meaning and provides the basis for future
+  research in the linguistic area. It is also designed to provide an inventory of
+  correspondence with English usage in a reversal index. The concepts used in the
+  dictionary are explained in a grammar outline, which is of interest to specialists
+  in Gur and Grusi linguistics, as well as any language researchers working in this
+  part of the world.
 bookid: 74
-title: A dictionary and grammatical outline of Chakali
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Jonathan A., Brindle, " "]]
-editedvolume: 0 
-booktitle: A dictionary and grammatical outline of Chakali
-booksubtitle:  
-seriesnumber:  
-blurb: This book is the first comprehensive monograph dedicated to Chakali, a Southwestern Grusi language spoken by less than 3500 people in northwest Ghana. The dictionary offers a consistent description of word meaning and provides the basis for future research in the linguistic area. It is also designed to provide an inventory of correspondence with English usage in a reversal index. The concepts used in the dictionary are explained in a grammar outline, which is of interest to specialists in Gur and Grusi linguistics, as well as any language researchers working in this part of the world.
-isbns: [[digital,978-3-000000-00-0 ]]
-doi:  
-proofreaders:   
-typesetters:    
-illustrators:   
-createspace:  
-bod:  
-publicationdate: forthcoming
+  authors:
+  - [Jonathan, '', Brindle, '<p>Jonathan Brindle holds a position of visiting professor
+      in the Quantitative Lexicology and Variational Linguistics research group at
+      KU Leuven. His research focuses on both poorly documented languages of Ghana,
+      particularly the Grusi languages, and African heritage embodied in the practice
+      of traditional religions and oral literature.</p>']
+  editors: []
+doi: 10.5281/zenodo.344813
+illustrators: []
+isbns: {digital: 978-3-944675-91-6, hardcover: 978-3-944675-92-3, softcover: 978-3-946234-93-7}
+prefix: A
+proofreaders: [Martin Haspelmath, Eitan Grossman, Claudio Iacobini, Winfried Lechner,
+  Anelia Ignatova, Anca Gata, Michael Marlo, "Slavom\xEDr ?\xE9pl\xF6", "Christian\
+    \ D\xF6hler", Rosey Billington, "Andreas H\xF6lzl", "Ahmet Bilal \xD6zdemir",
+  Neal Whitman, Teresa Proto, Alessia Battisti, Elizabeth Zeitoun, Steve Pepper, Jean
+    Nitzke, Jezia Talavera, "Melanie R\xF6thlisberger", Valeria Quochi]
+publicationdate: '20170703'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234933?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234933?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234933?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/4BhMgxGhzJTc'}
+series: algad
+seriesnumber: '2'
+title: dictionary and grammatical outline of Chakali
+typesetters: []

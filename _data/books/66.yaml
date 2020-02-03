@@ -1,45 +1,46 @@
-bookid:  66
-title:  A grammar of Yakkha
+blurb: "\nThis grammar provides the first comprehensive grammatical description of\
+  \ Yakkha, a Sino-Tibetan language of the Kiranti branch. Yakkha is spoken by about\n\
+  14,000 speakers in eastern Nepal, in the Sankhuwa Sabha and Dhankuta districts.\n\
+  The grammar is based on original fieldwork in the Yakkha community. Its primary\
+  \ source of data is a corpus of 13,000 clauses from narratives and naturally-occurring\
+  \ social interaction which the author recorded and transcribed between\n2009 and\
+  \ 2012. Corpus analyses were complemented by targeted elicitation.  \nThe grammar\
+  \ is written in a functional-typological framework. It focusses on\nmorphosyntactic\
+  \ and semantic issues, as these present highly complex and comparatively under-researched\
+  \ fields in Kiranti languages. The sequence of the chapters follows the well-established\
+  \ order of phonological, morphological, syntactic and discourse-structural descriptions.\
+  \ These are supplemented by a historical\nand sociolinguistic introduction as well\
+  \ as an analysis of the complex kinship\nterminology. Topics such as verbal person\
+  \ marking, argument structure, transitivity, complex predication, grammatical relations,\
+  \ clause linkage, nominalization, and the topography-based orientation system have\
+  \ received in-depth treatment. Wherever possible, the structures found were explained\
+  \ in a historical-comparative perspective in order to shed more light on how their\
+  \ particular properties have emerged.\n"
+bookid: 66
+booksubtitle: ''
+chapters: []
 creators:
-  editors: 
-  authors: [[Diana, Schackow,"Diana Schackow completed her M.A. in Linguistics, Central Asian Studies and Indian Studies at the University of Leipzig. She holds a Ph.D. degree in General Linguistics from the University of Zürich. Currently she pursues a degree in Communication Design at Muthesius Kunsthochschule Kiel. "]]
-editedvolume:  
-booksubtitle: 
-seriesnumber: 7
-blurb: "
-This grammar provides the first comprehensive grammatical description of Yakkha, a Sino-Tibetan language of the Kiranti branch.
-Yakkha is spoken by about 14,000 speakers in eastern Nepal, in the Sankhuwa Sabha and Dhankuta districts. The grammar is based on original fieldwork in the Yakkha community. Its primary source of data is a corpus of 13,000 clauses from narratives and naturally-occurring social interaction which the author recorded and transcribed between 2009 and 2012. Corpus analyses were complemented by targeted elicitation. The grammar is written in a functional-typological framework. It focusses on morphosyntactic and semantic issues, as these present highly complex and comparatively under-researched fields in Kiranti languages. The sequence of the chapters follows the well-established order of phonological, morphological, syntactic and discourse-structural descriptions. These are supplemented by a historical and sociolinguistic introduction as well as an analysis of the complex kinship terminology. Topics such as verbal person marking, argument structure, transitivity, complex predication, grammatical relations, clause linkage, nominalization, and the topography-based orientation system have received in-depth treatment. Wherever possible, the structures found were explained in a historical-comparative perspective in order to shed more light on how their particular properties have emerged. 
-"
-isbns: 
-- [ISBN-13, 978-3-946234-11-1]
-- [ISBN-13 hardcover, 978-3-946234-12-8]
-- [ISBN-13 softcover, 978-3-946234-13-5]
-- [ISBN-13 softcover-US, 978-1-523743-63-6]
-- [Publication date, 2015-11-18]
-doi: 10.17169/langsci.b66.12 
-typesetters:
-- Diana Schackow
-proofreaders:  
--  Timm Lichte
-- Eitan Grossman
--  Stephanie Natolo
-- Thomas Gardener
--  Linda Lanz
--  Joseph T. Farquharson
--  Aaron Huey Sonnenschein
--  Michelle Natolo
--  Constantin Freitag
--  Conor Pyle
--  Tamara Schmidt
--  Benjamin Saade
--  Ka Shing Ko
--  João Veloso
--  Slavomír Čéplö
--  Aviva Shimelman
--  Christian Döhler
--  Andreas Hölzl
-illustrators: 
-- Diana Schackow
-createspace: http://www.amazon.co.uk/grammar-Yakkha-Studies-Diversity-Linguistics/dp/3946234135
-bod: http://www.bod.de/buch/diana-schackow/a-grammar-of-yakkha/9783946234128.html
-publicationdate: 2015-11-18  
+  authors:
+  - [Diana, '', Schackow, "Diana Schackow completed her M.A. in Linguistics, Central\
+      \ Asian Studies and Indian Studies at the University of Leipzig. She holds a\
+      \ Ph.D. degree in General Linguistics from the University of Z\xFCrich. Currently\
+      \ she pursues a degree in Communication Design at Muthesius Kunsthochschule\
+      \ Kiel."]
+  editors: []
+doi: 10.17169/langsci.b66.12
+illustrators: []
+isbns: {digital: 978-3-946234-11-1, hardcover: 978-3-946234-12-8, softcover: 978-3-946234-13-5}
+prefix: A
+proofreaders: [Timm Lichte, Eitan Grossman, Stephanie Natolo, Thomas Gardener, Linda
+    Lanz, Joseph T. Farquharson, Aaron Huey Sonnenschein, Michelle Natolo, Constantin
+    Freitag, Conor Pyle, Tamara Schmidt, Benjamin Saade, Ka Shing Ko, "Jo\xE3o Veloso",
+  "Slavom\xEDr ?\xE9pl\xF6", Aviva Shimelman, "Christian D\xF6hler", "Andreas H\xF6\
+    lzl"]
+publicationdate: '20151118'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234135?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234135?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234135?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/5Kn8eOapNhVt'}
+series: sidl
+seriesnumber: '7'
+title: grammar of Yakkha
+typesetters: []

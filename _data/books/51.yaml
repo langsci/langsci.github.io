@@ -1,28 +1,41 @@
+blurb: '<p style="margin-bottom: 0in;"><span style="color: #000000;"><span style="font-family:
+  Helvetica,serif;"><span style="font-size: medium;">This book presents a major leap
+  forward in the understanding of colour by showing how richer descriptions of colour
+  samples can be operationalized in agent-based models. Four different language strategies
+  are explored: the basic colour strategy, the graded membership strategy, the category
+  combination strategy and the basic modification strategy. These strategies are firmly
+  rooted in empirical observations in natural languages, with a focus on compositionality
+  at both the syntactic and semantic level. Through a series of in-depth experiments,
+  this book discerns the impact of the environment, language and embodiment on the
+  formation of basic colour systems. Finally, the experiments demonstrate how language
+  users can invent their own language strategies of increasing complexity by combining
+  primitive cognitive operators, and how these strategies can be aligned between language
+  users through linguistic interactions.</span></span></span>'
 bookid: 51
-title: Language strategies for the domain of colour
+booksubtitle: ''
+chapters: []
 creators:
-  authors: [[Joris, Bleys, "Joris Bleys holds a PhD in Computer Science from the Vrije Universiteit Brussel (VUB) and is an expert in multi-agent systems, cognitive psychology, machine learning and artificial intelligence. He has worked on innovative technologies for Embodied Cognitive Semantics at the VUB, the Sony Computer Science Laboratory Paris, and the University of Plymouth. Currently, Bleys is System Architect at Technicolor (Brussels)."]]
-editedvolume: 0 
-booktitle: Language strategies for the domain of colour 
-seriesnumber: 3
-blurb: "This book presents a major leap forward in the understanding of colour by showing how richer descriptions of colour samples can be operationalized in agent-based models.
-Four different language strategies are explored: the basic colour strategy, the graded membership strategy, the category combination strategy and the basic modification strategy. These strategies are firmly rooted in empirical observations in natural languages, with a focus on compositionality at both the syntactic and semantic level. Through a series of in-depth experiments, this book discerns the impact of the environment, language and embodiment on the formation of basic colour systems. Finally, the experiments demonstrate how language users can invent their own language strategies of increasing complexity by combining primitive cognitive operators, and how these strategies can be aligned between language users through linguistic interactions."
-isbns:
-- [digital,978-3-946234-16-6 ]
-- [ISBN-13 hardcover, 978-3-946234-17-3]
-- [ISBN-13 softcover, 978-3-944675-44-2]
-- [ISBN-13 softcover-US, 978-1-523743-46-9 ]
-doi: 10.17169/langsci.b51.104 
-proofreaders:  
--  Svetoslava Antonova-Baumann
--  Armin Buch
-- Rachele De Felice
--  Daniela Schröder
--  Susanne Vejdemo
-typesetters:   
--  Sebastian Nordhoff
--  Felix Kopecky
-illustrators:   
-createspace: http://www.amazon.co.uk/Language-Strategies-domain-colour-Computational/dp/3944675444
-bod: https://www.bod.de/buch/joris-bleys/language-strategies-for-the-domain-of-colour/9783946234173.html
-publicationdate: 2015-11-12 
+  authors:
+  - [Joris, '', Bleys, '<p></p><p style="margin-bottom: 0in;"><span style="color:
+      #000000;"><span style="font-family: Helvetica,serif;"><span style="font-size:
+      medium;">Joris Bleys holds a PhD in Computer Science from the Vrije Universiteit
+      Brussel (VUB) and is an expert in multi-agent systems, cognitive psychology,
+      machine learning and artificial intelligence. He has worked on innovative technologies
+      for Embodied Cognitive Semantics at the VUB, the Sony Computer Science Laboratory
+      Paris, and the University of Plymouth. Currently, Bleys is System Architect
+      at Technicolor (Brussels).</span></span></span></p>']
+  editors: []
+doi: 10.17169/langsci.b51.104
+illustrators: []
+isbns: {digital: 978-3-946234-16-6, hardcover: 978-3-946234-17-3, softcover: 978-3-944675-44-2}
+prefix: ''
+proofreaders: [Svetoslava Antonova-Baumann, Armin Buch, Rachele De Felice, "Daniela\
+    \ Schr\xF6der", Susanne Vejdemo]
+publicationdate: '20151112'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675444?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675444?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675444?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/Yy4iacEK5em9'}
+series: cmle
+seriesnumber: '3'
+title: Language strategies for the domain of colour
+typesetters: []

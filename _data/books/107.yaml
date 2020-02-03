@@ -1,24 +1,92 @@
-bookid:  107
-title:  New perspectives on cohesion and coherence
-creators:
-  editors: 
-  - [Katrin,Menzel , 'Katrin Menzel studied Conference Interpreting and Translation Studies at Saarland University and is about to finish her PhD on German-English contrasts in textual cohesion. She is working as a lecturer and researcher at the Department of Applied Linguistics, Translation and Interpreting at Saarland University. ']
-  - [Ekaterina, Lapshinova-Koltunski, 'Ekaterina Lapshinova-Koltunski is a post-doctoral researcher at the Department of Linguistics at Saarland University. After finishing her PhD on semi-automatic extraction and classification of language data at the IMS in Stuttgart, she has been working in corpus-based projects related to intralingual and interlingual language variation in multilingual contexts. '] 
-  authors:  
-editedvolume: 1 
+blurb: The contributions to this volume investigate relations of cohesion and coherence
+  as well as instantiations of discourse phenomena and their interaction with information
+  structure in multilingual contexts. Some contributions concentrate on procedures
+  to analyze cohesion and coherence from a corpus-linguistic perspective. Others have
+  a particular focus on textual cohesion in parallel corpora that include both originals
+  and translated texts. Additionally, the papers in the volume discuss the nature
+  of cohesion and coherence with implications for human and machine translation.<br>The
+  contributors are experts on discourse phenomena and textuality who address these
+  issues from an empirical perspective. The chapters in this volume are grounded in
+  the latest research making this book useful to both experts of discourse studies
+  and computational linguistics, as well as advanced students with an interest in
+  these disciplines. We hope that this volume will serve as a catalyst to other researchers
+  and will facilitate further advances in the development of cost-effective annotation
+  procedures, the application of statistical techniques for the analysis of linguistic
+  phenomena and the elaboration of new methods for data interpretation in multilingual
+  corpus linguistics and machine translation.
+bookid: 107
 booksubtitle: Implications for translation
-seriesnumber: 6
-blurb: "
-The contributions to this volume investigate relations of cohesion and coherence as well as instantiations of discourse phenomena and their interaction with information structure in multilingual contexts.
-Some contributions concentrate on procedures to analyze cohesion and coherence from a corpus-linguistic perspective. Others have a particular focus on textual cohesion in parallel corpora that include both originals and translated texts. Additionally, the papers in the volume discuss the nature of cohesion and coherence with implications for human and machine translation. The contributors are experts on discourse phenomena and textuality who address these issues from an empirical perspective. The chapters in this volume are grounded in the latest research making this book useful to both experts of discourse studies and computational linguistics, as well as advanced students with an interest in these disciplines. We hope that this volume will serve as a catalyst to other researchers and will facilitate further advances in the development of cost-effective annotation procedures, the application of statistical techniques for the analysis of linguistic phenomena and the elaboration of new methods for data interpretation in multilingual corpus linguistics and machine translation. 
-"
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate: 
-chapters: 
+chapters:
+- authors:
+  - [Ekaterina, '', Lapshinova-Koltunski]
+  - [Katrin, '', Menzel]
+  - [Kerstin, '', Kunz]
+  number: 1
+  subtitle: null
+  title: Cohesion and coherence in multilingual contexts
+- authors:
+  - ["Magdal\xE9na", '', "Rysov\xE1"]
+  number: 2
+  subtitle: null
+  title: Discourse connectives
+- authors:
+  - ['Kate?ina', '', "Rysov\xE1"]
+  number: 3
+  subtitle: null
+  title: Possibilities of text coherence analysis in the Prague Dependency Treebank
+- authors:
+  - [Koen, '', Kerremans]
+  number: 4
+  subtitle: null
+  title: Applying computer-assisted coreferential analysis to a study of terminological
+    variation in multilingual parallel corpora
+- authors:
+  - [Maria, '', Kunilovskaya]
+  - [Andrey, '', Kutuzov]
+  number: 5
+  subtitle: null
+  title: Testing target text fluency
+- authors:
+  - [Karin, '', Sim Smith]
+  - [Lucia, '', Specia]
+  number: 6
+  subtitle: null
+  title: Examining lexical coherence in a multilingual setting
+- authors:
+  - [Ekaterina, '', Lapshinova-Koltunski]
+  number: 7
+  subtitle: null
+  title: Cohesion and translation variation
+creators:
+  authors: []
+  editors:
+  - [Ekaterina, '', Lapshinova-Koltunski, <p>Ekaterina Lapshinova-Koltunski is a post-doctoral
+      researcher and lecturer at the Department of Language Science and Technology
+      at Saarland University. She completed her PhD on semi-automatic extraction and
+      classification of language data at the IMS in Stuttgart and her habilitation
+      on inter- and intralingual variation in multilingual contexts at Saarland University.</p>]
+  - [Katrin, '', Menzel, <p>Katrin Menzel studied Conference Interpreting and Translation
+      Studies at Saarland University. She wrote her PhD thesis on German-English contrasts
+      in textual cohesion. She is working as a lecturer and a post-doctoral researcher
+      at the Department of Language Science and Technology at Saarland University.</p>]
+  - [Kerstin, '', Kunz, '<p>Kerstin Kunz is a professor for English translation studies
+      at the Institute for Translation and Interpreting at Heidelberg University.
+      She applies quantitative and empirical methodologies in teaching and research
+      to study language contrast, register variation and translation strategies on
+      the level of lexicogrammar and discourse.</p>']
+doi: 10.5281/zenodo.814452
+illustrators: []
+isbns: {digital: 978-3-946234-72-2, hardcover: 978-3-96110-011-8, softcover: 978-3-946234-84-5}
+prefix: ''
+proofreaders: [Timm Lichte, Martin Hilpert, Andreea Calude, Anca Gata, "Christian\
+    \ D\xF6hler", Ikmi Nur Oktavianti, Viola Wiegand, Alec Shaw, Mario Bisiada, "Ahmet\
+    \ Bilal \xD6zdemir", Dominik Lukes, Alessia Battisti, Gabrielle Hodge, Jean Nitzke,
+  Beverley Erasmus, Claudia Marzi, Brett Reynolds]
+publicationdate: '20170323'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234844?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234844?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234844?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/iCeIAi0bhc8L'}
+series: tmnlp
+seriesnumber: '6'
+title: New perspectives on cohesion and coherence
+typesetters: []

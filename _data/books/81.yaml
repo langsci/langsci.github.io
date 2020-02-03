@@ -1,187 +1,191 @@
+blurb: "Traditional dialects have been encroached upon by the increasing mobility\
+  \ of their speakers and by the onslaught of national languages in education and\
+  \ mass media. Typically, older dialects are \x93leveling\x94 to become more like\
+  \ national languages. This is regrettable when the last articulate traces of a culture\
+  \ are lost, but it also promotes a complex dynamics of interaction as speakers shift\
+  \ from dialect to standard and to intermediate compromises between the two in their\
+  \ forms of speech. Varieties of speech thus live on in modern communities, where\
+  \ they still function to mark provenance, but increasingly cultural and social provenance\
+  \ as opposed to pure geography. They arise at times from the need to function throughout\
+  \ the different groups in society, but they also may have roots in immigrants\x92\
+  \ speech, and just as certainly from the ineluctable dynamics of groups wishing\
+  \ to express their identity to themselves and to the world.\r\n<em>The future of\
+  \ dialects</em>&nbsp;is a selection of the papers presented at Methods in Dialectology\
+  \ XV, held in Groningen, the Netherlands, 11-15 August 2014. While the focus is\
+  \ on methodology, the volume also includes specialized studies on varieties of Catalan,\
+  \ Breton, Croatian, (Belgian) Dutch, English (in the US, the UK and in Japan), German\
+  \ (including Swiss German), Italian (including Tyrolean Italian), Japanese, and\
+  \ Spanish as well as on heritage languages in Canada."
 bookid: 81
-title: The future of dialects
-creators:
-  editors: 
-  - [Marie-Hélène, Côté,"Marie-Hélène Côté, Laval/Québec, specializes in phonology and variation in sound patterns. She has worked on several languages, in particular geographical variation in French, in the context of the project Phonologie du français contemporain"]
-  - [Remco, Knooihuizen, "Remco Knooihuizen, Groningen, works on the sociolinguistics language change in situations of language and dialect contact. He has worked on contemporary and historical data sets from languages such as English, Dutch, Frisian and Faroese. "]
-  - [John, Nerbonne, "John Nerbonne, Groningen & Freiburg, applies computational sequence distance measures to dialect pronunciations and also investigates the detection of groups in dialect data and statistics sensitive to both geographic influences and to social conditioning. "]
-editedvolume: 1
-booktitle: The future of dialects
-booksubtitle:  Selected papers from Methods in Dialectology XV  
-seriesnumber: 1
-blurb: "Traditional dialects have been encroached upon by the increasing mobility of their speakers and by the onslaught of national languages in education and mass media.
-Typically, older dialects are “leveling” to become more like national languages. This is regrettable when the last articulate traces of a culture are lost, but it also promotes a complex dynamics of interaction as speakers shift from dialect to standard and to intermediate compromises between the two in their forms of speech. Varieties of speech thus live on in modern communities, where they still function to mark provenance, but increasingly cultural and social provenance as opposed to pure geography. They arise at times from the need to function throughout the different groups in society, but they also may have roots in immigrants’ speech, and just as certainly from the ineluctable dynamics of groups wishing to express their identity to themselves and to the world.
-
-The future of dialects is a selection of the papers presented at Methods in Dialectology XV, held in Groningen, the Netherlands, 11-15 August 2014. While the focus is on methodology, the volume also includes specialized studies on varieties of Catalan, Breton, Croatian, (Belgian) Dutch, English (in the US, the UK and in Japan), German (including Swiss German), Italian (including Tyrolean Italian), Japanese, and Spanish as well as on heritage languages in Canada.
-"
-isbns: 
-- [digital,978-3-946234-18-0] 
-- [ISBN-13 hardcover, 978-3-946234-19-7]
-- [ISBN-13 softcover, 978-3-946234-20-3]
-- [ISBN-13 softcover-US, 978-1-523743-18-6]
-doi: 10.17169/langsci.b81.78 
-typesetters:
-- Remco Knooihuizen
-- Felix Kopecky
-- John Nerbonne
-- Sebastian Nordhoff
-- Oscar Strik 
-proofreaders: 
-- Željko Agić
-- Mario Bisiada
-- Alireza Dehbozorgi
-- Carola Fanselow
-- Martin Haspelmath
-- Andreas Hölzl
-- John Judge
-- Felix Kopecky
-- Sebastian Nordhoff
-- Mathias Schenner
-- Alec Shaw
-- Debora Siller
-- Benedikt Singpiel
-illustrators: 
-- Sebastian Nordhoff
-- Adam Liter
-createspace: https:/www.amazon.co.uk/future-dialects-Selected-Dialectology-Variation/dp/3946234208?tag=wwwlangscip03-21
-bod: https:/www.bod.de/buch/marie-helene-cote/the-future-of-dialects/9783946234197.html
-publicationdate: 2016-02-08 
+booksubtitle: Selected papers from Methods in  Dialectology XV
 chapters:
-- number: 1
+- authors:
+  - [John, '', Nerbonne]
+  - [Remco, '', Knooihuizen]
+  - ["Marie-H\xE9l\xE8ne", '', "C\xF4t\xE9"]
+  number: 1
+  subtitle: null
   title: Embracing the future of dialects
-  subtitle: 
-  authors:  ["Marie-Hélène Côté", "Remco Knooihuizen", "John Nerbonne"]
-  chapterdoi: 10.17169/langsci.b81.80 
-  downloadlink: http:/langsci-press.org/catalog/view/81/80/370-1
-- number: 2 
-  title: Heritage languages as new dialects 
-  subtitle:  
-  authors: [Naomi Nagy]
-  chapterdoi: 10.17169/langsci.b81.81  
-  downloadlink: http:/langsci-press.org/catalog/view/81/81/371-1
-- number: 3 
-  title: From diglossia to diaglossia 
-  subtitle:  A West Flemish case-study
-  authors:  [Anne-Sophie Ghyselen]
-  chapterdoi: 10.17169/langsci.b81.82  
-  downloadlink: http:/langsci-press.org/catalog/view/81/82/372-1
-- number: 4 
-  title: The future of Catalan dialects’ syntax 
-  subtitle: A case study for a methodological contribution 
-  authors: [Ares Llop Naya]  
-  chapterdoi: 10.17169/langsci.b81.83 
-  downloadlink: http:/langsci-press.org/catalog/view/81/83/373-1
-- number: 5 
-  title:  Fuzzy dialect areas and prototype theory 
-  subtitle:  Discovering latent patterns in geolinguistic variation
-  authors: [Simon Pickl]  
-  chapterdoi: 10.17169/langsci.b81.84 
-  downloadlink: http:/langsci-press.org/catalog/view/81/84/374-1
-- number: 6 
-  title:  On the problem of field worker isoglosses
-  subtitle:  
-  authors: [Andrea Mathussek]  
-  chapterdoi: 10.17169/langsci.b81.145 
-  downloadlink: http:/langsci-press.org/catalog/view/81/145/375-1
-- number: 7 
+- authors:
+  - [Naomi, '', Nagy]
+  number: 2
+  subtitle: null
+  title: Heritage languages as new dialects
+- authors:
+  - [Anne-Sophie, '', Ghyselen]
+  number: 3
+  subtitle: null
+  title: From diglossia to diaglossia
+- authors:
+  - [Ares, '', Llop Naya]
+  number: 4
+  subtitle: null
+  title: The future of Catalan dialects' syntax
+- authors:
+  - [Simon, '', Pickl]
+  number: 5
+  subtitle: null
+  title: Fuzzy dialect areas and prototype theory
+- authors:
+  - [Andrea, '', Mathussek]
+  number: 6
+  subtitle: null
+  title: On the problem of field worker isoglosses
+- authors:
+  - [Simonetta, '', Montemagni]
+  - [Martijn, '', Wieling]
+  number: 7
+  subtitle: null
   title: Tracking linguistic features underlying lexical variation patterns
-  subtitle:  A case study on Tuscan dialects 
-  authors: [Simonetta Montemagni , Martijn Wieling]  
-  chapterdoi: 10.17169/langsci.b81.146 
-  downloadlink: http:/langsci-press.org/catalog/view/81/146/376-1
-- number: 8 
-  title: A new dialectometric approach applied to the Breton language 
-  subtitle:  
-  authors: [Guylaine Brun-Trigaud, Tanguy Solliec , Jean Le Dû]  
-  chapterdoi: 10.17169/langsci.b81.147  
-  downloadlink: http:/langsci-press.org/catalog/view/81/147/377-1
-- number: 9 
-  title: Automatically identifying characteristic features of non-native Englishaccents 
-  subtitle:  
-  authors: [Jelke Bloem, Martijn Wieling , John Nerbonne]  
-  chapterdoi: 10.17169/langsci.b81.148 
-  downloadlink: http:/langsci-press.org/catalog/view/81/148/378-1
-- number: 10 
-  title:  Mapping the perception of linguistic form 
-  subtitle:  Dialectometry with perceptual data
-  authors: [Tyler Kendall, Valerie Fridland]  
-  chapterdoi: 10.17169/langsci.b81.149  
-  downloadlink: http:/langsci-press.org/catalog/view/81/149/379-1
-- number: 11
-  title: Horizontal and vertical variation in Swiss German morphosyntax  
-  subtitle:  
-  authors: [Philipp Stoeckle]  
-  chapterdoi: 10.17169/langsci.b81.150 
-  downloadlink: http:/langsci-press.org/catalog/view/81/150/380-1
-- number: 12 
-  title:  Infrequent forms 
-  subtitle:  Noise or not?
-  authors: [Martijn Wieling , Simonetta Montemagni]  
-  chapterdoi: 10.17169/langsci.b81.151  
-  downloadlink: http:/langsci-press.org/catalog/view/81/151/381-1
-- number: 13 
-  title:  Top-down and bottom-up advances in corpus-based dialectometry
-  subtitle:  
-  authors: [Christoph Wolk , Benedikt Szmrecsanyi]  
-  chapterdoi: 10.17169/langsci.b81.152  
-  downloadlink: http:/langsci-press.org/catalog/view/81/152/382-1
-- number: 14 
-  title:  Imitating closely related varieties
-  subtitle:  
-  authors: [Lea Schäfer, Stephanie Leser , Michael Cysouw]  
-  chapterdoi: 10.17169/langsci.b81.153 
-  downloadlink: http:/langsci-press.org/catalog/view/81/153/383-1
-- number: 15
-  title: Spontaneous dubbing as a tool for eliciting linguistic data  
-  subtitle: The case ofsecond person plural inflections in Andalusian Spanish 
-  authors: [Víctor Lara Bermejo]  
-  chapterdoi: 10.17169/langsci.b81.154  
-  downloadlink: http:/langsci-press.org/catalog/view/81/154/384-1
-- number: 16 
-  title: Dialect levelling and changes in semiotic space  
-  subtitle:  
-  authors: [Ivana Škevin]  
-  chapterdoi: 10.17169/langsci.b81.155 
-  downloadlink: http:/langsci-press.org/catalog/view/81/155/385-1
-- number: 17 
-  title: Code-switching in the Anglophone community in Japan 
-  subtitle:  http:/langsci-press.org/catalog/view/81/156/386-1
-  authors: [Keiko Hirano]  
-  chapterdoi: 10.17169/langsci.b81.156  
-  downloadlink: http:/langsci-press.org/catalog/view/81/156/386-1
-- number: 18 
-  title:  Tongue trajectories in North American English /æ/ tensing
-  subtitle:  
-  authors: [Christopher Carignan , Jeff Mielke , Robin Dodsworth]  
-  chapterdoi: 10.17169/langsci.b81.157  
-  downloadlink: http:/langsci-press.org/catalog/view/81/157/387-1
-- number: 19 
-  title:  s-retraction in Italian-Tyrolean bilingual speakers
-  subtitle:  A preliminary investigation using the ultrasound tongue imaging technique
-  authors: [Lorenzo Spreafico]  
-  chapterdoi: 10.17169/langsci.b81.158  
-  downloadlink: http:/langsci-press.org/catalog/view/81/158/389-1
-- number: 20 
-  title: Developing the Linguistic Atlas of Japan Database and advancing analysis of geographical distanceributions of dialects 
-  subtitle:  
-  authors: [Yasuo Kumagai]  
-  chapterdoi: 10.17169/langsci.b81.159 
-  downloadlink: http:/langsci-press.org/catalog/view/81/159/390-1
-- number: 21 
-  title:  Tracing real and apparent time language changes by comparing linguistic maps
-  subtitle:  
-  authors: [Chitsuko Fukushima]  
-  chapterdoi: 10.17169/langsci.b81.160 
-  downloadlink: http:/langsci-press.org/catalog/view/81/160/391-1
-- number: 22 
-  title:  Timespan comparison of dialectal distributions
-  subtitle:  
-  authors: [Takuichiro Onishi]  
-  chapterdoi: 10.17169/langsci.b81.161 
-  downloadlink: http:/langsci-press.org/catalog/view/81/161/392-1
-- number: 23 
-  title:  Tonal variation in Kagoshima Japanese and factors of language change
-  subtitle:  
-  authors: [Ichiro Ota, Hitoshi Nikaido , Akira Utsugi]  
-  chapterdoi: 10.17169/langsci.b81.162 
-  downloadlink: http:/langsci-press.org/catalog/view/81/162/393-1
+- authors:
+  - [Guylaine, '', Brun-Trigaud]
+  - [Tanguy, '', Solliec]
+  - [Jean, '', "Le D\xFB"]
+  number: 8
+  subtitle: null
+  title: A new dialectometric approach applied to the Breton language
+- authors:
+  - [John, '', Nerbonne]
+  - [Martijn, '', Wieling]
+  - [Jelke, '', Bloem]
+  number: 9
+  subtitle: null
+  title: Automatically identifying characteristic features of non-native English accents
+- authors:
+  - [Tyler, '', Kendall]
+  - [Valerie, '', Fridland]
+  number: 10
+  subtitle: null
+  title: Mapping the perception of linguistic form
+- authors:
+  - [Philipp, '', Stoeckle]
+  number: 11
+  subtitle: null
+  title: Horizontal and vertical variation in Swiss German morphosyntax
+- authors:
+  - [Simonetta, '', Montemagni]
+  - [Martijn, '', Wieling]
+  number: 12
+  subtitle: Noise or not?
+  title: Infrequent forms
+- authors:
+  - [Christoph, '', Wolk]
+  - [Benedikt, '', Szmrecsanyi]
+  number: 13
+  subtitle: null
+  title: Top-down and bottom-up advances in corpus-based dialectometry
+- authors:
+  - [Lea, '', "Sch\xE4fer"]
+  - [Stephanie, '', Leser]
+  - [Michael, '', Cysouw]
+  number: 14
+  subtitle: null
+  title: Imitating closely related varieties
+- authors:
+  - ["V\xEDctor", '', Lara Bermejo]
+  number: 15
+  subtitle: null
+  title: Spontaneous dubbing as a tool for eliciting linguistic data
+- authors:
+  - [Ivana, '', "\x8Akevin"]
+  number: 16
+  subtitle: null
+  title: Dialect levelling and changes in semiotic space
+- authors:
+  - [Keiko, '', Hirano]
+  number: 17
+  subtitle: null
+  title: Code-switching in the Anglophone community in Japan
+- authors:
+  - [Christopher, '', Carignan]
+  - [Jeff, '', Mielke]
+  - [Robin, '', Dodsworth]
+  number: 18
+  subtitle: null
+  title: "Tongue trajectories in North American English /\xE6/ tensing"
+- authors:
+  - [Lorenzo, '', Spreafico]
+  number: 19
+  subtitle: null
+  title: s-retraction in Italian-Tyrolean bilingual speakers
+- authors:
+  - [Yasuo, '', Kumagai]
+  number: 20
+  subtitle: null
+  title: Developing the Linguistic Atlas of Japan Database and advancing analysis
+    of geographical distributions of dialects
+- authors:
+  - [Chitsuko, '', Fukushima]
+  number: 21
+  subtitle: null
+  title: Tracing real and apparent time language changes by comparing linguistic maps
+- authors:
+  - [Takuichiro, '', Onishi]
+  number: 22
+  subtitle: null
+  title: Timespan comparison of dialectal distributions
+- authors:
+  - [Ichiro, '', Ota]
+  - [Akira, '', Utsugi]
+  - [Hitoshi, '', Nikaido]
+  number: 23
+  subtitle: null
+  title: Tonal variation in Kagoshima Japanese and factors of language change
+creators:
+  authors: []
+  editors:
+  - [Remco, '', Knooihuizen, 'Remco Knooihuizen, Groningen, works on the sociolinguistics
+      language
+
+      change in situations of language and dialect contact. He has worked on
+
+      contemporary and historical data sets from languages such as English,
+
+      Dutch, Frisian and Faroese.']
+  - [John, '', Nerbonne, 'John Nerbonne, Groningen & Freiburg, applies computational
+      sequence
+
+      distance measures to dialect pronunciations and also investigates the
+
+      detection of groups in dialect data and statistics sensitive to both
+
+      geographic influences and to social conditioning.']
+  - ["Marie-H\xE9l\xE8ne", '', "C\xF4t\xE9", "Marie-H\xE9l\xE8ne C\xF4t\xE9, Laval/Qu\xE9\
+      bec, specializes in phonology and variation\nin sound patterns. She has worked\
+      \ on several languages, in particular\ngeographical variation in French, in\
+      \ the context of the project <i> Phonologie\ndu fran\xE7ais contemporain</i>"]
+doi: 10.17169/langsci.b81.78
+illustrators: []
+isbns: {digital: 978-3-946234-18-0, hardcover: 978-3-946234-19-7, softcover: 978-3-946234-20-3}
+prefix: The
+proofreaders: [Martin Haspelmath, Sebastian Nordhoff, Benedikt Singpiel, Debora Siller,
+  Zeljko Agic, John Judge, Alireza Dehbozorgi, Felix Kopecky, "Andreas H\xF6lzl",
+  Alec Shaw, Mario Bisiada, Mathias Schenner]
+publicationdate: '20160208'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234208?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234208?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234208?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/-yV5m1SX9vI9'}
+series: lv
+seriesnumber: '1'
+title: future of dialects
+typesetters: []

@@ -1,78 +1,83 @@
+blurb: Corpus-based translation studies has become a major paradigm and research methodology
+  and has investigated a wide variety of topics in the last two decades. The contributions
+  to this volume add to the range of corpus-based studies by providing examples of
+  some less explored applications of corpus analysis methods to translation research.
+  They show that the area keeps evolving as it constantly opens up to different frameworks
+  and approaches, from appraisal theory to process-oriented analysis, and encompasses
+  multiple translation settings, including (indirect) literary translation, machine(-assisted)
+  translation and the practical work of professional legal translators. The studies
+  included in the volume also expand the range of application of corpus applications
+  in terms of the tools used to accomplish the research tasks outlined.
 bookid: 76
-title: Crossroads between contrastive linguistics, translation studies and machine translation
-creators: 
-  editors: 
-  - [Claudio, Fantinuoli, "Claudio Fantinuoli is Senior Lecturer at the Johannes Gutenberg University Mainz in Germersheim. His research and teaching areas include corpus-based translation and interpreting studies as well as information management for translators and interpreters."]
-  - [Federico, Zanettin, "Federico Zanettin is Associate Professor of English Language and Translation at the Department of Political Sciences of the University of Perugia. He is has published and lectured widely on corpus-based translation studies, both as concerns descriptive studies and applications to translator education. "]
-editedvolume: 1 
-title: New directions in corpus-based translation studies studies and machine translation
-booksubtitle: 
-seriesnumber: 1
-blurb: "
-Corpus-based translation studies has become a major paradigm and research methodology and has investigated a wide variety of topics in the last two decades.
-The contributions to this volume add to the range of corpus-based studies by providing examples of some less explored applications of corpus analysis methods to translation research. They show that the area keeps evolving as it constantly opens up to different frameworks and approaches, from appraisal theory to process-oriented analysis, and encompasses multiple translation settings, including (indirect) literary translation, machine(-assisted) translation and the practical work of professional legal translators. The studies included in the volume also expand the range of application of corpus applications in terms of the tools used to accomplish the research tasks outlined."
-isbns: 
-- [ISBN-13, 978-3-944675-83-1]
-- [ISBN-13 hardcover, 978-3-944675-74-9]
-- [ISBN-13 softcover, 978-3-944675-75-6]
-- [ISBN-13 softcover-US, 978-1-523743-55-1]
-doi: 10.17169/langsci.b76.64 
-proofreaders: 
-- Benedikt Singpiel
--   Stefan Hartmann
-- Christian Pietsch
-- Rachele De Felice
--  Daniela Schröder
-- Zeljko Agic
--  Kristina Pelikan
--  Charlotte van Tongeren
--  Ka Shing Ko
-typesetters: 
-- Sebastian Nordhoff
-illustrators: 
-createspace: http://langsci-press.org/catalog/book/www.amazon.co.uk/New-directions-corpus-based-translation-studies/dp/3944675754
-bod: http://www.bod.de/buch/fantinuoli-claudio/new-directions-in-corpus-based-translation-studies/9783944675749.html
-publicationdate: 2015-05-28 
-chapters: 
-- number: 1
-  title: Creating and using multilingual corpora in translation studies
-  subtitle: 
-  authors: [Claudio Fantinuoli , Federico Zanettin]
-  chapterdoi: 10.17169/langsci.b76.67 
-  downloadlink: http://langsci-press.org//catalog/view/76/67/277-1
-- number: 2 
+booksubtitle: ''
+chapters:
+- authors:
+  - [Tatiana, '', Serbina]
+  - [Paula, '', Niemietz]
+  - [Stella, '', Neumann]
+  number: 1
+  subtitle: null
   title: Development of a keystroke logged translation corpus
-  subtitle: 
-  authors: [Tatiana Serbina, Paula Niemietz , Stella Neumann]
-  chapterdoi: 10.17169/langsci.b76.68 
-  downloadlink: http://langsci-press.org//catalog/view/76/68/278-1
-- number: 3
-  title: Racism goes to the movies
-  subtitle: A corpus-driven study of cross-linguistic racist discourse annotation and translation analysis
-  authors: [Effie Mouka, Ioannis E. Saridakis , Angeliki Fotopoulou]
-  chapterdoi: 10.17169/langsci.b76.69 
-  downloadlink: http://langsci-press.org//catalog/view/76/69/279-1
-- number: 4
-  title: Building a trilingual parallel corpus to analyse literary translations from German into Basque
-  subtitle: 
-  authors: [Naroa Zubillaga, Zuriñe Sanz , Ibon Uribarri]
-  chapterdoi: 10.17169/langsci.b76.70 
-  downloadlink: http://langsci-press.org//catalog/view/76/70/280-1
-- number: 5
-  title: Variation in translation 
-  subtitle: Evidence from corpora
-  authors: [Ekaterina Lapshinova-Koltunski]
-  chapterdoi: 10.17169/langsci.b76.71 
-  downloadlink: http://langsci-press.org//catalog/view/76/71/281-1
-- number: 6
-  title: "Non-human agents in subject position: Translation from English into Dutch"
-  subtitle: A corpus-based translation study of “give” and “show”
-  authors: [Steven Doms]
-  chapterdoi: 10.17169/langsci.b76.72 
-  downloadlink: http://langsci-press.org//catalog/view/76/72/282-1
-- number: 7
+- authors:
+  - [Effie, '', Mouka]
+  - [Ioannis, E., Saridakis]
+  - [Angeliki, '', Fotopoulou]
+  number: 2
+  subtitle: null
+  title: Racism goes to the Movies
+- authors:
+  - [Naroa, '', Zubillaga]
+  - ["Zuri\xF1e", '', Sanz]
+  - [Ibon, '', Uribarri]
+  number: 3
+  subtitle: null
+  title: Building a trilingual parallel corpus to analyse literary translations from
+    German into Basque
+- authors:
+  - [Ekaterina, '', Lapshinova-Koltunski]
+  number: 4
+  subtitle: null
+  title: Variation in translation
+- authors:
+  - [Steven, '', Doms]
+  number: 5
+  subtitle: null
+  title: Non-Human Agents in Subject Position
+- authors:
+  - [Gianluca, '', Pontrandolfo]
+  number: 6
+  subtitle: null
   title: Investigating judicial phraseology with COSPE
-  subtitle: A contrastive corpus-based study
-  authors: [Gianluca Pontrandolfo]
-  chapterdoi: 10.17169/langsci.b76.73 
-  downloadlink: http://langsci-press.org//catalog/view/76/73/283-1
+- authors:
+  - [Claudio, '', Fantinuoli]
+  - [Federico, '', Zanettin]
+  number: 7
+  subtitle: null
+  title: Creating and using multilingual corpora in translation studies
+creators:
+  authors: []
+  editors:
+  - [Federico, '', Zanettin, "Federico Zanettin is Associate Professor of English\
+      \ Language and Translation at \nthe Department of Political Sciences of the\
+      \ University of Perugia. He is has \npublished and lectured widely on corpus-based\
+      \ translation studies, both as \nconcerns descriptive studies and applications\
+      \ to translator education."]
+  - [Claudio, '', Fantinuoli, "Claudio Fantinuoli is Senior Lecturer at the Johannes\
+      \ Gutenberg University Mainz \nin Germersheim. His research and teaching areas\
+      \ include corpus-based translation \nand interpreting studies as well as information\
+      \ management for translators and \ninterpreters."]
+doi: 10.17169/langsci.b76.64
+illustrators: []
+isbns: {digital: 978-3-944675-83-1, hardcover: 978-3-944675-74-9, softcover: 978-3-944675-75-6}
+prefix: ''
+proofreaders: [Benedikt Singpiel, Stefan Hartmann, Christian Pietsch, Rachele De Felice,
+  "Daniela Schr\xF6der", Zeljko Agic, Kristina Pelikan, Charlotte van Tongeren, Ka
+    Shing Ko]
+publicationdate: '20150528'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675754?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675754?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675754?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/6wL0fA7sssdZ'}
+series: tmnlp
+seriesnumber: '1'
+title: New directions in corpus-based translation studies
+typesetters: []

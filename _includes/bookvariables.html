@@ -2,29 +2,29 @@
 <!-- sets the variable citationstring -->
 
 
-{% assign bookid2 = page.bookid|append: ''%} 
+{% assign bookid2 = page.bookid|append: ''%}
 {% assign book = site.data.books[bookid2] %}
- 
+
 {% include citationstring.html %}
 
 
 <!-- assign publicationyear -->
-{% assign tmp = book.publicationdate | split: '-' %} 
-{% assign publicationyear =  tmp[0]  %}
+{% assign tmp = book.publicationdate | split: '-' %}
+{% assign publicationyear =  tmp[0] | slice: 0, 4 %}
 
 
 <!-- bibtex author field and editor field  -->
 {% assign bibtexauthorstring = -1 %}
 {% assign bibtexauthors = ''|split: ' ' %}
 {% for author in book.creators.authors%}
-{% assign reversedstring = author[1]|append: ', '|append: author[0]%}
+{% assign reversedstring = author[2]|append: ', '|append: author[0]|append: ' '|append: author[1]%}
 {% assign bibtexauthors = bibtexauthors| push: reversedstring %}
 {% assign bibtexauthorstring = bibtexauthors|join: ' and ' %}
-{%endfor%}  
+{%endfor%}
 {% assign bibtexeditorstring = -1 %}
 {% assign bibtexeditors = ''|split: ' ' %}
 {% for editor in book.creators.editors%}
-{% assign reversedstring = editor[1]|append: ', '|append: editor[0]%}
+{% assign reversedstring = editor[2]|append: ', '|append: editor[0]|append: ' '|append: editor[1]%}
 {% assign bibtexeditors = bibtexeditors| push: reversedstring %}
 {% assign bibtexeditorstring = bibtexeditors|join: ' and ' %}
-{%endfor%}   
+{%endfor%}

@@ -1,73 +1,88 @@
+blurb: "This book is superseded by the third edition, available at <a href=\"http://langsci-press.org/catalog/book/255\"\
+  >http://langsci-press.org/catalog/book/255.</a>\r\n&nbsp;\r\nThis book introduces\
+  \ formal grammar theories that play a role in current linguistic theorizing (Phrase\
+  \ Structure Grammar, Transformational Grammar/Government &amp; Binding, Generalized\
+  \ Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-?Driven\
+  \ Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar). The key\
+  \ assumptions are explained and it is shown how the respective theory treats arguments\
+  \ and adjuncts, the active/passive alternation, local reorderings, verb placement,\
+  \ and fronting of constituents over long distances. The analyses are explained with\
+  \ German as the object language.\r\nThe second part of the book compares these approaches\
+  \ with respect to their predictions regarding language acquisition and psycholinguistic\
+  \ plausibility. The nativism hypothesis, which assumes that humans posses genetically\
+  \ determined innate language-specific knowledge, is critically examined and alternative\
+  \ models of language acquisition are discussed. The second part then addresses controversial\
+  \ issues of current theory building such as the question of flat or binary branching\
+  \ structures being more appropriate, the question whether constructions should be\
+  \ treated on the phrasal or the lexical level, and the question whether abstract,\
+  \ non-visible entities should play a role in syntactic analyses. It is shown that\
+  \ the analyses suggested in the respective frameworks are often translatable into\
+  \ each other. The book closes with a chapter showing how properties common to all\
+  \ languages or to certain classes of languages can be captured.\r\nThe book is a\
+  \ translation of the German book <a href=\"http://hpsg.fu-berlin.de/~stefan/Pub/grammatiktheorie.html\"\
+  >Grammatiktheorie</a>, which was published by Stauffenburg in 2010. The following\
+  \ quotes are taken from reviews:\r\n<q>With this critical yet fair reflection on\
+  \ various grammatical theories, M\xFCller fills what was a major gap in the literature.</q>\
+  \ <a href=\"http://dx.doi.org/10.1515/zrs-2012-0040\">Karen Lehmann, Zeitschrift\
+  \ f\xFCr Rezen\xADsio\xADnen zur ger\xADman\xADis\xADtis\xADchen Sprach\xADwis\xAD\
+  senschaft, 2012</a>\r\n<q>Stefan M\xFCller\x92s recent introductory textbook, <em>Gram\xAD\
+  matik\xADthe\xADo\xADrie</em>, is an astonishingly comprehensive and insightful\
+  \ survey for beginning students of the present state of syntactic theory.</q> <a\
+  \ href=\"http://dx.doi.org/10.1515/zfs-2012-0010\">Wolfgang Sternefeld und Frank\
+  \ Richter, Zeitschrift f\xFCr Sprach\xADwissen\xADschaft, 2012</a>\r\n<q>This is\
+  \ the kind of work that has been sought after for a while [...] The impartial and\
+  \ objective discussion offered by the author is particularly refreshing.</q> <a\
+  \ href=\"http://dx.doi.org/10.1515/germ-2011-537\">Werner Abraham, Germanistik,\
+  \ 2012</a>"
 bookid: 25
-title: Grammatical theory 
+booksubtitle: From transformational grammar to constraint-based approaches
+chapters: []
 creators:
-  authors: [[Stefan, Müller," Stefan Müller studied Computer Science, Computational Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh."]]
-editedvolume: 0 
-booktitle: Grammatical theory
-booksubtitle:  From transformational grammar to constraint-based approaches
-seriesnumber: 1
-blurb: "<p>
-This book introduces formal grammar theories that play a role in current linguistic theorizing (Phrase Structure Grammar, Transformational Grammar/Government & Binding, Generalized Phrase Structure Grammar, Lexical Functional Grammar, Categorial Grammar, Head-​Driven Phrase Structure Grammar, Construction Grammar, Tree Adjoining Grammar).
-<br />
-The key assumptions are explained and it is shown how the respective theory treats arguments and adjuncts, the active/passive alternation, local reorderings, verb placement, and fronting of constituents over long distances. The analyses are explained with German as the object language.
-<br />
-The second part of the book compares these approaches with respect to their predictions regarding language acquisition and psycholinguistic plausibility. The nativism hypothesis, which assumes that humans posses genetically determined innate language-specific knowledge, is critically examined and alternative models of language acquisition are discussed. The second part then addresses controversial issues of current theory building such as the question of flat or binary branching structures being more appropriate, the question whether constructions should be treated on the phrasal or the lexical level, and the question whether abstract, non-visible entities should play a role in syntactic analyses. It is shown that the analyses suggested in the respective frameworks are often translatable into each other. The book closes with a chapter showing how properties common to all languages or to certain classes of languages can be captured.
-<br />
-The book is a translation of the German book Grammatiktheorie, which was published by Stauffenburg in 2010. The following quotes are taken from reviews:
-</p>
-
-<blockquote>
-With this critical yet fair reflection on various grammatical theories, Müller fills what was a major gap in the literature. Karen Lehmann, Zeitschrift für Rezen­sio­nen zur ger­man­is­tis­chen Sprach­wis­senschaft, 2012
-</blockquote>
-<br />
-<blockquote>
-Stefan Müller’s recent introductory textbook, Gram­matik­the­o­rie, is an astonishingly comprehensive and insightful survey for beginning students of the present state of syntactic theory. Wolfgang Sternefeld und Frank Richter, Zeitschrift für Sprach­wissen­schaft, 2012
-</blockquote>
-<br />
-<blockquote>
-This is the kind of work that has been sought after for a while [...] The impartial and objective discussion offered by the author is particularly refreshing. Werner Abraham, Germanistik, 2012
-</blockquote>
-"
-isbns: 
-- [ISBN-13, 978-3-944675-21-3]
-- [ISBN-13 hardcover vol. 1, 978-3-946234-29-6]
-- [ISBN-13 hardcover vol. 2, 978-3-946234-40-1]
-- [ISBN-13 softcover vol. 1, 978-3-946234-30-2]         
-- [ISBN-13 softcover vol. 2, 978-3-946234-41-8]
-- [ISBN-13 softcover-US vol. 1, 978-1-530465-62-0]
-- [ISBN-13 softcover-US vol. 2, 978-1-523743-82-7]
-doi: 10.17169/langsci.b25.167 
-proofreaders:   
--  Timm Lichte
--  Stephanie Natolo
--  Joseph T. Farquharson
--  Sebastian Nordhoff
-- Benedikt Singpiel
--  Michelle Natolo
--  Paul Kay
--  Armin Buch
--  Andreea Calude
--  Anelia Ignatova
--  Daniela Schröder
--  Antonio Machicao y Priemer
-- Viola Auermann
--  Conor Pyle
--  Christian Döhler
--  Andreas Hölzl
-- Viola Wiegand
--  Alec Shaw
--  Anne Kilgus
-- Eva Schultze-Berndt
--  Gianina Iordachioaia
--  Neal Whitman
--  PARVIZ PARSAFAR
--  Rong Chen
-- Leonel F. de Alencar
-- Matthew Czuba
-- Sandra Kübler
-typesetters:   
-- Stefan Mülller
-illustrators:   
-createspace: http://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=grammatical+theory+stefan+m%C3%BCller
-bod: http://www.bod.de/shop/suchergebnisse.html?id=4806&tx_frshopplugins_pi6[title]=grammatical+theory&tx_frshopplugins_pi6[author]=&tx_frshopplugins_pi6[isbn]=&tx_frshopplugins_pi6[maincategory]=all&tx_frshopplugins_pi6[subcategory]=
-publicationdate: 2016-03-12 
+  authors:
+  - [Stefan, '', "M\xFCller", "<p>Stefan M\xFCller studied Computer Science, Computational\
+      \ Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh.\
+      \ He worked at the German Research Center of Artificial Intelligence (DFKI)\
+      \ in Saarbr\xFCcken and for the company Interice. He worked as acting chair\
+      \ for German and Computational Linguistics in Jena and for Theoretical Computational\
+      \ Linguistics in Potsdam. He had an assistant professorship in Bremen for theoretical\
+      \ linguistics and computational linguistics, a full professorship for German\
+      \ and General Linguistics at the Freie Universit\xE4t Berlin and is now professor\
+      \ for German language with specialization in syntax at the Humboldt Universit\xE4\
+      t zu Berlin.</p>\r\n<p>His main re\xADsearch topic is Ger\xADman gram\xADmar.\
+      \ He works both em\xADpir\xADi\xADcal\xADly and the\xADo\xADret\xADi\xADcal\xAD\
+      ly. Top\xADics of in\xADter\xADest are mor\xADphol\xADo\xADgy, syn\xADtax, se\xAD\
+      man\xADtics, and in\xADfor\xADma\xADtion struc\xADture. He pub\xADlished main\xAD\
+      ly about Ger\xADman, but he also works on other lan\xADguages as for in\xAD\
+      stance Man\xADdarin Chi\xADnese, Dan\xADish, Mal\xADtese, and Per\xADsian. The\
+      \ the\xADo\xADret\xADi\xADcal work is car\xADried out in the frame\xADwork of\
+      \ Head-? Driv\xADen Phrase Struc\xADture Gram\xADmar (HPSG) and the the\xAD\
+      o\xADret\xADi\xADcal anal\xADy\xADses are im\xADple\xADment\xADed in com\xAD\
+      put\xADer-?pro\xADcess\xADable gram\xADmar frag\xADments. The gram\xADmar frag\xAD\
+      ments that are implemented in the CoreGram Project use a com\xADmon core. One\
+      \ goal of his re\xADsearch is to un\xADder\xADstand lan\xADguage and to find\
+      \ out what lan\xADguages in gen\xADer\xADal and cer\xADtain lan\xADguage class\xAD\
+      es in par\xADtic\xADu\xADlar have in com\xADmon.</p>"]
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  editors: []
+doi: 10.17169/langsci.b25.62
+illustrators: []
+isbns: {digital: 978-3-944675-21-3, hardcover: 'vol. 1: 978-3-946234-29-6, vol. 2:
+    978-3-946234-40-1', softcover: 'vol. 1: 978-3-946234-30-2, vol. 2: 978-3-946234-41-8'}
+prefix: Superseded
+proofreaders: [Timm Lichte, Stephanie Natolo, Joseph T. Farquharson, Sebastian Nordhoff,
+  Benedikt Singpiel, Michelle Natolo, Paul Kay, Armin Buch, Andreea Calude, Anelia
+    Ignatova, "Daniela Schr\xF6der", Antonio Machicao y Priemer, Viola Auermann, Conor
+    Pyle, "Christian D\xF6hler", "Andreas H\xF6lzl", Viola Wiegand, Alec Shaw, Anne
+    Kilgus, Eva Schultze-Berndt, Gianina Iordachioaia, Neal Whitman, PARVIZ PARSAFAR,
+  Rong Chen, Leonel F. de Alencar, Matthew Czuba, "Sandra K\xFCbler"]
+publicationdate: '20160312'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/ref=nb_sb_noss?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/ref=nb_sb_noss?tag=wwwlangscip03-21',
+  amazon.com: 'https://www.amazon.com/dp/ref=nb_sb_noss?tag=wwwlangscipre-20', paperhive: 'https://paperhive.org/documents/tEbso9TaFoeS'}
+series: tbls
+seriesnumber: '1'
+title: ''
+typesetters: []

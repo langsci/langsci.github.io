@@ -1,22 +1,44 @@
-bookid:  85
-title:  A grammar of Pichi
+blurb: Pichi is an Afro-Caribbean English-lexifier Creole spoken on the island of
+  Bioko, Equatorial Guinea. It is an offshoot of 19th century Krio (Sierra Leone)
+  and shares many characteristics with West African relatives like Nigerian Pidgin,
+  Cameroon Pidgin, and Ghanaian Pidgin English, as well as with the English-lexifier
+  creoles of the insular and continental Caribbean. This comprehensive description
+  presents a detailed analysis of the grammar and phonology of Pichi. It also includes
+  a collection of texts and wordlists. Pichi features a nominative-accusative alignment,
+  SVO word order, adjective-noun order, prenominal determiners, and prepositions.
+  The language has a seven-vowel system and twenty-two consonant phonemes. Pichi has
+  a two-tone system with tonal minimal pairs, morphological tone, and tonal processes.
+  The morphological structure is largely isolating. Pichi has a rich system of tense-aspect-mood
+  marking, an indicative-subjunctive opposition, and a complex copular system with
+  several suppletive forms. Many features align Pichi with the Atlantic-Congo languages
+  spoken in the West African littoral zone. At the same time, characteristics like
+  the prenominal position of adjectives and determiners show a typological overlap
+  with its lexifier English, while extensive contact with Spanish has left an imprint
+  on the lexicon and grammar as well.
+bookid: 85
+booksubtitle: ''
+chapters: []
 creators:
-  editors: 
-  authors: [[Kofi,Yakpo,"Kofi Yakpo is Assistant Professor of Linguistics at the University of Hong Kong. His main research interests lie in the areas of language contact and multilingualism. He has conducted research on Pichi (Equatorial Guinea), Sranan (Suriname) and other English-lexifier Creoles of the Atlantic Basin, as well as the Asian diaspora languages of the Caribbean and the Indian Ocean. "]]
-editedvolume: 
-booktitle: 
-booksubtitle: 
-seriesnumber: 
-blurb: "
-Pichi is an Afro-Caribbean English Lexifier Creole spoken by some 150,000 people on the island of Bioko, Equatorial Guinea.
-The language is an off-shoot of Krio (Sierra Leone) and shares many characteristics with closely related languages in West Africa and the Caribbean, such as Nigerian Pidgin and Sranan (Suriname). However, the isolation of Pichi from English and Krio, extensive contact and hybridization with Spanish, language shift from the Bantu language Bubi, as well as koineization through the prolonged coexistence with Nigerian and Cameroon Pidgin have given the language a distinct character. This first comprehensive description of Pichi is based on primary data gathered in Equatorial Guinea. It presents a detailed analysis of the grammar and phonology of Pichi and includes sections on pragmatics and language contact. The annexes contain a collection of text of different genres as well as a Pichi-English-Pichi wordlist. 
-"
-isbns: 
-- [digital,978-3-000000-00-0] 
-doi: 
-typesetters:
-proofreaders: 
-illustrators: 
-createspace: 
-bod: 
-publicationdate:  
+  authors:
+  - [Kofi, '', Yakpo, '<p>Kofi Yakpo is Associate Professor of Linguistics at the
+      University of Hong Kong. He has conducted and led research on the grammar, phonology,
+      areal typology, and sociopolitical dynamics of contact languages with a focus
+      on the English-lexifier creoles of Africa and the Americas, as well as the Asian
+      diaspora languages of the Caribbean and the Indian Ocean.</p>']
+  editors: []
+doi: 10.5281/zenodo.2546450
+illustrators: []
+isbns: {digital: 978-3-96110-133-7, hardcover: 978-3-96110-134-4, softcover: ''}
+prefix: A
+proofreaders: [Valentin Vydrin, Eitan Grossman, "Christian D\xF6hler", Felix Kopecky,
+  Mykel Loren Brinkerhoff, Ludger Paschen, Beverley Erasmus, Jeroen van de Weijer,
+  Vadim Kimmelman, Jeffrey Pheiff, Amir Ghorbanpour, Yvonne Treis, Felix Anker, 'Ivica
+    Je?ud', Hing Yuet Fung]
+publicationdate: '20190220'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101345?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101345?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101345?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/mVbq8GvwMOi7'}
+series: sidl
+seriesnumber: '23'
+title: grammar of Pichi
+typesetters: []
