@@ -1,0 +1,133 @@
+blurb: 'Definiteness has been a central topic in theoretical semantics since its modern
+  foundation. However, despite its significance, there has been surprisingly scarce
+  research on its cross-linguistic expression. With the purpose of contributing to
+  filling this gap, the present volume gathers thirteen studies exploiting insights
+  from formal semantics and syntax, typological and language specific studies, and,
+  crucially, semantic fieldwork and cross-linguistic semantics, in order to address
+  the expression and interpretation of definiteness in a diverse group of languages,
+  most of them understudied. The papers presented in this volume aim to establish
+  a dialogue between theory and data in order to answer the following questions: What
+  formal strategies do natural languages employ to encode definiteness? What are the
+  possible meanings associated to this notion across languages? Are there different
+  types of definite reference? Which other functions (besides marking definite reference)
+  are associated with definite descriptions? Each of the papers contained in this
+  volume addresses at least one of these questions and, in doing so, they aim to enrich
+  our understanding of definiteness.'
+bookid: 227
+booksubtitle: ''
+chapters:
+- authors:
+  - [Ana, '', Aguilar-Guevara]
+  - [Julia, '', Pozas Loyo]
+  - [Violeta, '', "V\xE1zquez-Rojas Maldonado"]
+  number: 1
+  subtitle: null
+  title: Definiteness across languages
+- authors:
+  - [Elizabeth, '', Coppock]
+  - [Linnea, '', Strand]
+  number: 2
+  subtitle: null
+  title: Most vs. the most in languages where the more means most
+- authors:
+  - ["Tha\xEDs", Maira, "Machado de S\xE1"]
+  - [Greg, N., Carlson]
+  - [Maria, Luiza, Cunha Lima]
+  - [Michael, K., Tanenhaus]
+  number: 3
+  subtitle: null
+  title: Is the weak definite a generic?
+- authors:
+  - [Adina, '', Williams]
+  number: 4
+  subtitle: null
+  title: A morpho-semantic account of weak definites and Bare Institutional Singulars
+    in English
+- authors:
+  - [Olga, '', Borik]
+  - [M. Teresa, '', Espinal]
+  number: 5
+  subtitle: null
+  title: Definiteness in Russian bare nominal kinds
+- authors:
+  - [Miloje, '', 'Despi?']
+  number: 6
+  subtitle: null
+  title: On kinds and anaphoricity in languages without definite articles
+- authors:
+  - [David, '', Hall]
+  number: 7
+  subtitle: null
+  title: "Licensing D in classifier languages and \x93numeral blocking\x94"
+- authors:
+  - [Bert, '', Le Bruyn]
+  number: 8
+  subtitle: null
+  title: Definiteness across languages and in L2 acquisition
+- authors:
+  - [Maurice, '', Pico]
+  number: 9
+  subtitle: null
+  title: "A nascent  definiteness marker in Yokot\x92an Maya"
+- authors:
+  - [Ava, '', Irani]
+  number: 10
+  subtitle: null
+  title: On (in)definite  expressions in American Sign Language
+- authors:
+  - [Milena, '', "\x8Aereikait?"]
+  number: 11
+  subtitle: null
+  title: Strong vs. weak definites
+- authors:
+  - [Carlos, '', Cisneros]
+  number: 12
+  subtitle: null
+  title: Definiteness in Cuevas Mixtec
+- authors:
+  - [Florian, '', Schwarz]
+  number: 13
+  subtitle: null
+  title: Weak vs. strong definite articles
+- authors:
+  - [Urtzi, '', Etxeberria]
+  - [Anastasia, '', Giannakidou]
+  number: 14
+  subtitle: null
+  title: Definiteness, partitivity, and domain restriction
+creators:
+  authors: []
+  editors:
+  - [Ana, '', Aguilar-Guevara, "<pre class=\"moz-quote-pre\">Ana Aguilar-Guevara has\
+      \ a Ph.D. in Linguistics from Utrecht\r\nUniversity. She currently works as\
+      \ an assistant professor at the\r\nNational Autonomous University of Mexico.\
+      \ Her research focuses on\r\nsemantic and pragmatic phenomena in natural language,\
+      \ such as weak\r\nreferentiality, peculiar definite and indefinite noun phrases,\
+      \ and\r\nmeaning enrichment.</pre>"]
+  - [Julia, '', Pozas Loyo, "<pre class=\"moz-quote-pre\">Julia Pozas Loyo obtained\
+      \ her PhD at Queen Mary University of London.\r\nShe is currently is an Associate\
+      \ Professor at El Colegio de M\xE9xico and\r\nshe also teaches at the National\
+      \ Autonomous University of Mexico\r\n(UNAM). Her work has focused on the development\
+      \ of determiners,\r\nparticularly in Old Spanish. Her main research interests\
+      \ include\r\ngrammaticalization, the semantics of determiners, (in)definiteness,\r\
+      \nand the history of Romance Languages.\r\n</pre>"]
+  - [Violeta, '', "V\xE1zquez-Rojas Maldonado", "<pre class=\"moz-quote-pre\">Violeta\
+      \ V\xE1zquez Rojas Maldonado has a Ph.D. in Linguistics from New\r\nYork University.\
+      \ She is an associate professor at the Center for\r\nLiterary and Linguistic\
+      \ Studies from El Colegio de M\xE9xico. Her\r\nresearch centers on semantic\
+      \ fieldwork and the semantics and\r\nmorphosyntax of noun phrases in under-represented\
+      \ languages,\r\nparticularly Mexican Spanish and Pur\xE9pecha.</pre>"]
+doi: 10.5281/zenodo.3265959
+edition: 1
+illustrators: []
+isbns: {digital: 978-3-96110-192-4, hardcover: 978-3-96110-193-1, softcover: ''}
+prefix: ''
+proofreaders: []
+publicationdate: ''
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101930?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101930?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101930?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/jtKXyHJw6lE-'}
+series: sidl
+seriesnumber: '25'
+title: Definiteness across languages
+typesetters: []

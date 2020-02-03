@@ -1,0 +1,158 @@
+blurb: "Information structure is a relatively new field to linguistics and has only\
+  \ recently been studied for smaller and less described languages. This book is the\
+  \ first of its kind that brings together contributions on information structure\
+  \ in Austronesian languages. Current approaches from formal semantics, discourse\
+  \ studies, and intonational phonology are brought together with language specific\
+  \ and cross-linguistic expertise of Austronesian languages. The 13 chapters in this\
+  \ volume cover all subgroups of the large Austronesian family, including Formosan,\
+  \ Central Malayo-Polynesian, South Halmahera-West New Guinea, and Oceanic. The major\
+  \ focus, though, lies on Western Malayo-Polynesian languages. Some chapters investigate\
+  \ two of the largest languages in the region (Tagalog and different varieties of\
+  \ Malay), others study information-structural phenomena in small, underdescribed\
+  \ languages. The three overarching topics that are covered in this book are NP marking\
+  \ and reference tracking devices, syntactic structures and information-structural\
+  \ categories, and the interaction of information structure and prosody. Various\
+  \ data types build the basis for the different studies compiled in this book. Some\
+  \ chapters investigate written texts, such as modern novels (cf. Djenar\x92s chapter\
+  \ on modern, standard Indonesian), or compare different text genres, such as, for\
+  \ example, oral narratives and translations of biblical narratives (cf. De Busser\x92\
+  s chapter on Bunun). Most contributions, however, study natural spoken speech and\
+  \ make use of spoken corpora which have been compiled by the authors themselves.\
+  \ The volume comprises a number of different methods and theoretical frameworks.\
+  \ Two chapters make use of the Question Under Discussion approach, developed in\
+  \ formal semantics (cf. the chapters by Latrouite &amp; Riester; Shiohara &amp;\
+  \ Riester). Riesberg et al. apply the recently developed method of Rapid Prosody\
+  \ Transcription (RPT) to investigate native speakers\x92 perception of prosodic\
+  \ prominences and boundaries in Papuan Malay. Other papers discuss theoretical consequences\
+  \ of their findings. Thus, for example, Himmelmann takes apart the most widespread\
+  \ framework for intonational phonology (ToBI) and argues that the analysis of Indonesian\
+  \ languages requires much simpler assumptions than the ones underlying the standard\
+  \ model. Arka &amp; Sedeng ask the question how fine-grained information structure\
+  \ space should be conceptualized and modelled, e.g. in LFG. Schnell argues that\
+  \ elements that could be analysed as \x93topic\x94 and \x93focus\x94 categories,\
+  \ should better be described in terms of \x91packaging\x92 and do not necessarily\
+  \ reflect any pragmatic roles in the first place."
+bookid: 201
+booksubtitle: ''
+chapters:
+- authors:
+  - [Rik, '', De Busser]
+  number: 1
+  subtitle: null
+  title: Referential cohesion in Bunun
+- authors:
+  - ["Franti\x9Aek", '', "Kratochv\xEDl"]
+  - [Nur, Izidhar Binte, Ismail]
+  - [Diyana, '', Hamzah]
+  number: 2
+  subtitle: null
+  title: Stance, categorisation, and information structure in Malay
+- authors:
+  - [Stefan, '', Schnell]
+  number: 3
+  subtitle: null
+  title: "Attention focus and information packaging in Vera\x92a demonstratives"
+- authors:
+  - [Asako, '', Shiohara]
+  - [Anthony, '', Jukes]
+  number: 4
+  subtitle: null
+  title: Two definite markers in Manado Malay
+- authors:
+  - [Dwi, Noverini, Djenar]
+  number: 5
+  subtitle: null
+  title: Constituent order and information structure in Indonesian discourse
+- authors:
+  - [I., Wayan, Arka]
+  - [I, Nyoman, Sedeng]
+  number: 6
+  subtitle: null
+  title: Information Structure in Sembiran Balinese
+- authors:
+  - [Daniel, '', Kaufman]
+  number: 7
+  subtitle: null
+  title: Austronesian predication and the emergence of biclausal clefts in Indonesian
+    languages
+- authors:
+  - [Anja, '', Latrouite]
+  - [Arndt, '', Riester]
+  number: 8
+  subtitle: null
+  title: The role of information structure for morphosyntactic choices in Tagalog
+- authors:
+  - [Asako, '', Shiohara]
+  - [Arndt, '', Riester]
+  number: 9
+  subtitle: null
+  title: Information structure in Sumbawa
+- authors:
+  - [Naomi, '', Tsukida]
+  number: 10
+  subtitle: null
+  title: Preposed NPs in Seediq
+- authors:
+  - [Nikolaus, P., Himmelmann]
+  number: 11
+  subtitle: null
+  title: Some preliminary observations on prosody and information structure in Austronesian
+    languages of Indonesia and East Timor
+- authors:
+  - [Naonori, '', Nagaya]
+  - [Hyun, Kyung, Hwang]
+  number: 12
+  subtitle: null
+  title: Focus and prosody in Tagalog
+- authors:
+  - [Sonja, '', Riesberg]
+  - [Janina, '', Kalbertodt]
+  - [Stefan, '', Baumann]
+  - [Nikolaus, P., Himmelmann]
+  number: 13
+  subtitle: null
+  title: On the perception of prosodic prominences and boundaries in Papuan Malay
+creators:
+  authors: []
+  editors:
+  - [Asako, '', Shiohara, '<p>Asako Shiohara is an associate professor at the Research
+      Institute for Languages and Cultures of Asia and Africa, Tokyo University of
+      Foreign Studies. She has been working on indigenous languages spoken in Indonesia,
+      such as Balinese, Sumbawa, Helong and Kui, as well as standard Indonesian and
+      regional Malay varieties. In addition to describing the grammars based on her
+      fieldwork, she is establishing a collaborative network to document minority
+      language with local research institutes and language communities in Eastern
+      Indonesia.</p>']
+  - [Sonja, '', Riesberg, '<p>Sonja Riesberg is a post-doctoral research fellow at
+      the University of Cologne and at the Centre of Excellence for the Dynamics of
+      Language at the Australian National University. Her PhD dissertation is a thorough
+      study of the voice systems of four Austronesian languages (Totoli, Balinese,
+      Indonesian, and Tagalog) and the theoretical challenges that these systems impose
+      on syntactic theories. Her recent work on western Austronesian focuses on prominence
+      related structures in prosody and morphosyntax. Since 2012 she has also done
+      extensive field work on Yali (Trans-New Guinea) and has been strongly involved
+      in language documentation and capacity building measures in West Papua.</p>']
+  - [Atsuko, '', Utsumi, '<p>Atsuko Utsumi is a professor at Meisei University in
+      Tokyo, Japan.&nbsp;She studied at Tokyo University and received a PhD in Letters
+      in 2005, with a description of the Bantik language, which belongs to the Sangric
+      micro-group of North Sulawesi.&nbsp;She has described Talaud, the other Sangiric
+      language, and Tonsawang, which is one of the Minahasan languages.&nbsp;She also
+      works on Standard Indonesian as well as colloquial Malay varieties in Indonesia.
+      Her work on minority languages covers the areas of phonetics, morphology, syntax,
+      semantics, and discourse analysis, that on Malay varieties mainly focuses on
+      discourse analysis.&nbsp;</p>']
+doi: 10.5281/zenodo.1402571
+illustrators: []
+isbns: {digital: 978-3-96110-108-5, hardcover: 978-3-96110-109-2, softcover: ''}
+prefix: ''
+proofreaders: [Ikmi Nur Oktavianti, Mykel Loren Brinkerhoff, Elizabeth Zeitoun, Natsuko
+    Nakagawa, Prisca Jerono, Beverley Erasmus, Jeroen van de Weijer, Vadim Kimmelman,
+  Jeffrey Pheiff, Joseph Lovestrand, Amir Ghorbanpour, Bonny Sands]
+publicationdate: '20180823'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101094?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101094?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101094?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/qi7VIUXr6kOQ'}
+series: sidl
+seriesnumber: ''
+title: Perspectives on information structure in Austronesian languages
+typesetters: []

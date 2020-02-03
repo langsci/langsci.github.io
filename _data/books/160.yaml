@@ -1,0 +1,210 @@
+blurb: "O presente volume \xE9 uma introdu\xE7\xE3o ao estudo da aquisi\xE7\xE3o e\
+  \ desenvolvimento lingu\xEDsticos. Embora especialmente dedicado \xE0 aquisi\xE7\
+  \xE3o do portugu\xEAs como l\xEDngua materna e n\xE3o materna, assume uma perspetiva\
+  \ comparada, confrontando dados da aquisi\xE7\xE3o desta l\xEDngua com os dispon\xED\
+  veis para outras l\xEDnguas do mundo. Surge na sequ\xEAncia da necessidade de um\
+  \ livro de car\xE1cter introdut\xF3rio de apoio \xE0 atividade pedag\xF3gica nesta\
+  \ \xE1rea do saber, suprindo uma lacuna h\xE1 muito sentida por docentes e discentes.\
+  \ Integra cap\xEDtulos da autoria de v\xE1rios especialistas portugueses e brasileiros,\
+  \ o que permitiu compilar uma parte substancial do trabalho de investiga\xE7\xE3\
+  o sobre aquisi\xE7\xE3o do portugu\xEAs desenvolvido nas \xFAltimas d\xE9cadas,\
+  \ em formato de texto de divulga\xE7\xE3o de f\xE1cil acesso. Come\xE7ando com uma\
+  \ panor\xE2mica hist\xF3rica das quest\xF5es centrais colocadas, no \xFAltimo s\xE9\
+  culo, sobre a aquisi\xE7\xE3o das l\xEDnguas naturais, o volume explora v\xE1rios\
+  \ dom\xEDnios da aquisi\xE7\xE3o (particularmente, a fonologia e a sintaxe) e considera\
+  \ o desenvolvimento t\xEDpico e at\xEDpico, bem como o problema da avalia\xE7\xE3\
+  o lingu\xEDstica. O bilinguismo e a aquisi\xE7\xE3o de uma L2 s\xE3o o tema de dois\
+  \ cap\xEDtulos independentes. Finalmente, relaciona-se o desenvolvimento do conhecimento\
+  \ impl\xEDcito com o do conhecimento metalingu\xEDstico e com a aprendizagem da\
+  \ escrita.\r\nThe present volume is an introduction to the study of Language Acquisition,\
+  \ especially centered on Portuguese. Even though the different chapters always take\
+  \ Portuguese as a point of departure, a comparative perspective is assumed and Portuguese\
+  \ data is compared to data from other languages, when relevant. This book aims at\
+  \ filling a gap in the literature: an introductory textbook to be used by students\
+  \ of Language Acquisition in Portuguese-speaking countries. The book is composed\
+  \ by chapters authored by several Portuguese and Brazilian researchers and it presents\
+  \ in&nbsp; textbook format a relevant part of the research results obtained during\
+  \ the last decades. The book starts with a general historical presentation of the\
+  \ field. The following chapters explore the acquisition of phonology and syntax\
+  \ and consider the problem of typical and atypical development, as well as linguistic\
+  \ assessment. Bilingualism and L2 acquisition are the topics of two independent\
+  \ chapters. Two final chapters discuss the development of linguistic awareness,\
+  \ in relation to the acquisition of writing."
+bookid: 160
+booksubtitle: "Quest\xF5es gerais e dados do Portugu\xEAs"
+chapters:
+- authors:
+  - ["In\xEAs", '', Sim-Sim]
+  number: 1
+  subtitle: null
+  title: "Aquisi\xE7\xE3o da linguagem"
+- authors:
+  - ["S\xF3nia", '', Frota]
+  - [Cristina, '', Name]
+  number: 2
+  subtitle: null
+  title: "Quest\xF5es de perce\xE7\xE3o em l\xEDngua materna"
+- authors:
+  - [Carmen, '', Matzenauer]
+  - [Teresa, '', Costa]
+  number: 3
+  subtitle: null
+  title: "Aquisi\xE7\xE3o da fonologia em l\xEDngua materna"
+- authors:
+  - ["Maria Jo\xE3o", '', Freitas]
+  number: 4
+  subtitle: null
+  title: "Aquisi\xE7\xE3o da fonologia em l\xEDngua materna"
+- authors:
+  - ["Let\xEDcia", M., "Sicuro Corr\xEAa"]
+  - [Marina, R. A., Augusto]
+  number: 5
+  subtitle: null
+  title: "Primeiros passos na aquisi\xE7\xE3o da sintaxe"
+- authors:
+  - ["Ana L\xFAcia", '', Santos]
+  - [Ruth, E. V., Lopes]
+  number: 6
+  subtitle: null
+  title: "Primeiros passos na aquisi\xE7\xE3o da sintaxe"
+- authors:
+  - ["Jo\xE3o", '', Costa]
+  - [Elaine, '', Grolla]
+  number: 7
+  subtitle: null
+  title: "Pronomes, cl\xEDticos e objetos nulos"
+- authors:
+  - ["Let\xEDcia", M., "Sicuro Corr\xEAa"]
+  - [Marina, R. A., Augusto]
+  - ["Jo\xE3o C.", '', "de Lima-J\xFAnior"]
+  number: 8
+  subtitle: null
+  title: Passivas
+- authors:
+  - [Maria, '', Lobo]
+  - [Carla, '', Soares-Jesel]
+  number: 9
+  subtitle: null
+  title: Interrogativas, relativas e clivadas
+- authors:
+  - ["Ana L\xFAcia", '', Santos]
+  number: 10
+  subtitle: null
+  title: "Alguns aspetos da aquisi\xE7\xE3o de ora\xE7\xF5es subordinadas completivas"
+- authors:
+  - ["L\xE9ticia", '', Almeida]
+  - [Cristina, '', Flores]
+  number: 11
+  subtitle: null
+  title: Bilinguismo
+- authors:
+  - [Ana, '', Madeira]
+  number: 12
+  subtitle: null
+  title: "Aquisi\xE7\xE3o de l\xEDngua n\xE3o materna"
+- authors:
+  - [Fernanda, Leopoldina, Viana]
+  - [Carla, '', Silva]
+  - [Iolanda, '', Ribeiro]
+  - [Irene, '', Cadime]
+  number: 13
+  subtitle: null
+  title: "Instrumentos de avalia\xE7\xE3o da linguagem"
+- authors:
+  - ["Maria Jo\xE3o", '', Freitas]
+  - [Marisa, '', Lousada]
+  - [Dina, '', Caetano Alves]
+  number: 14
+  subtitle: null
+  title: "Avalia\xE7\xE3o lingu\xEDstica em contextos de desenvolvimento t\xEDpico\
+    \ e at\xEDpico"
+- authors:
+  - [Alexandrina, '', Martins]
+  - ["S\xF3nia", '', Vieira]
+  number: 15
+  subtitle: null
+  title: "Avalia\xE7\xE3o lingu\xEDstica em contextos de desenvolvimento t\xEDpico\
+    \ e at\xEDpico"
+- authors:
+  - [Ana, "Lu\xEDsa", Costa]
+  - [Armanda, '', Costa]
+  - [Anabela, '', "Gon\xE7alves"]
+  number: 16
+  subtitle: null
+  title: "Consci\xEAncia lingu\xEDstica"
+- authors:
+  - [Ana, Ruth, Moresco Miranda]
+  - ["Jo\xE3o", '', Veloso]
+  number: 17
+  subtitle: null
+  title: "Consci\xEAncia lingu\xEDstica"
+- authors:
+  - [Raquel, '', Santana Santos]
+  number: 18
+  subtitle: null
+  title: "Aquisi\xE7\xE3o da fonologia em l\xEDngua materna"
+creators:
+  authors: []
+  editors:
+  - ["Maria Jo\xE3o", '', Freitas, "<p>Maria Jo\xE3o Freitas \xE9 Professora Associada\
+      \ da Faculdade de Letras da Universidade de Lisboa e investigadora integrada\
+      \ do Centro de Lingu\xEDstica da mesma institui\xE7\xE3o. O seu Doutoramento,\
+      \ na \xE1rea da aquisi\xE7\xE3o da fonologia (1998), centrou-se no estudo da\
+      \ aquisi\xE7\xE3o da estrutura sil\xE1bica em portugu\xEAs europeu. Em colabora\xE7\
+      \xE3o com colegas de outras universidades e com mestrandos e doutorandos, tem\
+      \ explorado: (i) o papel dos constituintes fonol\xF3gicos na descri\xE7\xE3\
+      o do desenvolvimento t\xEDpico e at\xEDpico, construindo, assim, pontes com\
+      \ a Lingu\xEDstica Cl\xEDnica; (ii) potenciais rela\xE7\xF5es entre conhecimento\
+      \ fonol\xF3gico e desenvolvimento de capacidades metalingu\xEDsticas, no dom\xED\
+      nio da Lingu\xEDstica Educacional. Nos \xFAltimos anos, tem colaborado, juntamente\
+      \ com os membros do seu grupo de investiga\xE7\xE3o, nos seguintes projetos\
+      \ internacionais: the PhonProject (Memorial University of Newfoundland, Canada;\
+      \ Carnegie Mellon, USA); the Crosslinguistic Child Phonology Project (University\
+      \ of British Columbia, Canada). A sua atividade docente tem-se centrado, maioritariamente,\
+      \ em unidades curriculares das \xE1reas da fonologia e da aquisi\xE7\xE3o e\
+      \ desenvolvimento lingu\xEDsticos.</p>\r\n<p>Maria Jo\xE3o Freitas is Associate\
+      \ Professor at the Universidade de Lisboa, Faculdade de Letras, and researcher\
+      \ at Centro de Lingu\xEDstica da Universidade de Lisboa. She holds a PhD degree\
+      \ on phonological acquisition (1998), specifically focused on the acquisition\
+      \ of syllable structure in European Portuguese. In collaboration with colleagues\
+      \ from different universities and with MA and PhD students, she develops research\
+      \ on the following topics: (i) the role of phonological constituency in the\
+      \ description of typical and atypical development, building bridges with the\
+      \ field of Clinical Linguistics; (ii) the relationship between phonological\
+      \ knowledge and the development of metalinguistic abilities, in the field of\
+      \ Educational Linguistics. Recently, she has been collaborating with two international\
+      \ projects: the PhonProject (Memorial University of Newfoundland, Canada; Carnegie\
+      \ Mellon, USA); the Crosslinguistic Child Phonology Project (University of British\
+      \ Columbia, Canada). Her teaching experience over the last 30 years mostly includes\
+      \ curricular units in the areas of phonology and language acquisition.</p>"]
+  - ["Ana L\xFAcia", '', Santos, "<p>Ana L\xFAcia Santos \xE9 Professora Associada\
+      \ da Faculdade de Letras da Universidade de Lisboa, onde ensina Aquisi\xE7\xE3\
+      o da Linguagem. \xC9 ainda investigadora do Centro de Lingu\xEDstica da Universidade\
+      \ de Lisboa (CLUL). Os seus interesses de investiga\xE7\xE3o centram-se na aquisi\xE7\
+      \xE3o da sintaxe em situa\xE7\xE3o de monolinguismo ou de bilinguismo. Obteve\
+      \ o Doutoramento em 2006, com uma disserta\xE7\xE3o sobre aquisi\xE7\xE3o de\
+      \ elipse de VP (publicada pela editora John Benjamins, em 2009). Mais recentemente,\
+      \ desenvolveu trabalho sobre aquisi\xE7\xE3o de clivadas e liderou um projeto\
+      \ sobre aquisi\xE7\xE3o de completivas, infinitivos flexionados e controlo.</p>\r\
+      \n<p>Ana L\xFAcia Santos is Associate Professor at the University of Lisbon,\
+      \ at the Linguistics Department (Faculdade de Letras), where she teaches Language\
+      \ Acquisition. She is also a researcher at Centro de Lingu\xEDstica da Universidade\
+      \ de Lisboa (CLUL). Her research interests include the acquisition of syntax\
+      \ in monolingual and also bilingual settings. She obtained her Ph.D. in 2006\
+      \ with a dissertation on the acquisition of VP ellipsis (published by John Benjamins,\
+      \ 2009). More recently, she developed work on the acquisition of clefts and\
+      \ was the leader of a research project on the acquisition of complements clauses,\
+      \ inflected infinitives and control.</p>"]
+doi: 10.5281/zenodo.889261
+illustrators: []
+isbns: {digital: 978-3-96110-016-3, hardcover: '', softcover: ''}
+prefix: A
+proofreaders: []
+publicationdate: '20170926'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/1976340144?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/1976340144?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/1976340144?tag=wwwlangscipre-20',
+  paperhive: 'paperhive.org/documents/remote?type=langsci&id=160'}
+series: tbls
+seriesnumber: '3'
+title: "aquisi\xE7\xE3o de l\xEDngua materna e n\xE3o materna"
+typesetters: []

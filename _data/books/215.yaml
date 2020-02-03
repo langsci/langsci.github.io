@@ -1,0 +1,132 @@
+blurb: This book explores the Agree operation and its morphological realisations (agreement
+  and case), specifically focusing on the connection between Agree and other syntactic
+  dependencies such as movement, binding and control. The chapters in this volume
+  examine a diverse set of cross-linguistic phenomena involving agreement and case
+  from a variety of theoretical perspectives, with a view to elucidating the nature
+  of the abstract operations that underlie them. The phenomena discussed include backward
+  control, passivisation, progressive aspectual constructions, extraction from nominals,
+  possessives, relative clauses and the phasal status of PPs.
+bookid: 215
+booksubtitle: ''
+chapters:
+- authors:
+  - [Anja, '', Weingart]
+  number: 1
+  subtitle: null
+  title: Null possessives in European Portuguese
+- authors:
+  - [Guido, '', Mensching]
+  number: 2
+  subtitle: null
+  title: Extraction from DP in French
+- authors:
+  - [Mihaela, '', Marchis Moreno]
+  number: 3
+  subtitle: null
+  title: A diagnostic for backward object control in Brazilian Portuguese
+- authors:
+  - [Ludovico, '', Franco]
+  - [M., Rita, Manzini]
+  - [Leonardo, '', Savoia]
+  number: 4
+  subtitle: null
+  title: Suffixaufnahme, oblique case and Agree
+- authors:
+  - [Paolo, '', Lorusso]
+  number: 5
+  subtitle: null
+  title: A person split analysis of the progressive forms in Barese
+- authors:
+  - [Paulina, '', '??ska']
+  number: 6
+  subtitle: null
+  title: "Subject-verb agreement with Genitive of Quantification in Polish co and\
+    \ kt\xF3ry object relative clauses"
+- authors:
+  - [Ion, '', Giurgea]
+  number: 7
+  subtitle: null
+  title: On the Person Constraint on Romanian se-passives
+- authors:
+  - ["\xC1ngel", '', Gallego]
+  number: 8
+  subtitle: null
+  title: Long distance agreement in Spanish dialects
+- authors:
+  - [Artemis, '', Alexiadou]
+  - [Elena, '', Anagnostopoulou]
+  number: 9
+  subtitle: null
+  title: An asymmetry in backward control
+- authors:
+  - [Peter, '', Ackema]
+  - [Ad, '', Neeleman]
+  number: 10
+  subtitle: null
+  title: Default person versus default number in agreement
+- authors:
+  - [Ludovico, '', Franco]
+  - [Mihaela, '', Marchis Moreno]
+  - [Matthew, '', Reeve]
+  number: 11
+  subtitle: null
+  title: Introduction
+creators:
+  authors: []
+  editors:
+  - [Mihaela, '', Marchis Moreno, '<p style="margin-bottom: 0in; line-height: 100%;"><span
+      style="font-family: Times New Roman, serif;">Mihaela Marchis Moreno </span><span
+      style="font-family: Times New Roman, serif;">is a&nbsp;postdoctoral researcher
+      at CLUNL, Universidade Nova de Lisboa.&nbsp;The focus of her research is comparative
+      syntax, morpho-syntax and the semantics-syntax interface. Topics she has investigated
+      include relational adjectives, the syntax of nominal phrases, control, raising
+      and clitic-doubling. She has recently published the monograph </span><span style="font-family:
+      Times New Roman, serif;"><em>Mismatches at the syntax-morphology interface:
+      the case of relational adjectives</em></span><span style="font-family: Times
+      New Roman, serif;"> with Cambridge University Press. </span></p>']
+  - [Ludovico, '', Franco, '<p style="margin-bottom: 0in; line-height: 100%;" align="justify"><span
+      style="font-family: Times New Roman, serif;">Ludovico Franco</span><span style="font-family:
+      Times New Roman, serif;"> is a FCT Researcher in Linguistics at CLUNL/Universidade
+      Nova de Lisboa. His main research interests are morphosyntax and neurolinguistics.
+      He has published a monograph and several papers in international journals, including
+      </span><span style="font-family: Times New Roman, serif;"><em>NLLT</em></span><span
+      style="font-family: Times New Roman, serif;">, </span><span style="font-family:
+      Times New Roman, serif;"><em>The Linguistic Review</em></span><span style="font-family:
+      Times New Roman, serif;">, </span><span style="font-family: Times New Roman,
+      serif;"><em>Glossa, Lingua, Probus</em></span><span style="font-family: Times
+      New Roman, serif;">, </span><span style="font-family: Times New Roman, serif;"><em>Transactions
+      of the Philological Society</em></span><span style="font-family: Times New Roman,
+      serif;">, </span><span style="font-family: Times New Roman, serif;"><em>Language
+      Sciences</em></span><span style="font-family: Times New Roman, serif;"> and
+      the </span><span style="font-family: Times New Roman, serif;"><em>Canadian Journal
+      of Linguistics</em></span><span style="font-family: Times New Roman, serif;">.</span></p>']
+  - [Matthew, '', Reeve, '<p style="margin-bottom: 0in; line-height: 100%;"><span
+      style="font-family: Times New Roman, serif;"><span lang="en-US">Matthew Reeve</span></span><span
+      style="font-family: Times New Roman, serif;"><span lang="en-US"> is a faculty
+      member at Zhejiang University, Hangzhou, China. His research interests include
+      syntactic theory in general, comparative syntax and the syntax-semantics interface.
+      His works include the monograph </span></span><span style="font-family: Times
+      New Roman, serif;"><span lang="en-US"><em>Clefts and Their Relatives</em></span></span><span
+      style="font-family: Times New Roman, serif;"><span lang="en-US"> and articles
+      in journals including </span></span><span style="font-family: Times New Roman,
+      serif;"><span lang="en-US"><em>Lingua</em></span></span><span style="font-family:
+      Times New Roman, serif;"><span lang="en-US">, </span></span><span style="font-family:
+      Times New Roman, serif;"><span lang="en-US"><em>Natural Language &amp; Linguistic
+      Theory </em></span></span><span style="font-family: Times New Roman, serif;"><span
+      lang="en-US">and </span></span><span style="font-family: Times New Roman, serif;"><span
+      lang="en-US"><em>Syntax</em></span></span><span style="font-family: Times New
+      Roman, serif;"><span lang="en-US">.</span></span></p>']
+doi: 10.5281/zenodo.2640704
+illustrators: []
+isbns: {digital: 978-3-96110-200-6, hardcover: 978-3-96110-201-3, softcover: ''}
+prefix: ''
+proofreaders: [George Walkden, Felix Kopecky, "Andreas H\xF6lzl", Alec Shaw, Prisca
+    Jerono, Jeroen van de Weijer, Alexandr Rosen, Tom Bossuyt]
+publicationdate: '20191114'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961102015?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961102015?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961102015?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/Y04kXGZ3Q2i3'}
+series: ogs
+seriesnumber: '4'
+title: Agreement, case and locality in the nominal and verbal domains
+typesetters: []

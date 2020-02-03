@@ -1,0 +1,114 @@
+blurb: 'This collection of papers on phrasal compounding is part of a bigger project
+  whose aims are twofold: First, it seeks to broaden the typological perspective by
+  providing data for as many different languages as possible to gain a better understanding
+  of the phenomenon itself. Second, based on these data which clearly show interaction
+  between syntax and morphology it aims to discuss theoretical models which deal with
+  this kind of interaction in different ways. Models like Generative Grammar assume
+  components of grammar and a clear-cut distinction between the lexicon (often including
+  morphology) and grammar. Other models, like construction grammar, do not assume
+  such components and are rather based on a lexicon including constructs. A comparison
+  of these models on the basis of this phenomenon on the morphology-syntax interface
+  makes it possible to assess their descriptive and explanatory power.'
+bookid: 156
+booksubtitle: ''
+chapters:
+- authors:
+  - [Carola, '', Trips]
+  - [Jaklin, '', Kornfilt]
+  number: 1
+  subtitle: null
+  title: Further insights into phrasal compounding
+- authors:
+  - ["Krist\xEDn", '', "Bjarnad\xF3ttir"]
+  number: 2
+  subtitle: null
+  title: Phrasal compounds in Modern Icelandic with reference to Icelandic word formation
+    in general
+- authors:
+  - [Bogdan, '', Szymanek]
+  number: 3
+  subtitle: null
+  title: Compounding in Polish and the absence of phrasal compounding
+- authors:
+  - [Alexandra, '', Bagasheva]
+  number: 4
+  subtitle: null
+  title: On a subclass of nominal compounds in Bulgarian
+- authors:
+  - [Katrin, '', Hein]
+  number: 5
+  subtitle: null
+  title: Modeling the properties of German phrasal compounds within a usage-based
+    constructional approach
+- authors:
+  - [Kunio, '', Nishiyama]
+  number: 6
+  subtitle: null
+  title: Phrasal compounds in Japanese
+- authors:
+  - [Metin, '', "Ba?r?a\xE7?k"]
+  - ['Asl?', '', "G\xF6ksel"]
+  - [Angela, '', Ralli]
+  number: 7
+  subtitle: null
+  title: Copying compound structures
+- authors:
+  - ["J\xFCrgen", '', Pafel]
+  number: 8
+  subtitle: null
+  title: Phrasal compounds and the morphology-syntax relation
+creators:
+  authors: []
+  editors:
+  - [Carola, '', Trips, "<p class=\"western\" style=\"margin-bottom: 0.17in;\" align=\"\
+      justify\" lang=\"en-US\"><span style=\"font-size: medium;\">Carola Trips is\
+      \ professor of English linguistics at the University of Mannheim. She received\
+      \ her PhD from the University of Stuttgart in 2001. Her main research interests\
+      \ have been synchronic and diachronic syntax and morphology, linguistic theory,\
+      \ language contact and lexical semantics. She is the author of a number of articles\
+      \ on these topics and of the following books: <em>From OV to VO in Early Middle\
+      \ English</em> (Amsterdam/New York: John Benjamins, 2002), and <em>Lexical semantics</em>\
+      \ <em>and diachronic morphology: The development of -hood, -dom, and -ship in\
+      \ the history of English</em> (T\xFCbingen: Niemeyer, 2009). She has also co-edited\
+      \ (with Eric Fu\xDF) <em>Diachronic clues to synchronic grammar</em> (Amsterdam/New\
+      \ York: John Benjamins, 2004), (with Eric Fu\xDF) a special issue of <em>STUF</em>\
+      \ (Sprachtypologie und Universalienforschung): <span style=\"color: #000000;\"\
+      >Morphological blocking and linguistic variation: a typological perspective\
+      \ (Akademie Verlag, Berlin, 2009), (with Jaklin Kornfilt</span>) a special issue\
+      \ of <em>STUF</em> (Sprachtypologie und Universalienforschung): <em>Phrasal\
+      \ compounds from a typological and theoretical perspective</em>; 2015; Berlin:\
+      \ De Gruyter/Mouton. </span></p>"]
+  - [Jaklin, '', Kornfilt, "<p class=\"western\" style=\"margin-bottom: 0.17in;\"\
+      \ align=\"justify\" lang=\"en-US\"><span style=\"font-size: medium;\">Jaklin\
+      \ Kornfilt is professor of linguistics at Syracuse University. She received\
+      \ her PhD from Harvard University in 1984. She specializes in syntactic theory,\
+      \ theoretically informed linguistic typology, and the syntax\x97morphology interface,\
+      \ with special emphasis on the syntax and morphology of Turkish and of the Turkic\
+      \ languages. Her research interests extend to German and the Germanic languages,\
+      \ as well. She has published a descriptive reference grammar of Turkish (<em>Turkish\
+      \ Grammar</em>, 1997, London: Routledge), and she is currently involved in a\
+      \ theoretically focused project on the syntax of Turkish. She has co-edited\
+      \ (with B. Lust and G. Hermon) volume 2 of <em>Syntactic Theory and First Language\
+      \ Acquisition</em> (1994; Hillsdale, NJ: Lawrence Erlbaum). She has also co-edited:\
+      \ (With J. Whitman) a special issue of <em>Lingua</em> (<em>Studies in Syntactic\
+      \ Nominalization</em>; 2011; Amsterdam: Elsevier), and (with C. Trips) a special\
+      \ issue of <em>STUF</em> (Sprachtypologie und Universalienforschung): <em>Phrasal\
+      \ compounds from a typological and theoretical perspective</em>; 2015; Berlin:\
+      \ De Gruyter/Mouton. Her articles have included topics on historical syntax,\
+      \ binding, relativization, word order, nominalization, and first language acquisition.</span></p>"]
+doi: 10.5281/zenodo.885113
+illustrators: []
+isbns: {digital: 978-3-96110-012-5, hardcover: 978-3-96110-013-2, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Eitan Grossman, Andreea Calude, "Andreas H\xF6lzl",
+  "Ahmet Bilal \xD6zdemir", PARVIZ PARSAFAR, Steve Pepper, Jean Nitzke, Valeria Quochi,
+  Ken Manson, Gerald Delahunty, Ka Yau (Ryan) Lai, Steven Kaye, Luigi Talamo, Jeroen
+    van de Weijer]
+publicationdate: '20170919'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100136?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100136?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100136?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/oEwKnqsSGEBD'}
+series: mi
+seriesnumber: '1'
+title: Further investigations into the nature of phrasal compounding
+typesetters: []

@@ -1,0 +1,109 @@
+blurb: "The many facets of grammatical gender remain one of the most fruitful areas\
+  \ of linguistic research, and pose fascinating questions about the origins and development\
+  \ of complexity in language.&nbsp;The present work is a two-volume collection of\
+  \ 13 chapters on the topic of grammatical gender seen through the prism of linguistic\
+  \ complexity. The contributions discuss what counts as complex and/or simple in\
+  \ grammatical gender systems, whether the distribution of gender systems across\
+  \ the world\x92s languages relates to the language ecology and social history of\
+  \ speech communities. Contributors demonstrate how the complexity of gender systems\
+  \ can be studied synchronically, both in individual languages and over large cross-linguistic\
+  \ samples, and diachronically, by exploring how gender systems change over time.\
+  \ Volume two consists of three chapters providing diachronic and typological case\
+  \ studies, followed by a final chapter discussing old and new theoretical and empirical\
+  \ challenges in the study of the dynamics of gender complexity.\r\nThis volume is\
+  \ preceded by <a href=\"http://langsci-press.org/catalog/book/223\">volume one</a>,\
+  \ which, in addition to three chapters on the theoretical foundations of gender\
+  \ complexity, contains six chapters on grammatical gender and complexity in individual\
+  \ languages and language families of Africa, New Guinea, and South Asia."
+bookid: 237
+booksubtitle: World-wide comparative studies
+chapters:
+- authors:
+  - [Francesca, '', Di Garbo]
+  - [Bruno, '', Olsson]
+  - [Bernhard, '', "W\xE4lchli"]
+  number: 1
+  subtitle: null
+  title: Introduction
+- authors:
+  - [Francesca, '', Di Garbo]
+  - [Matti, '', Miestamo]
+  number: 2
+  subtitle: null
+  title: The evolving complexity of gender agreement systems
+- authors:
+  - [Bernhard, '', "W\xE4lchli"]
+  number: 3
+  subtitle: null
+  title: The feminine anaphoric gender gram, incipient gender marking, maturity, and
+    extracting anaphoric gender markers from parallel texts
+- authors:
+  - [Kaius, '', "Sinnem\xE4ki"]
+  number: 4
+  subtitle: null
+  title: On the distribution and complexity of gender and numeral classifiers
+- authors:
+  - [Francesca, '', Di Garbo]
+  - [Bernhard, '', "W\xE4lchli"]
+  number: 5
+  subtitle: null
+  title: The dynamics of gender complexity
+creators:
+  authors: []
+  editors:
+  - [Bruno, '', Olsson, '<p>Bruno Olsson is a postdoctoral research fellow at the
+      Australian National University. After completing an MA thesis on iamitive tense/aspect
+      markers in Southeast Asian languages at Stockholm University (2013), Bruno pursued
+      doctoral studies at Nanyang Technological University, Singapore, resulting in
+      a description of the Coastal Marind language of New Guinea (2017). His current
+      work includes descriptive and historical work on other languages of the Anim
+      family, with emphasis on the Yaqay language and the development of the Anim
+      gender systems. Some of his other research interests are morphosyntax, the semantics
+      of tense-aspect categories, the typology of Papuan languages, and Kashaya (a
+      language of Northern California).</p>']
+  - [Francesca, '', Di Garbo, '<p>Francesca Di Garbo is a postdoctoral research fellow
+      in General Linguistics at Stockholm University. She received a BA in Classics
+      (2005) and an MA in Classical Philology and Historical Linguistics (2007) at
+      the University of Palermo (Italy). In 2014, she received her PhD in Linguistics
+      at Stockholm University (Sweden). Her doctoral dissertation is a typological
+      investigation of gender and its interaction with number and evaluative morphology
+      in the languages of Africa. Her publications include papers on: the typology
+      of interactions between gender and number, and gender and evaluative morphology;
+      the encoding of evaluative morphology and temperature evaluation in the Kwa
+      language Selee, spoken in Ghana; linguistic complexity, with focus on grammatical
+      gender and the relationship between language structures and social structures.
+      She has taught at&nbsp;Stockholm University and the University of Helsinki.
+      Her research interests include the synchronic and diachronic typology of nominal
+      classification systems and number systems, evaluative morphology, African languages,
+      linguistic complexity, and the relationship between language structure and the
+      socio-historical and natural environment.</p>']
+  - [Bernhard, '', "W\xE4lchli", "<p>Bernhard W\xE4lchli is professor in General Linguistics\
+      \ at Stockholm University. He received his master\x92s degree in Slavic and\
+      \ Baltic studies at the University of Bern (Switzerland) in 1997 and his Ph.D.\
+      \ in General Linguistics at Stockholm University (Sweden) in 2003. His publications\
+      \ include the monograph <em>Co-compounds and natural coordination</em> published&nbsp;by\
+      \ Oxford University Press, in the series \"Oxford Studies in Typology and Linguistic\
+      \ Theory\", and he is a co-editor of several collections of articles and theme\
+      \ issues on typology, areal linguistics and grammaticalization, aggregation\
+      \ of features extracted from texts, parallel texts, and methodology in linguistics.\
+      \ His recent publications include work on the typology of motion events, morphological\
+      \ typology, word formation, measuring the similarity of languages, ideophones,\
+      \ logophoricity, and perception verbs. His major current research interests\
+      \ are the typology of gender, temporal clauses, tense and aspect, negation,\
+      \ Baltic linguistics, and the Mek languages in New Guinea. His earlier work\
+      \ on grammatical gender consists of case studies on the rise and decline of\
+      \ gender systems (The Mek language Nalca and Northwestern Latvian dialects).</p>"]
+doi: 10.5281/zenodo.3446230
+illustrators: []
+isbns: {digital: 978-3-96110-180-1, hardcover: 978-3-96110-181-8, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Alena Witzlack-Makarevich, Jeroen van de Weijer,
+  Gracious Temsen, Tom Bossuyt, Laura Arnold, Carmen Jany]
+publicationdate: '20111025'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101817?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101817?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101817?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/U64uJlWiB1OY'}
+series: sidl
+seriesnumber: '27'
+title: Grammatical gender and linguistic complexity II
+typesetters: []

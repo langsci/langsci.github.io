@@ -1,0 +1,115 @@
+blurb: This book presents a collection of pioneering papers reflecting current methods
+  in prosody research with a focus on Romance languages. The rapid expansion of the
+  field of prosody research in the last decades has given rise to a proliferation
+  of methods that has left little room for the critical assessment of these methods.
+  The aim of this volume is to bridge this gap by embracing original contributions,
+  in which experts in the field assess, reflect, and discuss different methods of
+  data gathering and analysis. The book might thus be of interest to scholars and
+  established researchers as well as to students and young academics who wish to explore
+  the topic of prosody, an expanding and promising area of study.
+bookid: 183
+booksubtitle: A Romance language perspective
+chapters:
+- authors:
+  - ["Juan Mar\xEDa", '', "Garrido Almi\xF1ana"]
+  number: 1
+  subtitle: null
+  title: Using large corpora and computational tools to describe prosody
+- authors:
+  - ["Jo\xE3o Ant\xF4nio", '', de Moraes]
+  - [Albert, '', Rilliard]
+  number: 2
+  subtitle: null
+  title: 'Describing the intonation of speech acts in Brazilian Portuguese:'
+- authors:
+  - [Ingo, '', Feldhausen]
+  - [Maria del Mar, '', Vanrell]
+  - ["Llu\xEFsa", '', Astruc]
+  number: 3
+  subtitle: null
+  title: The Discourse Completion Task in Romance prosody research
+- authors:
+  - [Andrea, '', "Pe\x9Akov\xE1"]
+  number: 4
+  subtitle: null
+  title: "Intonation of pronominal subjects in Porte\xF1o Spanish"
+- authors:
+  - [Barbara, '', Gili Fivela]
+  number: 5
+  subtitle: null
+  title: Multimodal analyses of audio-visual information
+- authors:
+  - [Timo, '', Buchholz]
+  - [Uli, '', Reich]
+  number: 6
+  subtitle: null
+  title: The realizational coefficient
+- authors:
+  - [Olga, '', Kellert]
+  - [Daniele, '', Panizza]
+  - [Caterina, '', Petrone]
+  number: 7
+  subtitle: null
+  title: On the role of prosody in disambiguating wh-exclamatives and wh-interrogatives
+    in Cosenza Italian
+- authors:
+  - [Jan, '', Fliessbach]
+  - [Ingo, '', Feldhausen]
+  - [Maria del Mar, '', Vanrell]
+  number: 8
+  subtitle: null
+  title: Introduction
+- authors:
+  - [Pilar, '', Prieto]
+  number: 9
+  subtitle: null
+  title: Foreword
+creators:
+  authors: []
+  editors:
+  - [Jan, '', Fliessbach, "<p>Jan Fliessbach is a research assistant and doctoral\
+      \ candidate at the Institute of Romance Philology at Freie Universit\xE4t Berlin\
+      \ (Germany). He works on intonation and epistemic modality in Spanish, using\
+      \ both corpus and experimental data. His interests include pragmatics, syntax,\
+      \ language variation, and sociolinguistics. His current research focuses on\
+      \ the interaction of prosody and discourse particles. He studied at Freie Universit\xE4\
+      t Berlin and Universit\xE9 de Montr\xE9al (Canada).</p>"]
+  - [Ingo, '', Feldhausen, "<p>Ingo Feldhausen is a postdoctoral lecturer in the Romance\
+      \ Department of Goethe-Universit\xE4t Frankfurt (Germany). He obtained his habilitation\
+      \ (postdoctoral dissertation) in 2015 with a thesis on the intonation of left-dislocations\
+      \ in Spanish. He had previously worked as a postdoctoral researcher at the <em>Laboratoire\
+      \ de Phon\xE9tique et Phonologie</em> (LPP \x96 Paris 3) and the <em>Laboratoire\
+      \ de Linguistique Formelle</em> (LFF \x96 Paris 7) in Paris (France). In 2008,\
+      \ he defended his Ph.D. thesis at the University of Potsdam (Germany) and published\
+      \ it as <em>Sentential Form and Prosodic Structure of Catalan</em> (2010) with\
+      \ John Benjamins Publishing. His research focuses on the prosody-syntax interface\
+      \ and the intonational phonology of Romance languages as well as on language\
+      \ variation and multilingualism by combining empirical/experimental research\
+      \ and theoretical explanation.</p>"]
+  - [Maria del Mar, '', Vanrell, "<p>Maria del Mar Vanrell is an assistant professor\
+      \ at the Departament de Filologia Catalana i Ling\xFC\xEDstica General of the\
+      \ Universitat de les Illes Balears. After receiving her Bachelor\x92s degree\
+      \ at the Universitat de les Illes Balears in 2003, Vanrell worked for two years\
+      \ as an associate lecturer at the Universitat Aut\xF2noma de Barcelona. In 2011\
+      \ she defended her PhD dissertation, \x93The phonological relevance of tonal\
+      \ scaling in the intonational grammar of Catalan\x94, at the Universitat Aut\xF2\
+      noma de Barcelona. She has worked as a postdoctoral researcher/instructor at\
+      \ the Universidad Aut\xF3noma de Madrid and at the Freie Universit\xE4t Berlin.\
+      \ Her research focuses on the intonational phonology of Romance languages, prosody\x96\
+      pragmatics and prosody\x96syntax interfaces, the early acquisition of those\
+      \ interfaces, and methodological issues concerning ecological validity in data\
+      \ elicitation.</p>"]
+doi: 10.5281/zenodo.1471564
+illustrators: []
+isbns: {digital: 978-3-96110-104-7, hardcover: 978-3-96110-105-4, softcover: ''}
+prefix: ''
+proofreaders: [Adrien Barbaresi, Daniela Kolbe-Hanna, Conor Pyle, Varun deCastro-Arrazola,
+  Brett Reynolds, Jeroen van de Weijer, Amir Ghorbanpour, Aysel Saricaoglu]
+publicationdate: '20181020'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101051?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101051?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101051?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/607GVhTpJHIg'}
+series: silp
+seriesnumber: ''
+title: Methods in prosody
+typesetters: []

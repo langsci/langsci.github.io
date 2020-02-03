@@ -1,0 +1,131 @@
+blurb: "This volume provides an up-to-date discussion of a foundational issue that\
+  \ has recently taken centre stage in linguistic typology and which is relevant to\
+  \ the language sciences more generally: To what extent can cross-linguistic generalizations,\
+  \ i.e. statistical universals of linguistic structure, be explained by the diachronic\
+  \ sources of these structures? Everyone agrees that typological distributions are\
+  \ the result of complex histories, as \x93languages evolve into the variation states\
+  \ to which synchronic universals pertain\x94 (Hawkins 1988). However, an increasingly\
+  \ popular line of argumentation holds that many, perhaps most, typological regularities\
+  \ are long-term reflections of their diachronic sources, rather than being \x91\
+  target-driven\x92 by overarching functional-adaptive motivations. On this view,\
+  \ recurrent pathways of reanalysis and grammaticalization can lead to uniform synchronic\
+  \ results, obviating the need to postulate global forces like ambiguity avoidance,\
+  \ processing efficiency or iconicity, especially if there is no evidence for such\
+  \ motivations in the genesis of the respective constructions. On the other hand,\
+  \ the recent typological literature is equally ripe with talk of \"complex adaptive\
+  \ systems\", \"attractor states\" and \"cross-linguistic convergence\". One may\
+  \ wonder, therefore, how much room is left for traditional functional-adaptive forces\
+  \ and how exactly they influence the diachronic trajectories that shape universal\
+  \ distributions. The papers in the present volume are intended to provide an accessible\
+  \ introduction to this debate. Covering theoretical, methodological and empirical\
+  \ facets of the issue at hand, they represent current ways of thinking about the\
+  \ role of diachronic sources in explaining grammatical universals, articulated by\
+  \ seasoned and budding linguists alike."
+bookid: 220
+booksubtitle: Diachronic sources, functional motivations and the nature of the evidence
+chapters:
+- authors:
+  - [Martin, '', Haspelmath]
+  number: 1
+  subtitle: null
+  title: Can cross-linguistic regularities be explained by constraints on change?
+- authors:
+  - [Natalia, '', Levshina]
+  number: 2
+  subtitle: null
+  title: Linguistic Frankenstein, or How to test universal constraints without real
+    languages
+- authors:
+  - [Susanne, Maria, Michaelis]
+  number: 3
+  subtitle: null
+  title: Support from creole languages for functional adaptation in grammar
+- authors:
+  - [Ilja, '', "Ser\x9Eant"]
+  number: 4
+  subtitle: null
+  title: Weak universal forces
+- authors:
+  - [Karsten, '', Schmidtke-Bode]
+  number: 5
+  subtitle: null
+  title: "Attractor states and diachronic change in Hawkins\x92s \x93Processing Typology\x94"
+- authors:
+  - [Holger, '', Diessel]
+  number: 6
+  subtitle: null
+  title: Preposed adverbial clauses
+- authors:
+  - [Matthew, S., Dryer]
+  number: 7
+  subtitle: null
+  title: Grammaticalization accounts of word order correlations
+- authors:
+  - [Jeremy, '', Collins]
+  number: 8
+  subtitle: null
+  title: Some language universals are historical accidents
+- authors:
+  - [Sonia, '', Cristofaro]
+  number: 9
+  subtitle: null
+  title: Taking diachronic evidence seriously
+- authors:
+  - [Karsten, '', Schmidtke-Bode]
+  - [Eitan, '', Grossman]
+  number: 10
+  subtitle: null
+  title: Diachronic sources, functional motivations and the nature of the evidence
+- authors:
+  - [Karsten, '', Schmidtke-Bode]
+  number: 11
+  subtitle: null
+  title: Introduction
+creators:
+  authors: []
+  editors:
+  - [Natalia, '', Levshina, "<p>Natalia Levshina is a postdoctoral researcher in the\
+      \ ERC-funded Project \x93Grammatical Universals\x94 headed by Martin Haspelmath.\
+      \ Since obtaining her PhD degree in Leuven under the supervision of Dirk Geeraerts\
+      \ and Dirk Speelman, she has worked in Jena, Marburg and Louvain-la-Neuve. Her\
+      \ main interests are usage-based linguistics, functional typology and language\
+      \ variation. She is a fan of big corpora, programming and statistics and has\
+      \ recently published a textbook \x93How to Do Linguistics with R: Data exploration\
+      \ and statistical analysis\x94 (2015).</p>"]
+  - [Karsten, '', Schmidtke-Bode, '<p>Karsten Schmidtke-Bode is currently a lecturer
+      of English linguistics at the University of Jena and a post-doctoral researcher
+      in a project on grammatical coding asymmetries at Leipzig University. His focus
+      in linguistic typology has been on complex sentences, notably purpose and complement
+      clauses, but he has also worked on the usage-based mechanisms involved in language
+      acquisition, language change and the emergence of grammatical universals.</p>']
+  - [Ilja, '', "Ser\x9Eant", "<p>Ilja A. Ser\x9Eant is a postdoctoral researcher in\
+      \ linguistics at Leipzig University. He holds a PhD in both General Linguistics\
+      \ and Historical-Comparative Indo-European linguistics, and a habilitation (second\
+      \ thesis) in General Linguistics.</p>"]
+  - [Susanne, Maria, Michaelis, "<p>Susanne Maria Michaelis is a postdoc in the ERC-funded\
+      \ research project <a href=\"https://research.uni-leipzig.de/unicodas/grammatical-universals/\"\
+      >Grammatical Universals</a> at Leipzig University. Her research interests in\
+      \ linguistics are primarily in comparative studies of pidgin and creole languages\
+      \ against the background of the world-wide variation of languages. She is one\
+      \ of the four editors of the Atlas of Pidgin and Creole Language Structures\
+      \ (<em><a href=\"http://apics-online.info/\">APiCS</a></em>, OUP 2013). Her\
+      \ special expertise is Seychelles Creole, a French-based creole of the Indian\
+      \ Ocean (<em>Temps et aspect en cr\xE9ole seychellois</em>, 1993; <em>Komplexe\
+      \ Syntax im Seychellen-Kreol</em> 1994).</p>"]
+doi: 10.5281/zenodo.2583788
+illustrators: []
+isbns: {digital: 978-3-96110-147-4, hardcover: 978-3-96110-148-1, softcover: ''}
+prefix: ''
+proofreaders: [Richard T Griscom, Stefan Hartmann, Ulrike Demske, Andreea Calude,
+  Aleksandrs Berdicevskis, Susanne Vejdemo, Benjamin Saade, "Janina Rad\xF3", Mykel
+    Loren Brinkerhoff, Steve Pepper, Eran Asoulin, Lachlan Mackenzie, Luigi Talamo,
+  Jeroen van de Weijer, Alexandr Rosen, Vadim Kimmelman, Barend Beekhuizen, Amir Ghorbanpour,
+  Alexis Pierrard, Yvonne Treis, 'Ivica Je?ud', Gereon Kaiping]
+publicationdate: '20190410'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101485?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101485?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101485?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/aZfpNd8qgynV'}
+series: cfls
+seriesnumber: '3'
+title: Explanation in typology
+typesetters: []

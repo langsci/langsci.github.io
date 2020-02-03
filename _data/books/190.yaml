@@ -1,0 +1,85 @@
+blurb: This volume is the first in what hopefully will be a growing set of edited
+  volumes and monographs concerning Niger-Congo comparative studies. This first volume
+  addresses matters that are relevant to the entire East Benue-Congo family as well
+  as the particular branches Kainji, Plateau, and Bantoid. In the case of Bantoid,
+  the particular focus is on Grassfields and the Grassfields-Bantu borderland, though
+  other Bantoid subgroups are referenced. The potential topics for comparative studies
+  among these languages are numerous, but this volume is dedicated to presentations
+  on nominal affixes, third person pronouns, and verbal extensions. A forthcoming
+  volume will provide some results of reconstructions and lexicostatistics in Cross
+  River, exploratory reconstructions in Southern Jukunoid, and reconstructions in
+  Ekoid-Mbe and Mambiloid.
+bookid: 190
+booksubtitle: Nouns, pronouns, and verbs
+chapters:
+- authors:
+  - [John, R., Watters]
+  number: 1
+  subtitle: null
+  title: East Benue-Congo
+- authors:
+  - [Jeff, '', Good]
+  number: 2
+  subtitle: null
+  title: Eastern Benue-Congo noun classes, with a focus on morphological behavior
+- authors:
+  - [Roger, M., Blench]
+  number: 3
+  subtitle: null
+  title: Nominal affixing in the Kainji languages of northwestern and central Nigeria
+- authors:
+  - [Roger, M., Blench]
+  number: 4
+  subtitle: null
+  title: Nominal affixes and number marking in the Plateau languages of Central Nigeria
+- authors:
+  - [Larry, M., Hyman]
+  number: 5
+  subtitle: null
+  title: Common Bantoid verb extensions
+- authors:
+  - [Larry, M., Hyman]
+  number: 6
+  subtitle: null
+  title: Third person pronouns in Grassfields Bantu
+- authors:
+  - [Larry, M., Hyman]
+  number: 7
+  subtitle: null
+  title: More reflections on the nasal classes in Bantu
+creators:
+  authors: []
+  editors:
+  - [John, R., Watters, "<p>John R. Watters works at SIL International (SIL). He has\
+      \ been a field researcher at SIL Cameroon (1974-1989), the SIL Africa Area Director\
+      \ (1989-1999), the SIL International Executive Director (2000-2007), and the\
+      \ President of SIL International (2008-2016). Previously he earned a BA in History\
+      \ at the University of California, Berkeley, and an MA and Ph.D. in Linguistics\
+      \ from the University of California, Los Angeles (UCLA). He has taught at UCLA\
+      \ and the University of Yaounde?, and directed the SIL linguistics program based\
+      \ at the University of Oregon. His specialism is the description of African\
+      \ languages, in particular the Bantoid subgroups of Ekoid and Grassfields. He\
+      \ has authored various articles including the Bantoid overview in Bendor-Samuel\x92\
+      s <em>Niger-Congo </em>(1989), the syntax chapter in Heine and Nurse\x92s <em>African\
+      \ Languages </em>(2000), and the Grassfields Bantu overview in Nurse and Philippson\x92\
+      s <em>The Bantu Languages </em>(2003)<em>. </em>His research interests include\
+      \ information structures, morphology and tone, tense-aspect-mood, comparative-historical\
+      \ topics, and language and society. Over these years and to this day he has\
+      \ been engaged with speakers of Ekoid languages, particularly Ejagham and Mbe,\
+      \ assisting them in developing orthographies, educational material, and translation\
+      \ skills.</p>"]
+doi: 10.5281/zenodo.1314306
+illustrators: []
+isbns: {digital: 978-3-96110-100-9, hardcover: 978-3-96110-101-6, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Richard T Griscom, Andrew Spencer, "Ahmet Bilal\
+    \ \xD6zdemir", Jean Nitzke, Prisca Jerono, Kate Bellamy, Steven Kaye, Sune Gregersen,
+  Jeroen van de Weijer, Felix Hoberg]
+publicationdate: '20181112'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101019?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101019?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101019?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/7nih8IABR02b'}
+series: mcnc
+seriesnumber: ''
+title: East Benue-Congo
+typesetters: []

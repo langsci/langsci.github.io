@@ -1,0 +1,54 @@
+blurb: "<strong>An updated edition of this book is available from&nbsp; <a href=\"\
+  http://langsci-press.org/catalog/book/231\">http://langsci-press.org/catalog/book/231</a></strong>\r\
+  \nThis book provides an introduction to the study of meaning in human language,\
+  \ from a linguistic perspective. It covers a fairly broad range of topics, including\
+  \ lexical semantics, compositional semantics, and pragmatics. The chapters are organized\
+  \ into six units: (1) Foundational concepts; (2) Word meanings; (3) Implicature\
+  \ (including indirect speech acts); (4) Compositional semantics; (5) Modals, conditionals,\
+  \ and causation; (6) Tense &amp; aspect.\r\nMost of the chapters include exercises\
+  \ which can be used for class discussion and/or homework assignments, and each chapter\
+  \ contains references for additional reading on the topics covered.\r\nAs the title\
+  \ indicates, this book is truly an INTRODUCTION: it provides a solid foundation\
+  \ which will prepare students to take more advanced and specialized courses in semantics\
+  \ and/or pragmatics. It is also intended as a reference for fieldworkers doing primary\
+  \ research on under-documented languages, to help them write grammatical descriptions\
+  \ that deal carefully and clearly with semantic issues. The approach adopted here\
+  \ is largely descriptive and non-formal (or, in some places, semi-formal), although\
+  \ some basic logical notation is introduced. The book is written at level which\
+  \ should be appropriate for advanced undergraduate or beginning graduate students.\
+  \ It presupposes some previous coursework in linguistics, but does not presuppose\
+  \ any background in formal logic or set theory."
+bookid: 144
+booksubtitle: An introduction to semantics and pragmatics
+chapters: []
+creators:
+  authors:
+  - [Paul, '', Kroeger, '<p>Paul Kroeger is a Professor of Applied Linguistics at
+      the Graduate Institute of Applied Linguistics in Dallas, Texas, and a Senior
+      Linguistic Consultant for SIL International. He is the author of <em>Phrase
+      structure and grammatical relations in Tagalog</em> (1993, CSLI); <em>Analyzing
+      syntax: a lexical-functional approach</em> (2004, Cambridge University Press);
+      and <em>Analyzing grammar: an introduction</em> (2005, Cambridge University
+      Press). He holds a Ph.D. in Linguistics from Stanford University. His research
+      has focused primarily on the syntax and semantics of Western Malayo-Polynesian
+      languages, with a particular interest in languages of Borneo.</p>']
+  editors: []
+doi: 10.5281/zenodo.1164112
+illustrators: []
+isbns: {digital: 978-3-96110-034-7, hardcover: 978-3-96110-035-4, softcover: 978-3-96110-067-5}
+prefix: Superseded
+proofreaders: [Martin Haspelmath, Eitan Grossman, Eugeniu Costetchi, Guohua Zhang,
+  Ritesh Kumar, Joseph P. DeVeaugh-Geiss, "Christian D\xF6hler", Ikmi Nur Oktavianti,
+  "Andreas H\xF6lzl", Anne Kilgus, PARVIZ PARSAFAR, Matthew Czuba, Mykel Loren Brinkerhoff,
+  David Nash, Jean Nitzke, Prisca Jerono, Catherine Rudin, Beverley Erasmus, "Carla\
+    \ Parra Escart\xEDn", Sandra Auderset, "David Luke\x9A", Lachlan Mackenzie, Luigi
+    Talamo, Jeroen van de Weijer, Michael Aubrey, Torgrim Solstad, "Jos\xE9 Luis Poblete",
+  Monika Czerepowicka, Vasiliki Foufi, Vadim Kimmelman]
+publicationdate: '20180228'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100675?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100675?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100675?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/eFeAXrvKPY-S'}
+series: tbls
+seriesnumber: '5'
+title: Analyzing meaning
+typesetters: []

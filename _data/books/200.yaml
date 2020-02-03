@@ -1,0 +1,61 @@
+blurb: "Este livro \xE9 um curso introdut\xF3rio em sem\xE2ntica formal e tem o intuito\
+  \ de apresentar um sistema interpretativo composicional, formalizado atrav\xE9s\
+  \ de algumas ferramentas l\xF3gico-matem\xE1ticas. N\xE3o se pressup\xF5e experi\xEA\
+  ncia pr\xE9via com abordagens formais para o significado. Em sala de aula, poder\xE1\
+  \ ser usado tanto em cursos mais avan\xE7ados na gradua\xE7\xE3o quanto em cursos\
+  \ de p\xF3s-gradua\xE7\xE3o. Fora dela, poder\xE1 satisfazer estudantes autodidatas,\
+  \ professores e pesquisadores n\xE3o apenas de lingu\xEDstica, mas tamb\xE9m de\
+  \ \xE1reas afins com interesse na an\xE1lise e formaliza\xE7\xE3o do significado\
+  \ no \xE2mbito das l\xEDnguas naturais, como filosofia, ci\xEAncias cognitivas e\
+  \ intelig\xEAncia artificial. O livro est\xE1 dividido em 7 cap\xEDtulos. Ap\xF3\
+  s um cap\xEDtulo introdut\xF3rio sobre os fundamentos de uma sem\xE2ntica formal\
+  \ baseada em condi\xE7\xF5es de verdade (cap\xEDtulo 1), o restante do livro cobre\
+  \ fen\xF4menos relacionados \xE0 satura\xE7\xE3o de predicados (cap\xEDtulo 2),\
+  \ coordena\xE7\xE3o e nega\xE7\xE3o (cap\xEDtulo 3), refer\xEAncia (cap\xEDtulo\
+  \ 4), modifica\xE7\xE3o (cap\xEDtulo 5), quantifica\xE7\xE3o (cap\xEDtulo 6) e liga\xE7\
+  \xE3o (cap\xEDtulo 7). Ao final de cada cap\xEDtulo, h\xE1 sugest\xF5es de leitura\
+  \ para os que quiserem aprofundar-se nos temas abordados no texto, al\xE9m de exerc\xED\
+  cios para a fixa\xE7\xE3o do conte\xFAdo.\r\nThis book is an introductory course\
+  \ on formal semantics written in Portuguese. It presents the basics of a compositional\
+  \ interpretive system, using tools taken from logic and mathematics. No previous\
+  \ knowledge about formal approaches to meaning is presupposed. The book can be used\
+  \ as a one-semester course for upper-level undergraduate or by beginning graduate\
+  \ students. It will be of interest not only to linguists and linguistics students,\
+  \ but also to researchers and students from related areas, such as philosophy, cognitive\
+  \ sciences, and artificial intelligence. All chapters end with suggested readings\
+  \ and exercises, making it also suitable for self-learners. The book is divided\
+  \ into 7 chapters. Starting with an introductory chapter on the basics of truth-conditional\
+  \ semantics and formal approaches to meaning (Chapter 1), the core of the book covers\
+  \ semantic phenomena related to predicate saturation (Chapter 2), coordination and\
+  \ negation (Chapter 3), reference (Chapter 4), modification (Chapter 5), quantification\
+  \ (Chapter 6), and binding (Chapter 7)."
+bookid: 200
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Marcelo, '', Ferreira, "<p>Marcelo Ferreira is Associate Professor at the Department\
+      \ of Linguistics at University of S\xE3o Paulo, Brazil. He holds a Ph.D. in\
+      \ Linguistics from the Massachusetts Institute of Technology (MIT). His main\
+      \ area of research is formal semantics and its interfaces with syntax and pragmatics,\
+      \ with a particular interest in the interaction between tense, aspect, and modality.</p>\r\
+      \n<p>Marcelo Ferreira \xE9 Professor Associado no Departamento de Lingu\xED\
+      stica da Universidade de S\xE3o Paulo, Brasil. Obteve o t\xEDtulo de Ph.D. em\
+      \ Lingu\xEDstica pelo Massachussets Institute of Technology (MIT). Sua principal\
+      \ \xE1rea de pesquisa \xE9 a sem\xE2ntica formal e suas interfaces com a sintaxe\
+      \ e a pragm\xE1tica, com especial interesse na intera\xE7\xE3o entre tempo,\
+      \ aspecto e modalidade.</p>"]
+  editors: []
+doi: 10.5281/zenodo.2600163
+illustrators: []
+isbns: {digital: 978-3-96110-153-5, hardcover: '', softcover: 978-3-96110-154-2}
+prefix: ''
+proofreaders: []
+publicationdate: '20170326'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/396110154X?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/396110154X?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/396110154X?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/mjr0X6DgjErz'}
+series: tbls
+seriesnumber: '6'
+title: "Curso de sem\xE2ntica formal"
+typesetters: []

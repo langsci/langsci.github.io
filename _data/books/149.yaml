@@ -1,0 +1,99 @@
+blurb: "A new edition of this book is available at&nbsp; <a href=\"http://langsci-press.org/catalog/book/234\"\
+  >http://langsci-press.org/catalog/book/234.</a>\r\nThis volume contains the complete\
+  \ collection of published and unpublished work on German grammar by Tilman N. H\xF6\
+  hle. It consists of two parts. The first part is <em>Topologische Felder</em>, a\
+  \ book-length manuscript that was written in 1983 but was never finished nor published.\
+  \ It is a careful examination of the topological properties of German sentences,\
+  \ including a discussion of typological assumptions. The second part assembles all\
+  \ other published and unpublished papers by H\xF6hle on German grammar.<br><br>All\
+  \ of these papers were highly influential in German linguistics, in theoretical\
+  \ linguistics in general, and in a specific variant of theoretical linguistics,\
+  \ Head-Driven Phrase Structure Grammar. Topics covered are clause structure, constituent\
+  \ order, coordination, (verum) focus, word structure, the relationship between relative\
+  \ pronouns and verbs in V2, extraction, and the foundations of a theory of phonology\
+  \ in constraint-based grammar.\r\n&nbsp;\r\nAs per legal requirement, we state that\
+  \ this book is available in Germany for 70 EUR."
+bookid: 149
+booksubtitle: "Gesammelte Schriften von Tilman N. H\xF6hle"
+chapters: []
+creators:
+  authors:
+  - [Tilmann, N., "H\xF6hle", "<p>Tilman N. H\xF6hle (*1945) studied General Linguistics,\
+      \ Indo-European Linguistics, and German Philology at the University of G\xF6\
+      ttingen and the University of Cologne, where he also received his M.A. (1969)\
+      \ and his PhD (1976). Having taught at the German Seminar of the University\
+      \ of Cologne for many years, he changed to the University of T\xFCbingen in\
+      \ 1984 where, besides teaching German linguistics, he was involved in training\
+      \ several generations of general and computational linguists in grammatical\
+      \ theory as well as theoretically oriented descriptive German grammar. He retired\
+      \ in 2008.</p>\r\n<p>His research within grammatical theory and German grammar\
+      \ covers (i) a range of syntactic topics, in particular topological and other\
+      \ aspects of clause structure (such as extraction, non-finite constructions,\
+      \ constituent order, coordination, (verum) focus), (ii) aspects of \x91word\
+      \ syntax\x92, and (iii) theoretical aspects of phonology, in particular in model-theoretic\
+      \ grammar (HPSG).</p>"]
+  editors:
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", "<div class=\"value\">\r\n<p>Stefan M\xFCller studied\
+      \ Computer Science, Computational Linguistics and Linguistics at the Humboldt\
+      \ University at Berlin and in Edinburgh. He worked at the German Research Center\
+      \ of Artificial Intelligence (DFKI) in Saarbr\xFCcken and for the company Interice.\
+      \ He worked as acting chair for German and Computational Linguistics in Jena\
+      \ and for Theoretical Computational Linguistics in Potsdam. He had an assistant\
+      \ professorship in Bremen for theoretical linguistics and computational linguistics,\
+      \ a full professorship for German and General Linguistics at the Freie Universit\xE4\
+      t Berlin and is now professor for German language with specialization in syntax\
+      \ at the Humboldt Universit\xE4t zu Berlin.</p>\r\n<p>His main re\xADsearch\
+      \ topic is Ger\xADman gram\xADmar. He works both em\xADpir\xADi\xADcal\xADly\
+      \ and the\xADo\xADret\xADi\xADcal\xADly. Top\xADics of in\xADter\xADest are\
+      \ mor\xADphol\xADo\xADgy, syn\xADtax, se\xADman\xADtics, and in\xADfor\xADma\xAD\
+      tion struc\xADture. He pub\xADlished main\xADly about Ger\xADman, but he also\
+      \ works on other lan\xADguages as for in\xADstance Man\xADdarin Chi\xADnese,\
+      \ Dan\xADish, Mal\xADtese, and Per\xADsian. The the\xADo\xADret\xADi\xADcal\
+      \ work is car\xADried out in the frame\xADwork of Head-? Driv\xADen Phrase Struc\xAD\
+      ture Gram\xADmar (HPSG) and the the\xADo\xADret\xADi\xADcal anal\xADy\xADses\
+      \ are im\xADple\xADment\xADed in com\xADput\xADer-?pro\xADcess\xADable gram\xAD\
+      mar frag\xADments. The gram\xADmar frag\xADments that are implemented in the\
+      \ CoreGram Project use a com\xADmon core. One goal of his re\xADsearch is to\
+      \ un\xADder\xADstand lan\xADguage and to find out what lan\xADguages in gen\xAD\
+      er\xADal and cer\xADtain lan\xADguage class\xADes in par\xADtic\xADu\xADlar\
+      \ have in com\xADmon.</p>\r\n</div>"]
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Frank, '', Richter, "<p>Frank Richter studied linguistics, computer science and\
+      \ psychology at Universit\xE4t T\xFCbingen (Promotion 2000, Habilitation 2004),\
+      \ and linguistics at the University of Massachusetts at Amherst. After many\
+      \ years of research and teaching in T\xFCbingen, various Vertretungsprofessuren\
+      \ in linguistics and computational linguistics in T\xFCbingen, Stuttgart, and\
+      \ D\xFCsseldof, he became Hochschuldozent at the Institut f\xFCr England- und\
+      \ Amerikastudien of Goethe Universit\xE4t Frankfurt in 2014.</p>\r\n<p>His main\
+      \ areas of research are in formal semantics, computational semantics, grammar\
+      \ implementation, and the formal foundations of linguistic theory; he is very\
+      \ interested in phraseological constructions with a particular focus on (negative)\
+      \ polarity items, their distribution and their role in grammar. Most of his\
+      \ training in syntax he received in classes taught by Tilman H\xF6hle in the\
+      \ 1990s.</p>"]
+  - [Marga, '', Reis, "<p>Marga Reis, now professor emerita, received her philological,\
+      \ logical, and linguistic training mainly at the University of Munich (1960-68;\
+      \ PhD 1970, Habilitation 1975), Bryn Mawr College (1963-65), and M.I.T. (1972/73).\
+      \ She worked as a professor of German Linguistics at the University of Cologne\
+      \ (1975-84), and, until her retirement, at the University of T\xFCbingen (1984-2009).\
+      \ Since 2009 she also holds an honorary professorship at the Humboldt Universit\xE4\
+      t zu Berlin.</p>\r\n<p>Her main research field is the grammar of Modern German,\
+      \ in particular clausal syntax, extraction, and the relation between grammar\
+      \ and pragmatics, but her published work also includes studies in historical\
+      \ phonology, semantics, word formation, linguistic methodology, and history\
+      \ of linguistics.</p>\r\n<p>&nbsp;</p>"]
+doi: 10.5281/zenodo.1145680
+illustrators: []
+isbns: {digital: 978-3-96110-032-3, hardcover: 978-3-96110-033-0, softcover: ''}
+prefix: Superseded
+proofreaders: []
+publicationdate: '20180306'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100330?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100330?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100330?tag=wwwlangscipre-20'}
+series: classics
+seriesnumber: Volume 5
+title: "Beitr\xE4ge zur deutschen Grammatik"
+typesetters: []

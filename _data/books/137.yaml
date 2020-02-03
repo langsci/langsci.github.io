@@ -1,0 +1,43 @@
+blurb: 'In most languages, words contain vowels, elements of high intensity with rich
+  harmonic structure, enabling the &nbsp;perceptual retrieval of pitch. By contrast,
+  in Tashlhiyt, a Berber language, words can be composed entirely of voiceless segments.
+  When an utterance consists of such words, the phonetic opportunity for the execution
+  of intonational pitch movements is exceptionally limited. This book explores in
+  a series of production and perception experiments how these typologically rare phonotactic
+  patterns interact with intonational aspects of linguistic structure. It turns out
+  that Tashlhiyt allows for a tremendously flexible placement of tonal events. Observed
+  intonational structures can be conceived of as different solutions to a functional
+  dilemma: The requirement to realise meaningful pitch movements in certain positions
+  and the extent to which segments lend themselves to a clear manifestation of these
+  pitch movements.'
+bookid: 137
+booksubtitle: How an intonation system accommodates to adverse phonological environments
+chapters: []
+creators:
+  authors:
+  - [Timo, B., Roettger, '<p>Timo B. Roettger studied General Linguistics and Phonetics
+      in Cologne and Edinburgh. His research interests centre around the question
+      of how multidimensional, continuous aspects of speech can be related to discrete
+      aspects of cognition. He attempts to answer this question by investigating how
+      communicative functions are phonetically encoded during speech production, and
+      how and when aspects of the speech signal are retrieved during speech perception.
+      His recent work has appeared in <em>Journal of Phonetics</em>, <em>Phonology</em>,
+      and <em>Quarterly Journal of Experimental Psychology</em>. Since finishing his
+      PhD in Phonetics, he is currently working as a post-doc researcher in Cologne,
+      investigating the time course of prosody-based intention recognition.</p>']
+  editors: []
+doi: 10.5281/zenodo.814472
+illustrators: []
+isbns: {digital: 978-3-944675-99-2, hardcover: 978-3-96110-008-8, softcover: 978-3-96110-009-5}
+prefix: ''
+proofreaders: [Eitan Grossman, Klara Kim, Amr El-Zawawy, Ikmi Nur Oktavianti, "Andreas\
+    \ H\xF6lzl", Alexis Michaud, Maria Maldonado, Teresa Proto, Mykel Loren Brinkerhoff,
+  Eran Asoulin, Jason Mattausch]
+publicationdate: '20170707'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100098?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100098?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100098?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/MGGYuQxKk5PX'}
+series: silp
+seriesnumber: '3'
+title: Tonal placement in Tashlhiyt
+typesetters: []

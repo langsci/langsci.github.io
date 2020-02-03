@@ -1,0 +1,110 @@
+blurb: "The volume contains a selection of papers originally presented at the symposium\
+  \ on \x93Areal patterns of grammaticalization and cross-linguistic variation in\
+  \ grammaticalization scenarios\x94 held on 12-14 March 2015 at Johannes Gutenberg\
+  \ University of Mainz. The papers, written by leading scholars combining expertise\
+  \ in historical linguistics and grammaticalization research, study variation in\
+  \ grammaticalization scenarios in a variety of language families (Slavic, Indo-Aryan,\
+  \ Tibeto-Burman, Bantu, Mande, \"Khoisan\", Siouan, and Mayan). The volume stands\
+  \ out in the vast literature on grammaticalization by focusing on variation in grammaticalization\
+  \ scenarios and areal patterns in grammaticalization. Apart from documenting new\
+  \ grammaticalization paths, the volume makes a methodological contribution as it\
+  \ addresses an important question of how to reconcile universal outcomes of grammaticalization\
+  \ processes with the fact that the input to these processes is language-specific\
+  \ and construction-specific."
+bookid: 152
+booksubtitle: ''
+chapters:
+- authors:
+  - [Bernd, '', Heine]
+  - [Tania, '', Kuteva]
+  - [Heiko, '', Narrog]
+  number: 1
+  subtitle: How to account for directionality in grammatical change
+  title: Back again to the future
+- authors:
+  - [Guillaume, '', Jacques]
+  number: 2
+  subtitle: null
+  title: The origin of comitative adverbs in Japhug
+- authors:
+  - [Denis, '', Creissels]
+  number: 3
+  subtitle: null
+  title: "Copulas originating from the imperative of \x91see/look\x92 verbs in Mande\
+    \ languages"
+- authors:
+  - [Larry, M., Hyman]
+  number: 4
+  subtitle: null
+  title: Multiple argument marking in Bantoid
+- authors:
+  - [Annie, '', Montaut]
+  number: 5
+  subtitle: Preterite, future, infinitive
+  title: Grammaticalization of participles and gerunds in Indo-Aryan
+- authors:
+  - [Johannes, '', Helmbrecht]
+  number: 6
+  subtitle: null
+  title: On the grammaticalization of demonstratives in Hooc?k und other Siouan languages
+- authors:
+  - [Christian, '', Lehmann]
+  number: 7
+  subtitle: null
+  title: Grammaticalization of tense/aspect/mood marking in Yucatec Maya
+- authors:
+  - ["Bj\xF6rn", '', Wiemer]
+  - [Ilja, A., "Ser\x9Eant"]
+  number: 8
+  subtitle: null
+  title: Diachrony and typology of Slavic aspect
+creators:
+  authors: []
+  editors:
+  - [Walter, '', Bisang, "<p class=\"western\" style=\"margin-bottom: 0.14in; line-height:\
+      \ 115%;\" lang=\"en-GB\"><span lang=\"en-US\">Walter Bisang is Professor of\
+      \ General and Comparative Linguistics at the University of Mainz. He works on\
+      \ grammaticalization, linguistic contact and linguistic complexity. The combination\
+      \ of this research together with his findings on East and mainland Southeast\
+      \ Asian languages led him to the claim that grammaticalization is subject to\
+      \ cross-linguistic variation in terms of its properties as well as in terms\
+      \ of at least some pathways. His papers cover a wide range of phenomena, among\
+      \ them classifiers and classification, serial verb constructions, clause combining,\
+      \ finiteness, parts of speech, radical pro-drop and morphological paradigms.\
+      \ Some of his more recent ideas on grammaticalization are addressed in </span><span\
+      \ style=\"color: #000000;\">\x93</span>Problems with primary vs. secondary grammaticalization:\
+      \ the case of East and mainland Southeast Asian languages\x94 (<em>Language\
+      \ Sciences</em> 47, 2015). A survey of his ideas on complexity is found in \x93\
+      Hidden complexity\x97the neglected side of complexity and its consequences\x94\
+      . <em>Linguistics Vanguard</em> 1.1, 2015).</p>\r\n<p class=\"western\" style=\"\
+      margin-bottom: 0.14in; line-height: 115%;\"><br><br></p>"]
+  - [Andrej, '', Malchukov, "<p class=\"western\" style=\"margin-bottom: 0.14in; line-height:\
+      \ 115%;\" lang=\"en-GB\"><span lang=\"en-US\">Andrej Malchukov is a Senior Researcher\
+      \ at the St.-Petersburg Institute for Linguistic Research (Russian Academy of\
+      \ Sciences) and is currently affiliated to the University of Mainz. Apart from\
+      \ descriptive work on Siberian (in particular, Tungusic) languages, his main\
+      \ research interests lie in the domain of language typology. He published extensively\
+      \ on the issues of morpho-syntactic typology; in particular, he edited The Oxford\
+      \ Handbook of Case (together with Andrew Spencer; OUP, 2009), Studies in Ditransitive\
+      \ Constructions: a Comparative Handbook (together with Bernard Comrie and Martin\
+      \ Haspelmath; Mouton de Gruyter, 2010), Competing motivations in grammar and\
+      \ cognition (together with Brian MacWhinney and Edith Moravcsik; OUP, 2014),\
+      \ and Valency classes in the world\x92s languages (together with Bernard Comrie;\
+      \ 2 vols., Mouton de Gruyter, 2015).</span></p>"]
+doi: 10.5281/zenodo.823224
+illustrators: []
+isbns: {digital: 978-3-946234-99-9, hardcover: 978-3-96110-020-0, softcover: ''}
+prefix: ''
+proofreaders: [Richard T Griscom, Andreea Calude, Daniela Kolbe-Hanna, "Daniela Schr\xF6\
+    der", Amr El-Zawawy, Marijana Janjic, "Slavom\xEDr ?\xE9pl\xF6", "Christian D\xF6\
+    hler", "Andreas H\xF6lzl", Alexis Michaud, "Ahmet Bilal \xD6zdemir", Jean Nitzke,
+  "Melanie R\xF6thlisberger", Valeria Quochi, Prisca Jerono, Tatiana Philippova, "Lea\
+    \ Sch\xE4fer", Eran Asoulin, Sandra Auderset, Gerald Delahunty, Steven Kaye]
+publicationdate: '20171114'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100209?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100209?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100209?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=152'}
+series: sidl
+seriesnumber: '16'
+title: Unity and diversity in grammaticalization scenarios
+typesetters: []

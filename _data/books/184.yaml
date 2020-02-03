@@ -1,0 +1,115 @@
+blurb: Multiword expressions (MWEs) are a challenge for both the natural language
+  applications and the linguistic theory because they often defy the application of
+  the machinery developed for free combinations where the default is that the meaning
+  of an utterance can be predicted from its structure. There is a rich body of primarily
+  descriptive work on MWEs for many European languages but comparative work is little.
+  The volume brings together MWE experts to explore the benefits of a multilingual
+  perspective on MWEs. The ten contributions in this volume look at MWEs in Bulgarian,
+  English, French, German, Maori, Modern Greek, Romanian, Serbian, and Spanish. They
+  discuss prominent issues in MWE research such as classification of MWEs, their formal
+  grammatical modeling, and the description of individual MWE types from the point
+  of view of different theoretical frameworks, such as Dependency Grammar, Generative
+  Grammar, Head-driven Phrase Structure Grammar, Lexical Functional Grammar, Lexicon
+  Grammar.
+bookid: 184
+booksubtitle: Insights from a multi-lingual perspective
+chapters:
+- authors:
+  - [Manfred, '', Sailer]
+  - [Sascha, '', Bargmann]
+  number: 1
+  subtitle: null
+  title: The syntactic flexibility of semantically non-decomposable idioms
+- authors:
+  - [Svetla, '', Koeva]
+  - [Cvetana, '', Krstev]
+  - ["Du\x9Ako", '', Vitas]
+  - [Tita, '', Kyriacopoulou]
+  - [Claude, '', Martineau]
+  - [Tsvetana, '', Dimitrova]
+  number: 2
+  subtitle: null
+  title: Semantic and syntactic patterns of multiword names
+- authors:
+  - [Aggeliki, '', Fotopoulou]
+  - [Voula, '', Giouli]
+  number: 3
+  subtitle: null
+  title: MWEs and the Emotion Lexicon
+- authors:
+  - [Patrick, '', Hanks]
+  - [Ismail, '', El Marouf]
+  - [Michael, '', Oakes]
+  number: 4
+  subtitle: null
+  title: Flexibility of Multi-Word Expressions and Corpus Pattern Analysis
+- authors:
+  - [Koenraad, '', Kuiper]
+  number: 5
+  subtitle: null
+  title: Multiword expressions and the Law of Exceptions
+- authors:
+  - ["\xC9ric", '', Laporte]
+  number: 6
+  subtitle: null
+  title: Choosing features for classifying multiword expressions
+- authors:
+  - [Stella, '', Markantonatou]
+  - [Niki, '', Samaridi]
+  number: 7
+  subtitle: null
+  title: Revisiting the grammatical function "object" (OBJ and OBJ_?)
+- authors:
+  - [Verginica, '', Barbu Mititelu]
+  - [Svetlozara, '', Leseva]
+  number: 8
+  subtitle: null
+  title: Derivation in the domain of multiword expressions
+- authors:
+  - [Petya, '', Osenova]
+  - [Kiril, '', Simov]
+  number: 9
+  subtitle: null
+  title: Modeling multiword expressions in a parallel Bulgarian-English newsmedia
+    corpus
+- authors:
+  - [Carla, '', "Parra Escart\xEDn"]
+  - [Almudena, '', Nevado Llopis]
+  - [Eoghan, '', "S\xE1nchez Mart\xEDnez"]
+  number: 10
+  subtitle: null
+  title: Spanish multiword Expressions
+creators:
+  authors: []
+  editors:
+  - [Manfred, '', Sailer, "<p>Manfred Sailer (1969) is professor of English Linguistics\
+      \ at Goethe-University Frankfurt a.M. He studied general linguistics, computer\
+      \ science and psychology at Universit\xE4t T\xFCbingen (Master 1995, Promotion\
+      \ 2003) and received his postdoctoral degree (Habilitation) in English and General\
+      \ Linguistics at G\xF6ttingen University (2010). His mainareas of reasearch\
+      \ are the syntax-semantics interface, formal phraseology, negation, and the\
+      \ interaction of regularity and irregularity in language.</p>"]
+  - [Stella, '', Markantonatou, '<p>Stella Markantonatou (1958) has studied Chemical
+      Engineering (National Technical University of Athens) and Linguistics (Nationaland
+      Kapodistrian University of Athens) and holds a PhD in Linguistics (University
+      of Essex). She is a Research Director with the Institute for Language and Speech
+      Processing/Athena RIC, Athens, Greece. She has published on the formal study
+      of the syntax-semantics interface, on phrase-based Machine Translation, and
+      on the development of lexical resources.</p>']
+doi: 10.5281/zenodo.1182583
+illustrators: []
+isbns: {digital: 978-3-96110-063-7, hardcover: 978-3-96110-064-4, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Timm Lichte, Eleni Koutsomitopoulou, Adrien Barbaresi,
+  Guohua Zhang, Rachele De Felice, "Daniela Schr\xF6der", Tamara Schmidt, "Andreas\
+    \ H\xF6lzl", Ezekiel Tunde Bolaji, Andrew Spencer, Esther Yap, Gerald Delahunty,
+  Jeroen van de Weijer, Plinio Barbosa, "Beatriz S\xE1nchez C\xE1rdenas", Monika Czerepowicka,
+  Alexandr Rosen]
+publicationdate: '20180518'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100640?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100640?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100640?tag=wwwlangscipre-20',
+  paperhive: 'https://www.paperhive.org/documents/remote?type=langsci&id=184'}
+series: pmwe
+seriesnumber: '1'
+title: Multiword expressions
+typesetters: []

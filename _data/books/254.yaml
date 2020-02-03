@@ -1,0 +1,106 @@
+blurb: "Agreement is a pervasive phenomenon across natural languages. Depending on\
+  \ one\x92s definition of what constitutes agreement, it is either found in virtually\
+  \ every natural language that we know of, or it is at least found in a great many.\
+  \ Either way, it seems to be a core part of the system that underpins our syntactic&nbsp;\
+  \ knowledge. Since the introduction of the operation of Agree in Chomsky (2000),\
+  \ agreement phenomena and the mechanism that underlies agreement have garnered a\
+  \ lot of attention in the Minimalist literature and have received different theoretical\
+  \ treatments at different stages. Since then, many different phenomena&nbsp; involving\
+  \ dependencies between elements in syntax, including movement or not, have been\
+  \ accounted for using Agree. The mechanism of Agree thus provides a powerful tool\
+  \ to model dependencies between syntactic elements far beyond ?-feature agreement.\
+  \ The articles collected in this volume further explore these topics&nbsp; and contribute\
+  \ to the ongoing debates surrounding agreement. The authors gathered in this book\
+  \ are internationally reknown experts in the field of Agreement."
+bookid: 254
+booksubtitle: Agreement in the Minimalist Programme
+chapters:
+- authors:
+  - [Peter, W., Smith]
+  - [Katharina, '', Hartmann]
+  - [Johannes, '', Mursell]
+  number: 1
+  subtitle: null
+  title: Some remarks on agreement within the Minimalist Programme
+- authors:
+  - [Hedde, '', Zeijlstra]
+  number: 2
+  subtitle: null
+  title: Labeling, selection, and feature checking
+- authors:
+  - [Vicki, '', Carstens]
+  number: 3
+  subtitle: null
+  title: Concord and labeling
+- authors:
+  - [Peter, W., Smith]
+  number: 4
+  subtitle: null
+  title: Object agreement and grammatical functions
+- authors:
+  - [Laura, '', Kalin]
+  number: 5
+  subtitle: null
+  title: Opacity in agreement
+- authors:
+  - [Franc Lanko, '', "Maru\x9Ai?"]
+  - [Andrew, '', Nevins]
+  number: 6
+  subtitle: null
+  title: Distributed agreement in participial sandwiched configurations
+- authors:
+  - [Jenneke, '', van der Wal]
+  number: 7
+  subtitle: null
+  title: The AWSOM correlation in comparative Bantu object marking
+- authors:
+  - [Roberta, '', "D\x92Alessandro"]
+  number: 8
+  subtitle: null
+  title: Agreement across the board
+- authors:
+  - [Johannes, '', Mursell]
+  number: 9
+  subtitle: null
+  title: Long distance agreement and information structure
+- authors:
+  - [Kristin, '', "B\xF6rjesson"]
+  - [Gereon, '', "M\xFCller"]
+  number: 10
+  subtitle: null
+  title: Long distance agreement and locality
+- authors:
+  - [Michael, '', Diercks]
+  - [Marjo, '', van Koppen]
+  - [Michael, '', Putnam]
+  number: 11
+  subtitle: null
+  title: Agree probes down
+- authors:
+  - [Thomas, '', McFadden]
+  number: 12
+  subtitle: null
+  title: The morphosyntax of allocutive agreement in Tamil
+- authors:
+  - [Sandhya, '', Sundaresan]
+  number: 13
+  subtitle: null
+  title: Distinct featural classes of anaphor in an enriched person system
+creators:
+  authors: []
+  editors:
+  - [Peter, W., Smith, '']
+  - [Katharina, '', Hartmann, '']
+  - [Johannes, '', Mursell, '']
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: ogs
+seriesnumber: ''
+title: Agree to Agree
+typesetters: []

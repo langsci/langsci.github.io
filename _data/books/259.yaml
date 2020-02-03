@@ -1,0 +1,276 @@
+blurb: "<div class=\"\" style=\"font-style: normal; font-variant-caps: normal; font-weight:\
+  \ normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform:\
+  \ none; white-space: normal; word-spacing: 0px; text-decoration: none; font-family:\
+  \ Calibri,Arial,Helvetica,sans-serif; font-size: 12pt;\">\r\n<div class=\"\" style=\"\
+  margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri,sans-serif; text-align:\
+  \ justify; line-height: normal;\"><span class=\"\" style=\"font-size: 12pt; font-family:\
+  \ Calibri,Helvetica,sans-serif; color: #201f1e; background-color: white; background-position:\
+  \ initial initial; background-repeat: initial initial;\">Head-Driven Phrase Structure\
+  \ Grammar (HPSG) is a constraint-based or declarative approach to linguistic knowledge,\
+  \ which analyses all descriptive levels (phonology, morphology, syntax, semantics,\
+  \ pragmatics) with feature value pairs, structure sharing, and relational constraints.\
+  \ In syntax it assumes that expressions have a single relatively simple constituent\
+  \ structure. This volume provides a state-of-the-art introduction to the framework.\
+  \ Various chapters discuss basic assumptions and formal foundations, describe the\
+  \ evolution of the framework, and go into the details of the main syntactic phenomena.\
+  \ Further chapters are devoted to non-syntactic levels of description. The book\
+  \ also considers related fields and research areas (gesture, sign languages, computational\
+  \ linguistics) and includes chapters comparing HPSG with other frameworks (Lexical\
+  \ Functional Grammar, Categorial Grammar, Construction Grammar, Dependency Grammar,\
+  \ and Minimalism). &nbsp;<br></span><span class=\"\" style=\"font-family: Calibri,Helvetica,sans-serif;\
+  \ font-size: 12pt;\"><br></span></div>\r\n<div class=\"\" style=\"margin: 0cm 0cm\
+  \ 0.0001pt; font-size: 11pt; font-family: Calibri,sans-serif; text-align: justify;\
+  \ line-height: normal;\"><span class=\"\" style=\"font-size: 12pt; font-family:\
+  \ Calibri,Helvetica,sans-serif; color: #201f1e; background-color: white; background-position:\
+  \ initial initial; background-repeat: initial initial;\">Those chapters that are\
+  \ listed with authors below are completed (pending some minimal final revisions)\
+  \ and a prepublished draft is available at: <a href=\"https://hpsg.hu-berlin.de/Projects/HPSG-handbook/\"\
+  >https://hpsg.hu-berlin.de/Projects/HPSG-handbook/</a><br></span></div>\r\n<div\
+  \ class=\"\" style=\"margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri,sans-serif;\
+  \ text-align: justify; line-height: normal;\">&nbsp;</div>\r\n</div>\r\n&nbsp;"
+bookid: 259
+booksubtitle: The handbook
+chapters:
+- authors:
+  - [Dan, '', Flickinger]
+  - [Carl, '', Pollard]
+  - [Tom, '', Wasow]
+  number: 1
+  subtitle: null
+  title: The evolution of HPSG
+- authors:
+  - [Adam, '', "Przepi\xF3rkowski"]
+  number: 2
+  subtitle: null
+  title: Case
+- authors:
+  - [Tom, '', Wasow]
+  number: 3
+  subtitle: null
+  title: Processing
+- authors:
+  - [Rui, '', Chaves]
+  number: 4
+  subtitle: null
+  title: Island phenomena and related matters
+- authors:
+  - [Kordula, '', de Kuthy]
+  number: 5
+  subtitle: null
+  title: Information structure
+- authors:
+  - [Andy, '', "L\xFCcking"]
+  number: 6
+  subtitle: null
+  title: Gesture
+- authors:
+  - [Andy, '', "L\xFCcking"]
+  - [Jonathan, '', Ginzburg]
+  - [Robin, '', Cooper]
+  number: 7
+  subtitle: null
+  title: Grammar in dialogue
+- authors: []
+  number: 8
+  subtitle: null
+  title: Basic properties and elements
+- authors: []
+  number: 9
+  subtitle: null
+  title: Formal background
+- authors: []
+  number: 10
+  subtitle: null
+  title: The nature and role of the lexicon in HPSG
+- authors: []
+  number: 11
+  subtitle: null
+  title: HPSG in understudied languages
+- authors: []
+  number: 12
+  subtitle: null
+  title: Agreement
+- authors: []
+  number: 13
+  subtitle: null
+  title: Nominal structures
+- authors: []
+  number: 14
+  subtitle: null
+  title: Argument structure and linking
+- authors:
+  - [Stefan, '', "M\xFCller"]
+  number: 15
+  subtitle: null
+  title: Constituent order
+- authors: []
+  number: 16
+  subtitle: null
+  title: Complex predicates
+- authors: []
+  number: 17
+  subtitle: null
+  title: Control and raising
+- authors: []
+  number: 18
+  subtitle: null
+  title: Unbounded Dependencies
+- authors: []
+  number: 19
+  subtitle: null
+  title: Relative Clauses in HPSG
+- authors: []
+  number: 20
+  subtitle: null
+  title: Coordination
+- authors: []
+  number: 21
+  subtitle: null
+  title: Idioms
+- authors: []
+  number: 22
+  subtitle: null
+  title: Negation
+- authors: []
+  number: 23
+  subtitle: null
+  title: Ellipsis
+- authors: []
+  number: 24
+  subtitle: null
+  title: Anaphoric binding
+- authors: []
+  number: 25
+  subtitle: null
+  title: Morphology
+- authors: []
+  number: 26
+  subtitle: null
+  title: Semantics
+- authors: []
+  number: 27
+  subtitle: null
+  title: Diachronic syntax
+- authors: []
+  number: 28
+  subtitle: null
+  title: Computational linguistics and grammar engineering
+- authors: []
+  number: 29
+  subtitle: null
+  title: Sign languages
+- authors: []
+  number: 30
+  subtitle: null
+  title: HPSG and Minimalism
+- authors: []
+  number: 31
+  subtitle: null
+  title: HPSG and Categorial Grammar
+- authors: []
+  number: 32
+  subtitle: null
+  title: HPSG and Lexical Functional Grammar
+- authors: []
+  number: 33
+  subtitle: null
+  title: HPSG and Dependency Grammar
+- authors:
+  - [Stefan, '', "M\xFCller"]
+  number: 34
+  subtitle: null
+  title: HPSG and Construction Grammar
+creators:
+  authors: []
+  editors:
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", "<p>Stefan M\xFCller studied Computer Science, Computational\
+      \ Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh.\
+      \ He worked at the German Research Center of Artificial Intelligence (DFKI)\
+      \ in Saarbr\xFCcken and for the company Interice. He worked as acting chair\
+      \ for German and Computational Linguistics in Jena and for Theoretical Computational\
+      \ Linguistics in Potsdam. He had an assistant professorship in Bremen for theoretical\
+      \ linguistics and computational linguistics, a full professorship for German\
+      \ and General Linguistics at the Freie Universit\xE4t Berlin and is now professor\
+      \ for German language with specialization in syntax at the Humboldt-Universit\xE4\
+      t zu Berlin.</p>\r\n<p>His main re\xADsearch topic is Ger\xADman gram\xADmar.\
+      \ He works both em\xADpir\xADi\xADcal\xADly and the\xADo\xADret\xADi\xADcal\xAD\
+      ly. Top\xADics of in\xADter\xADest are mor\xADphol\xADo\xADgy, syn\xADtax, se\xAD\
+      man\xADtics, and in\xADfor\xADma\xADtion struc\xADture. He pub\xADlished main\xAD\
+      ly about Ger\xADman, but he also works on other lan\xADguages as for in\xAD\
+      stance Man\xADdarin Chi\xADnese, Dan\xADish, Maltese, and Per\xADsian. The the\xAD\
+      o\xADret\xADi\xADcal work is car\xADried out in the framework of Head-?Driv\xAD\
+      en Phrase Struc\xADture Gram\xADmar (HPSG) and the theoret\xADi\xADcal anal\xAD\
+      y\xADses are im\xADple\xADment\xADed in com\xADput\xADer-?pro\xADcess\xADable\
+      \ gram\xADmar fragments. The gram\xADmar frag\xADments that are implemented\
+      \ in the CoreGram Project use a com\xADmon core. One goal of his re\xADsearch\
+      \ is to un\xADder\xADstand lan\xADguage and to find out what lan\xADguages in\
+      \ gen\xADer\xADal and cer\xADtain lan\xADguage class\xADes in par\xADtic\xAD\
+      u\xADlar have in com\xADmon.</p>"]
+  - [Anne, '', "Abeill\xE9", "<p>Anne Abeill\xE9 is Professor of Linguistics at University\
+      \ of Paris, and a member of Laboratoire de Linguistique formelle. She was research\
+      \ assistant at U.Penn, and assistant professor at University of Paris 8. She\
+      \ did her PhD on Lexicalized Tree Adjoining grammars at University of Paris\
+      \ 7, before moving to Head-Driven Phrase structure Grammar and collaborating\
+      \ with Ivan Sag.</p>\r\n<p>She has mainly worked on the syntax of French and\
+      \ Romance languages, but also on Mauritian (a French-based creole) and English.\
+      \ Her main research goal is to combine a wide range of empirical data (from\
+      \ large corpora and experiments) with theoretical and formal analysis. Her publications\
+      \ include 5 books and more than 70 papers, in journals such as Langue fran\xE7\
+      aise, Langages, Language, Journal of Linguistics, Lingua, Glossa, TAL, and conference\
+      \ Proceedings, such as COLING, ACL, LREC, HPSG, CUNY, Amlap, and CSSP.</p>\r\
+      \n<p>She has been responsible for several research projects, including the FrenchTreebank.\
+      \ She now is responsible for the strand Experimental Grammar in a cross-linguistic\
+      \ perspective of the EFL LabEx, and a coeditor (with Dani\xE8le Godard) of the\
+      \ <em>Grande Grammaire du fran\xE7ais</em>.</p>"]
+  - [Robert, D., Borsley, "<p>Robert D. Borsley is Professor Emeritus, at the University\
+      \ of Essex, where he worked from 2000 to 2017, and an Honorary Professor at\
+      \ Bangor University, where he worked from 1986 to 2000. He worked previously\
+      \ in University College Dublin, the IBM UK Scientific Centre, Winchester, University\
+      \ College London, the West London Institute of Higher Education, and Adam Mickiewicz\
+      \ University, Pozna?, Poland. He did his PhD at the University of Edinburgh,\
+      \ and his first degree at Bangor University.</p>\r\n<p>His main research interests\
+      \ are in syntactic theory, and he has published extensively on the syntax of\
+      \ English and&nbsp;Welsh, and on other languages, including Breton, Polish,\
+      \ and Arabic. He has worked mainly within the HPSG framework and has made a\
+      \ variety of contributions to its development. In the late 1980s, he did some\
+      \ work on computational grammars as a visiting scientist at the IBM UK Scientific\
+      \ Centre in Winchester, and in the late 1990s he did some work on the acquisition\
+      \ of Welsh syntax. He has published eight books on syntax, most recently <em>Welsh\
+      \ Negation and Grammatical Theory</em> with Bob Morris Jones (University of\
+      \ Wales Press, 2005), <em>The Syntax of Welsh</em> with Maggie Tallerman and\
+      \ David Willis (Cambridge University Press, 2007), and <em>Nontransformational\
+      \ Syntax: </em><em>Formal and Explicit Models of Grammar</em> with Kersti B\xF6\
+      rjars of the University of Manchester. He was also an editor of <em>Journal\
+      \ of Linguistics</em> from 1994 to 2016.</p>"]
+  - [Jean-Pierre, '', Koenig, "<p>Jean-Pierre Koenig is Professor of Linguistics at\
+      \ the University Buffalo, where he has been since 1994. He did his PhD at the\
+      \ University of California, Berkeley, and his BA/MA at the Ecole Normale Sup\xE9\
+      rieure (Ulm) and Ecole des Hautes Etudes en Sciences Sociales in Paris.</p>\r\
+      \n<p>His main research interests are in morphology, syntax, semantics, and psycholinguistics.\
+      \ He has worked on the structure and organization of lexical and morphological\
+      \ knowledge (which resulted in a book in 1999 Lexical Relations), lexical semantics\
+      \ (particularly argument structure, word meaning, aspect and negation), and\
+      \ the representation and use of semantic information in sentence processing.\
+      \ He has worked mostly on English and French, but together with students, he\
+      \ has worked on aspects of the morphology, syntax, and semantics of Hindi, Japanese,\
+      \ Mandarin, Spanish, and Thai. For over a decade, he has been collaborating\
+      \ with Karin Michelson on the morphology, syntax, and semantics of Oneida (Northern\
+      \ Iroquoian). He approaches issues from a variety of perspectives, traditional\
+      \ linguistic analysis, formal models within HPSG, corpus linguistics, psycholinguistics,\
+      \ and cognitive science.</p>"]
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: eotms
+seriesnumber: ''
+title: Head-Driven Phrase Structure Grammar
+typesetters: []

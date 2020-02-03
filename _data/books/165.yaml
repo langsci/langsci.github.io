@@ -1,0 +1,192 @@
+blurb: "After being dominant during about a century since its invention by Baudouin\
+  \ de Courtenay at the end of the nineteenth century, morpheme is more and more replaced\
+  \ by lexeme in contemporary descriptive and theoretical morphology.&nbsp;\r\nThe\
+  \ notion of a lexeme is usually associated with the work of P. H.&nbsp;Matthews\
+  \ (1972, 1974), who characterizes it as a lexical entity abstracting over individual\
+  \ inflected words. Over the last three decades, the lexeme has become a cornerstone\
+  \ of much work in both inflectional morphology and word formation (or, as it is\
+  \ increasingly been called, lexeme formation). The papers in the present volume\
+  \ take stock of the descriptive and theoretical usefulness of the lexeme, but also\
+  \ adress many of the challenges met by classical lexeme-based theories of morphology."
+bookid: 165
+booksubtitle: ''
+chapters:
+- authors:
+  - [Alain, '', Kihm]
+  number: 1
+  subtitle: a Word-and-Pattern account
+  title: The Haitian Creole copula and types of predication
+- authors:
+  - [Hans-Olav, '', Enger]
+  number: 2
+  subtitle: "How to circumvent some \x91troubles with lexemes\x92"
+  title: Why traces of the feminine survive where they do, in Oslo and Istria
+- authors:
+  - [Hilaria, '', Cruz]
+  - [Gregory, '', Stump]
+  number: 3
+  subtitle: null
+  title: The morphology of essence predicates in Chatino
+- authors:
+  - [Pavel, '', "\x8Atichauer"]
+  number: 4
+  subtitle: null
+  title: Some remarks on clipping of deverbal nouns in French and Italian
+- authors:
+  - [Florence, '', Villoing]
+  - [Maxime, '', Deglas]
+  number: 5
+  subtitle: "comment le cr\xE9ole r\xE9analyse les d\xE9rivations du fran\xE7ais"
+  title: "Des lex\xE8mes \xE0 forme unique"
+- authors:
+  - [Georgette, '', Dal]
+  number: 6
+  subtitle: "lex\xE8mes ou formes d\x92adjectifs ?"
+  title: "Les adverbes en -ment du fran\xE7ais "
+- authors:
+  - [Delphine, '', Tribout]
+  - [Dany, '', Amiot]
+  number: 7
+  subtitle: null
+  title: "Nom et/ou adjectif ? Quelle cat\xE9gorie d\x92output pour les suffix\xE9\
+    s en -iste ?"
+- authors:
+  - [Franz, '', Rainer]
+  number: 8
+  subtitle: the case of CAPITALIST and CAPITALISM
+  title: Word formation and word history
+- authors:
+  - [Gilles, '', "Boy\xE9"]
+  number: 9
+  subtitle: what about cardinals?
+  title: Lexemes, Categories and Paradigms
+- authors:
+  - [Andrew, '', Spencer]
+  number: 10
+  subtitle: null
+  title: On Lexical Entries and Lexical Representations
+- authors:
+  - [Anna, M., Thornton]
+  number: 11
+  subtitle: null
+  title: Troubles with flexemes
+- authors:
+  - [Chiara, '', Melloni]
+  - [Bianca, '', Basciano]
+  number: 12
+  subtitle: The case of Mandarin
+  title: Reduplication across boundaries
+- authors:
+  - [Ingo, '', Plag]
+  - [Marios, '', Andreou]
+  - [Lea, '', Kawaletz]
+  number: 13
+  subtitle: null
+  title: A frame-semantic approach to  in affixation
+- authors:
+  - [Olivier, '', Bonami]
+  - [Berthold, '', Crysmann]
+  number: 14
+  subtitle: null
+  title: Lexeme and flexeme in a formal theory of grammar
+- authors:
+  - [Jana, '', "Strnadov\xE1"]
+  number: 15
+  subtitle: null
+  title: Lexeme equivalence or rivalry of lexemes?
+- authors:
+  - [Christoph, '', Schwarze]
+  number: 16
+  subtitle: null
+  title: Word formation in LFG-based Layered Morphology and Two-Level Semantics
+- authors:
+  - [Fabio, '', Montermini]
+  number: 17
+  subtitle: null
+  title: "Les affixes d\xE9rivationnels ont-ils des allomorphes ? Pour une mod\xE9\
+    lisation de la variation des exposants dans une morphologie \xE0 contraintes"
+- authors:
+  - ["H\xE9l\xE8ne", '', Giraudo]
+  number: 18
+  subtitle: null
+  title: Much ado about morphemes
+- authors:
+  - [Fiammetta, '', Namer]
+  - [Nabil, '', Hathout]
+  number: 19
+  subtitle: des RCL au ParaDis
+  title: "La parasynth\xE8se \xE0 travers les mod\xE8les "
+- authors:
+  - [Mark, '', Aronoff]
+  number: 20
+  subtitle: A memoir
+  title: Morphology and words
+- authors:
+  - [Olivier, '', Bonami]
+  - [Gilles, '', "Boy\xE9"]
+  - [Georgette, '', Dal]
+  - ["H\xE9l\xE8ne", '', Giraudo]
+  - [Fiammetta, '', Namer]
+  number: 21
+  subtitle: null
+  title: Introduction
+creators:
+  authors: []
+  editors:
+  - [Olivier, '', Bonami, "<p>Olivier Bonami is Professor of Linguistics at Universit\xE9\
+      \ Paris Diderot and Chair of the research unit \"Laboratoire de linguistique\
+      \ formelle\" (UMR7110 - Universit\xE9 Paris Diderot &amp; CNRS). His recent\
+      \ research adresses a variety of issues in morphology and its interface with\
+      \ phonology and syntax, including inflectional classification, implicative relations,\
+      \ the typology of exponence, periphrasis, and paradigmatic relations in derivational\
+      \ morphology. His work combines formal grammar (Head-driven Phrase Structure\
+      \ Grammar, Paradigm Function Morphology, Information-based Morphology) and quantitative\
+      \ modeling of morphological systems, and applies these methods to data from\
+      \ typologically diverse languages.</p>"]
+  - [Gilles, '', "Boy\xE9", "<p>Gilles Boy\xE9 is Assistant Professor of Linguistics\
+      \ at Universit\xE9 Bordeaux Montaigne and a member of the research unit \"Cognition\
+      \ Langues Langage Ergonomie\" (UMR5263 - Universit\xE9 de Toulouse &amp; CNRS).\
+      \ He has worked extensively on the structure and morphophonology of the French\
+      \ inflection system. His recent research focuses on computational approaches\
+      \ to the description and modeling of paradigms and other morphological families.</p>"]
+  - [Georgette, '', Dal, "<p>Georgette Dal is Professor of Linguistics at Universit\xE9\
+      \ de Lille and member of the research unit \"Savoirs, Textes, Langage\" (UMR\
+      \ 8163 - Universit\xE9 de Lille &amp; CNRS). Her research mainly deals with\
+      \ the use of real data in derivational morphology. Recurrent objects are productivity,\
+      \ creativity and emergence of new morphological patterns.</p>"]
+  - ["H\xE9l\xE8ne", '', Giraudo, "<p>H\xE9l\xE8ne Giraudo is a CNRS Researcher in\
+      \ Psycholinguistics and Chair of the research unit \"Cognition Langues Langage\
+      \ Ergonomie\" (UMR5263 - Universit\xE9 de Toulouse &amp; CNRS). Her research\
+      \ focuses on the cognitive processes underlying morphological processing and\
+      \ adresses issues related to lexical access and the mental lexicon, the role\
+      \ of morphology in language acquisition, reading acquisition and bilingualism.\
+      \ Her work aims to model the structure and the functioning of the mental lexicon\
+      \ and is broadly influenced by the notion of salience in linguistics, the lexeme-based\
+      \ theory and the theoretical Construction Morphology framework.</p>"]
+  - [Fiammetta, '', Namer, "<p>Fiammetta Namer is Professor of Linguistics at Universit\xE9\
+      \ de Lorraine and member of the research unit \"Analyse et Traitement Automatis\xE9\
+      \ de la Langue Fran\xE7aise\" (UMR 7118 - Universit\xE9 de Lorraine &amp; CNRS).\
+      \ Her research focuses on Word Formation in French, and covers the fields of\
+      \ description, theory and Natural Language Processing. It includes the study\
+      \ of real data from the Internet, the question of the role of paradigms in derivation\
+      \ with particular attention to the issue of meaning-form asymetry, and the acquisition\
+      \ of large-scale derivational resources for French.</p>"]
+doi: 10.5281/zenodo.1402520
+illustrators: []
+isbns: {digital: 978-3-96110-110-8, hardcover: 978-3-96110-111-5, softcover: ''}
+prefix: The
+proofreaders: [Martin Haspelmath, Eitan Grossman, Olivier Bonami, Adrien Barbaresi,
+  Guohua Zhang, "Christian D\xF6hler", Ezekiel Tunde Bolaji, Mario Bisiada, "Ahmet\
+    \ Bilal \xD6zdemir", Steve Pepper, Jean Nitzke, Guylaine Brun-Trigaud, Valeria
+    Quochi, Brett Reynolds, Kate Bellamy, Steven Kaye, Luigi Talamo, Jeroen van de
+    Weijer, Katja Politt, Monika Czerepowicka, Alexandr Rosen, Daniil Bondarenko,
+  "Carl B\xF6rstell", Vadim Kimmelman, Delphine Tribout, Barend Beekhuizen, Anna Belew,
+  Jeffrey Pheiff, Joseph Lovestrand]
+publicationdate: '20180926'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101116?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101116?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101116?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/mhvyzQSXLRJU'}
+series: eotms
+seriesnumber: '4'
+title: lexeme in descriptive and theoretical morphology
+typesetters: []

@@ -1,0 +1,60 @@
+blurb: "Empirically, the book covers two areas: the morphosyntax of verbs and categories\
+  \ syncretic with the declarative complementizer in Slavic, together with a comparative\
+  \ look at the similar categories in Latvian (Baltic) and Basa\xE1 (Bantu). In the\
+  \ domain of verbs, the book investigates a curious instance of analytic vs. fusional\
+  \ realization of grammatical categories that we find in a semelfactive-iterative\
+  \ alternation in Czech and Polish, where a semelfactive verb stem such as in the\
+  \ Czech <em>kop-n-ou-t</em> \x91give a kick\x92 alternates with an iterative verb\
+  \ stem as in <em>kop-a-t</em> \x91kick repeatedly\x92. The iterative <em>-aj</em>\
+  \ stem is morphologi cally less complex than the semelfactive stem formed with the\
+  \ <em>-n-ou</em> sequence, which is paradoxical given an analysis of iteratives\
+  \ as categories whose syn-sem representation is more complex than semelfactives.\
+  \ In the domain of complementizers, the book focuses on cross-categorial paradigms\
+  \ that include an unexpected morphological containment (in Russian), a degree of\
+  \ morphological complexity (in Latvian), and an ABA pattern of syncretic alignment\
+  \ (in Basa\xE1), which we do not expect to find if syncretism is restricted to adjacent\
+  \ cells in a paradigm (cf. Bobaljik 2012).\r\nAnalytically, the book focuses on\
+  \ the way the syntactic representations of these categories become realized as morphemes.\
+  \ In the general sense, then, this contribution belongs to a growing body of work\
+  \ that investigates the relation between syntactic structure and morphological form,\
+  \ understood as the amount of morphemes and their placement \x96 in particular the\
+  \ prefix vs. suffix opposition. More specifically, however, the approach to lexicalization\
+  \ taken up in this book is informed by the results of research on syntax in the\
+  \ last quarter of a century, which show that syntactic representations are maximally\
+  \ fine-grained, the picture sometimes described as the \x93one feature per one syntactic\
+  \ head\x94 dictum. Such a scenario has lead to the situation where syntactic representations\
+  \ can be submorphemic, in the sense that a lexical item corresponds to more than\
+  \ one syntactic head, a strand of research that has become known as Nanosyntax.\
+  \ This book investigates the state-of-art methodology of Nanosyntax in resolving\
+  \ the selected empirical problems in the domain of Slavic verbs and declarative\
+  \ complementizers, the problems that all appear to boil down to the way syntactic\
+  \ representations become realized as morphemes."
+bookid: 242
+booksubtitle: Slavic verbs and complementizers
+chapters: []
+creators:
+  authors:
+  - [Bartosz, '', Wiland, '<p>Bartosz Wiland studied English linguistics at Adam Mickiewicz
+      University in Pozna? and, as a Fulbright Visiting Student, at MIT. He has been
+      employed as an assistant professor at Adam Mickiewicz University since 2009.
+      His earlier research includes work on left branch extractions, scrambling, remnant
+      movement, and prefix stacking in a cartographic framework, and has appeared
+      among others in Linguistic Inquiry and NLLT. His current work focuses on the
+      interface between grammar and lexicon in a strand of research that has become
+      known as Nanosyntax. On the organizational side, as a member of the Young Academy
+      of Europe, he has been active in influencing policymakers to improve grant allocation
+      procedures in Europe.</p>']
+  editors: []
+doi: 10.5281/zenodo.2636394
+illustrators: []
+isbns: {digital: 978-3-96110-160-3, hardcover: 978-3-96110-177-1, softcover: ''}
+prefix: The
+proofreaders: []
+publicationdate: '20190426'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101779?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101779?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101779?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/WS2dIbDuJaQ4'}
+series: osl
+seriesnumber: '2'
+title: spell-out algorithm and lexicalization patterns
+typesetters: []

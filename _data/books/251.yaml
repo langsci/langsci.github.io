@@ -1,0 +1,71 @@
+blurb: "Research in linguistics, as in most other scientific domains, is usually approached\
+  \ in a modular way \x96 narrowing the domain of inquiry in order to allow for increased\
+  \ depth of study. This is necessary and productive for a topic as wide-ranging and\
+  \ complex as human language. However, precisely because language is a complex system,\
+  \ tied to perception, learning, memory, and social organization, the assumption\
+  \ of modularity can also be an obstacle to understanding language at a deeper level.\
+  \ This book examines the consequences of enforcing non-modularity along two dimensions:\
+  \ the temporal, and the cognitive. Along the temporal dimension, synchronic and\
+  \ diachronic domains are linked by the requirement that sound changes must lead\
+  \ to viable, stable language states. Along the cognitive dimension, sound change\
+  \ and variation are linked to speech perception and production by requiring non-trivial\
+  \ transformations between acoustic and articulatory representations.\r\nThe methodological\
+  \ focus of this work is on computational modeling. By formalising and implementing\
+  \ theoretical accounts, modeling can expose theoretical gaps and covert assumptions.\
+  \ To do so, it is necessary to formally assess the functional equivalence of specific\
+  \ implementational choices, as well as their mapping to theoretical structures.\
+  \ This book applies this analytic approach to a series of implemented models of\
+  \ sound change. As theoretical inconsistencies are discovered, possible solutions\
+  \ are proposed, incrementally constructing a set of sufficient properties for a\
+  \ working model. Because internal theoretical consistency is enforced, this model\
+  \ corresponds to an explanatorily adequate theory. And because explicit links between\
+  \ modules are required, this is a theory, not only of sound change, but of many\
+  \ aspects of phonological competence.\r\nThe book highlights two aspects of modeling\
+  \ work that receive relatively little attention: the formal mapping from model to\
+  \ theory, and the scalability of demonstration models. Focusing on these aspects\
+  \ of modeling makes it clear that any theory of sound change in the specific is\
+  \ impossible without a more general theory of language: of the relationship between\
+  \ perception and production, the relationship between phonetics and phonology, the\
+  \ learning of linguistic units, and the nature of underlying representations. Theories\
+  \ of sound change that do not explicitly address these aspects of language are making\
+  \ tacit, untested assumptions about their properties. Addressing so many aspects\
+  \ of language may seem to complicate the linguist's task. However, as this book\
+  \ shows, it actually helps impose boundary conditions of ecological validity that\
+  \ reduce the theoretical search space."
+bookid: 251
+booksubtitle: A modeling approach
+chapters: []
+creators:
+  authors:
+  - [Rebecca, L., Morley, "<p>Rebecca Morley is an Associate Professor of Linguistics\
+      \ at The Ohio State University. Her research investigates the nature and organization\
+      \ of the mental units that underlie phonetic and phonological knowledge. &nbsp;&nbsp;Under\
+      \ the assumption that general-purpose cognitive functions are responsible for\
+      \ linguistic structure, we expect to find deep similarities among the world\x92\
+      s languages. However, because language is a complex system, discovering such\
+      \ similarities, or universals, requires integrating traditionally separate sub-fields,\
+      \ such as speech recognition, speech production, language acquisition, and historical\
+      \ linguistics, among others.</p>\r\n<p>Rebecca uses computational modeling in\
+      \ order to develop and test theories at the system level, where our intuitions\
+      \ often fail us. Behavioral experimentation, corpus studies, and typological\
+      \ surveys provide the data to test the predictions of those models, or to generate\
+      \ new hypotheses. &nbsp;This work does not adhere to any one theoretical school,\
+      \ but borrows opportunistically, sometimes rejecting commonly held assumptions\
+      \ altogether. &nbsp; &nbsp;</p>"]
+  editors: []
+doi: 10.5281/zenodo.3264909
+illustrators: []
+isbns: {digital: 978-3-96110-190-0, hardcover: 978-3-96110-191-7, softcover: ''}
+prefix: ''
+proofreaders: [George Walkden, Klara Kim, Amr El-Zawawy, "Janina Rad\xF3", Jean Nitzke,
+  Jezia Talavera, "David Luke\x9A", Paulson Skerrit, Jeroen van de Weijer, Steven
+    Moran, Amir Ghorbanpour, Tom Bossuyt, 'Ivica Je?ud', Ivelina Stoyanova, Laura
+    Arnold, Carla Bombi, Agnes Kim]
+publicationdate: '20191022'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101914?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101914?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101914?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/fF0nRw0-PZd0'}
+series: cfls
+seriesnumber: '4'
+title: Sound structure and sound change
+typesetters: []

@@ -1,0 +1,147 @@
+blurb: "The purpose of this volume is to present a snapshot of the state of the art\
+  \ of research on the languages of the Maltese islands, which include spoken Maltese,\
+  \ Maltese English and Maltese Sign Language.\r\nMalta is a tiny, but densely populated\
+  \ country, with over 422,000 inhabitants spread over only 316 square kilometers.\
+  \ It is a bilingual country, with Maltese and English enjoying the status of official\
+  \ languages. Maltese is a descendant of Arabic, but due to the history of the island,\
+  \ it has borrowed extensively from Sicilian, Italian and English. Furthermore, local\
+  \ dialects still coexist alongside the official standard language. The status of\
+  \ English as a second language dates back to British colonial rule, and just as\
+  \ in other former British colonies, a characteristic Maltese variety of English\
+  \ has developed. To these languages must be added Maltese Sign Language, which is\
+  \ the language of the Maltese Deaf community. This was recently recognised as Malta\x92\
+  s third official language by an act of Parliament in 2016.\r\nWhile a volume such\
+  \ as the present one can hardly do justice to all aspects of a diverse and complex\
+  \ linguistic situation, even in a small community like that of Malta, our aim in\
+  \ editing this book was to shed light on the main strands of research being undertaken\
+  \ in the Maltese linguistic context.\r\nSix of the contributions in this book focus\
+  \ on Maltese and explore a broad range of topics including: historical changes in\
+  \ the Maltese sound system; syllabification strategies; the interaction of prosody\
+  \ and gesture; the constraints regulating /t/-insertion; the productivity of derivational\
+  \ suffixes; and raising phenomena. The study of Maltese English, especially with\
+  \ the purpose of establishing the defining characteristics of this variety of English,\
+  \ is a relatively new area of research. Three of the papers in this volume deal\
+  \ with Maltese English, which is explored from the different perspectives of rhythm,\
+  \ the syntax of nominal phrases, and lexical choice. The last contribution discusses\
+  \ the way in which Maltese Sign Language (LSM) has evolved alongside developments\
+  \ in LSM research.\r\nIn summary, we believe the present volume has the potential\
+  \ to present a unique snapshot of a complex linguistic situation in a geographically\
+  \ restricted area. Given the nature and range of topics proposed, the volume will\
+  \ likely be of interest to researchers in both theoretical and comparative linguistics,\
+  \ as well as those working with experimental and corpus-based methodologies. Our\
+  \ hope is that the studies presented here will also serve to pave the way for further\
+  \ research on the languages of Malta, encouraging researchers to also take new directions,\
+  \ including the exploration of variation and sociolinguistic factors which, while\
+  \ often raised as explanatory constructs in the papers presented here, remain under-researched."
+bookid: 182
+booksubtitle: ''
+chapters:
+- authors:
+  - [Patrizia, '', Paggio]
+  - [Albert, '', Gatt]
+  number: 1
+  subtitle: null
+  title: Introduction
+- authors:
+  - [Patrizia, '', Paggio]
+  - [Luke, '', Galea]
+  - [Alexandra, '', Vella]
+  number: 2
+  subtitle: null
+  title: Prosodic and gestural marking of complement fronting in Maltese
+- authors:
+  - [Albert, '', Gatt]
+  - [Ray, '', Fabri]
+  number: 3
+  subtitle: null
+  title: Borrowed affixes and morphological productivity
+- authors:
+  - [Maris, '', Camilleri]
+  number: 4
+  subtitle: null
+  title: Raising and copy raising in Maltese
+- authors:
+  - [Gilbert, '', Puech]
+  number: 5
+  subtitle: from medieval to contemporary Maltese
+  title: Loss of emphatic and guttural consonants
+- authors:
+  - [Luke, '', Galea]
+  - [Adam, '', Ussishkin]
+  number: 6
+  subtitle: null
+  title: Onset clusters, syllable structure and syllabification in Maltese
+- authors:
+  - [Alexandra, '', Vella]
+  - [Sarah, '', Grech]
+  number: 7
+  subtitle: null
+  title: Rhythm in Maltese English
+- authors:
+  - [Natalie, '', Schembri]
+  number: 8
+  subtitle: null
+  title: On the characterisation of Maltese English
+- authors:
+  - [Manfred, '', Krug]
+  - [Lukas, '', "S\xF6nning"]
+  number: 9
+  subtitle: null
+  title: Language change in Maltese English
+- authors:
+  - [Marie, '', Azzopardi-Alexander]
+  number: 10
+  subtitle: null
+  title: "Maltese Sign Language \x96 Parallel interwoven journeys of the deaf community\
+    \ and the researchers"
+- authors:
+  - [Christopher, '', Lucas]
+  - [Michael, '', Spagnol]
+  number: 11
+  subtitle: null
+  title: Conditions on /t/-insertion in Maltese numeral phrases
+creators:
+  authors: []
+  editors:
+  - [Patrizia, '', Paggio, "<p class=\"western\" style=\"margin-bottom: 0in; line-height:\
+      \ 100%;\" lang=\"en-GB\"><span style=\"font-family: Times New Roman,serif;\"\
+      >Patrizia Paggio (1959) is Associate professor at the University of Malta and\
+      \ Senior Researcher at the University of Copenhagen. She holds a PhD in computational\
+      \ linguistics. </span><span style=\"font-family: Times New Roman,serif;\"><span\
+      \ lang=\"en-US\">Her research spans many areas of linguistics and language technology,\
+      \ such as formal grammar, machine translation, grammar checking, and content-based\
+      \ querying.</span></span> <span style=\"font-family: Times New Roman,serif;\"\
+      ><span lang=\"en-US\">Her current research interests fall in the area of multimodal\
+      \ communication and the development of multimodal corpora; in particular she\
+      \ is interested in empirically-based analyses of the way in which speech and\
+      \ gestural behaviour interact. She is the author of over 80 publications on\
+      \ a wide range of topics.</span></span></p>\r\n<p class=\"western\" style=\"\
+      margin-bottom: 0in; line-height: 100%;\" lang=\"en-US\">&nbsp;</p>"]
+  - [Albert, '', Gatt, "<p class=\"western\" style=\"margin-bottom: 0in; line-height:\
+      \ 100%;\" lang=\"en-GB\"><span style=\"font-family: Times New Roman,serif;\"\
+      ><span lang=\"en-US\">Albert Gatt (1979) is Senior Lecturer at the University\
+      \ of Malta and Research Associate at the Tilburg Centre for Cognition and Communication,\
+      \ Tilburg University, the Netherlands. He holds a PhD in computational linguistics.\
+      \ His primary interest is in systems for automatic text generation from non-linguistic\
+      \ data, as well as in the psycholinguistics of human language production. He\
+      \ is also interested in computational, corpus-based and psycholinguistic approaches\
+      \ to morphology. Much of his current research focuses on the interface between\
+      \ vision and language. He has authored over 85 publications.</span></span></p>\r\
+      \n<p class=\"western\" style=\"margin-bottom: 0in; line-height: 100%;\" lang=\"\
+      en-GB\">&nbsp;</p>"]
+doi: 10.5281/zenodo.1181783
+illustrators: []
+isbns: {digital: 978-3-96110-070-5, hardcover: 978-3-96110-071-2, softcover: ''}
+prefix: The
+proofreaders: [Annie Zaenen, Mykel Loren Brinkerhoff, "Melanie R\xF6thlisberger",
+  "Lea Sch\xE4fer", Brett Reynolds, Kate Bellamy, Steven Kaye, Paulson Skerrit, Jeroen
+    van de Weijer, Aaron Huey Sonnenschein, Gracious Temsen, Alexandr Rosen, Daniil
+    Bondarenko, Vadim Kimmelman]
+publicationdate: '20180313'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100713?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100713?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100713?tag=wwwlangscipre-20',
+  paperhive: 'http://paperhive.org/documents/remote?type=langsci&id=182'}
+series: sidl
+seriesnumber: '17'
+title: languages of Malta
+typesetters: []

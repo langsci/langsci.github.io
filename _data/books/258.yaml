@@ -1,0 +1,127 @@
+blurb: "This book offers a comprehensive account of dative structures across languages\
+  \ \x96with an important, though not exclusive, focus on the Romance family. As is\
+  \ well-known, datives play a central role in a variety of structures, ranging from\
+  \ ditransitive constructions to cliticization of indirect objects and differentially\
+  \ marked direct objects, and including also psychological predicates, possessor\
+  \ or causative constructions, among many others. As interest in all these topics\
+  \ has increased significantly over the past three decades, this volume provides\
+  \ an overdue update on the state of the art. Accordingly, the chapters in this volume\
+  \ account for both widely discussed patterns of dative constructions as well as\
+  \ those that are relatively unknown."
+bookid: 258
+booksubtitle: ''
+chapters:
+- authors:
+  - ["Mar\xEDa", Cristina, Cuervo]
+  number: 1
+  subtitle: null
+  title: Datives as applicatives
+- authors:
+  - [Svitlana, '', Antonyuk]
+  number: 2
+  subtitle: null
+  title: The puzzle of Russian ditransitives
+- authors:
+  - [Ana, Regina, Calindro]
+  number: 3
+  subtitle: null
+  title: Ditransitive constructions
+- authors:
+  - [Paola, '', "C\xE9peda"]
+  - [Sonia, '', Cyrino]
+  number: 4
+  subtitle: null
+  title: Putting objects in order
+- authors:
+  - [Alexandra, '', Cornilescu]
+  number: 5
+  subtitle: null
+  title: Ditransitive constructions with DOM-ed direct objects in Romanian
+- authors:
+  - [Michelle, '', Sheehan]
+  number: 6
+  subtitle: null
+  title: The Romance Person Case Constraint is not about clitic clusters
+- authors:
+  - [Ludovico, '', Franco]
+  - [Paolo, '', Lorusso]
+  number: 7
+  subtitle: null
+  title: Aspectual datives (and instrumentals)
+- authors:
+  - [Egor, '', Tsedryk]
+  number: 8
+  subtitle: null
+  title: The modal side of the dative
+- authors:
+  - [Antonio, '', "F\xE1bregas"]
+  - [Rafael, '', "Mar\xEDn"]
+  number: 9
+  subtitle: null
+  title: Datives and stativity in psych predicates
+- authors:
+  - [David, '', Basilico]
+  number: 10
+  subtitle: null
+  title: When the applicative needs the antipassive
+- authors:
+  - [Mattie, '', Wechsler]
+  number: 11
+  subtitle: null
+  title: The lexical underspecification of Bantu causatives and applicatives
+- authors:
+  - ["J\xF3hannes", '', "J\xF3nsson"]
+  - [Rannveig, '', "Th\xF3rarinsd\xF3ttir"]
+  number: 12
+  subtitle: null
+  title: Dative objects with novel verbs in Icelandic
+- authors:
+  - [Adam, '', Ledgeway]
+  - [Norma, '', Schifano]
+  - [Giuseppina, '', Silvestri]
+  number: 13
+  subtitle: null
+  title: Microvariation in dative-marking in the Romance and Greek varieties of Southern
+    Italy
+- authors:
+  - [M., Rita, Manzini]
+  number: 14
+  subtitle: null
+  title: Romance a-phrases and their clitic counterparts
+- authors:
+  - [Carles, '', Royo]
+  number: 15
+  subtitle: null
+  title: The accusative/dative alternation in Catalan verbs with Experiencer object
+- authors:
+  - [Antonio, '', "F\xE1bregas"]
+  - [Teresa, '', "Cabr\xE9"]
+  number: 16
+  subtitle: null
+  title: Ways of being a dative across Romance varieties
+creators:
+  authors: []
+  editors:
+  - [Anna, '', Pineda, "<p>Anna Pineda is a post-doctoral researcher specialized in\
+      \ Catalan and Romance linguistics. After completing her PhD at the Universitat\
+      \ Aut\xF2noma de Barcelona (2014), she has been investigating Romance syntactic\
+      \ variation at Centre National de la Recherche Scientifique (France), University\
+      \ of Cambridge (United Kingdom), Universitat Pompeu Fabra (Barcelona) and currently\
+      \ Sorbonne Universit\xE9 (France).</p>"]
+  - [Jaume, '', Mateu, "<p>Jaume Mateu is Associate Professor of Catalan language\
+      \ and linguistics at the Universitat Aut\xF2noma de Barcelona. Most of his work\
+      \ is on the syntax and semantics of argument structure in Romance and Germanic\
+      \ languages. His current research is focused on the syntax of word formation\
+      \ and the structure of participles in Latin.</p>"]
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: ogs
+seriesnumber: ''
+title: Dative constructions in Romance and beyond
+typesetters: []

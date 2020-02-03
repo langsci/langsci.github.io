@@ -1,0 +1,131 @@
+blurb: 'This book is an investigation into the grammar of Mehweb (Dargwa, East Caucasian
+  also known as Nakh-Daghestanian) based on several years of team fieldwork. Mehweb
+  is spoken in one village community in Daghestan, Russia, with a population of some
+  800 people, In many ways, Mehweb is a typical East Caucasian language: it has a
+  rich inventory of consonants; an extensive system of spatial forms in nouns and
+  converbs and volitional forms in verbs; pervasive gender-number agreement; and ergative
+  alignment in case marking and in gender agreement. It is also a typical language
+  of the Dargwa branch, with symmetrical verb inflection in the imperfective and perfective
+  paradigm and extensive use of spatial encoding for experiencers. Although Mehweb
+  is clearly close to the northern varieties of Dargwa, it has been long isolated
+  from the main body of Dargwa varieties by speakers of Avar and Lak. As a result
+  of both independent internal evolution and contact with its neighbours, Mehweb developed
+  some deviant properties, including accusatively aligned egophoric agreement, a split
+  in the feminine class, and the typologically rare grammatical categories of verificative
+  and apprehensive. But most importantly, Mehweb is where our friends live.'
+bookid: 225
+booksubtitle: Essays on phonology, morphology and syntax
+chapters:
+- authors:
+  - [Nina, '', Dobrushina]
+  number: 1
+  subtitle: null
+  title: The language and people of Mehweb
+- authors:
+  - [Yuri, '', Koryakov]
+  number: 2
+  subtitle: null
+  title: Maps of Mehweb
+- authors:
+  - [Yury, '', Lander]
+  number: 3
+  subtitle: a sketch of a portrait
+  title: "The Mehweb \x93assertive\x94 copula gwa"
+- authors:
+  - [Aleksandra, '', Kozhukhar]
+  - [Yury, '', Lander]
+  number: 4
+  subtitle: null
+  title: Relative clause and resumptive pronouns in Mehweb
+- authors:
+  - [Aleksandra, '', Kozhukhar]
+  number: 5
+  subtitle: null
+  title: The self-pronoun in Mehweb
+- authors:
+  - [Marina, '', Kustova]
+  number: 6
+  subtitle: null
+  title: General converbs in Mehweb
+- authors:
+  - [Maria, '', Sheyanova]
+  number: 7
+  subtitle: null
+  title: Specialized converbs in Mehweb
+- authors:
+  - [Dmitry, '', Ganenkov]
+  number: 8
+  subtitle: null
+  title: Case and agreement in Mehweb
+- authors:
+  - [Daria, '', Barylnikova]
+  number: 9
+  subtitle: null
+  title: Periphrastic causative constructions in Mehweb
+- authors:
+  - [Nina, '', Dobrushina]
+  number: 10
+  subtitle: null
+  title: Moods of Mehweb
+- authors:
+  - [Michael, '', Daniel]
+  number: 11
+  subtitle: null
+  title: Mehweb verb morphology
+- authors:
+  - [Ilya, '', Chechuro]
+  number: 12
+  subtitle: null
+  title: Nominal morphology of Mehweb
+- authors:
+  - [George, '', Moroz]
+  number: 13
+  subtitle: null
+  title: Phonology of Mehweb
+- authors:
+  - [Michael, '', Daniel]
+  - [Nina, '', Dobrushina]
+  number: 14
+  subtitle: null
+  title: Prefaces
+creators:
+  authors: []
+  editors:
+  - [Michael, '', Daniel, '<p><em><span style="font-weight: 400;">Michael Daniel</span></em><span
+      style="font-weight: 400;"> is a professor at School of Linguistics and a researcher
+      at the Linguistic Convergence Laboratory, HSE (Moscow). He mostly worked on
+      description and documentation of East Caucasian languages and on typology of
+      nominal categories and morphosyntax and participated in various international
+      typological projects such as WALS. Another domain of his interests is sociolinguistics
+      of dialects and minority languages.</span></p>']
+  - [Nina, '', Dobrushina, '<p><em>Nina Dobrushina</em> is a researcher at the Linguistic
+      Convergence Laboratory and a professor at School of Linguistics, HSE (Moscow).
+      Her field experience is mostly with East Caucasian, including fine-grained analysis
+      of modal categories in languages like Bagvalal, Cahur, Aghul, Mehweb, Rutul.
+      She took part in international typological projects such as WALS. Another domain
+      of her interests is sociolinguistics of dialects and minority languages, with
+      a special focus on traditional multilingualism in small language communities.</p>']
+  - [Dmitry, '', Ganenkov, '<p><em><span style="font-weight: 400;">Dmitry Ganenkov</span></em><span
+      style="font-weight: 400;"> is a researcher at </span><span style="font-weight:
+      400;">the </span><span style="font-weight: 400;">University of Bamberg, Institute
+      of Linguistics (Moscow) and the Laboratory of the Languages of the Caucasus
+      at HSE (Moscow). His language expertise includes various East Caucasian languages
+      of the Lezgic and Dargwa branches, especially Udi, Aghul and Chirag. He has
+      vast experience in language documentation, the typology of expressing topological
+      relations in East Caucasian and formal syntactic analysis of the data of East
+      Caucasian, especially agreement and ergativity.</span></p>']
+doi: 10.5281/zenodo.3374730
+illustrators: []
+isbns: {digital: 978-3-96110-208-2, hardcover: 978-3-96110-209-9, softcover: ''}
+prefix: ''
+proofreaders: ["Andreas H\xF6lzl", "Ahmet Bilal \xD6zdemir", Eva Schultze-Berndt,
+  Jean Nitzke, Tatiana Philippova, Beverley Erasmus, Steven Kaye, Sune Gregersen,
+  Jeroen van de Weijer, 'Ivica Je?ud', Havenol M. Schrenk]
+publicationdate: '20191023'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961102090?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961102090?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961102090?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/23H17algmjMs'}
+series: loc
+seriesnumber: '1'
+title: The Mehweb language
+typesetters: []

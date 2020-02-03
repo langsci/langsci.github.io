@@ -1,0 +1,51 @@
+blurb: "This book is a comprehensive description of the grammar of Rapa Nui, the Polynesian\
+  \ language spoken on Easter Island. After an introductory chapter, the grammar deals\
+  \ with phonology, word classes, the noun phrase, possession, the verb phrase, verbal\
+  \ and nonverbal clauses, mood and negation, and clause combinations. The phonology\
+  \ of Rapa Nui reveals certain issues of typological interest, such as the existence\
+  \ of strict conditions on the phonological shape of words, word-final devoicing,\
+  \ and reduplication patterns motivated by metrical constraints. For Polynesian languages,\
+  \ the distinction between nouns and verbs in the lexicon has often been denied;\
+  \ in this grammar it is argued that this distinction is needed for Rapa Nui. Rapa\
+  \ Nui has sometimes been characterised as an ergative language; this grammar shows\
+  \ that it is unambiguously accusative. Subject and object marking depend on an interplay\
+  \ of syntactic, semantic and pragmatic factors. Other distinctive features of the\
+  \ language include the existence of a \x91neutral\x92 aspect marker, a serial verb\
+  \ construction, the emergence of copula verbs, a possessive-relative construction,\
+  \ and a tendency to maximise the use of the nominal domain. Rapa Nui\x92s relationship\
+  \ to the other Polynesian languages is a recurring theme in this grammar; the relationship\
+  \ to Tahitian (which has profoundly influenced Rapa Nui) especially deserves attention.\
+  \ The grammar is supplemented with a number of interlinear texts, two maps and a\
+  \ subject index."
+bookid: 124
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Paulus, '', Kieviet, "Paulus Kieviet obtained MAs in Semitic Languages (1997)\
+      \ and General Linguistics (1998) from Leiden University, both cum laude. In\
+      \ 2016, he obtained a PhD from VU University, Amsterdam. Since 2002, he has\
+      \ been a member of SIL International. He has worked as a Bible translation consultant\
+      \ in several Polynesian languages, such as Rapa Nui, Pa\x92umotu (French Polynesia)\
+      \ and Nukuoro (Federated States of Micronesia). With his family, he lived in\
+      \ Papua New Guinea (2002-2003), French Polynesia (2004-2007) and on Easter Island\
+      \ (2007-2010)."]
+  - [Paulus, '', Kieviet, '']
+  - [Paulus, '', Kieviet, '']
+  editors: []
+doi: 10.5281/zenodo.235525
+illustrators: []
+isbns: {digital: 978-3-946234-75-3, hardcover: 978-3-946234-76-0, softcover: 978-1-542544-79-5}
+prefix: A
+proofreaders: [Oliver Czulo, Eitan Grossman, Annie Zaenen, Matti Miestamo, Klara Kim,
+  Hella Olbertz, "Christian D\xF6hler", "Andreas H\xF6lzl", Ezekiel Tunde Bolaji,
+  "Ahmet Bilal \xD6zdemir", Julien Heurdier, Mykel Loren Brinkerhoff, Elizabeth Zeitoun,
+  Natsuko Nakagawa, Jean Nitzke, Guylaine Brun-Trigaud, Prisca Jerono]
+publicationdate: '20170125'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234763?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234763?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234763?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/FGZYoLY8xd6C'}
+series: sidl
+seriesnumber: '12'
+title: grammar of Rapa Nui
+typesetters: []

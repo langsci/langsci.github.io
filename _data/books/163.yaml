@@ -1,0 +1,80 @@
+blurb: "Currently, there are two prominent schools in linguistics: Minimalism (Chomsky)\
+  \ and Construction Grammar (Goldberg, Tomasello). Minimalism comes with the claim\
+  \ that our linguistic capabilities consist of an abstract, binary combinatorial\
+  \ operation (Merge) and a lexicon. Most versions of Construction Grammar assume\
+  \ that language consists of flat phrasal schemata that contribute their own meaning\
+  \ and may license additional arguments. This book examines a variant of Lexical\
+  \ Functional Grammar, which is lexical in principle but was augmented by tools that\
+  \ allow for the description of phrasal constructions in the Construction Grammar\
+  \ sense. These new tools include templates that can be used to model inheritance\
+  \ hierarchies and a resource driven semantics. The resource driven semantics makes\
+  \ it possible to reach the effects that lexical rules had, for example remapping\
+  \ of arguments, by semantic means. The semantic constraints can be evaluated in\
+  \ the syntactic component, which is basically similar to the delayed execution of\
+  \ lexical rules. So this is a new formalization that might be suitable to provide\
+  \ solutions to longstanding problems that are not available for other formalizations.\r\
+  \nWhile the authors suggest a lexical treatment of many phenomena and only assume\
+  \ phrasal constructions for selected phenomena like benefactive and resultative\
+  \ constructions in English, it can be shown that even these two constructions should\
+  \ not be treated phrasally in English and that the analysis would not extend to\
+  \ other languages as for instance German. I show that the new formal tools do not\
+  \ really improve the situation and many of the basic conceptual problems remain.\
+  \ Since this specific proposal fails for two constructions, it follows that proposals\
+  \ (in the same framework) that assume phrasal analyses for all constructions are\
+  \ not appropriate either.\r\nThe conclusion is that lexical models are needed and\
+  \ this entails that the schemata that combine syntactic objects are rather abstract\
+  \ (as in Categorial Grammar, Minimalism, HPSG and standard LFG). On the other hand\
+  \ there are constructions that should be treated by very specific, phrasal schemata\
+  \ as in Construction Grammar and LFG and HPSG. So the conclusion is that both schools\
+  \ are right (and wrong) and that a combination of ideas from both camps is needed."
+bookid: 163
+booksubtitle: Template-based phrasal LFG approaches and a lexical HPSG alternative
+chapters: []
+creators:
+  authors:
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", "<div class=\"value\">\r\n<div class=\"value\">\r\n\
+      <p>Stefan M\xFCller studied Computer Science, Computational Linguistics and\
+      \ Linguistics at the Humboldt University at Berlin and in Edinburgh. He worked\
+      \ at the German Research Center of Artificial Intelligence (DFKI) in Saarbr\xFC\
+      cken and for the company Interice. He worked as acting chair for German and\
+      \ Computational Linguistics in Jena and for Theoretical Computational Linguistics\
+      \ in Potsdam. He had an assistant professorship in Bremen for theoretical linguistics\
+      \ and computational linguistics, a full professorship for German and General\
+      \ Linguistics at the Freie Universit\xE4t Berlin and is now professor for German\
+      \ language with specialization in syntax at the Humboldt Universit\xE4t zu Berlin.</p>\r\
+      \n<p>His main re\xADsearch topic is Ger\xADman gram\xADmar. He works both em\xAD\
+      pir\xADi\xADcal\xADly and the\xADo\xADret\xADi\xADcal\xADly. Top\xADics of in\xAD\
+      ter\xADest are mor\xADphol\xADo\xADgy, syn\xADtax, se\xADman\xADtics, and in\xAD\
+      for\xADma\xADtion struc\xADture. He pub\xADlished main\xADly about Ger\xADman,\
+      \ but he also works on other lan\xADguages as for in\xADstance Man\xADdarin\
+      \ Chi\xADnese, Dan\xADish, Mal\xADtese, and Per\xADsian. The the\xADo\xADret\xAD\
+      i\xADcal work is car\xADried out in the frame\xADwork of Head-? Driv\xADen Phrase\
+      \ Struc\xADture Gram\xADmar (HPSG) and the the\xADo\xADret\xADi\xADcal anal\xAD\
+      y\xADses are im\xADple\xADment\xADed in com\xADput\xADer-?pro\xADcess\xADable\
+      \ gram\xADmar frag\xADments. The gram\xADmar frag\xADments that are implemented\
+      \ in the CoreGram Project use a com\xADmon core. One goal of his re\xADsearch\
+      \ is to un\xADder\xADstand lan\xADguage and to find out what lan\xADguages in\
+      \ gen\xADer\xADal and cer\xADtain lan\xADguage class\xADes in par\xADtic\xAD\
+      u\xADlar have in com\xADmon.</p>\r\n</div>\r\n</div>"]
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  editors: []
+doi: 10.5281/zenodo.1441351
+illustrators: []
+isbns: {digital: 978-3-96110-121-4, hardcover: 978-3-96110-122-1, softcover: ''}
+prefix: A
+proofreaders: [Timm Lichte, Annie Zaenen, "Andreas H\xF6lzl", "Janina Rad\xF3", Mykel
+    Loren Brinkerhoff, Valeria Quochi, Brett Reynolds, Alena Witzlack-Makarevich,
+  Gerald Delahunty, Jeroen van de Weijer, Alexandr Rosen, Vadim Kimmelman, Barend
+    Beekhuizen, Joseph Lovestrand, Aniefon Akpan, 'Ivica Je?ud', Ivelina Stoyanova,
+  "Bojana (?or?evi?) Ba\x9Aaragin"]
+publicationdate: '20181018'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101221?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101221?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101221?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/CDuBamUa0iWI'}
+series: cfls
+seriesnumber: '2'
+title: lexicalist account of argument structure
+typesetters: []

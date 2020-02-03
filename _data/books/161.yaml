@@ -1,0 +1,39 @@
+blurb: "The identification and classification of nominal predicators and their arguments\
+  \ is a notorious problem in natural language processing (NLP). Semantic reasoning,\
+  \ information retrieval, question answering and other applications can benefit greatly\
+  \ from a successful treatment of nominal predication. Overall, a considerable amount\
+  \ of work in NLP focuses on the identification and annotation of verbal predication\
+  \ and arguments thereof, and there is less research on types and identification\
+  \ of nominal predicates and their arguments. This book is a contribution of the\
+  \ latter type. It focuses on the description and analysis of nominal arguments in\
+  \ the South Asian language Hindi/Urdu. The analysis is couched within the theory\
+  \ of Lexical-Functional Grammar and is implemented in a computational grammar, the\
+  \ Urdu ParGram grammar, which is a part of the ParGram (\x93Parallel Grammar\x94\
+  ) project on parallel LFG grammar engineering. The implementation makes use of the\
+  \ grammar development platform XLE.\r\n&nbsp;"
+bookid: 161
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Sebastian, '', Sulger, '<p>Sebastian Sulger studied linguistics at the University
+      of Konstanz. He received his PhD in linguistics in 2015 from the University
+      of Konstanz, where he was a doctoral and post-doctoral research scientist and
+      taught courses in computational linguistics. His research interests include
+      grammar development and multiword expressions (on the computational side of
+      things) as well as argument structure and complex predicates (on the theoretical
+      side). He left academia in 2017 and now works as a technical writer and coach
+      at STAR AG.</p>']
+  editors: []
+doi: ''
+edition: 2
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: eotms-ig
+seriesnumber: '1'
+title: Modeling nominal predications in Hindi/Urdu
+typesetters: []

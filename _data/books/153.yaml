@@ -1,0 +1,49 @@
+blurb: 'What is semantic transparency, why is it important, and which factors play
+  a role in its assessment? This work approaches these questions by investigating
+  English compound nouns. The first part of the book gives an overview of semantic
+  transparency in the analysis of compound nouns, discussing its role in models of
+  morphological processing and differentiating it from related notions. After a chapter
+  on the semantic analysis of complex nominals, it closes with a chapter on previous
+  attempts to model semantic transparency. The second part introduces new empirical
+  work on semantic transparency, introducing two different sets of statistical models
+  for compound transparency. In particular, two semantic factors were explored: the
+  semantic relations holding between compound constituents and the role of different
+  readings of the constituents and the whole compound, operationalized in terms of
+  meaning shifts and in terms of the distribution of specifc readings across constituent
+  families. <br> All semantic annotations used in the book are freely available.'
+bookid: 153
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Martin, '', "Sch\xE4fer", "<p>Martin Sch\xE4fer studied general linguistics,\
+      \ ancient Greek and English at the Universit\xE4t Leipzig. He worked as a research\
+      \ assistant at the Universit\xE4t Leipzig, at the Universit\xE4t Frankfurt and\
+      \ at the Humboldt Universit\xE4t zu Berlin. From 2008 till 2017, he worked as\
+      \ a research assistant at the Friedrich-Schiller-Universit\xE4t Jena, interrupted\
+      \ by a short stint as a substitute professor at the Universit\xE4t T\xFCbingen.\
+      \ Starting October 2017, he works as a Marie-Sk?odowska-Curie-Fellow at the\
+      \ Anglia Ruskin University, Cambridge.</p>\r\n<p>After his psycholinguistic\
+      \ M.A. thesis on the homophonous particle 'de' in Mandarin Chinese, he received\
+      \ his PhD for a dissertation on the semantics and the positioning of German\
+      \ adverbial adjectives. Currently, his focus is on English compound nouns. In\
+      \ particular, he is interested in their semantic interpretation.</p>\r\n<p>He\
+      \ has a broad teaching experience in German and English linguistics, covering\
+      \ theoretical as well as psycho- and corpuslinguistic issues.</p>"]
+  editors: []
+doi: 10.5281/zenodo.1134595
+illustrators: []
+isbns: {digital: 978-3-96110-030-9, hardcover: 978-3-96110-031-6, softcover: ''}
+prefix: The
+proofreaders: [Timm Lichte, Martin Hilpert, Stefan Hartmann, Carola Trips, Andrew
+    Spencer, "Ahmet Bilal \xD6zdemir", Gianina Iordachioaia, Steve Pepper, Valeria
+    Quochi, Edalat Shekari, Jeroen van de Weijer, Katja Politt, "Jos\xE9 Luis Poblete",
+  Plinio Barbosa]
+publicationdate: '20180122'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100306?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100306?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100306?tag=wwwlangscipre-20',
+  paperhive: 'http://paperhive.org/documents/remote?type=langsci&id=153'}
+series: mi
+seriesnumber: '3'
+title: semantic transparency of English compound nouns
+typesetters: []

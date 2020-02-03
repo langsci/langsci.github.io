@@ -1,0 +1,53 @@
+blurb: "<em>Einf\xFChrung in die grammatische Beschreibung des Deutschen</em> ist\
+  \ eine Einf\xFChrung in die Grammatik des gegenw\xE4rtigen Deutschen in den Bereichen\
+  \ Phonetik, Phonologie, Morphologie, Syntax und Graphematik.&nbsp;Das Buch ist f\xFC\
+  r alle geeignet, die sich f\xFCr die Grammatik des Deutschen interessieren, vor\
+  \ allem aber f\xFCr Studierende der Germanistik bzw. Deutschen Philologie, insbesondere\
+  \ auch f\xFCr Lehramtsstudierende.&nbsp;Im Vordergrund steht die Vermittlung grammatischer\
+  \ Erkenntnisprozesse und Argumentationsweisen auf Basis konkreten sprachlichen Materials.&nbsp;Es\
+  \ wird kein spezielles theoretisches Modell angenommen, aber alle, die das Buch\
+  \ gelesen haben, sollten in der Lage sein, sowohl deskriptiv ausgerichtete Forschungsartikel\
+  \ als auch theorienahe Einf\xFChrungen lesen zu k\xF6nnen.&nbsp;Das Buch enth\xE4\
+  lt zahlreiche \xDCbungsaufgaben, die im Anhang gel\xF6st werden.\r\nDie dritte Auflage\
+  \ behebt Tipp- und Stilfehler und bietet einige neue Vertiefungsbl\xF6cke sowie\
+  \ eine komplette \xDCberarbeitung der Grafiken und Diagramme.&nbsp;Ein Kapitel \xFC\
+  ber Grammatik in Schule und Lehramtsstudium erg\xE4nzt das Buch.\r\nDer Preis des\
+  \ Buches betr\xE4gt in Deutschland 20 EUR f\xFCr Softcover und 35 EUR f\xFCr Hardcover.\r\
+  \nErrata: <a href=\"http://grammatick.de/?page_id=24\"> http://grammatick.de/?page_id=24</a>"
+bookid: 224
+booksubtitle: "Dritte, \xFCberarbeitete und erweiterte Auflage"
+chapters: []
+creators:
+  authors:
+  - [Roland, '', "Sch\xE4fer", "<p>Roland Sch\xE4fer ist Germanist und Linguist. Er\
+      \ hat an der Philipps-Universit\xE4t Marburg studiert und war wissenschaftlicher\
+      \ Mitarbeiter an der Georg-August Universit\xE4t G\xF6ttingen und der Freien\
+      \ Universit\xE4t Berlin. Er hat Professuren in G\xF6ttingen (2011\x962012) und\
+      \ an der Freien Universit\xE4t Berlin (2016 und seit 2018) vertreten. Nach seiner\
+      \ Promotion in G\xF6ttingen im Jahr 2008 hat er 2018 eine Habilitationsschrift\
+      \ zum Thema \"Probabilistic German Morphosyntax\" (eine Analyse von sogenannten\
+      \ Zweifelsf\xE4llen im Rahmen der probabilistischen Grammatik) vorgelegt, auf\
+      \ Basis derer die Humboldt-Universit\xE4t zu Berlin sein Habilitationsverfahren\
+      \ zur Erlangung der Venia legendi f\xFCr germanistische und allgemeine Sprachwissenschaft\
+      \ er\xF6ffnet hat. Seine aktuellen Forschungsschwerpunkte sind die probabilistische\
+      \ Morphosyntax und Graphematik des Deutschen, empirische und statistische Verfahren,\
+      \ Fachdidaktik und Lehramtsausbildung sowie die Korpuserstellung. Von 2015 bis\
+      \ 2018 leitete er erfolgreich das selber eingeworbene DFG-Projekt \"Linguistische\
+      \ Web-Charakterisierung und Webkorpuserstellung\" an der Freien Universit\xE4\
+      t Berlin.</p>"]
+  - [Roland, '', "Sch\xE4fer", '']
+  - [Roland, '', "Sch\xE4fer", '']
+  editors: []
+doi: 10.5281/zenodo.1421660
+illustrators: []
+isbns: {digital: 978-3-96110-116-0, hardcover: 978-3-96110-117-7, softcover: 978-3-96110-118-4}
+prefix: ''
+proofreaders: []
+publicationdate: '20181017'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101183?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101183?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101183?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/DMyQy5EZSNie'}
+series: tbls
+seriesnumber: '2'
+title: "Einf\xFChrung in die grammatische Beschreibung des Deutschen"
+typesetters: []

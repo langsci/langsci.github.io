@@ -1,0 +1,57 @@
+blurb: "This book provides a quantifiable measure and analysis of absolute complexity\
+  \ in the nominal inflection of 17 Alemannic dialects, of standard German as well\
+  \ as of Middle and Old High German. The data is based on grammatical descriptions.\
+  \ What can be interpreted as being more or less complex in a language system is\
+  \ deduced from LFG (Lexical-Functional Grammar) and from an inferential-realisational\
+  \ morphological framework. The tool to measure inflectional complexity is also developed\
+  \ from these frameworks. Variation in the inflectional complexity is analysed based\
+  \ on the following factors: diachrony, isolation, language contact, standardisation,\
+  \ and dialect groups.\r\nDiese Arbeit quantifiziert und analysiert die absolute\
+  \ Komplexit\xE4t in der Nominalflexion von 17 alemannischen Dialekten, der deutschen\
+  \ Standardsprache sowie des Mittel- und Althochdeutschen. Als Datengrundlage dienen\
+  \ Ortsgrammatiken. Die theoretische Grundlage bilden LFG (Lexical-Functional Grammar)\
+  \ und die inferentielle-realisierende Morphologie, wovon abgeleitet wird, was ein\
+  \ System komplexer bzw. simpler macht. Auf diesen Modellen basiert auch die eigens\
+  \ entwickelte Methode zur Messung der morphologischen Komplexit\xE4t. Die Variation\
+  \ in der Komplexit\xE4t der Nominalflexion wird anhand der folgenden Faktoren analysiert:\
+  \ Diachronie, Isolation, Kontakt, Standardisierung und Dialektgruppen.\r\nDer Preis\
+  \ der gebundenen Ausgabe ist in Deutschland auf EUR 50.00 festgesetzt."
+bookid: 134
+booksubtitle: Althochdeutsch, Mittelhochdeutsch, Alemannisch und deutsche Standardsprache
+chapters: []
+creators:
+  authors:
+  - [Raffaela, '', Baechler, "<p>Raffaela Baechler studied German and Slavic language\
+      \ and literature (BA) at the University of Fribourg (Switzerland) and at the\
+      \ University of Bamberg. She holds an MA degree and a PhD in German linguistics\
+      \ from the University of Freiburg (Germany). She worked as a research assistant\
+      \ at the University of Freiburg and Munich. Currently she is affiliated with\
+      \ the University of Edinburgh and works on Early Middle English dialects (DFG\
+      \ Forschungsstipendium). Her research interests focus on morphology and morphosyntax\
+      \ (inferential-realisational morphology and LFG), historical linguistics and\
+      \ language change, as well as micro-typology (Germanic standard and non-standard\
+      \ languages).</p>\r\n<p>Raffaela Baechler studierte Germanistik und Slavistik\
+      \ (BA) an der Universit\xE4t Fribourg (Schweiz) und an der Universit\xE4t Bamberg\
+      \ sowie deutsche Sprachwissenschaft (MA) an der Universit\xE4t Freiburg, wo\
+      \ sie im Fach germanistische Linguistik promovierte. Sie arbeitete als wissenschaftliche\
+      \ Mitarbeiterin an der Universit\xE4t Freiburg und M\xFCnchen. Zurzeit forscht\
+      \ sie zu fr\xFChmittelenglischen Dialekten an der Universit\xE4t Edinburgh (DFG\
+      \ Forschungsstipendium). Ihre Forschungsinteressen liegen vorwiegend in der\
+      \ Morphololgie und Morphosyntax (inferentiell-realisierende Morphologie und\
+      \ LFG), historische Linguistik und Sprachwandel sowie Mikro-Typologie (germanische\
+      \ Standard- und Nicht-Standardsprachen).</p>"]
+  editors: []
+doi: 10.5281/zenodo.1067783
+edition: 0
+illustrators: []
+isbns: {digital: 978-3-96110-022-4, hardcover: 978-3-96110-023-1, softcover: ''}
+prefix: ''
+proofreaders: []
+publicationdate: ''
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100233?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100233?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100233?tag=wwwlangscipre-20',
+  paperhive: 'www.paperhive.org/documents/remote?type=langsci&id=134'}
+series: mi
+seriesnumber: '2'
+title: "Absolute Komplexit\xE4t in der Nominalflexion"
+typesetters: []

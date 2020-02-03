@@ -1,0 +1,139 @@
+blurb: "This book reconsiders the role of order and structure in syntax, focusing\
+  \ on fundamental issues such as word order and grammatical functions. The first\
+  \ group of papers in the collection asks what word order can tell us about syntactic\
+  \ structure, using evidence from V2, object shift, word order gaps and different\
+  \ kinds of movement. The second group of papers all address the issue of subjecthood\
+  \ in some way, and examine how certain subject properties vary across languages:\
+  \ expression of subjects, expletive subjects, quirky and locative subjects. All\
+  \ of the papers address in some way the tension between modelling what can vary\
+  \ across languages whilst improving our understanding of what might be universal\
+  \ to human language.\r\nThis book is complemented by <a href=\"http://langsci-press.org/catalog/book/115\"\
+  >Order and structure in syntax II: Subjecthood and argument structure</a>\r\n&nbsp;"
+bookid: 159
+booksubtitle: Word order and syntactic structure
+chapters:
+- authors:
+  - [Kajsa, '', "Dj\xE4rv"]
+  - [Caroline, '', Heycock]
+  - [Hannah, '', Rohde]
+  number: 1
+  subtitle: null
+  title: Assertion and factivity
+- authors:
+  - [Jan-Wouter, '', Zwart]
+  number: 2
+  subtitle: null
+  title: An argument against the syntactic nature of verb movement
+- authors:
+  - [Geoffrey, '', Poole]
+  number: 3
+  subtitle: null
+  title: Feature Inheritance in Old Spanish
+- authors:
+  - [Urpo, '', Nikanne]
+  number: 4
+  subtitle: null
+  title: Finite sentences in Finnish
+- authors:
+  - [Nomi, '', Erteshik-Shir]
+  - ["Gunl\xF6g", '', Josefsson]
+  number: 5
+  subtitle: null
+  title: Scandinavian Object Shift is phonology
+- authors:
+  - [Ellen, '', Woolford]
+  number: 6
+  subtitle: null
+  title: Mainland Scandinavian object shift and the puzzling ergative pattern in Aleut
+- authors:
+  - [Ricardo, '', Etxepare]
+  - [Bill, '', Haddican]
+  number: 7
+  subtitle: null
+  title: Repairing Final-Over-Final Constraint violations
+- authors:
+  - [Marit, '', Julien]
+  number: 8
+  subtitle: null
+  title: "Head-initial postpositional phrases in North S\xE1mi"
+- authors:
+  - [Theresa, '', Biberauer]
+  number: 9
+  subtitle: null
+  title: Probing the nature of the Final-over-Final Constraint
+- authors:
+  - [Norvin, '', Richards]
+  number: 10
+  subtitle: null
+  title: Nuclear stress and the life cycle of operators
+- authors:
+  - [Martina, '', Wiltschko]
+  number: 11
+  subtitle: null
+  title: Response particles beyond answering
+- authors:
+  - [George, '', Tsoulas]
+  number: 12
+  subtitle: null
+  title: The Common Syntax of Deixis and Affirmation
+- authors:
+  - [Sten, '', Vikner]
+  - [Ken, '', "Ramsh\xF8j Christensen"]
+  - [Anne, Mete, Nyvad]
+  number: 13
+  subtitle: null
+  title: V2 and cP/CP
+- authors:
+  - [Mais, '', Sulaiman]
+  number: 14
+  subtitle: null
+  title: Verb Second not Verb Second in Syrian Arabic
+- authors:
+  - [Luigi, '', Rizzi]
+  number: 15
+  subtitle: null
+  title: "Uniqueness of left peripheral focus, \x93further explanation\x94, and Int."
+- authors:
+  - [Christer, '', Platzack]
+  number: 16
+  subtitle: null
+  title: Swedish Wh-Root-infinitives
+- authors:
+  - [Richard, S., Kayne]
+  number: 17
+  subtitle: null
+  title: A Note on Some Even More Unusual Relative Clauses
+- authors:
+  - [Joseph, '', Emonds]
+  number: 18
+  subtitle: null
+  title: Theoretical limits on borrowing through contact; not everything goes
+creators:
+  authors: []
+  editors:
+  - [Laura, R., Bailey, '<p>Laura Bailey is a Lecturer in English Language and Linguistics
+      at the University of Kent. She specialises in cross-linguistic and comparative
+      syntax with a special interest in the left periphery, Latin word order, and
+      non-standard English syntax. She also maintains a blog about language at <a
+      href="linguistlaura.blogspot.co.uk">http://linguistlaura.blogspot.co.uk.</a></p>']
+  - [Michelle, '', Sheehan, '<p>Michelle Sheehan is a Reader in Linguistics at Anglia
+      Ruskin University. She specialises in comparative and theoretical syntax with
+      a particular focus on Romance languages. She is co-author of Parametric Variation
+      (2010, CUP) and The Philosophy of Universal Grammar (2013, OUP), and co-editor
+      of Theoretical Approaches to Disharmonic Word Order (2013, OUP).</p>']
+doi: 10.5281/zenodo.1117686
+illustrators: []
+isbns: {digital: 978-3-96110-026-2, hardcover: 978-3-96110-027-9, softcover: ''}
+prefix: ''
+proofreaders: [Timm Lichte, Eitan Grossman, Kleanthes Grohmann, Annie Zaenen, George
+    Walkden, Shannon Bischoff, Amr El-Zawawy, Ikmi Nur Oktavianti, "Andreas H\xF6\
+    lzl", Alec Shaw, Maria Maldonado, Matthew Czuba, Prisca Jerono, Beverley Erasmus,
+  Esther Yap, Eran Asoulin, Gerald Delahunty, Waldfried Premper]
+publicationdate: '20171219'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100276?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100276?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100276?tag=wwwlangscipre-20',
+  paperhive: 'paperhive.org/documents/remote?type=langsci&id=159'}
+series: ogs
+seriesnumber: ''
+title: Order and structure in syntax I
+typesetters: []

@@ -1,0 +1,202 @@
+blurb: "The annual workshop on multiword expressions takes place since 2001 in conjunction\
+  \ with major computational linguistics conferences and attracts the attention of\
+  \ an ever-growing community working on a variety of languages, linguistic phenomena\
+  \ and related computational processing issues. MWE 2017 took place in Valencia,\
+  \ Spain, and represented a vibrant panorama of the current research landscape on\
+  \ the computational treatment of multiword expressions, featuring many high-quality\
+  \ submissions. Furthermore, MWE 2017 included the first shared task on multilingual\
+  \ identification of verbal multiword expressions. The shared task, with extended\
+  \ communal work, has developed important multilingual resources and mobilised several\
+  \ research groups in computational linguistics worldwide.\r\nThis book contains\
+  \ extended versions of selected papers from the workshop. Authors worked hard to\
+  \ include detailed explanations, broader and deeper analyses, and new exciting results,\
+  \ which were thoroughly reviewed by an internationally renowned committee. We hope\
+  \ that this distinctly joint effort will provide a meaningful and useful snapshot\
+  \ of the multilingual state of the art in multiword expressions modelling and processing,\
+  \ and will be a point point of reference for future work."
+bookid: 204
+booksubtitle: Extended papers from the MWE 2017 workshop
+chapters:
+- authors:
+  - [Timothy, '', Baldwin]
+  - [Bahar, '', Salehi]
+  - [Paul, '', Cook]
+  number: 1
+  subtitle: null
+  title: Exploiting multilingual lexical resources to predict MWE compositionality
+- authors:
+  - [Marcos, '', Garcia]
+  number: 2
+  subtitle: null
+  title: Comparing bilingual word embeddings to translation dictionaries for extracting
+    multilingual collocation equivalents
+- authors:
+  - [Shiva, '', Taslimipoor]
+  - [Omid, '', Rohanian]
+  - [Ruslan, '', Mitkov]
+  - [Afsaneh, '', Fazly]
+  number: 3
+  subtitle: null
+  title: Identification of multiword expressions
+- authors:
+  - [Carlos, '', Ramisch]
+  - [Silvio, '', Ricardo Cordeiro]
+  - [Manon, '', Scholivet]
+  number: 4
+  subtitle: null
+  title: Sequence models and lexical resources for MWE identification in French
+- authors:
+  - [Julian, '', Brooke]
+  - [King, '', Chan]
+  - [Timothy, '', Baldwin]
+  number: 5
+  subtitle: null
+  title: Semi-automated resolution of inconsistency for a harmonized multiword-expression
+    and dependency-parse annotation
+- authors:
+  - [Veronika, '', Vincze]
+  - [Katalina, Ilona, "Simk\xF3"]
+  - ["Vikt\xF3ria", '', "Kov\xE1cs"]
+  number: 6
+  subtitle: null
+  title: Identifying verbal multiword expressions with POS tagging and parsing techniques
+- authors:
+  - [Marie, '', Candito]
+  - [Hazem, '', Al Saied]
+  - [Matthieu, '', Constant]
+  number: 7
+  subtitle: null
+  title: A transition-based verbal multiword expression analyzer
+- authors:
+  - [Alfredo, '', Maldonado]
+  - [Erwan, '', Moreau]
+  - [Ashjan, '', Alsulaimani]
+  - [Lifeng, '', Han]
+  - [Carl, '', Vogel]
+  - [Koel, '', Dutta Chowdhury]
+  number: 8
+  subtitle: null
+  title: Semantic reranking of CRF label sequences for verbal multiword expression
+    identification
+- authors:
+  - [Behrang, '', QasemiZadeh]
+  - [Alfredo, '', Maldonado]
+  number: 9
+  subtitle: null
+  title: Analysis and Insights from the PARSEME Shared Task dataset
+- authors:
+  - [Carlos, '', Ramisch]
+  - [Agata, '', Savary]
+  - [Veronika, '', Vincze]
+  - [Marie, '', Candito]
+  - [Verginica, Barbu, Mititelu]
+  - [Eduard, '', 'Bej?ek']
+  - [Fabienne, '', Cap]
+  - [Slavomir, '', "?\xE9pl\xF6"]
+  - [Silvio, '', Ricardo Cordeiro]
+  - ["G\xFCl?en", '', 'Eryi?it']
+  - [Voula, '', Giouli]
+  - [Maarten, '', van Gompel]
+  - [Yaakov, '', HaCohen-Kerner]
+  - [Jolanta, '', 'Kovalevskait?']
+  - [Simon, '', Krek]
+  - [Chaya, '', Liebeskind]
+  - [Johanna, '', Monti]
+  - [Carla, '', "Parra Escart\xEDn"]
+  - [Lonneke, '', van der Plas]
+  - [Behrang, '', QasemiZadeh]
+  - [Federico, '', Sangati]
+  - [Ivelina, '', Stoyanova]
+  number: 10
+  subtitle: null
+  title: PARSEME multilingual corpus of verbal multiword expressions
+- authors:
+  - [Archna, '', Bhatia]
+  - [Choh, '', Man Teng]
+  - [James, F., Allen]
+  number: 11
+  subtitle: null
+  title: Identifying senses of particles in verb-particle constructions
+- authors:
+  - [Petra, '', "Baran?\xEDkov\xE1"]
+  - ["V\xE1clava", '', "Kettnerov\xE1"]
+  number: 12
+  subtitle: null
+  title: Paraphrases of verbal multiword expressions
+- authors:
+  - [Kristina, '', Geeraert]
+  - [R., Harald, Baayen]
+  - [John, '', Newman]
+  number: 13
+  subtitle: null
+  title: "\x93Spilling the bag\x94 on idiomatic variation"
+- authors:
+  - [Stella, '', Markantonatou]
+  - [Carlos, '', Ramisch]
+  - [Agata, '', Savary]
+  - [Veronika, '', Vincze]
+  number: 14
+  subtitle: null
+  title: Preface
+creators:
+  authors: []
+  editors:
+  - [Stella, '', Markantonatou, "<p><span style=\"font-weight: 400;\">Stella Markantonatou\
+      \ is a research director at Institute for Language and Speech Processing/Athena\
+      \ RIC, Athens, Greece. She holds a PhD in Linguistics from the University of\
+      \ Essex (UK). She has published on the formal study of the syntax-semantics\
+      \ interface, on phrase-based machine translation, and on the development of\
+      \ lexical resources. She has been a co-organiser of the MWE 2015, 2016 and 2017\
+      \ workshops; currently she is a member of the standing committee of the SIGLEX\x96\
+      MWE Section.</span></p>"]
+  - [Carlos, '', Ramisch, '<p><span style="font-weight: 400;">Carlos Ramisch is an
+      assistant professor and researcher at Aix Marseille University (France). He
+      has a double PhD in computer science from the University of Grenoble (France)
+      and from the Federal University of Rio Grande do Sul (Brazil). His research
+      focuses on integrating multiword expressions processing into natural language
+      processing models. He is interested in MWE discovery, representation and translation,
+      lexical resources, computational semantics and machine learning. He co-chaired
+      several editions of the MWE workshop from 2010 to 2018, co-edited a journal
+      special issue on MWEs, co-organized the PARSEME shared task, developed the </span><em><span
+      style="font-weight: 400;">mwetoolkit</span></em><span style="font-weight: 400;">,
+      and co-authored several papers published at major conferences in computational
+      linguistics, a survey and a book on MWEs.</span></p>']
+  - [Agata, '', Savary, "<p><span style=\"font-weight: 400;\">Agata Savary is an associate\
+      \ professor in computer science at the University of Tours (France). She received\
+      \ her MSc degree in computer science from the University of Warsaw (Poland),\
+      \ and her PhD in computer science and applications from the ?University of Marne-la-Vall\xE9\
+      e (France). Her research interests include natural language processing, language\
+      \ resources and tools, multiword expressions, named entities, corpus annotation,\
+      \ computational morphology, finite state tools and XML processing. She served\
+      \ as the chair of the European IC1207 COST Action PARSEME (2013-2017) dedicated\
+      \ to parsing and multiword expressions. She co-chaired several editions of the\
+      \ MWE workshop and of the PARSEME shared task. She is currently the elected\
+      \ representative of the SIGLEX?-MWE Section and the co-editor-in-chief of the\
+      \ \"Phraseology and Multiword Expressions\" book? ?series? at? Language? Science?\
+      \ Press.</span></p>"]
+  - [Veronika, '', Vincze, '<p><span style="font-weight: 400;">Veronika Vincze is
+      a researcher and lecturer at the University of Szeged (Hungary). She has PhD
+      degrees in linguistics and computer science, both from the University of Szeged.
+      Her research interests include corpus building, information extraction, computational
+      morphology and parsing, dependency syntax and multiword expressions. She has
+      co-organized several national and international conferences (e.g. GWC2008, Szeged,
+      Hungary, IWCLUL 2016, Szeged, Hungary) and she was a co-chair of the CoNLL-2010
+      Shared Task on Uncertainty Detection and the PARSEME Shared Tasks on Identifying
+      Verbal Multiword Expressions.</span></p>']
+doi: 10.5281/zenodo.1469527
+illustrators: []
+isbns: {digital: 978-3-96110-123-8, hardcover: 978-3-96110-124-5, softcover: ''}
+prefix: ''
+proofreaders: [Eitan Grossman, Eleni Koutsomitopoulou, Conor Pyle, Felix Kopecky,
+  Ikmi Nur Oktavianti, Jean Nitzke, "Melanie R\xF6thlisberger", Valeria Quochi, Brett
+    Reynolds, Jeroen van de Weijer, Steven Moran, Harald Ulland, Vadim Kimmelman,
+  Felix Hoberg, 'Ivica Je?ud', Trinka D'Cunha, Ivelina Stoyanova, "Bojana (?or?evi?)\
+    \ Ba\x9Aaragin"]
+publicationdate: '20181025'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101248?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101248?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101248?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/5bnQjtUOh68j'}
+series: pmwe
+seriesnumber: '2'
+title: Multiword expressions at length and in depth
+typesetters: []

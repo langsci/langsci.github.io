@@ -1,0 +1,77 @@
+blurb: "<em>Communication and content</em> presents a comprehensive and foundational\
+  \ account of meaning based on new versions of situation theory and game theory.\
+  \ The literal and implied meanings of an utterance are derived from first principles\
+  \ assuming little more than the partial rationality of interacting agents. New analyses\
+  \ of a number of diverse phenomena \x96 a wide notion of ambiguity and content encompassing\
+  \ phonetics, syntax, semantics, pragmatics, and beyond, vagueness, convention and\
+  \ conventional meaning, indeterminacy, universality, the role of truth in communication,\
+  \ semantic change, translation, Frege\x92s puzzle of informative identities \x96\
+  \ are developed. Communication, speaker meaning, and reference are defined. Frege\x92\
+  s context and compositional principles are generalized and reconciled in a fixed-point\
+  \ principle, and a detailed critique of Grice, several aspects of Lewis, and some\
+  \ aspects of the Romantic conception of meaning are offered. Connections with other\
+  \ branches of linguistics, especially psycholinguistics, sociolinguistics, historical\
+  \ linguistics, and natural language processing, are explored.<br><br>The book will\
+  \ be of interest to scholars in philosophy, linguistics, artificial intelligence,\
+  \ and cognitive science. It should also interest readers in related fields like\
+  \ literary and cultural theory and the social sciences.\r\n<hr>\r\n\"This book is\
+  \ the culmination of Prashant Parikh's long and deep work on fundamental questions\
+  \ of language and how they can be illuminated by game-theoretic analysis.\"<br>\x97\
+  \ Roger Myerson, 2007 Nobel Laureate in Economics, University of Chicago\r\n\"Prashant\
+  \ Parikh has, over the years, accumulated a substantial and impressive body of work\
+  \ on the nature of language, deploying the resources of game theory. <em>Communication\
+  \ and content</em> is a vastly ambitious culmination of this lifelong pursuit. It\
+  \ covers a tremendously wide range of themes and critically discusses an enormous\
+  \ range of writing on those themes from diverse intellectual traditions, as it systematically\
+  \ develops a game-theoretic account of content in the communicative contexts in\
+  \ which human linguistic capacities are employed, eschewing standard distinctions\
+  \ between semantics and pragmatics, and offering instead a highly integrated elaboration\
+  \ of the slogan \x93meaning is use\x94. It is a work that is at once creative yet\
+  \ conscientious, bold yet rigorously technical, systematic yet sensitive to contingency\
+  \ and context. It will abundantly reward close study.\"<br>\x97 Akeel Bilgrami,\
+  \ Sidney Morgenbesser Professor of Philosophy, Columbia University\r\n\"Prashant\
+  \ Parikh has made fundamental contributions to the game-theoretic analysis of linguistic\
+  \ meaning. <em>Communication and content</em> summarizes and extends this important\
+  \ work, offering a truly novel approach to the strategic foundations of meaning.\
+  \ This approach finds a way out of the prison of methodological solipsism and opens\
+  \ up the study of linguistic meaning to scientific study.\"<br>\x97 Robin Clark,\
+  \ Linguistics, University of Pennsylvania\r\n\"A pioneering attempt to work out\
+  \ things like literal meaning, modulation, enrichment, implicature, etc. in mathematical\
+  \ detail within a game-theoretic framework.\"<br>\x97 Fran\xE7ois Recanati, Chair,\
+  \ Philosophy of Language and Mind, Coll\xE8ge de France<br><br><em>\"Communication\
+  \ and content</em> is the crowning achievement of a long line of research pioneered\
+  \ by Prashant Parikh. In this groundbreaking work Parikh introduces a fresh perspective\
+  \ on natural language pragmatics, by making a creative tie with game theory. Clearly\
+  \ written, <em>Communication and content</em> weaves together semantics, game theory,\
+  \ and situation theory to create a thought-provoking picture of natural language\
+  \ pragmatics. Every modern AI researcher interested in the foundations of natural\
+  \ language pragmatics owes it to him- or herself to become familiar with this picture.\"\
+  <br>\x97 Yoav Shoham, Computer Science Department, Stanford University"
+bookid: 248
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Prashant, '', Parikh, '<p>Prashant Parikh was a Senior Research Scholar at Stanford
+      University and the University of Pennsylvania. Now an independent scholar, he
+      is a pioneer in the application of game theory to communication and meaning,
+      and the author of three influential books on philosophical semantics and a co-authored
+      prize-winning book on architecture and choice theory. He studied at MIT and
+      Stanford University in the 1970s and 1980s.</p>']
+  editors: []
+doi: 10.5281/zenodo.3243924
+illustrators: []
+isbns: {digital: 978-3-96110-198-6, hardcover: 978-3-96110-199-3, softcover: ''}
+prefix: ''
+proofreaders: ["Christian D\xF6hler", "Ahmet Bilal \xD6zdemir", Prisca Jerono, Ludger
+    Paschen, Catherine Rudin, Brett Reynolds, Eran Asoulin, Gerald Delahunty, Jeroen
+    van de Weijer, Vadim Kimmelman, Umesh Patil, Tom Bossuyt, Trinka D'Cunha, Josh
+    Phillips]
+publicationdate: '20191118'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/396110199X?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/396110199X?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/396110199X?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/3aU9pRJlrFub'}
+series: tgdi
+seriesnumber: ''
+title: Communication and content
+typesetters: []

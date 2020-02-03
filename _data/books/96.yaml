@@ -1,0 +1,113 @@
+blurb: "Dependency is a fundamental concept in the analysis of linguistic systems.\
+  \ The many if-then statements offered in typology and grammar-writing imply a causally\
+  \ real notion of dependency that is central to the claim being made\x97usually with\
+  \ reference to widely varying timescales and types of processes. But despite the\
+  \ importance of the concept of dependency in our work, its nature is seldom defined\
+  \ or made explicit. This book brings together experts on language, representing\
+  \ descriptive linguistics, language typology, functional/cognitive linguistics,\
+  \ cognitive science, research on gesture and other semiotic systems, developmental\
+  \ psychology, psycholinguistics, and linguistic anthropology to address the following\
+  \ question: What kinds of dependencies exist among language-related systems, and\
+  \ how do we define and explain them in natural, causal terms?"
+bookid: 96
+booksubtitle: On the causal ontology of linguistic systems
+chapters:
+- authors:
+  - [N., J., Enfield]
+  number: 1
+  subtitle: null
+  title: Dependencies in language
+- authors:
+  - [Sonia, '', Cristofaro]
+  number: 2
+  subtitle: null
+  title: Implicational universals and dependencies
+- authors:
+  - [Jennifer, '', Culbertson]
+  number: 3
+  subtitle: null
+  title: New approaches to Greenbergian word order dependencies
+- authors:
+  - [Dan, '', Dediu]
+  number: 4
+  subtitle: null
+  title: From biology to language change and diversity
+- authors:
+  - [Morten, H., Christiansen]
+  number: 5
+  subtitle: null
+  title: Language intertwined across multiple timescales
+- authors:
+  - [Wendy, '', Sandler]
+  number: 6
+  subtitle: null
+  title: What comes first in language emergence?
+- authors:
+  - [Elena, '', Lieven]
+  number: 7
+  subtitle: null
+  title: Is language development dependent on early communicative development?
+- authors:
+  - [Alan, '', Rumsey]
+  number: 8
+  subtitle: null
+  title: Dependency and relative determination in language acquisition
+- authors:
+  - ["Dami\xE1n", E., Blasi]
+  - ["Se\xE1n", G., Roberts]
+  number: 9
+  subtitle: null
+  title: Beyond binary dependencies in language structure
+- authors:
+  - [Jeremy, '', Collins]
+  number: 10
+  subtitle: null
+  title: Real and spurious correlations involving tonal languages
+- authors:
+  - [Larry, M., Hyman]
+  number: 11
+  subtitle: null
+  title: What (else) depends on phonology?
+- authors:
+  - [Keren, '', Rice]
+  number: 12
+  subtitle: hierarchies and variation
+  title: Dependencies in phonology
+- authors:
+  - [Sebastian, '', Fedden]
+  - [Greville, G., Corbett]
+  number: 13
+  subtitle: null
+  title: Understanding intra-system dependencies
+- authors:
+  - [William, A., Foley]
+  number: 14
+  subtitle: null
+  title: Structural and semantic dependencies in word class
+- authors:
+  - [Mark, '', Dingemanse]
+  number: 15
+  subtitle: null
+  title: On the margins of language
+creators:
+  authors: []
+  editors:
+  - [N., J., Enfield, "<pre>N. J. Enfield is Professor of Linguistics at the University\
+      \ of Sydney. His wide-ranging research on language, culture, and cognition is\
+      \ based on extensive field work in mainland Southeast Asia, especially Laos.\
+      \ His books include \x93A Grammar of Lao\x94 (Mouton 2007), \x93The Utility\
+      \ of Meaning\x94 (Oxford 2015), and \x93Natural Causes of Language\x94 (Language\
+      \ Science Press 2014).</pre>"]
+doi: 10.5281/zenodo.573773
+illustrators: []
+isbns: {digital: 978-3-946234-88-3, hardcover: 978-3-946234-74-6, softcover: 978-3-946234-66-1}
+prefix: ''
+proofreaders: [Martin Haspelmath]
+publicationdate: '20170617'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234747?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234747?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234747?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/BwtHdWdOnq4q'}
+series: sidl
+seriesnumber: '14'
+title: Dependencies in language
+typesetters: []

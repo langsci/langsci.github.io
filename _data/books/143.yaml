@@ -1,0 +1,80 @@
+blurb: "Depuis pr\xE8s d'un demi-si\xE8cle, la s\xE9mantique formelle, \xE0 l'intersection\
+  \ f\xE9conde de la linguistique, la logique et la philosophie, occupe une place\
+  \ de premier plan dans le domaine de la linguistique th\xE9orique.&nbsp; Ce manuel,\
+  \ le premier en fran\xE7ais de cette ampleur, en propose une pr\xE9sentation \xE0\
+  \ la fois introductive et approfondie.&nbsp; La s\xE9mantique formelle est parfois\
+  \ appr\xE9hend\xE9e avec h\xE9sitation (voire redout\xE9e) du fait de sa rigueur\
+  \ math\xE9matique et de l'apparente complexit\xE9 de son symbolisme ; le pr\xE9\
+  sent ouvrage vise \xE0 en donner une approche p\xE9dagogique, stimulante et d\xE9\
+  dramatis\xE9e.&nbsp; Il est con\xE7u pour offrir un apprentissage et une ma\xEE\
+  trise autonomes et progressifs des principaux aspects conceptuels et formels de\
+  \ la th\xE9orie, en accordant une attention particuli\xE8re aux innovations marquantes\
+  \ qui ont structur\xE9 le domaine depuis les travaux fondateurs de R. Montague.&nbsp;\
+  \ Il a \xE9galement pour objectif de proposer, au fil des pages, une introduction\
+  \ \xE0 des \xE9l\xE9ments de m\xE9thodologie scientifique afin de donner un aper\xE7\
+  u des pratiques d'analyse propres \xE0 la s\xE9mantique formelle. <br>Les six chapitres,\
+  \ accompagn\xE9s de nombreux exercices corrig\xE9s, y abordent les notions de base\
+  \ de logique et de s\xE9mantique v\xE9riconditionnelle, les ph\xE9nom\xE8nes de\
+  \ quantification, la logique intensionnelle appliqu\xE9e \xE0 la temporalit\xE9\
+  \ et les modalit\xE9s, le ?-calcul typ\xE9 et l'analyse s\xE9mantique compositionnelle\
+  \ \xE0 l'interface syntaxe-s\xE9mantique.&nbsp;&nbsp; Le volume sera compl\xE9t\xE9\
+  \ d'un second qui pr\xE9sentera plusieurs applications et d\xE9veloppements qui\
+  \ \xE9tendent la port\xE9e du formalisme.<br>L'ouvrage s'adresse aux \xE9tudiants\
+  \ de licence et master de sciences de langage, mais aussi d'autres disciplines comme,\
+  \ par exemple, la philosophie, la logique, l'informatique, ainsi qu'aux chercheurs\
+  \ d\xE9sireux de s'initier, se mettre \xE0 jour ou se perfectionner dans la discipline.<br><br><br>For\
+  \ nearly half a century formal semantics has been a prominent area in linguistic\
+  \ theory, developed in a fruitful collaboration among linguists, logicians and philosophers.\
+  \ Formal semantics is sometimes regarded with reluctance (even dreaded) due to its\
+  \ mathematical precision and the apparent complexity of its symbolism. This textbook\
+  \ \x97the first one of this scope in French\x97 provides a relaxed self-contained\
+  \ introduction to the domain, allowing the reader autonomous progressive study from\
+  \ the basic central concepts to significant innovations that have shaped the domain\
+  \ since Montague\x92s seminal work. Through its chapters, the book provides acquaintance\
+  \ with elements of scientific methodology generally used in formal semantics.<br>The\
+  \ six chapters, completed with solved exercises, gradually move from basic notions\
+  \ in logic and model-theoretic semantics, to quantification, temporal and modal\
+  \ logic, intensionality, and typed ?-calculus, culminating in compositional semantic\
+  \ analysis at the syntax-semantics interface. This introduction will be supplemented\
+  \ with a second volume that would focus on applications and advances in the field\
+  \ which extend the scope of the formalism.<br>The book is intended for linguistics\
+  \ undergraduate and postgraduate students and researchers wishing to improve their\
+  \ skills in formal semantics, as well as for students and researchers of other domains,\
+  \ such as philosophy, logic, or computational science.<br><br>"
+bookid: 143
+booksubtitle: "Volume 1 : Introduction \xE0 la grammaire de Montague"
+chapters: []
+creators:
+  authors:
+  - [Laurent, '', Roussarie, "<p>Laurent Roussarie is an associate professor in linguistics\
+      \ at Universit\xE9 Paris 8 Vincennes/St-Denis, teaching semantics, pragmatics\
+      \ and logic, and a researcher at <em>Structures Formelles du Langage</em> CNRS\
+      \ research unit. His research focuses on formal aspects of compositional semantics\
+      \ and of the semantics-pragmatics interface, particularly within the frameworks\
+      \ of dynamic semantics. His main research topics include discourse &amp; dialogue\
+      \ structure, the relation between sentence types and speech acts, and aspect\
+      \ &amp; modality.</p>\r\n<p>&nbsp;</p>\r\n<p>Laurent Roussarie est docteur en\
+      \ linguistique th\xE9orique, formelle et automatique de l'Universit\xE9 Paris\
+      \ 7 Denis Diderot. Il est actuellement ma\xEEtre de conf\xE9rences en linguistique\
+      \ \xE0 l'Universit\xE9 Paris 8 Vincennes/St-Denis o\xF9 il enseigne la s\xE9\
+      mantique, la pragmatique et la logique. Il est rattach\xE9 \xE0 l'UMR <em>Structures\
+      \ formelles du Langage</em> du CNRS. Sa recherche concerne principalement les\
+      \ aspects formels de la s\xE9mantique compositionnelle et de l'interface s\xE9\
+      mantique-pragmatique, en particulier au sein de cadres th\xE9oriques de s\xE9\
+      mantique dynamique. Il travaille notamment sur la structure du discours et du\
+      \ dialogue, les types de phrases et les actes de langage, l'aspect et les modalit\xE9\
+      s.</p>"]
+  editors: []
+doi: 10.5281/zenodo.1000504
+illustrators: []
+isbns: {digital: 978-3-96110-017-0, hardcover: '', softcover: 978-1-977891-54-9}
+prefix: ''
+proofreaders: []
+publicationdate: '20171012'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/1977891543?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/1977891543?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/1977891543?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=143'}
+series: tbls
+seriesnumber: '4'
+title: "S\xE9mantique formelle"
+typesetters: []

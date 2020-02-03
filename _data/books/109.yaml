@@ -1,0 +1,48 @@
+blurb: "Yongning Na, also known as Mosuo, is a Sino-Tibetan language spoken in Southwest\
+  \ China. This book provides a description and analysis of its tone system, progressing\
+  \ from lexical tones towards morphotonology. Tonal changes permeate numerous aspects\
+  \ of the morphosyntax of Yongning Na. They are not the product of a small set of\
+  \ phonological rules, but of a host of rules that are restricted to specific morphosyntactic\
+  \ contexts. Rich morphotonological systems have been reported in this area of Sino-Tibetan,\
+  \ but book-length descriptions remain few. This study of an endangered language\
+  \ contributes to a better understanding of the diversity of prosodic systems in\
+  \ East Asia.\r\nThe analysis is based on original fieldwork data (made available\
+  \ online), collected over the course of ten years, commencing in 2006."
+bookid: 109
+booksubtitle: Lexical tones and morphotonology
+chapters: []
+creators:
+  authors:
+  - [Alexis, '', Michaud, "<p>\nAlexis Michaud (1975) holds a PhD in Phonetics from\
+      \ <i>Sorbonne Nouvelle University</i>. In 2006 he joined <i>Centre National\
+      \ de la Recherche Scientifique</i> as a researcher. He does fieldwork on the\
+      \ Naish subgroup of Sino-Tibetan and on the Vietic subgroup of Austroasiatic.\
+      \ In addition to phonetics/phonology, he has an interest in historical linguistics,\
+      \ and a commitment to linguistic documentation \x96 tapping the potential of\
+      \ the new technologies to build and exploit high-quality databases of rare and\
+      \ endangered languages.\n</p>\n \n<p>\nAlexis Michaud (1975) est titulaire d\x92\
+      un doctorat en phon\xE9tique de l\x92Universit\xE9 Paris 3 \x96 Sorbonne Nouvelle\
+      \ ; depuis 2006, il travaille au Centre National de la Recherche Scientifique.\
+      \ Il m\xE8ne des enqu\xEAtes linguistiques au sujet de parlers du groupe naish\
+      \ (famille sino-tib\xE9taine) et du groupe vietique (famille austroasiatique).\
+      \ Outre la phon\xE9tique/phonologie, il s\x92int\xE9resse \xE0 la linguistique\
+      \ historique, ainsi qu\x92\xE0 l\x92emploi des nouvelles technologies pour la\
+      \ constitution et l\x92exploitation de bases de donn\xE9es de langues rares\
+      \ et en danger.  \n</p>"]
+  editors: []
+doi: 10.5281/zenodo.439004
+illustrators: []
+isbns: {digital: 978-3-946234-86-9, hardcover: 978-3-946234-87-6, softcover: 978-3-946234-68-5}
+prefix: ''
+proofreaders: [Sebastian Nordhoff, Rosey Billington, Ikmi Nur Oktavianti, "Andreas\
+    \ H\xF6lzl", Alec Shaw, "Ahmet Bilal \xD6zdemir", Maria Maldonado, Mykel Loren
+    Brinkerhoff, Jean Nitzke, Ludger Paschen, Claudia Marzi, Brett Reynolds, Eran
+    Asoulin, Lachlan Mackenzie, "Henri\xEBtte Daudey", Aude Gao]
+publicationdate: '20170426'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234682?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234682?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234682?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/zH82BNMvEmV9'}
+series: sidl
+seriesnumber: ''
+title: Tone in Yongning Na
+typesetters: []

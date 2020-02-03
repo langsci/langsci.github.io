@@ -1,0 +1,43 @@
+blurb: "This book presents an in-depth description of information structure in Isthmus\
+  \ Zapotec, an Otomanguean language spoken by around 50,000 people in southeastern\
+  \ Oaxaca, Mexico, and represents the first book-length treatment of information\
+  \ structure in a Mesoamerican language. Three main observations motivate the study:\r\
+  \n<ol>\r\n<li>Strong documentation and a relatively large and active speaker community\
+  \ create a unique opportunity to document information structure in Isthmus Zapotec\
+  \ and to study the language as it is used by speakers in everyday life;</li>\r\n\
+  <li>As a tonal and verb-initial language, the examination of Isthmus Zapotec represents\
+  \ a chance to explore the possible combinations of tone, intonation, morphology\
+  \ and verb-initial syntax that may occur in the coding of information structure;\
+  \ and</li>\r\n<li>The close analysis of spontaneous speech in an endangered language\
+  \ contributes to our theoretical understanding of information structure and informs\
+  \ our knowledge of language documentation practices and revitalization efforts.</li>\r\
+  \n</ol>\r\nOverall, the analysis presented here demonstrates the value and need\
+  \ for information structure studies to document and analyze naturally-occurring\
+  \ data."
+bookid: 219
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - ["Juan Jos\xE9", '', Bueno Holle, "<p>Juan Jos\xE9 Bueno Holle holds an MA in\
+      \ Applied Linguistics from the National Autonomous University of Mexico (UNAM)\
+      \ and a PhD in Linguistics from the University of Chicago. His research interests\
+      \ include language documentation, Mesoamerican languages, and discourse pragmatics.\
+      \ His work has received support from the Endangered Languages Development Programme\
+      \ (ELDP), the National Science Foundation's Documenting Endangered Languages\
+      \ program (NSF-DEL), and the Smithsonian Institution.</p>"]
+  editors: []
+doi: 10.5281/zenodo.2538324
+illustrators: []
+isbns: {digital: 978-3-96110-129-0, hardcover: 978-3-96110-130-6, softcover: ''}
+prefix: ''
+proofreaders: [Eitan Grossman, George Walkden, Klara Kim, "Ahmet Bilal \xD6zdemir",
+  Teresa Proto, Kate Bellamy, Jeroen van de Weijer, Philip Duncan, 'Ivica Je?ud']
+publicationdate: '20190308'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101302?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101302?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101302?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/BKelPA09HHYl'}
+series: tgdi
+seriesnumber: ''
+title: Information structure in Isthmus Zapotec narrative and conversation
+typesetters: []

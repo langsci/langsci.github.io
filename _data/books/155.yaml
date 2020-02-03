@@ -1,0 +1,44 @@
+blurb: "Many researchers assume that the relation between morphology and phonology\
+  \ is not a direct one but is modulated by prosodic constituents, particularly the\
+  \ phonological word. Despite the theoretical relevance of the phonological word\
+  \ in morphophonology, phonetic investigations of the realization of (complex) words\
+  \ are still rare. The book aims to shed some light on this issue. On the basis of\
+  \ about 3800 tokens from experimentally elicited and spontaneous&nbsp; German speech,\
+  \ it investigates the prosodic boundary phenomena glottal stop insertion / glottalization\
+  \ and degemination, as well as durational reductions and /t/-deletions in the vicinity\
+  \ of a morphological and/or prosodic boundary. Informed by findings from usage-based\
+  \ accounts of language, it systematically introduces token frequency and other potentially\
+  \ influencing factors into the analysis. The results yield a rather complex picture\
+  \ that, on the whole, corroborates the relevance of the phonological word as an\
+  \ interface domain between morphology and phonology. At the same time, the results\
+  \ underline the necessity to consider usage-based factors such as frequency, thus\
+  \ all in all lending support to so-called hybrid models of language.\r\n&nbsp;\r\
+  \nDer Preis der gebundenen Version dieses Buches in Deutschland ist 40 EUR."
+bookid: 155
+booksubtitle: Prosodische Struktur und phonetische Realisierung
+chapters: []
+creators:
+  authors:
+  - [Pia, '', Bergmann, '<p style="margin-bottom: 0in; line-height: 130%;" align="justify"><span
+      style="font-family: Times New Roman,serif;"><span style="font-size: medium;"><span
+      lang="en-GB">Pia Bergmann is professor at the German Linguistics Department
+      at the University of Jena (Germany). &nbsp;In 2017, she obtained her Habilitation
+      at the University of Freiburg, where she also received her PhD in 2007. Her
+      main research interests are spoken language, morphophonology, usage-based language
+      theories and interactional linguistics. </span></span></span></p>']
+  editors: []
+doi: 10.5281/zenodo.1346245
+illustrators: []
+isbns: {digital: 978-3-96110-106-1, hardcover: 978-3-96110-107-8, softcover: ''}
+prefix: ''
+proofreaders: [Daniela Kolbe-Hanna, Rosey Billington, "Ahmet Bilal \xD6zdemir", Anne
+    Kilgus, Ludger Paschen, "Lea Sch\xE4fer", Claudia Marzi, Brett Reynolds, Jeroen
+    van de Weijer, Katja Politt, Felix Hoberg, Barend Beekhuizen]
+publicationdate: '20180904'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101078?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101078?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101078?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/KHaUBvhJApGY'}
+series: silp
+seriesnumber: '5'
+title: "Morphologisch komplexe W\xF6rter"
+typesetters: []

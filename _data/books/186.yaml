@@ -1,0 +1,63 @@
+blurb: "The organization of the lexicon, and especially the relations between groups\
+  \ of lexemes is a strongly debated topic in linguistics. Some authors have insisted\
+  \ on the lack of any structure of the lexicon. In this vein, Di Sciullo &amp; Williams\
+  \ (1987: 3) claim that \x93[t]he lexicon is like a prison \x96 it contains only\
+  \ the lawless, and the only thing that its inmates have in commonis lawlessness\x94\
+  . In the alternative view, the lexicon is assumed to have a rich structure that\
+  \ captures all regularities and partial regularities that exist between lexical\
+  \ entries.Two very different schools of linguistics have insisted on the organization\
+  \ of the lexicon.\r\nOn the one hand, for theories like HPSG (Pollard &amp; Sag\
+  \ 1994), but also some versions of construction grammar (Fillmore &amp; Kay 1995),\
+  \ the lexicon is assumed to have a very rich structure which captures common grammatical\
+  \ properties between its members. In this approach, a type hierarchy organizes the\
+  \ lexicon according to common properties between items. For example, Koenig (1999:\
+  \ 4, among others), working from an HPSG perspective, claims that the lexicon \x93\
+  provides a unified model for partial regularties, medium-size generalizations, and\
+  \ truly productive processes\x94. <br> <br>On the other hand, from the perspective\
+  \ of usage-based linguistics, several authors have drawn attention to the fact that\
+  \ lexemes which share morphological or syntactic properties, tend to be organized\
+  \ in clusters of surface (phonological or semantic) similarity (Bybee &amp; Slobin\
+  \ 1982; Skousen 1989; Eddington 1996). This approach, often called analogical, has\
+  \ developed highly accurate computational and non-computational models that can\
+  \ predict the classes to which lexemes belong. Like the organization of lexemes\
+  \ in type hierarchies, analogical relations between items help speakers to make\
+  \ sense of intricate systems, and reduce apparent complexity (K\xF6pcke &amp; Zubin\
+  \ 1984). <br> <br>Despite this core commonality, and despite the fact that most\
+  \ linguists seem to agree that analogy plays an important role in language, there\
+  \ has been remarkably little work on bringing together these two approaches. Formal\
+  \ grammar traditions have been very successful in capturing grammatical behaviour,\
+  \ but, in the process, have downplayed the role analogy plays in linguistics (Anderson\
+  \ 2015). In this work, I aim to change this state of affairs. First, by providing\
+  \ an explicit formalization of how analogy interacts with grammar, and second, by\
+  \ showing that analogical effects and relations closely mirror the structures in\
+  \ the lexicon. I <br>will show that both formal grammar approaches, and usage-based\
+  \ analogical models, capture mutually compatible relations in the lexicon."
+bookid: 186
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - ["Mat\xEDas", '', "Guzm\xE1n Naranjo", "<p>Mat\xEDas Guzm\xE1n Naranjo got his\
+      \ MA degree at the University of M\xFCnster, and completed his PhD in General\
+      \ Linguistics at the University of Leipzig in the IGRA program. He currently\
+      \ works at the University of D\xFCsseldorf in the TreeGrasp project. His research\
+      \ includes TAG grammars and XMG, as well as the formalization of different types\
+      \ of analogy in HPSG.</p>"]
+  editors: []
+doi: 10.5281/zenodo.3191825
+illustrators: []
+isbns: {digital: 978-3-96110-186-3, hardcover: 978-3-96110-187-0, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Stefan Hartmann, Tamara Schmidt, "Andreas H\xF6\
+    lzl", PARVIZ PARSAFAR, Jean Nitzke, Ludger Paschen, Brett Reynolds, Lachlan Mackenzie,
+  Gerald Delahunty, Jeroen van de Weijer, Katja Politt, Amir Ghorbanpour, Alexis Pierrard,
+  'Ivica Je?ud', "Bojana (?or?evi?) Ba\x9Aaragin", Jeannet Stephen, Adam James Ross
+    Tallman]
+publicationdate: '20190701'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101876?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101876?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101876?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/-tE35VosnZwM'}
+series: eotms
+seriesnumber: ''
+title: Analogical classification in formal grammar
+typesetters: []

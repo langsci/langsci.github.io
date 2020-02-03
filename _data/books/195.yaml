@@ -1,0 +1,85 @@
+blurb: "This book is superseded by the third edition, available at <a href=\"http://langsci-press.org/catalog/book/255\"\
+  >http://langsci-press.org/catalog/book/255.</a>\r\nThis book introduces formal grammar\
+  \ theories that play a role in current linguistic theorizing (Phrase Structure Grammar,\
+  \ Transformational Grammar/Government &amp; Binding, Generalized Phrase Structure\
+  \ Grammar, Lexical Functional Grammar, Categorial Grammar, Head-?Driven Phrase Structure\
+  \ Grammar, Construction Grammar, Tree Adjoining Grammar). The key assumptions are\
+  \ explained and it is shown how the respective theory treats arguments and adjuncts,\
+  \ the active/passive alternation, local reorderings, verb placement, and fronting\
+  \ of constituents over long distances. The analyses are explained with German as\
+  \ the object language.\r\nThe second part of the book compares these approaches\
+  \ with respect to their predictions regarding language acquisition and psycholinguistic\
+  \ plausibility. The nativism hypothesis, which assumes that humans posses genetically\
+  \ determined innate language-specific knowledge, is critically examined and alternative\
+  \ models of language acquisition are discussed. The second part then addresses controversial\
+  \ issues of current theory building such as the question of flat or binary branching\
+  \ structures being more appropriate, the question whether constructions should be\
+  \ treated on the phrasal or the lexical level, and the question whether abstract,\
+  \ non-visible entities should play a role in syntactic analyses. It is shown that\
+  \ the analyses suggested in the respective frameworks are often translatable into\
+  \ each other. The book closes with a chapter showing how properties common to all\
+  \ languages or to certain classes of languages can be captured.\r\nThe book is a\
+  \ translation of the German book <a href=\"http://hpsg.fu-berlin.de/~stefan/Pub/grammatiktheorie.html\"\
+  >Grammatiktheorie</a>, which was published by Stauffenburg in 2010. The following\
+  \ quotes are taken from reviews:\r\n<q>With this critical yet fair reflection on\
+  \ various grammatical theories, M\xFCller fills what was a major gap in the literature.</q>\
+  \ <a href=\"http://dx.doi.org/10.1515/zrs-2012-0040\">Karen Lehmann, Zeitschrift\
+  \ f\xFCr Rezen\xADsio\xADnen zur ger\xADman\xADis\xADtis\xADchen Sprach\xADwis\xAD\
+  senschaft, 2012</a>\r\n<q>Stefan M\xFCller\x92s recent introductory textbook, <em>Gram\xAD\
+  matik\xADthe\xADo\xADrie</em>, is an astonishingly comprehensive and insightful\
+  \ survey for beginning students of the present state of syntactic theory.</q> <a\
+  \ href=\"http://dx.doi.org/10.1515/zfs-2012-0010\">Wolfgang Sternefeld und Frank\
+  \ Richter, Zeitschrift f\xFCr Sprach\xADwissen\xADschaft, 2012</a>\r\n<q>This is\
+  \ the kind of work that has been sought after for a while [...] The impartial and\
+  \ objective discussion offered by the author is particularly refreshing.</q> <a\
+  \ href=\"http://dx.doi.org/10.1515/germ-2011-537\">Werner Abraham, Germanistik,\
+  \ 2012</a>\r\n&nbsp;\r\nThis book is a new edition of <a href=\"http://langsci-press.org/catalog/book/25\"\
+  >http://langsci-press.org/catalog/book/25.</a>"
+bookid: 195
+booksubtitle: From transformational grammar to constraint-based approaches. Second
+  revised and extended edition.
+chapters: []
+creators:
+  authors:
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", '']
+  - [Stefan, '', "M\xFCller", "<p>Stefan M\xFCller studied Computer Science, Computational\
+      \ Linguistics and Linguistics at the Humboldt University at Berlin and in Edinburgh.\
+      \ He worked at the German Research Center of Artificial Intelligence (DFKI)\
+      \ in Saarbr\xFCcken and for the company Interice. He worked as acting chair\
+      \ for German and Computational Linguistics in Jena and for Theoretical Computational\
+      \ Linguistics in Potsdam. He had an assistant professorship in Bremen for theoretical\
+      \ linguistics and computational linguistics, a full professorship for German\
+      \ and General Linguistics at the Freie Universit\xE4t Berlin and is now professor\
+      \ for German language with specialization in syntax at the Humboldt-Universit\xE4\
+      t zu Berlin.<br><br>His main re\xADsearch topic is Ger\xADman gram\xADmar. He\
+      \ works both em\xADpir\xADi\xADcal\xADly and the\xADo\xADret\xADi\xADcal\xAD\
+      ly. Top\xADics of in\xADter\xADest are mor\xADphol\xADo\xADgy, syn\xADtax, se\xAD\
+      man\xADtics, and in\xADfor\xADma\xADtion struc\xADture. He pub\xADlished main\xAD\
+      ly about Ger\xADman, but he also works on other lan\xADguages as for in\xAD\
+      stance Man\xADdarin Chi\xADnese, Dan\xADish, Maltese, and Per\xADsian. The the\xAD\
+      o\xADret\xADi\xADcal work is car\xADried out in the framework of Head-?Driv\xAD\
+      en Phrase Struc\xADture Gram\xADmar (HPSG) and the theoret\xADi\xADcal anal\xAD\
+      y\xADses are im\xADple\xADment\xADed in com\xADput\xADer-?pro\xADcess\xADable\
+      \ gram\xADmar fragments. The gram\xADmar frag\xADments that are implemented\
+      \ in the CoreGram Project use a com\xADmon core. One goal of his re\xADsearch\
+      \ is to un\xADder\xADstand lan\xADguage and to find out what lan\xADguages in\
+      \ gen\xADer\xADal and cer\xADtain lan\xADguage class\xADes in par\xADtic\xAD\
+      u\xADlar have in com\xADmon.</p>"]
+  - [Stefan, '', "M\xFCller", '']
+  editors: []
+doi: 10.5281/zenodo.1193241
+illustrators: []
+isbns: {digital: 978-3-96110-074-3, hardcover: 'vol. 1: 978-3-96110-075-0; vol. 2
+    978-3-96110-076-7', softcover: 'vol. 1: 978-3-96110-077-4; vol. 2 978-3-96110-078-1'}
+prefix: ''
+proofreaders: []
+publicationdate: '20180322'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100772?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100772?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100772?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=25'}
+series: tbls
+seriesnumber: '1'
+title: Grammatical theory
+typesetters: []

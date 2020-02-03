@@ -1,0 +1,71 @@
+blurb: Unlike other professions, the impact of information and communication technology
+  on interpreting has been moderate so far. However, recent advances in the areas
+  of remote, computer-assisted, and, most recently, machine interpreting, are gaining
+  the interest of both researchers and practitioners. This volume aims at exploring
+  key issues, approaches and challenges to the interplay of interpreting and technology,
+  an area that is still underrepresented in the field of Interpreting Studies. The
+  contributions to this volume cover topics in the area of computer-assisted and remote
+  interpreting, both in the conference as well as in the court setting, and report
+  on experimental studies.
+bookid: 209
+booksubtitle: ''
+chapters:
+- authors:
+  - [Bart, '', Defranq]
+  - [Bart, '', Desmet]
+  - [Mieke, '', Vandierendonck]
+  number: 1
+  subtitle: null
+  title: Simultaneous interpretation of numbers and the impact of technological support
+- authors:
+  - [Bianca, '', Prandi]
+  number: 2
+  subtitle: theoretical framework and stimulus validation
+  title: An exploratory study on CAI tools in Simultaneous Interpreting
+- authors:
+  - [Elizabeth, '', Deysel]
+  - [Harold, '', Lesch]
+  number: 3
+  subtitle: National Parliament of RSA
+  title: Experimenting with computer-assisted interpreter training tools for the development
+    of self-assessment skills
+- authors:
+  - [Jerome, '', Devaux]
+  number: 4
+  subtitle: "how videoconference interpreting affects the court interpreter\x92s perception\
+    \ of her role"
+  title: Technologies and role-space
+- authors:
+  - [Klaus, '', Ziegler]
+  - [Sebastiano, '', Gigliobianco]
+  number: 5
+  subtitle: null
+  title: Present? Remote? Remotely present! New technological approaches to remote
+    simultaneous conference interpreting
+- authors:
+  - [Claudio, '', Fantinuoli]
+  number: 6
+  subtitle: The upcoming technological turn
+  title: Interpreting and technology
+creators:
+  authors: []
+  editors:
+  - [Claudio, '', Fantinuoli, '<p>Claudio Fantinuoli is Senior Lecturer at the Johannes
+      Gutenberg University Mainz in Germersheim. His main research and teaching areas
+      include translation, interpreting and computer linguistics.</p>']
+doi: 10.5281/zenodo.1493281
+illustrators: []
+isbns: {digital: 978-3-96110-161-0, hardcover: 978-3-96110-162-7, softcover: ''}
+prefix: ''
+proofreaders: ["Andreas H\xF6lzl", Viola Wiegand, Jean Nitzke, Gerald Delahunty, Paulson
+    Skerrit, Jeroen van de Weijer, Caroline Rossi, Katja Politt, Daniil Bondarenko,
+  Amir Ghorbanpour, 'Ivica Je?ud', Trinka D'Cunha, "Bojana (?or?evi?) Ba\x9Aaragin",
+  Elen Le Foll, Sarah Signer]
+publicationdate: '20181215'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101620?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101620?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101620?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/4SB6V5gxCq2D'}
+series: tmnlp
+seriesnumber: '11'
+title: Interpreting and technology
+typesetters: []

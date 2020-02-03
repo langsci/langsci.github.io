@@ -1,0 +1,121 @@
+blurb: "The Alor-Pantar family constitutes the westernmost outlier group of Papuan\
+  \ (Non-Austronesian) languages. Its twenty or so languages are spoken on the islands\
+  \ of Alor and Pantar, located just north of Timor, in eastern Indonesia. Together\
+  \ with the Papuan languages of Timor, they make up the Timor-Alor-Pantar family.\
+  \ The languages average 5,000 speakers and are<br>under pressure from the local\
+  \ Malay variety as well as the national language, Indonesian.\r\n<br>This volume\
+  \ studies the internal and external linguistic history of this<br>interesting group,\
+  \ and showcases some of its unique typological features, such as the preference\
+  \ to index the transitive patient-like argument on the verb but not the agent-like\
+  \ one; the extreme variety in morphological alignment patterns; the use of plural\
+  \ number words; the existence of quinary numeral systems; the elaborate spatial\
+  \ deictic systems involving an elevation component; and the great variation exhibited\
+  \ in their kinship systems.\r\n<br>Unlike many other Papuan languages, Alor-Pantar\
+  \ languages do not exhibit clause-chaining, do not have switch reference systems,\
+  \ never suffix subject indexes to verbs, do not mark gender, but do encode clusivity\
+  \ in their pronominal systems. Indeed, apart from a broadly similar head-final syntactic\
+  \ profile, there is little else that the Alor-Pantar languages share with Papuan\
+  \ languages spoken in other regions. While all of them show some traces of contact\
+  \ with Austronesian languages, in general, borrowing from Austronesian has not been\
+  \ intense, and contact with Malay and Indonesian is a relatively recent phenomenon\
+  \ in most of the Alor-Pantar region.\r\n&nbsp;\r\nThis is the second edition of\
+  \ the volume that was originally published in 2014, as one of the first open access\
+  \ publications of Language Science Press. In less than three years, the first edition\
+  \ had more than 10,000 downloads, many of which in Indonesia, and downloads are\
+  \ still increasing. To us this demonstrates how important it is to use use free\
+  \ open access to enable both scientists and speakers of local languages in Indonesia\
+  \ to read this work. <br><br>In this second edition, typographical errors have been\
+  \ corrected, some small textual improvements have been implemented, broken URL links\
+  \ repaired or removed, and maps and references updated. The overall content of the\
+  \ chapters has not been changed."
+bookid: 157
+booksubtitle: History and typology. Second edition.
+chapters:
+- authors:
+  - [Marian, '', Klamer]
+  number: 1
+  subtitle: null
+  title: The Alor-Pantar languages
+- authors:
+  - [Gary, '', Holton]
+  - [Laura, C., Robinson]
+  number: 2
+  subtitle: null
+  title: The internal history of the Alor-Pantar language family
+- authors:
+  - [Antoinette, '', Schapper]
+  - [Juliette, '', Huber]
+  - [Aone, '', van Engelenhoven]
+  number: 3
+  subtitle: null
+  title: The relatedness of Timor-Kisar and Alor-Pantar languages
+- authors:
+  - [Gary, '', Holton]
+  - [Laura, C., Robinson]
+  number: 4
+  subtitle: null
+  title: The linguistic position of the Timor-Alor-Pantar languages
+- authors:
+  - [Gary, '', Holton]
+  number: 5
+  subtitle: null
+  title: Kinship in the Alor-Pantar languages
+- authors:
+  - [Antoinette, '', Schapper]
+  number: 6
+  subtitle: null
+  title: Elevation in the spatial deictic systems of Alor-Pantar languages
+- authors:
+  - [Marian, '', Klamer]
+  - [Antoinette, '', Schapper]
+  number: 7
+  subtitle: null
+  title: Numeral systems in the Alor-Pantar languages
+- authors:
+  - [Marian, '', Klamer]
+  - [Gary, '', Holton]
+  - [Laura, C., Robinson]
+  - [Antoinette, '', Schapper]
+  - [Greville, '', Corbett]
+  - ["Franti\x9Aek", '', "Kratochv\xEDl"]
+  number: 8
+  subtitle: null
+  title: Numeral words and arithmetic operations in the Alor-Pantar languages
+- authors:
+  - [Marian, '', Klamer]
+  - [Antoinette, '', Schapper]
+  - [Greville, '', Corbett]
+  number: 9
+  subtitle: null
+  title: Plural number words in the Alor-Pantar languages
+- authors:
+  - [Sebastian, '', Fedden]
+  - [Dunstan, '', Brown]
+  number: 10
+  subtitle: null
+  title: Participant marking
+creators:
+  authors: []
+  editors:
+  - [Marian, '', Klamer, '<p>Marian Klamer (1965) is Professor of Austronesian and
+      Papuan Linguistics at Leiden University. Over the last two decades she has lead
+      research projects describing and documenting Austronesian and Papuan minority
+      languages in Eastern Indonesia; comparing their typological characteristics;
+      and reconstructing their history. Her publications include grammars on Kambera
+      (1998), Teiwa (2010), and Alorese (2011), as well as several edited volumes,
+      and over fifty articles on a wide range of topics. Klamer is currently leading
+      the NWO-VICI project "Reconstructing the past through languages of the present:
+      the Lesser Sunda Islands" (2014-2019).</p>']
+doi: 10.5281/zenodo.437098
+illustrators: []
+isbns: {digital: 978-3-944675-94-7, hardcover: 978-3-946234-67-8, softcover: 978-3-946234-91-3}
+prefix: The
+proofreaders: []
+publicationdate: '20170623'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3946234917?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3946234917?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3946234917?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/MXe1V2GZJQPW/revisions/zgNQnaOi41zG'}
+series: sidl
+seriesnumber: ''
+title: Alor-Pantar languages
+typesetters: []

@@ -1,0 +1,148 @@
+blurb: While there are languages that code a particular grammatical role (e.g. subject
+  or direct object) in one and the same way across the board, many more languages
+  code the same grammatical roles differentially. The variables which condition the
+  differential argument marking (or DAM) pertain to various properties of the NP (such
+  as animacy or definiteness) or to event semantics or various properties of the clause.
+  While the main line of current research on DAM is mainly synchronic the volume tackles
+  the diachronic perspective. The tenet is that the emergence and the development
+  of differential marking systems provide a different kind of evidence for the understanding
+  of the phenomenon. The present volume consists of 18 chapters and primarily brings
+  together diachronic case studies on particular languages or language groups including
+  e.g. Finno-Ugric, Sino-Tibetan and Japonic languages. The volume also includes a
+  position paper, which provides an overview of the typology of different subtypes
+  of DAM systems, a chapter on computer simulation of the emergence of DAM and a chapter
+  devoted to the cross-linguistic effects of referential hierarchies on DAM.
+bookid: 173
+booksubtitle: ''
+chapters:
+- authors:
+  - [Alena, '', Witzlack-Makarevich]
+  - [Ilja, A., "Ser\x9Eant"]
+  number: 1
+  subtitle: Patterns of variation
+  title: Differential argument marking
+- authors:
+  - [Laura J., '', Downing]
+  number: 2
+  subtitle: null
+  title: Differential object marking in Chichewa
+- authors:
+  - ["Franti\x9Aek", '', "Kratochv\xEDl"]
+  - [Marian, '', Klamer]
+  number: 3
+  subtitle: null
+  title: The evolution of differential object marking in Alor-Pantar languages
+- authors:
+  - [Chantal, '', Melis]
+  number: 4
+  subtitle: null
+  title: Spanish indexing DOM, topicality, and the case hierarchy
+- authors:
+  - [Eitan, '', Grossman]
+  number: 5
+  subtitle: null
+  title: From suffix to prefix to interposition via Differential Object Marking in
+    Egyptian-Coptic
+- authors:
+  - ["\xC5ke", '', Engsheden]
+  number: 6
+  subtitle: null
+  title: Verbal semantics and differential object marking in Lycopolitan Coptic
+- authors:
+  - [Bjarke, '', Frellesvig]
+  - [Stephen, '', Horn]
+  - [Yuko, '', Yanagida]
+  number: 7
+  subtitle: null
+  title: A diachronic perspective on Differential Object Marking in pre-modern Japanese
+- authors:
+  - [Marco, '', "Garc\xEDa Garc\xEDa"]
+  number: 8
+  subtitle: null
+  title: Nominal and verbal parameters in the diachrony of differential object marking
+    in Spanish
+- authors:
+  - [William, B., McGregor]
+  number: 9
+  subtitle: null
+  title: Emergence of optional accusative case marking in Khoe languages
+- authors:
+  - [Annie, '', Montaut]
+  number: 10
+  subtitle: null
+  title: The rise of differential object marking in Hindi and related languages
+- authors:
+  - [Klaus, '', von Heusinger]
+  number: 11
+  subtitle: null
+  title: The diachronic development of Differential Object Marking in Spanish ditransitive
+    constructions
+- authors:
+  - [Melani, '', Wratil]
+  number: 12
+  subtitle: null
+  title: Structural case and objective conjugation in Northern Samoyedic
+- authors:
+  - [Amos, '', Teo]
+  number: 13
+  subtitle: null
+  title: Differential A and S marking in Sumi (Naga)
+- authors:
+  - [Yuko, '', Yanagida]
+  number: 14
+  subtitle: null
+  title: Differential subject marking and its demise in the history of Japanese
+- authors:
+  - [Tuomas, '', Huumo]
+  number: 15
+  subtitle: null
+  title: The partitive A
+- authors:
+  - [Seppo, '', "Kittil\xE4"]
+  - [Jussi, '', Ylikoski]
+  number: 16
+  subtitle: null
+  title: Some like it transitive
+- authors:
+  - [Sander, '', Lestrade]
+  number: 17
+  subtitle: null
+  title: The emergence of differential case marking
+- authors:
+  - [Karsten, '', Schmidtke-Bode]
+  - [Natalia, '', Levshina]
+  number: 18
+  subtitle: null
+  title: Reassessing scale effects on differential case marking
+creators:
+  authors: []
+  editors:
+  - [Ilja, A., "Ser\x9Eant", "<p>Ilja A. Ser\x9Eant is a postdoctoral researcher in\
+      \ linguistics at Leipzig University. He holds a PhD in both General Linguistics\
+      \ and Historical-Comparative Indo-European linguistics. He worked on DAM within\
+      \ his project The Diachronic Typology of Differential Argument Marking at University\
+      \ of Konstanz (2013-2015).</p>"]
+  - [Alena, '', Witzlack-Makarevich, <p>Alena Witzlack-Makarevich is an assistant
+      professor at the Department of General Linguistics of Kiel University. Her PhD
+      thesis on The typological variations of grammatical relations treated the phenomenon
+      of DAM from the comparative perspective and elaborated a set of variables required
+      to capture the variation of DAM systems cross-linguistically. She co-authored
+      a nuber of papers on various aspects of DAM both within case marking and within
+      agreement.</p>]
+doi: 10.5281/zenodo.1219168
+illustrators: []
+isbns: {digital: 978-3-96110-085-9, hardcover: 978-3-96110-086-6, softcover: ''}
+prefix: ''
+proofreaders: [Eitan Grossman, Richard T Griscom, Annie Zaenen, Hugo Cardoso, Shannon
+    Bischoff, Amr El-Zawawy, "Andreas H\xF6lzl", Mario Bisiada, "Ahmet Bilal \xD6\
+    zdemir", Eva Schultze-Berndt, Natsuko Nakagawa, Tatiana Philippova, Sandra Auderset,
+  Waldfried Premper, Steven Kaye, Jeroen van de Weijer, Liubov Baladzhaeva, Rosetta
+    Berger, Ivan Salgado]
+publicationdate: '20180809'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100861?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100861?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100861?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/gIzVAGNbtHH2'}
+series: sidl
+seriesnumber: '19'
+title: Diachrony of differential argument marking
+typesetters: []

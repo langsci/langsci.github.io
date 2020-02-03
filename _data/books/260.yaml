@@ -1,0 +1,126 @@
+blurb: <p align="justify"><em>Advances in Formal Slavic Linguistics 2017</em> is a
+  collection of fifteen articles that were prepared on the basis of talks given at
+  the conference Formal Description of Slavic Languages 12.5, which was held on December
+  7-9, 2017, at the University of Nova Gorica. The volume covers a wide array of topics,
+  such as control verbs, instrumental arguments, and perduratives in Russian, comparatives,
+  negation, n-words, negative polarity items, and complementizer ellipsis in Czech,
+  impersonal se-constructions and complementizer doubling in Slovenian, prosody and
+  the morphology of multi-purpose suffixes in Serbo-Croatian, and indefinite numerals
+  and the binding properties of dative arguments in Polish. Importantly, by exploring
+  these phenomena in individual Slavic languages, the collection of articles in this
+  volume makes a significant contribution to both Slavic linguistics and to linguistics
+  in general.
+bookid: 260
+booksubtitle: ''
+chapters:
+- authors:
+  - [Marcin, '', 'W?giel']
+  number: 1
+  subtitle: Polish indefinite numerals
+  title: Several quantifiers are different than others
+- authors:
+  - [Jakob, '', 'Lenardi?']
+  number: 2
+  subtitle: null
+  title: A syntactic re-analysis of the Slovenian impersonal se-construction
+- authors:
+  - ["Mojm\xEDr", '', 'Do?ekal']
+  number: 3
+  subtitle: Between syntax, semantics, and experiments
+  title: N-words and NPIs
+- authors:
+  - [Irina, '', Burukina]
+  number: 4
+  subtitle: Hidden modals
+  title: Object control
+- authors:
+  - [Julie, '', Goncharov]
+  number: 5
+  subtitle: null
+  title: Whom to oblige?
+- authors:
+  - [Julie, '', Goncharov]
+  - [Monica Alexandrina, '', Irimia]
+  number: 6
+  subtitle: null
+  title: Epistemic comparatives and other expressions of speaker's uncertainty
+- authors:
+  - [Uwe, '', Junghanns]
+  - [Hagen, '', Pitsch]
+  number: 7
+  subtitle: null
+  title: Czech infinitival conditionals
+- authors:
+  - [Marko, '', 'Simonovi?']
+  - ["Ren\xE9", '', Kager]
+  number: 8
+  subtitle: null
+  title: Serbo-Croatian is developing stem-based prosody. Why so?
+- authors:
+  - [Iveta, '', "\x8Aafratov\xE1"]
+  number: 9
+  subtitle: Experimental evidence from Czech
+  title: Negation, comparative and alternatives
+- authors:
+  - [Marko, '', 'Simonovi?']
+  - [Boban, '', 'Arsenijevi?']
+  number: 10
+  subtitle: Multi-purpose morphemes in Serbo-Croatian
+  title: Syntax predicts prosody
+- authors:
+  - [Hana, '', Gruet-Skrabalova]
+  number: 11
+  subtitle: null
+  title: Czech modal complement ellipsis from a comparative perspective
+- authors:
+  - [Takuya, '', Miyauchi]
+  number: 12
+  subtitle: Evidence from binding in Russian event nominal phrases
+  title: How to introduce instrumental agents
+- authors:
+  - [Ilya, '', Naumov]
+  number: 13
+  subtitle: null
+  title: Constraining the distribution of the perdurative in Russian
+- authors:
+  - [Vesna, '', 'Plesni?ar']
+  number: 14
+  subtitle: null
+  title: Complementizer doubling in Slovenian subordinate clauses
+- authors:
+  - [Jacek, '', 'Witko?']
+  - [Paulina, '', '??ska']
+  - [Dominika, '', 'Dziuba?a-Szrejbrowska']
+  number: 15
+  subtitle: null
+  title: Dative-marked arguments as binders in Polish
+creators:
+  authors: []
+  editors:
+  - [Petra, '', "Mi\x9Ama\x9A", "<p align=\"left\">Petra Mi\x9Ama\x9A is a postdoctoral\
+      \ researcher at the University of Nova Gorica. She focuses primarily on syntax\
+      \ of Slavic languages, particularly on the nominal domain and the structure\
+      \ of the left periphery. Her research interests also include experimental exploration\
+      \ of language acquisition and different language phenomena.</p>"]
+  - [Franc, '', "Maru\x9Ai?", "<p align=\"left\">Franc Maru\x9Ai? is Professor of\
+      \ Linguistics at the University of Nova Gorica. His work focuses on Slovenian\
+      \ syntax, both theoretical and experimental. His particular interests include\
+      \ DP-syntax, agreement, various types of ellipsis and other unpronounced material,\
+      \ and language acquisition.</p>"]
+  - [Rok, '', "\x8Eaucer", "<p align=\"left\">Rok \x8Eaucer is Assistant Professor\
+      \ at the University of Nova Gorica, where he teaches various topics in Slovenian\
+      \ and general linguistics. His primary research interests lie in the fields\
+      \ of syntax and morphosyntax, in particular argument structure, secondary predication\
+      \ and the noun phrase, as well as in language acquisition.</p>"]
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: osl
+seriesnumber: ''
+title: Advances in formal Slavic linguistics 2017
+typesetters: []

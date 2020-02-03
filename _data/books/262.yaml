@@ -1,0 +1,85 @@
+blurb: "The standard view of the form-meaning interfaces, as embraced by the great\
+  \ majority of contemporary grammatical frameworks, consists in the assumption that\
+  \ meaning can be associated with grammatical form in a one-to-one correspondence.\
+  \ Under this view, composition is quite straightforward, involving concatenation\
+  \ of form, paired with functional application in meaning. In this book, we discuss\
+  \ linguistic phenomena across several grammatical sub-modules (morphology, syntax,\
+  \ semantics) that apparently pose a problem to the standard view, mapping out the\
+  \ potential for deviation from the ideal of one-to-one correspondences, and develop\
+  \ formal accounts of the range of phenomena. We argue that a constraint-based perspective\
+  \ is particularly apt to accommodate deviations from one-to-many correspondences,\
+  \ as it allows us to impose constraints on full structures (such as a complete word\
+  \ or the interpretation of a full sentence) instead of deriving such structures\
+  \ step by step.\r\nMost of the papers in this volume are formulated in a particular\
+  \ constraint-based grammar framework, Head-driven Phrase Structure Grammar. The\
+  \ contributions investigate how the lexical and constructional aspects of this theory\
+  \ can be combined to provide an answer to this question across different linguistic\
+  \ sub-theories."
+bookid: 262
+booksubtitle: ''
+chapters:
+- authors:
+  - [Berthold, '', Crysmann]
+  - [Manfred, '', Sailer]
+  number: 1
+  subtitle: null
+  title: Introduction
+- authors:
+  - [Sacha, '', Beniamine]
+  number: 2
+  subtitle: null
+  title: One lexeme, many classes
+- authors:
+  - [Berthold, '', Crysmann]
+  number: 3
+  subtitle: null
+  title: Deconstructing exuberant exponence in Batsbi
+- authors:
+  - [Olivier, '', Bonami]
+  - [Gert, '', Webelhuth]
+  number: 4
+  subtitle: null
+  title: Periphrasis and morphosyntatic mismatch in Czech
+- authors:
+  - [Pegah, '', Faghiri]
+  - [Pollet, '', Samvelian]
+  number: 5
+  subtitle: null
+  title: "The issue of \x93separability\x94 in Persian Complex Predicates"
+- authors:
+  - ["C\xE9line", '', Pozniak]
+  - [Anne, '', "Abeill\xE9"]
+  - [Barbara, '', Hemforth]
+  number: 6
+  subtitle: null
+  title: Subject inversion in French object relatives
+- authors:
+  - [Manfred, '', Sailer]
+  - [Frank, '', Richter]
+  number: 7
+  subtitle: null
+  title: Negative conjuncts and negative concord across the board
+- authors:
+  - [Frank, '', Richter]
+  - [Berit, '', Gehrke]
+  - [Sascha, '', Bargmann]
+  number: 8
+  subtitle: null
+  title: Modification of literal meanings in semantically non-decomposable idioms
+creators:
+  authors: []
+  editors:
+  - [Berthold, '', Crysmann, '']
+  - [Manfred, '', Sailer, '']
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: eotms
+seriesnumber: ''
+title: One-to-many-relations in morphology, syntax, and semantics
+typesetters: []

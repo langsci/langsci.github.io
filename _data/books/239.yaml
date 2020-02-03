@@ -1,0 +1,86 @@
+blurb: "Multiword expressions (MWEs), such as noun compounds (e.g. <em>nickname</em>\
+  \ in English, and <em>Ohrwurm</em> in German), complex verbs (e.g. <em>give up</em>\
+  \ in English, and <em>aufgeben</em> in German) and idioms (e.g. <em>break the ice</em>\
+  \ in English, and <em>das Eis brechen</em> in German), may be interpreted literally\
+  \ but often undergo meaning shifts with respect to their constituents. Theoretical,\
+  \ psycholinguistic as well as computational linguistic research remain puzzled by\
+  \ when and how MWEs receive literal vs. meaning-shifted interpretations, what the\
+  \ contributions of the MWE constituents are to the degree of semantic transparency\
+  \ (i.e., meaning compositionality) of the MWE, and how literal vs. meaning-shifted\
+  \ MWEs are processed and computed. This edited volume presents an interdisciplinary\
+  \ selection of six papers on recent findings across linguistic, psycholinguistic,\
+  \ corpus-based and computational research fields and perspectives, discussing the\
+  \ interaction of constituent properties and MWE meanings, and how MWE constituents\
+  \ contribute to the processing and representation of MWEs. The collection is based\
+  \ on a workshop at the 2017 annual conference of the German Linguistic Society (DGfS)\
+  \ that took place at Saarland University in Saarbr\xFCcken, Germany"
+bookid: 239
+booksubtitle: An interdisciplinary, cross-lingual perspective
+chapters:
+- authors:
+  - [Eva, '', Smolka]
+  - [Carsten, '', Eulitz]
+  number: 1
+  subtitle: null
+  title: Can you reach for the planets or grasp at the stars?
+- authors:
+  - [Sabine, '', Schulte im Walde]
+  - [Eva, '', Smolka]
+  number: 2
+  subtitle: null
+  title: The role of constituents in multiword expressions
+- authors:
+  - [Sabine, '', Schulte im Walde]
+  - [Sylvia, '', Springorum]
+  number: 3
+  subtitle: null
+  title: Aiming with ? arrows ? at particles
+- authors:
+  - [Sandro, '', Pezzelle]
+  - [Marco, '', Marelli]
+  number: 4
+  subtitle: null
+  title: Do semantic features capture a syntactic classification of compounds?
+- authors:
+  - [Gianina, '', 'Iord?chioaia']
+  - [Lonneke, '', van der Plas]
+  - [Glorianna, '', Jagfeld]
+  number: 5
+  subtitle: null
+  title: Compositionality in English deverbal compounds
+- authors:
+  - [Inga, '', Hennecke]
+  number: 6
+  subtitle: null
+  title: Internal constituent variability and semantic transparency in N Prep N constructions
+    in Romance languages
+- authors:
+  - [Christina, L., "Gagn\xE9"]
+  - [Thomas, L., Spalding]
+  - [J. Claire, '', Burry]
+  - [Jessica, Tellis, Adams]
+  number: 7
+  subtitle: null
+  title: Production of multiword referential phrases
+- authors:
+  - [Gary, '', Libben]
+  number: 8
+  subtitle: null
+  title: What can we learn from novel compounds?
+creators:
+  authors: []
+  editors:
+  - [Sabine, '', Schulte im Walde, '']
+  - [Eva, '', Smolka, '']
+doi: ''
+edition: 1
+illustrators: []
+isbns: {digital: '', hardcover: '', softcover: ''}
+prefix: Forthcoming
+proofreaders: []
+publicationdate: ''
+remote_urls: {}
+series: pmwe
+seriesnumber: ''
+title: The role of constituents in multiword expressions
+typesetters: []

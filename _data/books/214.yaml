@@ -1,0 +1,86 @@
+blurb: "\"Form\" and \"formalism\" are a pair of highly productive and polysemous\
+  \ terms that occupy a central place in much linguistic scholarship. Diverse notions\
+  \ of \"form\"&nbsp; \x96 embedded in biological, cognitive and aesthetic discourses\
+  \ \x96 have been employed in accounts of language structure and relationship, while\
+  \ \"formalism\" harbours a family of senses referring to particular approaches to\
+  \ the study of language as well as representations of linguistic phenomena. This\
+  \ volume brings together a series of contributions from historians of science and\
+  \ philosophers of language that explore some of the key meanings and uses that these\
+  \ multifaceted terms and their derivatives have found in linguistics, and what these\
+  \ reveal about the mindset, temperament and daily practice of linguists, from the\
+  \ nineteenth century up to the present day."
+bookid: 214
+booksubtitle: ''
+chapters:
+- authors:
+  - [James, '', McElvenny]
+  number: 1
+  subtitle: null
+  title: Preface
+- authors:
+  - [Judith, '', Kaplan]
+  number: 2
+  subtitle: null
+  title: Visual formalisms in comparative-historical linguistics
+- authors:
+  - [James, '', McElvenny]
+  number: 3
+  subtitle: null
+  title: Alternating sounds and the formal franchise in phonology
+- authors:
+  - [Jean-Michel, '', Fortis]
+  number: 4
+  subtitle: null
+  title: "On Sapir\x92s notion of form/pattern and its aesthetic background"
+- authors:
+  - [Els, '', Effers]
+  number: 5
+  subtitle: null
+  title: Linguistics as a "special science"
+- authors:
+  - [Bart, '', Karstens]
+  number: 6
+  subtitle: null
+  title: The impact of Russian formalism on linguistic structuralism
+- authors:
+  - [John, E., Joseph]
+  number: 7
+  subtitle: null
+  title: "The resistant embrace of formalism in the work of \xC9mile Benveniste and\
+    \ Aur\xE9lien Sauvageot"
+- authors:
+  - [Ryan, M., Nefdt]
+  number: 8
+  subtitle: null
+  title: Linguistics as a science of structure
+- authors:
+  - [Geoffrey, K., Pullum]
+  number: 9
+  subtitle: null
+  title: Formalism, grammatical rules, and normativity
+- authors:
+  - [Nick, '', Riemer]
+  number: 10
+  subtitle: A political epistemology
+  title: Linguistic form
+creators:
+  authors: []
+  editors:
+  - [James, '', McElvenny, <p>James McElvenny is Newton International Fellow in Linguistics
+      and English Language at the University of Edinburgh. His research focuses on
+      the history of linguistics.</p>]
+doi: 10.5281/zenodo.2654375
+illustrators: []
+isbns: {digital: 978-3-96110-182-5, hardcover: 978-3-96110-183-2, softcover: ''}
+prefix: ''
+proofreaders: [Winfried Lechner, Daniela Kolbe-Hanna, George Walkden, "Andreas H\xF6\
+    lzl", David Nash, Brett Reynolds, Eran Asoulin, Lachlan Mackenzie, Jeroen van
+    de Weijer, Katja Politt, Tom Bossuyt, 'Ivica Je?ud', Laura Arnold, Agnes Kim]
+publicationdate: '20190520'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101833?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101833?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101833?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/LddAcg64jzyQ'}
+series: hpls
+seriesnumber: '1'
+title: Form and formalism in linguistics
+typesetters: []

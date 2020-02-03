@@ -1,0 +1,173 @@
+blurb: 'Empirical research is carried out in a cyclic way: approaching a research
+  area bottom-up, data lead to interpretations and ideally to the abstraction of laws,
+  on the basis of which a theory can be derived. Deductive research is based on a
+  theory, on the basis of which hypotheses can be formulated and tested against the
+  background of empirical data. Looking at the state-of-the-art in translation studies,
+  either theories as well as models are designed or empirical data are collected and
+  interpreted. However, the final step is still lacking: so far, empirical data has
+  not lead to the formulation of theories or models, whereas existing theories and
+  models have not yet been comprehensively tested with empirical methods.<br> <br>This
+  publication addresses these issues from several perspectives: multi-method product-
+  as well as process-based research may gain insights into translation as well as
+  interpreting phenomena. These phenomena may include cognitive and organizational
+  processes, procedures and strategies, competence and performance, translation properties
+  and universals, etc. Empirical findings about the deeper structures of translation
+  and interpreting will reduce the gap between translation and interpreting practice
+  and model and theory building. Furthermore, the availability of more large-scale
+  empirical testing triggers the development of models and theories concerning translation
+  and interpreting phenomena and behavior based on quantifiable, replicable and transparent
+  data.'
+bookid: 132
+booksubtitle: ''
+chapters:
+- authors:
+  - [Rovena, '', Troqe]
+  - [Francis, '', Marchan]
+  number: 1
+  subtitle: null
+  title: News translation
+- authors:
+  - [Alessandra, '', Rossetti]
+  - [Federico, '', Gaspari]
+  number: 2
+  subtitle: null
+  title: Modelling the analysis of translation memory use and post-editing of raw
+    machine translation output
+- authors:
+  - [Carla, '', Quinci]
+  number: 3
+  subtitle: null
+  title: "\x93All I know is that I know nothing?\x94"
+- authors:
+  - [Katharina, '', Oster]
+  number: 4
+  subtitle: null
+  title: The influence of self-monitoring on the translation of cognates
+- authors:
+  - [Iryna, '', Kloster]
+  number: 5
+  subtitle: null
+  title: Comparing novices and semi-professionals
+- authors:
+  - [Pertti, '', Hietaranta]
+  number: 6
+  subtitle: null
+  title: Cognitive economy and mental worlds
+- authors:
+  - [Anne, Catherine, Gieshoff]
+  number: 7
+  subtitle: null
+  title: Audiovisual speech decreases the number of cognate translations in simultaneous
+    interpreting
+- authors:
+  - [Oliver, '', Czulo]
+  number: 8
+  subtitle: null
+  title: Aspects of a primacy of frame model of translation
+- authors:
+  - [Anca, '', Bodzer]
+  - ["R\xE1quel", '', "L\xE1zaro Guti\xE9rrez"]
+  number: 9
+  subtitle: null
+  title: Making the impossible possible, or how to research in specific settings in
+    public service interpreting
+- authors:
+  - [Claudio, '', Baraldi]
+  - [Laura, '', Gavioli]
+  number: 10
+  subtitle: null
+  title: On the achievement of question-answer sequences in doctor-patient interpreter-mediated
+    interactions
+- authors:
+  - [Mario, '', Bisiada]
+  number: 11
+  subtitle: null
+  title: Universals of editing and translation
+- authors:
+  - [Moritz, J., Schaeffer]
+  - [Michael, '', Carl]
+  number: 12
+  subtitle: null
+  title: Language processing and translation
+- authors:
+  - [Igor, A., "Louren\xE7o da Silva"]
+  - [Adriana, Silvina, Pagano]
+  number: 13
+  subtitle: null
+  title: Cognitive effort and explicitation in translation tasks
+- authors:
+  - [Annegret, '', Sturm]
+  number: 14
+  subtitle: null
+  title: Metaminds
+- authors:
+  - [Moritz, J., Schaeffer]
+  - [Michael, '', Carl]
+  number: 15
+  subtitle: null
+  title: Sketch of a Noisy Channel Model for the Translation Process
+- authors:
+  - [Daniel, '', Couto-Vale]
+  number: 16
+  subtitle: null
+  title: What does a translator do when not writing?
+- authors:
+  - [Tatiana, '', Serbina]
+  - [Sven, '', Hintzen]
+  - [Paula, '', Niemietz]
+  - [Stella, '', Neumann]
+  number: 17
+  subtitle: null
+  title: Changes of word class during translation
+- authors:
+  - [Silvia, '', Hansen-Schirra]
+  - [Katharina, '', Oster]
+  - [Jean, '', Nitzke]
+  number: 18
+  subtitle: null
+  title: Predicting cognate translation
+creators:
+  authors: []
+  editors:
+  - [Silvia, '', Hansen-Schirra, "<p>Silvia Hansen-Schirra, Dipl.-\xDCbers., Dr. phil.,\
+      \ PD, is a full professor of English linguistics and translation studies at\
+      \ Johannes Gutenberg University Mainz in Germersheim, Germany. Her main research\
+      \ interests include specialized communication, text comprehensibility, post-editing,\
+      \ translation process and competence research. As fellow of the Gutenberg Research\
+      \ College she is the director of the Translation &amp; Cognition (TRACO) Center\
+      \ in Germersheim and co-editor of the online book series \"Translation and Multilingual\
+      \ Natural Language Processing\".</p>"]
+  - [Oliver, '', Czulo, '<p>Oliver is a full professor of Translation Studies at the
+      Institute for Applied Linguistics and Translatology of the University of Leipzig.
+      Before that, he was an Assistant Professor ("Juniorprofessor") for Translation-relevant
+      Linguistics at the Translation Faculty at Mainz University. He attended Saarland
+      University, where he received his diploma in computational linguistics and his
+      PhD in machine translation. His thesis work focused on developing ways of automatically
+      comparing verb valence between English and German using parallel corpora. During
+      a one-year stay at ICSI at the University of California in Berkeley in 2011
+      and 2012, he worked with researchers in the FrameNet Project, who are building
+      a lexical database based on frame semantic analyses. He is interested in how
+      grammar and semantics interact in translation.</p>']
+  - [Sascha, '', Hofmann, "<p>Sascha Hofmann, Dipl.-\xDCbers., Dr. phil., is Associate\
+      \ Professor for English Linguistics and Translation Studies at the FTSK at the\
+      \ Johannes Gutenberg University in Mainz. His main research interests include\
+      \ general applied translation studies, translation process research, and all\
+      \ aspects of translator education. As member of the of the Translation &amp;\
+      \ Cognition (TRACO) Center he is (together with Don Kiraly) principal researcher\
+      \ in the field of translation process related competence development.</p>"]
+doi: 10.5281/zenodo.1089335
+illustrators: []
+isbns: {digital: 978-3-96110-024-8, hardcover: 978-3-96110-025-5, softcover: ''}
+prefix: ''
+proofreaders: [Anca Gata, Amr El-Zawawy, Ikmi Nur Oktavianti, Ezekiel Tunde Bolaji,
+  "Ahmet Bilal \xD6zdemir", Jean Nitzke, "Melanie R\xF6thlisberger", Beverley Erasmus,
+  Brett Reynolds, "David Luke\x9A", Waldfried Premper, Paulson Skerrit, Jeroen van
+    de Weijer, Caroline Rossi, Damien Hall, Sarah Signer]
+publicationdate: '20171207'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/396110025X?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/396110025X?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/396110025X?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=132'}
+series: tmnlp
+seriesnumber: '7'
+title: Empirical modelling of translation and interpreting
+typesetters: []

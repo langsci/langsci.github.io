@@ -1,0 +1,97 @@
+blurb: "Many descriptive grammars report the use of a linguistic pattern at the interface\
+  \ between discourse and syntax which is known generally as <em>tail-head linkage</em>.\
+  \ This volume takes an unprecedented look at this type of linkage across languages\
+  \ and shows that there exist three distinct variants, all subsumed under the hypernym\
+  \ <em>bridging constructions</em>. The chapters highlight the defining features\
+  \ of these constructions in the grammar and their functional properties in discourse.\
+  \ The volume reveals that:\r\n<ul>\r\n<li>Bridging constructions consist of two\
+  \ clauses: a reference clause and a bridging clause. Across languages, bridging\
+  \ clauses can be subordinated clauses, reduced main clauses, or main clauses with\
+  \ continuation prosody.</li>\r\n<li>Bridging constructions have three variants:\
+  \ <em>recapitulative linkage</em>, <em>summary linkage</em> and <em>mixed linkage</em>.\
+  \ They differ in the formal makeup of the bridging clause.</li>\r\n<li>In discourse,\
+  \ the functions that bridging constructions fulfil depend on the text genres in\
+  \ which they appear and their position in the text.</li>\r\n<li>If a language uses\
+  \ more than one type of bridging construction, then each type has a distinct discourse\
+  \ function.</li>\r\n<li>Bridging constructions can be optional and purely stylistic\
+  \ or mandatory and serve a grammatical purpose.</li>\r\n<li>Although the difference\
+  \ between bridging constructions and clause repetition can be subtle, they maintain\
+  \ their own distinctive characteristics.</li>\r\n</ul>"
+bookid: 216
+booksubtitle: ''
+chapters:
+- authors:
+  - ["Val\xE9rie", '', "Gu\xE9rin"]
+  - [Grant, '', Aiton]
+  number: 1
+  subtitle: null
+  title: Bridging constructions in typological perspective
+- authors:
+  - [Nicholas Q., '', Emlen]
+  number: 2
+  subtitle: null
+  title: The poetics of recapitulative linkage in Matsigenka and mixed Matsigenka-Spanish
+    myth narrations
+- authors:
+  - [Hannah, '', Sarvasy]
+  number: 3
+  subtitle: null
+  title: Short, finite and one-sided bridges in Logoori
+- authors:
+  - [Diana, '', Forker]
+  - [Felix, '', Anker]
+  number: 4
+  subtitle: null
+  title: Bridging constructions in Tsezic languages
+- authors:
+  - [Nerida, '', Jarkey]
+  number: 5
+  subtitle: null
+  title: Bridging constructions in narrative texts in White Hmong (Hmong-Mien)
+- authors:
+  - [Grant, '', Aiton]
+  number: 6
+  subtitle: null
+  title: The form and function of bridging constructions in Eibela discourse
+- authors:
+  - [Lourens, '', de Vries]
+  number: 7
+  subtitle: null
+  title: Online and offline bridging constructions in Korowai
+- authors:
+  - ["Val\xE9rie", '', "Gu\xE9rin"]
+  number: 8
+  subtitle: null
+  title: Recapitulative linkage in Mavea
+- authors:
+  - [Angeliki, '', Alvanoudi]
+  number: 9
+  subtitle: null
+  title: Clause repetition as a tying technique in Greek conversation
+creators:
+  authors: []
+  editors:
+  - ["Val\xE9rie", '', "Gu\xE9rin", "<p>Val\xE9rie Gu\xE9rin obtained a PhD from the\
+      \ University of Hawai\x92i at M?noa for her work on Mavea, a moribund language\
+      \ of Vanuatu (grammar published by the University of Hawai\x92i Press in 2011).\
+      \ She currently works on describing Tayatuk, a language spoken in the YUS conservation\
+      \ area, Morobe Province, Papua New Guinea. In 2013\x962016, she was a postdoctoral\
+      \ research associate at the Language and Culture Research Centre, James Cook\
+      \ University, under the Australian Laureate Fellowship awarded to Professor\
+      \ Aikhenvald. She is currently affiliated with the Language and Culture Research\
+      \ Centre as an adjunct fellow researcher.</p>"]
+doi: 10.5281/zenodo.2563698
+illustrators: []
+isbns: {digital: 978-3-96110-141-2, hardcover: 978-3-96110-142-9, softcover: ''}
+prefix: ''
+proofreaders: [Eitan Grossman, Nerida Jarkey, "Andreas H\xF6lzl", Beverley Erasmus,
+  Lachlan Mackenzie, Jeroen van de Weijer, Amir Ghorbanpour, Yvonne Treis, Felix Anker,
+  'Ivica Je?ud', Stephen Jones, Grant Aiton, "Val\xE9rie Gu\xE9rin"]
+publicationdate: '20190314'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101426?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101426?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101426?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/NMB8LqUEVf4p'}
+series: sidl
+seriesnumber: ''
+title: Bridging constructions
+typesetters: []

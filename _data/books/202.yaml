@@ -1,0 +1,130 @@
+blurb: This book consists of contributions related to the definition, representation
+  and parsing of MWEs. These reflect current trends in the representation and processing
+  of MWEs. They cover various categories of MWEs such as verbal, adverbial and nominal
+  MWEs, various linguistic frameworks (e.g. tree-based and unification-based grammars),
+  various languages including English, French, Modern Greek, Hebrew, Norwegian), and
+  various applications (namely MWE detection, parsing, automatic translation) using
+  both symbolic and statistical approaches.
+bookid: 202
+booksubtitle: Current trends
+chapters:
+- authors:
+  - [Jakub, '', Waszczuk]
+  - [Timm, '', Lichte]
+  - [Simon, '', Petitjean]
+  - [Agata, '', Savary]
+  number: 1
+  subtitle: "The challenge of \x93irregular\x94 regularities"
+  title: Lexical encoding formats for multi-word expressions
+- authors:
+  - [Livnat, '', Herzig Sheinfux]
+  - [Tali, Arad, Greshler]
+  - [Nurit, '', Melnik]
+  - [Shuly, '', Wintner]
+  number: 2
+  subtitle: Idiomaticity and flexibility
+  title: Verbal MWEs
+- authors:
+  - [Helge, '', Dyvik]
+  - [Gyri, '', "Sm\xF8rdal Losnegaard"]
+  - [Victoria, '', "Ros\xE9n"]
+  number: 3
+  subtitle: null
+  title: Multiword expressions in an LFG grammar for Norwegian
+- authors:
+  - [Stella, '', Markantonatou]
+  - [Niki, '', Samaridi]
+  - [Panagiotis, '', Minos]
+  number: 4
+  subtitle: null
+  title: Issues in parsing MWEs in an LFG/XLE framework
+- authors:
+  - [Krasimir, '', Angelov]
+  number: 5
+  subtitle: null
+  title: Multi-word expressions in multilingual applications within the Grammatical
+    Framework
+- authors:
+  - [Mathieu, '', Constant]
+  - ["G\xFCl?en", '', 'Eryi?it']
+  - [Carlos, '', Ramisch]
+  - [Mike, '', Rosner]
+  - [Gerold, '', Schneider]
+  number: 6
+  subtitle: null
+  title: Statistical MWE-aware parsing
+- authors:
+  - [Miryam, '', de Lhoneux]
+  - [Omri, '', Abend]
+  - [Mark, '', Steedman]
+  number: 7
+  subtitle: null
+  title: Investigating the effect of automatic MWE recognition on CCG parsing
+- authors:
+  - [Vasiliki, '', Foufi]
+  - [Luka, '', Nerimi]
+  - [Eric, '', Wehrli]
+  number: 8
+  subtitle: null
+  title: Multilingual parsing and MWE detection
+- authors:
+  - [Nasredine, '', Semmar]
+  - [Christophe, '', Servan]
+  - [Meriama, '', Laib]
+  - [Dhouha, '', Bouamor]
+  - [Morgane, '', Marchand]
+  number: 9
+  subtitle: null
+  title: Extracting and aligning multiword expressions from parallel corpora
+- authors:
+  - [Guillaume, '', Jacquet]
+  - [Maud, '', Ehrmann]
+  - [Jakub, '', Piskorski]
+  - [Hristo, '', Tanev]
+  - [Ralf, '', Steinberger]
+  number: 10
+  subtitle: null
+  title: Cross-lingual linking of multi-word entities and language-dependent learning
+    of multi-word entity patterns
+- authors:
+  - [Yannick, '', Parmentier]
+  - [Jakub, '', Waszczuk]
+  number: 11
+  subtitle: null
+  title: Preface
+creators:
+  authors: []
+  editors:
+  - [Yannick, '', Parmentier, "<p>Yannick Parmentier is an Associate Professor at\
+      \ Universit\xE9 de Lorraine, France. He got his PhD in Computer Science in 2007\
+      \ from Henri Poincar\xE9 University, Nancy, France. During his PhD, he took\
+      \ part in the design and implementation of the XMG description language and\
+      \ its application to the formal description of French syntax and semantics.\
+      \ In 2007-2008, he was a postdoctoral research fellow at University of T\xFC\
+      bingen, Germany, where he worked on symbolic parsing with tree-based grammars.\
+      \ From 2009 to 2017, he was an Associate Professor at Universit\xE9 d'Orl\xE9\
+      ans working on constraint-based approaches in computational linguistics.</p>"]
+  - [Jakub, '', Waszczuk, "<p>Jakub Waszczuk is a post-doctoral research fellow at\
+      \ Heinrich Heine Universit\xE4t, D\xFCsseldorf, Germany, where he works on syntactic\
+      \ parsing and parsing-driven multiword expressions identification algorithms.\
+      \ He got his PhD in Computer Science in 2017 from Universit\xE9 Fran\xE7ois\
+      \ Rabelais, Tours, France. During his PhD, he worked on the design and implementation\
+      \ of multiword expression-aware parsing algorithms for tree-based grammars,\
+      \ with the goal of showing that appropriate handling of multiword expressions\
+      \ can help reduce syntactic ambiguity and increase parsing efficiency.</p>"]
+doi: 10.5281/zenodo.2579017
+illustrators: []
+isbns: {digital: 978-3-96110-145-0, hardcover: 978-3-96110-146-7, softcover: ''}
+prefix: ''
+proofreaders: [Valentin Vydrin, Timm Lichte, "Daniela Schr\xF6der", Ikmi Nur Oktavianti,
+  Jean Nitzke, Valeria Quochi, Brett Reynolds, Carlos Ramisch, Lachlan Mackenzie,
+  Jeroen van de Weijer, Alexandr Rosen, Vasiliki Foufi, Amir Ghorbanpour, Aniefon
+    Akpan, Philip Duncan]
+publicationdate: '20190621'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101469?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101469?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101469?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/VjX6fwj8FHtL'}
+series: pmwe
+seriesnumber: '3'
+title: Representation and parsing of multiword expressions
+typesetters: []

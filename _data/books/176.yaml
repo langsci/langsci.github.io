@@ -1,0 +1,63 @@
+blurb: "This text is a practical guide for linguists, and programmers, who work with\
+  \ data in multilingual computational environments. We introduce the basic concepts\
+  \ needed to understand how writing systems and character encodings function, and\
+  \ how they work together at the intersection between the Unicode Standard and the\
+  \ International Phonetic Alphabet. Although these standards are often met with frustration\
+  \ by users, they nevertheless provide language researchers and programmers with\
+  \ a consistent computational architecture needed to process, publish and analyze\
+  \ lexical data from the world's languages. Thus we bring to light common, but not\
+  \ always transparent, pitfalls which researchers face when working with Unicode\
+  \ and IPA. Having identified and overcome these pitfalls involved in making writing\
+  \ systems and character encodings syntactically and semantically interoperable (to\
+  \ the extent that they can be), we created a suite of open-source Python and R tools\
+  \ to work with languages using orthography profiles that describe author- or document-specific\
+  \ orthographic conventions. In this cookbook we describe a formal specification\
+  \ of orthography profiles and provide recipes using open source tools to show how\
+  \ users can segment text, analyze it, identify errors, and to transform it into\
+  \ different written forms for comparative linguistics research.\r\nThis book is\
+  \ a prime example of open publishing as envisioned by Language Science Press. It\
+  \ is open access, has accompanying open source software, has open peer review, versioning\
+  \ and so on. Read more in this&nbsp;<a href=\"https://userblogs.fu-berlin.de/langsci-press/2018/07/11/what-it-means-to-be-open-and-community-based-the-unicode-cookbook-as-a-showcase/\"\
+  >blog post.</a>\r\nThe book is continuously being improved. You can follow the development\
+  \ on <a class=\"moz-txt-link-freetext\" href=\"https://github.com/unicode-cookbook/cookbook/releases/latest\"\
+  >https://github.com/unicode-cookbook/cookbook/releases/latest</a>\r\n&nbsp;\r\n\
+  &nbsp;"
+bookid: 176
+booksubtitle: Managing writing systems using orthography profiles
+chapters: []
+creators:
+  authors:
+  - [Steven, '', Moran, '<p>Steven Moran is a postdoctoral researcher in the Department
+      of Comparative Linguistics, University of Zurich. He has a broad background
+      in computational linguistics and works with data from under-resourced and endangered
+      languages to answer research questions regarding worldwide linguistic diversity
+      and language evolution. He focuses on phonology, language acquisition, and historical-comparative
+      linguistics. He also does linguistic fieldwork in West Africa.</p>']
+  - [Michael, '', Cysouw, '<p>Michael Cysouw is Professor of language typology at
+      the Philipps University Marburg. His research interests are broad-scale investigations
+      of the world''s linguistic diversity, with a particular fondness for unusual
+      structures from a worldwide perspective. He focusses not only on the content
+      of linguistic diversity, but also on the methodological aspects of doing cross-linguistic
+      research. In his research, language comparison is taken both as a window into
+      language universals (focussing on aspects on which languages do not differ)
+      as well as historical reconstruction (by interpreting differences between languages
+      as the result of historical processes).</p>']
+  editors: []
+doi: 10.5281/zenodo.1296780
+illustrators: []
+isbns: {digital: 978-3-96110-090-3, hardcover: 978-3-96110-091-0, softcover: ''}
+prefix: The
+proofreaders: [Benedikt Singpiel, Aleksandrs Berdicevskis, Antonio Machicao y Priemer,
+  "Slavom\xEDr ?\xE9pl\xF6", Rosey Billington, Viola Wiegand, Felix Rau, Varun deCastro-Arrazola,
+  Steve Pepper, "Lea Sch\xE4fer", Beverley Erasmus, Esther Yap, Sandra Auderset, "David\
+    \ Luke\x9A", Alena Witzlack-Makarevich, Luigi Talamo, Jeroen van de Weijer, Steven
+    Moran, Katja Politt, Linda Leembruggen, Amir Ghorbanpour, Aniefon Akpan, Simon
+    Cozens, James Tauber, Hugh Paterson III]
+publicationdate: '20180629'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100918?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100918?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100918?tag=wwwlangscipre-20',
+  paperhive: 'https://www.paperhive.org/documents/remote?type=langsci&id=176'}
+series: tmnlp
+seriesnumber: '10'
+title: Unicode cookbook for linguists
+typesetters: []

@@ -1,0 +1,99 @@
+blurb: "<div>\r\nDie Artikulatorische Phonologie (Catherine Browman und Louis Goldstein)\
+  \ wurde als Alternative zu segmentalen Ans\xE4tzen entwickelt. So nimmt die segmentale\
+  \ Phonologie an, dass nur distinkte Information gespeichert wird, die dann mit Hilfe\
+  \ von Regeln und Rechenprinzipien von der kategorialen Welt der Symbole in die kontinuierliche\
+  \ Welt der physikalischen Repr\xE4sentation u?bersetzt wird. Die Artikulatorische\
+  \ Phonologie hingegen nimmt an, dass auch kontinuierliche Information wie beispielsweise\
+  \ sprecher- oder situationsbedingte Variationen als Teil des Sprachsystems gespeichert\
+  \ werden. Variabilit\xE4t wird hier als Teil des linguistischen Systems betrachtet,\
+  \ das konkret Aufschluss \xFCber zugrundeliegende Strukturen gibt. Im Modell der\
+  \ Artikulatorischen Phonologie wird Sprache als dynamisches System betrachtet und\
+  \ somit phonetische und phonologische Information integriert.\r\nDie Grundeinheiten\
+  \ der Artikulatorischen Phonologie sind nicht Segmente oder Merkmale, sondern artikulatorische\
+  \ Gesten. Diese legen linguistische relevante Konstriktionen wie beispielsweise\
+  \ einen Vollverschluss der Zungenspitze an den Alveolen sowie eine glottale \xD6\
+  ffnungsgeste fu?r Stimmlosigkeit bei der Produktion von /t/. Die Einbeziehung der\
+  \ zeitlichen Dom\xE4ne erm\xF6glicht im Gegensatz zu segmentalen Ans\xE4tzen die\
+  \ Abbildung natu?rlicher Variabilit\xE4t. So kann beispielsweise im Falle von /t/\
+  \ der Grad der Aspiration direkt aus der zeitlichen Anordnung der glottalen und\
+  \ oralen Geste abgeleitet werden: Ist die glottale Geste l\xE4nger als die Zungenspitzengeste\
+  \ aktiviert, so entsteht auf akustischer Oberfl\xE4che Aspiration. Artikulatorische\
+  \ Gesten enkodieren dar\xFCber hinaus den kontextuellen Einfluss (Koartikulation\
+  \ in Form von Synergien zwischen Organgruppen) und k\xF6nnen direkt den Einfluss\
+  \ h\xF6here linguistischer Strukturen wie der prosodischen Hierarchie abbilden.\r\
+  \nDas vorliegende Buch stellt eine Einf\xFChrung in die Artikulatorische Phonologie\
+  \ dar. Es richtet sich an Leserinnen und Leser, die phonetische Grundkenntnisse\
+  \ besitzen und sich mit der Artikulatorischen Phonologie besch\xE4ftigen. Daru?ber\
+  \ hinaus werden neben einer Einfu?hrung in das Model auch neuere Arbeiten und aktuelle\
+  \ Weiterentwicklungen aufgezeigt, insbesondere die Implementierung prosodischer\
+  \ Aspekte in die Artikulatorische Phonologie. Somit eignet sich das Buch auch f\xFC\
+  r Leserinnen und Leser, die bereits mit der Artikulatorischen Phonologie in Kontakt\
+  \ gekommen sind, aber ihr Wissen vertiefen m\xF6chten. Zur Veranschaulichung werden\
+  \ Beispiele aus verschiedenen Sprachen gegeben, darunter Deutsch, Katalanisch, Italienisch,\
+  \ Polnisch, Mandarin und Tashlhiyt Berber.\r\n</div>\r\n<div>\r\nThis book is an\
+  \ introduction to Articulatory Phonology with a special focus on the interplay of\
+  \ articulation and prosody. Articulatory Phonology (Catherine Browman and Louis\
+  \ Goldstein) is a dynamic approach that fully integrates phonetics and phonology.\
+  \ It assumes that the basic units of speech production are dynamically defined articulatory\
+  \ gestures, which can be modelled as a constellation of invariant functional units\
+  \ of vocal tract constriction actions. Articulatory gestures do not directly correspond\
+  \ to traditional segments or features. Moreover, they are movements which extend\
+  \ over time and can temporally overlap with one another. Within this model, the\
+  \ continuous variation of a self-organised speech system can be modelled, constantly\
+  \ mediating between the demands of the physical control system and linguistic structure.\r\
+  \nThe present book gives an introduction in German to the basic concepts of articulatory\
+  \ phonology for a German readership (e.g. task dynamics, definition of articulatory\
+  \ gestures, gestural scores, coupling graphs and parameter manipulation in mass-spring\
+  \ models). Furthermore, it discusses the implementation of prosodic structure in\
+  \ Articulatory Phonology (e.g. self-organisation of prosodic constituents, head\
+  \ and edge marking in the prosodic hierarchy and implementation of prosodic gestures\
+  \ and tone gestures in Articulatory Phonology). In every chapter, examples from\
+  \ different languages are given, such as German, Catalan, Italian, Polish, Mandarin\
+  \ und Tashlhiyt Berber.\r\nThe book is written in the spirit that dynamic approaches\
+  \ offer a crucial alternative to the traditional symbol-based theories. The natural\
+  \ process of human communication constantly triggers and constrains variation in\
+  \ speech, often reaching deeply into human physiology, cognition and grammar. This\
+  \ variation is more than just noise in experimental data: It is a window to linguistic\
+  \ structure, which can be best modelled in terms of a dynamical system.\r\nDer Preis\
+  \ dieses Buches in Deutschland ist auf 40 EUR festgelegt.\r\nAs per legal requirement,\
+  \ we state that this book is available in Germany for 40 EUR.\r\n</div>"
+bookid: 154
+booksubtitle: "Eine Einf\xFChrung in die Artikulatorische Phonologie"
+chapters: []
+creators:
+  authors:
+  - [Doris, '', "M\xFCcke", "<p>Doris M\xFCcke is assistant professor at the IfL Phonetics\
+      \ lab at the University of Cologne. She is working with different methods of\
+      \ acoustic and articulatory analysis including Electromagnetic Articulography\
+      \ and Electropalatography. She holds her PhD in Cologne on vowel synthesis and\
+      \ perception, and she received her habilitation 2014 on dynamic modelling of\
+      \ articulation and prosodic structure. Her main research interest focusses on\
+      \ the integration of phonetics and phonology with a special focus on the interplay\
+      \ of articulation and prosody. She investigates the coordination of tones and\
+      \ segments, prosodic strengthening and kinematics of syllable structure in different\
+      \ languages. Furthermore, she is working on the relation of brain modulation\
+      \ and speech motor control within a dynamical approach including patients with\
+      \ essential tremor and Parkinson\x92s disease.</p>\r\n<p>Doris M\xFCcke leitet\
+      \ das Labor des IfL-Phonetik an der Universit\xE4t zu K\xF6ln. Sie ist in unterschiedlichen\
+      \ experimentalphonetischen Methoden ausgewiesen, darunter elektromagnetische\
+      \ Artikulographie und Elektropalatographie. Sie promovierte zur Vokalsynthese\
+      \ und Vokalperzeption und habilitierte im Anschluss zur dynamischen Modellierung\
+      \ von Artikulation und Prosodie. Neben der Frage nach dynamischen Ans\xE4tzen\
+      \ im Bereich der Koordination von T\xF6nen und textueller Schicht, prosodischer\
+      \ Prominenz und Silbenstrukturanalysen in verschiedenen Sprachen besch\xE4ftigt\
+      \ sie sich auch mit dem Einfluss von Tiefer Hirnstimulation auf das sprechmotorische\
+      \ System bei Patienten mit essentiellem Tremor und idiopathischem Parkinson-Syndrom.</p>"]
+  editors: []
+doi: 10.5281/zenodo.1188764
+illustrators: []
+isbns: {digital: 978-3-96110-068-2, hardcover: 978-3-96110-069-9, softcover: ''}
+prefix: ''
+proofreaders: []
+publicationdate: '20180312'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100691?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100691?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100691?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/remote?type=langsci&id=154'}
+series: silp
+seriesnumber: ''
+title: Dynamische Modellierung von Artikulation und prosodischer Struktur
+typesetters: []

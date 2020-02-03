@@ -1,0 +1,34 @@
+blurb: Nyakyusa is an underdescribed Bantu language spoken by around 800.000 speakers
+  in the Mbeya Region of Tanzania. This book provides a detailled description of the
+  verb in this language. The topics covered include the complex morphophonological
+  and morphological processes as well as verb-to-verb derivation, copula verbs and
+  grammaticalized verbs of motion. The main body of the book consists of a detailed
+  description of tense, aspect and modality constructions, which includes not only
+  an in-depth discussion of their sentence level semantics, but also of their patterns
+  of employment in discourse.
+bookid: 141
+booksubtitle: A focus on tense, aspect, and modality
+chapters: []
+creators:
+  authors:
+  - [Bastian, '', Persohn, "<p>Bastian Persohn completed his MA in General Linguistics\
+      \ at the University of M\xFCnster before receiving his PhD from the University\
+      \ of Cologne. His research interests include semantics, pragmatics, morphology\
+      \ and the grammar-lexicon interface. </p>"]
+  editors: []
+doi: 10.5281/zenodo.926408
+illustrators: []
+isbns: {digital: 978-3-96110-014-9, hardcover: 978-3-96110-015-6, softcover: ''}
+prefix: The
+proofreaders: [Jan Wohlgemuth, "Christian D\xF6hler", "Andreas H\xF6lzl", Matthew
+    Czuba, Mykel Loren Brinkerhoff, Jean Nitzke, Prisca Jerono, "Lea Sch\xE4fer",
+  Beverley Erasmus, Sandra Auderset, Elizabeth Bogal-Allbritten, Jeroen van de Weijer,
+  Michael Aubrey, Rosetta Berger, Gracious Temsen, Caroline Rossi]
+publicationdate: '20170928'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100152?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100152?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100152?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/BiJbtOG8UKbZ'}
+series: cal
+seriesnumber: '2'
+title: Verb in Nyakyusa
+typesetters: []

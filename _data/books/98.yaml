@@ -1,0 +1,39 @@
+blurb: "This book is a dictionary and grammar sketch of Ik, one of the three Kuliak\
+  \ (Rub) languages spoken in the beautiful Karamoja region of northeastern Uganda.\
+  \ It is the lexicographic sequel to <em>A grammar of Ik (Ic\xE9-t\xF3d): Northeast\
+  \ Uganda\x92s last thriving Kuliak language</em> (Schrock 2014). The present volume\
+  \ includes an Ik-English dictionary with roughly 8,700 entries, followed by a reversed\
+  \ English-Ik index. These two main sections are then supplemented with an outline\
+  \ of Ik grammar that is comprehensive in its coverage of topics and written in a\
+  \ simple style, using standard linguistic terminology in a way that is accessible\
+  \ to interested non-linguists as well. This book may prove useful for language preservation\
+  \ and development among the Ik people, as a reference tool for non-Ik learners of\
+  \ the language, and as a source of data, not only for the comparative study of Kuliak\
+  \ but also the wider Afroasiatic and Nilo-Saharan language families."
+bookid: 98
+booksubtitle: Dictionary and grammar sketch
+chapters: []
+creators:
+  authors:
+  - [Terrill, '', Schrock, 'Terrill B. Schrock (1980) is an American field linguist
+      who worked on the Ik language under SIL from 2008-2016. Prior linguistic experience
+      included teaching English and studying Kazakh in Kazakhstan and working as an
+      intern for a Russian-English translation company in the United States. He holds
+      an MA in applied linguistics from the Graduate Institute of Applied Linguistics
+      (2007) and a PhD in linguistics from Leiden University (2014). In addition to
+      language description, Terrill engaged in orthography development, translation,
+      and community development among the Ik people.']
+  editors: []
+doi: 10.5281/zenodo.344792
+illustrators: []
+isbns: {digital: 978-3-944675-95-4, hardcover: 978-3-944675-96-1, softcover: 978-3-944675-68-8}
+prefix: The
+proofreaders: []
+publicationdate: '20170313'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3944675967?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3944675967?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3944675967?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/wzQH-5OIZof1'}
+series: algad
+seriesnumber: '1'
+title: Ik language
+typesetters: []

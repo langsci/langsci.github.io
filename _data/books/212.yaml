@@ -1,0 +1,48 @@
+blurb: "Komnzo is a Papuan language of Southern New Guinea spoken by around 250 people\
+  \ in the village of Rouku. Komnzo belongs to the Tonda subgroup of the Yam language\
+  \ family, which is also known as the Morehead Upper-Maro group. This grammar provides\
+  \ the first comprehensive description of a Yam language. It is based on 16 months\
+  \ of fieldwork. The primary source of data is a text corpus of around 12 hours recorded\
+  \ and transcribed between 2010 and 2015. Komnzo provides many fields of future research,\
+  \ but the most interesting aspect of its structure lies in the verb morphology,\
+  \ to which the two largest chapters of the grammar are dedicated. Komnzo verbs may\
+  \ index up to two arguments showing agreement in person, number and gender. Verbs\
+  \ encode 18 TAM categories, valency, directionality and deictic status. Morphological\
+  \ complexity lies not only in the amount of categories that verbs may express, but\
+  \ also in the way these are encoded. Komnzo verbs exhibit what may be called \x91\
+  distributed exponence\x92, i.e. single morphemes are underspecified for a particular\
+  \ grammatical category. Therefore, morphological material from different sites has\
+  \ to be integrated first, and only after this integration can one arrive at a particular\
+  \ grammatical category. The descriptive approach in this grammar is theory-informed\
+  \ rather than theory-driven. Comparison to other Yam languages and diachronic developments\
+  \ are taken into account whenever it seems helpful."
+bookid: 212
+booksubtitle: ''
+chapters: []
+creators:
+  authors:
+  - [Christian, '', "D\xF6hler", "<p>Christian D\xF6hler completed his M.A. in Political\
+      \ Science at the Chemnitz University of Technology and obtained an Honours Degree\
+      \ in Linguistics at the University of Melbourne. Between 2010 and 2016 he has\
+      \ worked on the DOBES project \x84Nen and Komnzo - Two languages of Southern\
+      \ New Guinea\" funded by the Volkswagen Foundation. He completed his Ph.D. degree\
+      \ in 2016 at the Australian National University, Canberra. Currently he works\
+      \ as a postdoctoral research fellow at the University of Cologne on the ELDP\
+      \ project \"A comprehensive documentation of Bine - a language of Southern New\
+      \ Guinea\".</p>"]
+  editors: []
+doi: 10.5281/zenodo.1477799
+illustrators: []
+isbns: {digital: 978-3-96110-125-2, hardcover: 978-3-96110-126-9, softcover: ''}
+prefix: A
+proofreaders: [Kilu von Prince, Klara Kim, "Ahmet Bilal \xD6zdemir", Mykel Loren Brinkerhoff,
+  Ludger Paschen, Lachlan Mackenzie, Sune Gregersen, Jeroen van de Weijer, Jeffrey
+    Pheiff, "Jaime  Pe\xF1a", Yvonne Treis, 'Ivica Je?ud', Jingting Ye, Laura Arnold]
+publicationdate: '20181201'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961101264?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961101264?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961101264?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/NbmDFlmC3nxQ'}
+series: sidl
+seriesnumber: '22'
+title: grammar of Komnzo
+typesetters: []

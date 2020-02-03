@@ -1,0 +1,70 @@
+blurb: "This volume presents two works elaborating a general theory of words and their\
+  \ structure written by Ren\xE9 de Saussure, younger brother of Ferdinand de Saussure.\
+  \ Although originating in Ren\xE9 de Saussure's concerns for the structure of Esperanto,\
+  \ these essays are clearly intended to articulate a general account of word formation\
+  \ in natural language. They appear here in the French original with facing English\
+  \ translations, accompanied by some remarks on Ren\xE9 de Saussure's life and followed\
+  \ by essays on the Esperantist background of his analysis (by Marc van Oostendorp),\
+  \ the contemporary relevance of his morphological theory (by Stephen Anderson),\
+  \ and the semantic theory of words underlying his analysis (by Louis de Saussure).\
+  \ These two works have remained essentially unknown to the community of scholars\
+  \ in general linguistics since their publication in 1911 and 1919, respectively,\
+  \ although Esperantists have been aware of them. They develop in quite explicit\
+  \ form a theory of what would later be called morphemic analysis, based primarily\
+  \ on data from French (with some material from German and English, as well as occasional\
+  \ examples from other Indo-European languages). In its fundamental aspect, Ren\xE9\
+  's view of word formation differed significantly from that of his brother, who saw\
+  \ the structure of complex words as revealed not through their decomposition into\
+  \ smaller \"atomic\" units but rather in the relations between words, relations\
+  \ which could be presented in analogical form and which anticipate rule-based theories\
+  \ of morphological structure. The contrast between the two brothers' views thus\
+  \ anticipates basic issues in current theorizing about word structure."
+bookid: 199
+booksubtitle: ''
+chapters: []
+creators:
+  authors: []
+  editors:
+  - [Stephen, R., Anderson, '<p>Stephen Anderson is the Dorothy R. Diebold Professor
+      of Linguistics, Emeritus, since his retirement in 2017. After completing his
+      PhD at MIT in 1969, he taught in the Linguistics Departments at Harvard and
+      UCLA before moving to The Johns Hopkins University in 1988 as a co-founder of
+      one of the first Departments of Cognitive Science. In 1994, he came to Yale
+      as Chair of the Linguistics Department, where he spent the remainder of his
+      career until retirement. His research involves most of the major areas of general
+      linguistics, but focused initially on phonology and later on morphological theory,
+      as well as on the history of the field and the analysis of a variety of languages.
+      Most recently he has worked on the biology of the Language Faculty, including
+      its evolution and the relation between human language and animal communication.
+      Among his books are <em>Phonology in the twentieth century</em> (Chicago, 1983),
+      <em>A-Morphous Morphology</em> (Oxford, 1992) and <em>Doctor Dolittle''s delusion</em>
+      (Yale, 2004). He was President of the Linguistic Society of America in 2007,
+      and is a Fellow of that Society as well as the American Academy of Arts &amp;
+      Sciences and the American Association for the Advancement of Science.</p>']
+  - [Louis, '', de Saussure, "<p>Louis de Saussure is Professor of linguistics at\
+      \ the University of Neuch\xE2tel in Switzerland. After completing a PhD in French\
+      \ linguistics at the University of Geneva, he taught at the Philosophy Department\
+      \ of the University of Texas at Austin and pursued his research at University\
+      \ College London before returning to Switzerland. Other institutions where he\
+      \ has taught include the \xC9cole des Hautes \xC9tudes en Sciences Sociales\
+      \ in Paris, and in Switzerland, the Universities of Lugano, Fribourg and Geneva.\
+      \ His research focuses on the semantics-pragmatics interface and revolves around\
+      \ the topics of tenses, aspect, modality, presupposition accommodation, cognitive\
+      \ biases and persuasion in discourse. More recently, he has turned to emotion\
+      \ in language and the cognitive pragmatics of literature. He was President of\
+      \ the Swiss Society of Linguistics from 2014 to 2017. He co-directs a book series\
+      \ at Oxford University Press on the topic of time in language and thought.</p>"]
+doi: 10.5281/zenodo.1306472
+illustrators: []
+isbns: {digital: 978-3-96110-096-5, hardcover: 978-3-96110-097-2, softcover: ''}
+prefix: ''
+proofreaders: [Martin Haspelmath, Sebastian Nordhoff, Stephen R. Anderson, Louis de
+    Saussure, Jingting Ye]
+publicationdate: '20180719'
+remote_urls: {amazon.co.de: 'https://www.amazon.de/dp/3961100977?tag=wwwlangscipre-21',
+  amazon.co.uk: 'https://www.amazon.co.uk/dp/3961100977?tag=wwwlangscip03-21', amazon.com: 'https://www.amazon.com/dp/3961100977?tag=wwwlangscipre-20',
+  paperhive: 'https://paperhive.org/documents/items/UKROyOiOWjH4'}
+series: classics
+seriesnumber: '6'
+title: "Ren\xE9 de Saussure and the theory of word formation"
+typesetters: []
